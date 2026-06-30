@@ -36,6 +36,6 @@ jobs:
         run: |
           git config user.name "WelayDaily Bot"
           git config user.email "bot@welaydaily.com"
-          git add data/ public/images/ public/sitemap.xml
+          git add data/ docs/images/ docs/sitemap.xml
           git diff --quiet --cached || git commit -m "Auto-publish: $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
