@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title id="page-title">Loading… – WelayDaily</title>
+<meta name="description" id="page-description" content="Latest football news on WelayDaily." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="WelayDaily" />
+<meta property="og:title" id="og-title" content="WelayDaily" />
+<meta property="og:description" id="og-description" content="" />
+<meta property="og:image" id="og-image" content="" />
+<meta name="twitter:card" content="summary_large_image" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,700;1,700&display=swap" rel="stylesheet" />
+<style>
+  :root{--green:#00B050;--green-d:#007A35;--pitch:#0A1A0F;--ink:#0D0D0D;--ash:#1A1A1A;--mid:#2C2C2C;--steel:#555;--mist:#AAA;--white:#F5F5F0;}
+  *,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+  body{background:var(--ink);color:var(--white);font-family:'Inter',sans-serif;font-size:15px;line-height:1.7;}
+  #topbar{background:var(--pitch);border-bottom:1px solid #111;padding:6px 24px;font-size:11px;color:var(--mist);}
+  header{background:var(--pitch);border-bottom:3px solid var(--green);padding:16px 24px;}
+  .logo{font-family:'Bebas Neue',sans-serif;font-size:32px;letter-spacing:.04em;}
+  .logo a{color:inherit;text-decoration:none;}
+  .logo span{color:var(--green);}
+  nav.crumb{max-width:760px;margin:20px auto 0;padding:0 24px;font-size:12px;}
+  nav.crumb a{color:var(--mist);text-decoration:none;}
+  nav.crumb a:hover{color:var(--green);}
+  main{max-width:760px;margin:0 auto;padding:20px 24px 60px;}
+  .league-tag{display:inline-block;font-size:10px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--green);background:rgba(0,176,80,0.1);border:1px solid rgba(0,176,80,0.3);padding:4px 10px;border-radius:3px;margin-bottom:16px;}
+  h1{font-family:'Playfair Display',serif;font-size:clamp(26px,4vw,38px);line-height:1.25;margin-bottom:14px;}
+  .meta{font-size:12px;color:var(--steel);margin-bottom:24px;display:flex;gap:10px;align-items:center;flex-wrap:wrap;}
+  .ai-badge{display:inline-flex;align-items:center;gap:5px;font-size:10px;color:var(--green);background:var(--ash);border:1px solid var(--mid);padding:3px 9px;border-radius:20px;}
+  .featured-img{width:100%;aspect-ratio:16/9;border-radius:6px;overflow:hidden;margin-bottom:28px;background:linear-gradient(135deg,#0A1A0F,#1A3A24);display:flex;align-items:center;justify-content:center;position:relative;}
+  .featured-img img{width:100%;height:100%;object-fit:cover;display:block;}
+  .img-pending-badge{position:absolute;bottom:12px;right:12px;background:rgba(0,0,0,0.65);color:var(--green);font-size:11px;font-weight:700;letter-spacing:.04em;padding:5px 12px;border-radius:20px;border:1px solid rgba(0,176,80,0.4);}
+  .summary{font-size:17px;color:var(--white);font-weight:500;margin-bottom:24px;padding-left:14px;border-left:3px solid var(--green);}
+  .body-text p{color:var(--mist);margin-bottom:18px;font-size:15.5px;}
+  .tags{display:flex;gap:8px;flex-wrap:wrap;margin-top:28px;}
+  .tag-pill{font-size:11px;color:var(--mist);background:var(--ash);border:1px solid var(--mid);padding:4px 12px;border-radius:20px;}
+  .disclosure{margin-top:32px;padding:14px 16px;background:var(--ash);border:1px solid var(--mid);border-left:3px solid var(--green);border-radius:4px;font-size:12px;color:var(--mist);}
+  .disclosure a{color:var(--green);}
+  .related-head{font-family:'Bebas Neue',sans-serif;font-size:20px;letter-spacing:.06em;margin:48px 0 16px;border-top:1px solid var(--mid);padding-top:32px;}
+  .related-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px;}
+  .related-card{background:var(--ash);border:1px solid var(--mid);border-radius:4px;padding:14px;text-decoration:none;display:block;transition:border-color .2s;}
+  .related-card:hover{border-color:var(--green);}
+  .related-card .rel-league{font-size:9px;color:var(--green);text-transform:uppercase;letter-spacing:.1em;margin-bottom:6px;}
+  .related-card h4{font-family:'Playfair Display',serif;font-size:13px;color:var(--white);line-height:1.3;}
+  .not-found{text-align:center;padding:60px 20px;color:var(--mist);}
+  .not-found a{color:var(--green);}
+  footer{text-align:center;padding:32px 24px;color:var(--steel);font-size:11px;border-top:1px solid var(--mid);margin-top:40px;}
+  footer a{color:var(--steel);}
+  @media (max-width:600px){.related-grid{grid-template-columns:1fr;}}
+</style>
+</head>
+<body>
+
+<div id="topbar"><span id="tb-date">—</span></div>
+<header><div class="logo"><a href="index.html">WELAY<span>DAILY</span></a></div></header>
+<nav class="crumb"><a href="index.html">Home</a> <span style="color:var(--steel)">/</span> <a href="index.html#news">News</a></nav>
+
+<main id="article-main">
+  <p style="color:var(--mist);padding:40px 0;">Loading article…</p>
+</main>
+
+<footer>
+  © 2026 WelayDaily.com — <a href="about.html">About</a> · <a href="privacy.html">Privacy Policy</a> · <a href="contact.html">Contact</a>
+</footer>
+
+<script>
+const days=['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+const months=['January','February','March','April','May','June','July','August','September','October','November','December'];
+const now=new Date();
+document.getElementById('tb-date').textContent=`${days[now.getDay()]}, ${months[now.getMonth()]} ${now.getDate()}, ${now.getFullYear()}`;
+
+function timeAgo(iso){
+  if(!iso) return '';
+  const diff=(Date.now()-new Date(iso).getTime())/1000;
+  if(diff<60) return 'just now';
+  if(diff<3600) return Math.floor(diff/60)+'m ago';
+  if(diff<86400) return Math.floor(diff/3600)+'h ago';
+  return Math.floor(diff/86400)+'d ago';
+}
+
+function formatDate(iso){
+  if(!iso) return '';
+  const d = new Date(iso);
+  return `${months[d.getMonth()]} ${d.getDate()}, ${d.getFullYear()}`;
+}
+
+function escapeHtml(str){
+  const div = document.createElement('div');
+  div.textContent = str || '';
+  return div.innerHTML;
+}
+
+async function loadArticle(){
+  const params = new URLSearchParams(window.location.search);
+  const id = params.get('id');
+  const main = document.getElementById('article-main');
+
+  if(!id){
+    main.innerHTML = notFoundHtml();
+    return;
+  }
+
+  try{
+    const res = await fetch('data/articles.json?_=' + Date.now());
+    const data = await res.json();
+    const article = (data.articles || []).find(a => a.id === id);
+
+    if(!article){
+      main.innerHTML = notFoundHtml();
+      return;
+    }
+
+    // Update document head for SEO / social sharing
+    document.getElementById('page-title').textContent = `${article.headline} – WelayDaily`;
+    document.getElementById('page-description').setAttribute('content', article.summary || '');
+    document.getElementById('og-title').setAttribute('content', article.headline);
+    document.getElementById('og-description').setAttribute('content', article.summary || '');
+    if(article.image){
+      document.getElementById('og-image').setAttribute('content', new URL(article.image, window.location.href).href);
+    }
+
+    const bodyParagraphs = (article.body || '')
+      .split('\n\n')
+      .filter(p => p.trim())
+      .map(p => `<p>${escapeHtml(p)}</p>`)
+      .join('');
+
+    const tagsHtml = (article.tags || [])
+      .map(t => `<span class="tag-pill">${escapeHtml(t)}</span>`)
+      .join('');
+
+    main.innerHTML = `
+      <div class="league-tag">${escapeHtml(article.league || 'Football')}</div>
+      <h1>${escapeHtml(article.headline)}</h1>
+      <div class="meta">
+        <span>${formatDate(article.publishedAt)} · ${timeAgo(article.publishedAt)}</span>
+        <span class="ai-badge">✦ AI-assisted, originally written</span>
+      </div>
+      <div class="featured-img">
+        <img src="${article.image || 'images/placeholder.svg'}" alt="${escapeHtml(article.headline)}" onerror="this.onerror=null;this.src='images/placeholder.svg';">
+        ${article.imagePending ? `<span class="img-pending-badge">AI illustration loading — check back soon</span>` : ''}
+      </div>
+      <div class="summary">${escapeHtml(article.summary)}</div>
+      <div class="body-text">${bodyParagraphs}</div>
+      ${tagsHtml ? `<div class="tags">${tagsHtml}</div>` : ''}
+      <div class="disclosure">
+        This article was produced using an AI-assisted editorial process: our system identifies current, publicly reported football news and writes an original summary in its own words. The featured image is an AI-generated illustration, not a photograph. Read more about <a href="about.html">how we work</a>.
+      </div>
+    `;
+
+    renderRelated(data.articles, article);
+  }catch(e){
+    main.innerHTML = `<p style="color:var(--mist);padding:40px 0;">Couldn't load this article right now.</p>`;
+  }
+}
+
+function renderRelated(allArticles, current){
+  const others = allArticles.filter(a => a.id !== current.id).slice(0, 4);
+  if(others.length === 0) return;
+
+  const block = document.createElement('div');
+  block.innerHTML = `<div class="related-head">MORE FROM WELAYDAILY</div>
+    <div class="related-grid">
+      ${others.map(a => `
+        <a class="related-card" href="article.html?id=${encodeURIComponent(a.id)}">
+          <div class="rel-league">${escapeHtml(a.league || 'Football')}</div>
+          <h4>${escapeHtml(a.headline)}</h4>
+        </a>
+      `).join('')}
+    </div>`;
+  document.getElementById('article-main').appendChild(block);
+}
+
+function notFoundHtml(){
+  return `<div class="not-found">
+    <h1 style="font-family:'Bebas Neue',sans-serif;font-size:28px;color:var(--green);margin-bottom:12px;">Article not found</h1>
+    <p>This story may have been removed or the link is incorrect.</p>
+    <p style="margin-top:16px;"><a href="index.html">← Back to WelayDaily home</a></p>
+  </div>`;
+}
+
+loadArticle();
+</script>
+</body>
+</html>
