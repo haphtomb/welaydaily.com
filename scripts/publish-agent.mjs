@@ -8,7 +8,7 @@
  *   1. SCAN    -> Gemini 2.5 Flash + Google Search grounding finds latest soccer news
  *   2. REWRITE -> Gemini paraphrases fully into original wording (copyright-safe)
  *   3. IMAGE   -> Gemini 2.5 Flash Image ("Nano Banana") generates a cartoon illustration
- *   4. PUBLISH -> Article + image saved into /data/articles.json + /public/images/
+ *   4. PUBLISH -> Article + image saved into /data/articles.json + /docs/images/
  *
  * Requires one secret: GEMINI_API_KEY (free, from https://aistudio.google.com/apikey)
  * Everything else (GitHub Actions, GitHub Pages/raw hosting) is free.
@@ -30,7 +30,7 @@ const IMAGE_MODEL = "gemini-2.5-flash-image";
 const API_BASE = "https://generativelanguage.googleapis.com/v1beta/models";
 
 const DATA_DIR = path.join(process.cwd(), "data");
-const IMAGES_DIR = path.join(process.cwd(), "public", "images");
+const IMAGES_DIR = path.join(process.cwd(), "docs", "images");
 const ARTICLES_FILE = path.join(DATA_DIR, "articles.json");
 
 // How many fresh stories to attempt per run. Keep modest to respect free-tier limits.
@@ -277,7 +277,7 @@ async function regenerateSitemap(articles) {
     )
     .join("\n")}\n</urlset>\n`;
 
-  const sitemapPath = path.join(process.cwd(), "public", "sitemap.xml");
+  const sitemapPath = path.join(process.cwd(), "docs", "sitemap.xml");
   await fs.writeFile(sitemapPath, xml);
   console.log(`✓ sitemap.xml updated (${allUrls.length} URLs)`);
 }
