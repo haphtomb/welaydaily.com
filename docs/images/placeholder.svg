@@ -1,0 +1,56 @@
+<svg viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A1A0F"/>
+      <stop offset="100%" stop-color="#163A22"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="55%">
+      <stop offset="0%" stop-color="#00B050" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#00B050" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect width="1280" height="720" fill="url(#glow)"/>
+
+  <!-- faint pitch lines -->
+  <circle cx="640" cy="330" r="170" fill="none" stroke="#ffffff" stroke-opacity="0.06" stroke-width="3"/>
+  <line x1="0" y1="330" x2="1280" y2="330" stroke="#ffffff" stroke-opacity="0.05" stroke-width="2"/>
+  <line x1="640" y1="0" x2="640" y2="660" stroke="#ffffff" stroke-opacity="0.05" stroke-width="2"/>
+
+  <!-- soccer ball icon, simple line art -->
+  <g transform="translate(640,300)">
+    <circle r="64" fill="none" stroke="#00B050" stroke-width="4" stroke-opacity="0.9"/>
+    <polygon points="0,-26 22,-9 13,18 -13,18 -22,-9" fill="none" stroke="#00B050" stroke-width="3" stroke-opacity="0.85"/>
+    <line x1="0" y1="-26" x2="0" y2="-64" stroke="#00B050" stroke-width="3" stroke-opacity="0.5"/>
+    <line x1="22" y1="-9" x2="58" y2="-22" stroke="#00B050" stroke-width="3" stroke-opacity="0.5"/>
+    <line x1="13" y1="18" x2="35" y2="52" stroke="#00B050" stroke-width="3" stroke-opacity="0.5"/>
+    <line x1="-13" y1="18" x2="-35" y2="52" stroke="#00B050" stroke-width="3" stroke-opacity="0.5"/>
+    <line x1="-22" y1="-9" x2="-58" y2="-22" stroke="#00B050" stroke-width="3" stroke-opacity="0.5"/>
+  </g>
+
+  <!-- WELAYDAILY wordmark -->
+  <text x="640" y="450" text-anchor="middle" font-family="'Bebas Neue', sans-serif" font-size="56" letter-spacing="4" fill="#F5F5F0">
+    WELAY<tspan fill="#00B050">DAILY</tspan>
+  </text>
+
+  <!-- loading message -->
+  <g transform="translate(640,500)">
+    <circle cx="-92" cy="0" r="4" fill="#00B050">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite" begin="0s"/>
+    </circle>
+    <circle cx="-78" cy="0" r="4" fill="#00B050">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite" begin="0.2s"/>
+    </circle>
+    <circle cx="-64" cy="0" r="4" fill="#00B050">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite" begin="0.4s"/>
+    </circle>
+    <text x="-40" y="6" font-family="Inter, sans-serif" font-size="15" letter-spacing="2" fill="#AAAAAA" text-transform="uppercase">
+      AI ILLUSTRATION LOADING
+    </text>
+  </g>
+
+  <text x="640" y="540" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" letter-spacing="1.5" fill="#555555">
+    A CUSTOM CARTOON IMAGE WILL APPEAR HERE ON THE NEXT UPDATE
+  </text>
+</svg>
