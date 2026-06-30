@@ -1,6 +1,52 @@
 {
   "articles": [
     {
+      "id": "fernandes-eyed-by-european-giants-as-manchester-united-ponder-star-s-future-5d065e40a431",
+      "headline": "Fernandes Eyed by European Giants as Manchester United Ponder Star's Future",
+      "league": "Champions League",
+      "summary": "Manchester United's captain Bruno Fernandes is reportedly attracting significant transfer interest from clubs across Europe this summer. This renewed speculation comes as the Red Devils prepare for their highly anticipated return to Champions League football.",
+      "body": "Manchester United finds itself at a crucial juncture regarding the future of influential captain Bruno Fernandes, with reports indicating strong transfer interest from several prominent European clubs. The Portuguese midfielder, who enjoyed a stellar season, guiding United to a Premier League title and earning the Football Writers' Association Player of the Year award, is a prime target for teams outside England.\n\nThis isn't the first time Fernandes has been linked with a move away from Old Trafford, as he also garnered considerable attention during the January transfer window. However, his decision to remain proved instrumental, with his exceptional performances playing a pivotal role in Manchester United's successful qualification for the upcoming Champions League campaign after a two-season absence from Europe's elite competition.\n\nAs the summer transfer window progresses, United's hierarchy faces a significant decision on whether to retain their talismanic figure or consider offers for the midfielder. The ongoing interest highlights Fernandes's continued value and the potential challenges for Manchester United in solidifying their squad ahead of their return to top-tier European football.",
+      "tags": [
+        "Bruno Fernandes",
+        "Manchester United",
+        "Transfer News",
+        "Champions League"
+      ],
+      "image": "images/fernandes-eyed-by-european-giants-as-manchester-united-ponder-star-s-future-5d065e40a431.svg",
+      "publishedAt": "2026-06-30T22:16:36.692Z"
+    },
+    {
+      "id": "la-liga-unveils-2026-27-schedule-clasico-dates-and-opening-fixtures-confirmed-77a76561ad50",
+      "headline": "La Liga Unveils 2026/27 Schedule: Clasico Dates and Opening Fixtures Confirmed",
+      "league": "La Liga",
+      "summary": "The Spanish Football Federation has officially released the complete fixture list for the upcoming 2026/27 La Liga season, setting the stage for an exciting campaign. Fans can now mark their calendars for pivotal matchups, including the highly anticipated El Clásico encounters and early season clashes.",
+      "body": "Real Madrid, under the leadership of José Mourinho, will kick off their league journey at home against Real Sociedad at the Santiago Bernabéu on the weekend of August 15-16. Defending champions Barcelona, managed by Hansi Flick, are set to begin their title defense at home against Athletic Bilbao. These opening fixtures provide an intriguing start to what promises to be a competitive season.\n\nThe first El Clásico of the season is scheduled for October 25, when Barcelona will host Real Madrid at Camp Nou for Matchday 10. The return fixture, a potentially decisive clash, will see Real Madrid welcome Barcelona to the Santiago Bernabéu on May 9 during Matchday 35. Additionally, the Madrid derbies between Real Madrid and Atlético Madrid are slated for September 19-20 at the Metropolitano and April 3-4 at the Bernabéu.\n\nThe 2026/27 La Liga season will feature an asymmetric fixture format, meaning the order of matches in the second half of the campaign will not mirror the first. The season is set to commence on August 14 and conclude on May 30, with some initial matches potentially subject to postponement if key players are still involved in the final stages of the World Cup.",
+      "tags": [
+        "La Liga",
+        "Fixture List",
+        "Real Madrid",
+        "Barcelona",
+        "El Clasico"
+      ],
+      "image": "images/la-liga-unveils-2026-27-schedule-clasico-dates-and-opening-fixtures-confirmed-77a76561ad50.svg",
+      "publishedAt": "2026-06-30T22:16:52.689Z"
+    },
+    {
+      "id": "lewandowski-lights-up-mls-chicago-fire-land-global-striking-sensation-27ce36304e40",
+      "headline": "Lewandowski Lights Up MLS: Chicago Fire Land Global Striking Sensation",
+      "league": "MLS",
+      "summary": "Major League Soccer has once again captured global attention with the official confirmation that Robert Lewandowski will join the Chicago Fire, bringing another world-renowned talent to North America. The move sees one of Europe's most prolific goalscorers embark on a new chapter in the vibrant American league.",
+      "body": "The Chicago Fire have made a monumental splash in the transfer market, officially securing the services of legendary striker Robert Lewandowski. This high-profile acquisition marks a significant moment for both the Fire and Major League Soccer, as the Polish international, widely regarded as one of the sport's premier forwards, prepares to bring his clinical finishing and vast experience to the United States.\n\nLewandowski's arrival from European giants FC Barcelona is expected to generate immense excitement among fans and elevate the league's profile even further. His decision to join the Fire underscores MLS's growing appeal as a destination for elite talent, following in the footsteps of other global icons who have chosen to continue their careers stateside.\n\nThis transfer is not merely about a star player; it represents a statement of intent from the Chicago Fire, signaling their ambition to compete at the highest level and attract top-tier talent. Supporters are eagerly anticipating Lewandowski's debut, hopeful that his goalscoring prowess will ignite their campaign and propel the club to new heights.",
+      "tags": [
+        "Chicago Fire",
+        "Robert Lewandowski",
+        "MLS Transfer",
+        "Major Signing"
+      ],
+      "image": "images/lewandowski-lights-up-mls-chicago-fire-land-global-striking-sensation-27ce36304e40.svg",
+      "publishedAt": "2026-06-30T22:17:03.625Z"
+    },
+    {
       "id": "lewandowski-lights-up-mls-with-blockbuster-chicago-fire-move-56b18885a977",
       "headline": "Lewandowski Lights Up MLS with Blockbuster Chicago Fire Move",
       "league": "MLS",
@@ -129,5 +175,5 @@
       "publishedAt": "2026-06-30T18:20:02.062Z"
     }
   ],
-  "lastRun": "2026-06-30T18:52:13.256Z"
+  "lastRun": "2026-06-30T22:17:07.627Z"
 }
