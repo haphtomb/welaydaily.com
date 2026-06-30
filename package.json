@@ -1,0 +1,13 @@
+{
+  "name": "welaydaily",
+  "version": "1.0.0",
+  "description": "WelayDaily.com — free, AI-automated soccer news site using Gemini + football-data.org + GitHub Actions",
+  "type": "module",
+  "scripts": {
+    "publish-news": "node scripts/publish-agent.mjs",
+    "sync-standings": "node scripts/sync-standings.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
