@@ -1,6 +1,57 @@
 {
   "articles": [
     {
+      "id": "grimaldo-seals-atl-tico-madrid-move-returns-to-la-liga-b3ac73c04761",
+      "headline": "Grimaldo Seals Atlético Madrid Move, Returns to La Liga",
+      "league": "Transfer News",
+      "summary": "Spanish international left-back Alejandro Grimaldo has officially completed his transfer to Atlético Madrid, marking a significant return to his home country's top flight. The seasoned defender joins from German champions Bayer Leverkusen, bolstering Diego Simeone's squad ahead of the new season.",
+      "body": "Atlético Madrid has confirmed the signing of highly-rated left-back Alejandro Grimaldo from Bundesliga giants Bayer Leverkusen. The 30-year-old Spanish international puts pen to paper on a contract extending through June 2030, a move that sees him finally play in La Liga's top tier after a distinguished career abroad. Grimaldo, who has 14 caps for Spain and is currently featuring in the World Cup, arrives with a wealth of experience and a reputation for attacking prowess.\n\nThe reported transfer fee for Grimaldo stands at approximately 22 million euros, with potential add-ons that could see it rise to 25 million euros. This acquisition is considered a strategic coup for Atlético, providing a dynamic option on the left flank. Grimaldo was instrumental in Leverkusen's historic 2024 Bundesliga and German Cup double, where he contributed significantly with 30 goals and 45 assists across 145 appearances.\n\nHis journey to the Spanish capital began in Valencia's youth ranks and later Barcelona's academy, before he truly shone at Benfica and then Leverkusen. Now, Grimaldo's return to Spain with Atlético Madrid promises to add both defensive solidity and attacking flair, as the club aims to challenge for major honors.",
+      "tags": [
+        "Atlético Madrid",
+        "Alejandro Grimaldo",
+        "Transfer News",
+        "La Liga"
+      ],
+      "image": "images/placeholder.svg",
+      "imagePending": true,
+      "imagePrompt": "A vibrant editorial cartoon illustration depicting a stylized, generic football player with dark hair, resembling a full-back, wearing a red and white striped Atletico Madrid kit, enthusiastically signing a large contract. In the background, a cartoon stadium with red and white crest colors, and a silhouette of the Madrid skyline. The player is smiling, with a dynamic, celebratory pose, surrounded by subtle motion lines. The style should be bold and colorful, not photorealistic.",
+      "publishedAt": "2026-06-30T17:52:51.513Z"
+    },
+    {
+      "id": "lewandowski-lights-up-mls-chicago-fire-land-global-striking-icon-c1e0ac2d0610",
+      "headline": "Lewandowski Lights Up MLS: Chicago Fire Land Global Striking Icon",
+      "league": "MLS",
+      "summary": "Major League Soccer has officially welcomed another global superstar, with Polish legend Robert Lewandowski completing his highly anticipated move to the Chicago Fire. This blockbuster transfer sees one of Europe's most prolific forwards bring his talents to the American top flight, promising a significant boost for both the club and the league's international profile.",
+      "body": "The Chicago Fire have made a monumental statement in the transfer market, securing the services of iconic striker Robert Lewandowski. The former FC Barcelona and Bayern Munich star, renowned for his incredible goal-scoring prowess, has officially joined the MLS side, marking a new chapter in his illustrious career. This move has sent ripples through the football world, signaling MLS's continued ambition to attract top-tier talent.\n\nLewandowski's arrival is expected to ignite the Fire's attacking line and elevate their standing within the league. His clinical finishing, leadership, and vast experience at the highest levels of European football will be invaluable to the Chicago squad. Fans in Chicago and across the league are eagerly anticipating his debut and the impact he will undoubtedly have on the pitch.\n\nThis signing is not just a win for the Chicago Fire but also for Major League Soccer as a whole, further solidifying its reputation as a destination for global footballing legends. Lewandowski joins a growing list of international stars to grace the league, promising increased viewership and excitement as the 2026 World Cup approaches.",
+      "tags": [
+        "Robert Lewandowski",
+        "Chicago Fire",
+        "MLS Transfer",
+        "Major League Soccer"
+      ],
+      "image": "images/placeholder.svg",
+      "imagePending": true,
+      "imagePrompt": "A vibrant, colorful editorial cartoon illustration depicting Robert Lewandowski, stylized with a determined expression, wearing a Chicago Fire FC jersey with the club's crest visible. He is mid-stride, about to strike a soccer ball, with the iconic Chicago skyline in the background. The scene should convey energy and excitement, with dynamic lines and a celebratory atmosphere, not photorealistic, no recognizable face, generic stylized athlete.",
+      "publishedAt": "2026-06-30T17:53:01.440Z"
+    },
+    {
+      "id": "van-bronckhorst-returns-to-feyenoord-amidst-champions-league-hopes-ff739a45186b",
+      "headline": "Van Bronckhorst Returns to Feyenoord Amidst Champions League Hopes",
+      "league": "Champions League",
+      "summary": "Feyenoord has officially brought back club legend Giovanni van Bronckhorst as head coach, signaling a clear intent to make an impact in the upcoming Champions League campaign. His return ignites optimism among fans, who eagerly anticipate his strategic leadership guiding the team through Europe's elite competition.",
+      "body": "Feyenoord has confirmed the much-anticipated return of Giovanni van Bronckhorst to the helm, with the former player and manager rejoining the club ahead of their next Champions League season. This move, announced on June 29, sees the Dutch giants bringing back a familiar face known for his successful tenure and deep understanding of the club's ethos. The appointment underscores Feyenoord's commitment to building a competitive squad capable of challenging on the European stage.\n\nVan Bronckhorst previously led Feyenoord to significant domestic success, including an Eredivisie title. His track record and connection with the club are expected to be vital as they prepare for the rigors of Champions League football. The club's faithful supporters are hopeful that his tactical acumen and experience will translate into strong performances against Europe's top teams, aiming to advance deep into the tournament.\n\nThis strategic coaching decision comes as teams across Europe begin their preparations for the demanding continental schedule. With the Champions League draw and qualifying rounds on the horizon, Feyenoord's early move to secure van Bronckhorst demonstrates a proactive approach to their European ambitions, setting the stage for an exciting season for the Rotterdam outfit.",
+      "tags": [
+        "Feyenoord",
+        "Champions League",
+        "Giovanni van Bronckhorst",
+        "Managerial Appointment"
+      ],
+      "image": "images/placeholder.svg",
+      "imagePending": true,
+      "imagePrompt": "A vibrant, colorful editorial cartoon illustration depicting Giovanni van Bronckhorst, a generic stylized football manager with dark hair and a determined expression, standing proudly in front of a stylized Feyenoord stadium. He is wearing a club-branded tracksuit, with the Champions League trophy subtly shimmering in the background. The club crest colors (red, white, black) are prominent in the stadium and his attire. The scene should convey a sense of renewed hope and ambition for the upcoming European campaign, not photorealistic, no recognizable faces.",
+      "publishedAt": "2026-06-30T17:53:23.963Z"
+    },
+    {
       "id": "african-nations-achieve-historic-world-cup-knockout-qualification-rate-9a65998b6be8",
       "headline": "African Nations Achieve Historic World Cup Knockout Qualification Rate",
       "league": "World Cup Qualifiers",
@@ -47,5 +98,5 @@
       "publishedAt": "2026-06-30T17:40:02.487Z"
     }
   ],
-  "lastRun": "2026-06-30T17:40:06.487Z"
+  "lastRun": "2026-06-30T17:53:27.964Z"
 }
