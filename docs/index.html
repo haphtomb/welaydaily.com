@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>WelayDaily – World Football, Every Day</title>
+<meta name="description" content="AI-curated soccer news, standings and fixtures. Fully original content, copyright-safe." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,700;1,700&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --green:#00B050; --green-d:#007A35; --pitch:#0A1A0F; --ink:#0D0D0D;
+    --ash:#1A1A1A; --mid:#2C2C2C; --steel:#555; --mist:#AAA; --white:#F5F5F0;
+    --gold:#F5C518; --red:#E3292A;
+    --font-display:'Bebas Neue',sans-serif; --font-serif:'Playfair Display',serif; --font-body:'Inter',sans-serif;
+  }
+  *,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+  html{scroll-behavior:smooth;}
+  body{background:var(--ink);color:var(--white);font-family:var(--font-body);font-size:15px;line-height:1.6;}
+  #topbar{background:var(--pitch);border-bottom:1px solid #111;padding:6px 24px;display:flex;align-items:center;justify-content:space-between;font-size:11px;color:var(--mist);}
+  #topbar a{color:var(--green);text-decoration:none;margin-left:16px;}
+  header{background:var(--pitch);border-bottom:3px solid var(--green);padding:0 24px;}
+  .header-inner{max-width:1280px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;padding:16px 0;}
+  .logo-main{font-family:var(--font-display);font-size:clamp(32px,5vw,52px);letter-spacing:.04em;}
+  .logo-main span{color:var(--green);}
+  .logo-sub{font-size:10px;letter-spacing:.25em;color:var(--mist);text-transform:uppercase;}
+  .live-badge{background:var(--red);color:#fff;font-size:10px;font-weight:700;letter-spacing:.1em;padding:4px 8px;border-radius:3px;animation:pulse 2s infinite;}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.6}}
+  nav{background:var(--ash);border-bottom:1px solid var(--mid);position:sticky;top:0;z-index:100;}
+  .nav-inner{max-width:1280px;margin:0 auto;display:flex;overflow-x:auto;}
+  .nav-inner a{padding:13px 20px;font-size:12px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;text-decoration:none;color:var(--mist);white-space:nowrap;border-bottom:3px solid transparent;}
+  .nav-inner a:hover,.nav-inner a.active{color:var(--green);border-bottom-color:var(--green);}
+  .page{max-width:1280px;margin:0 auto;padding:0 24px;}
+  section{padding:40px 0;border-bottom:1px solid var(--mid);}
+  .section-head{display:flex;align-items:baseline;gap:16px;margin-bottom:28px;flex-wrap:wrap;}
+  .section-head h2{font-family:var(--font-display);font-size:28px;letter-spacing:.06em;}
+  .eyebrow{font-size:10px;font-weight:700;letter-spacing:.2em;color:var(--green);text-transform:uppercase;}
+  .freshness{margin-left:auto;font-size:11px;color:var(--steel);}
+  #articles-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;}
+  .article-card{background:var(--ash);border-radius:4px;overflow:hidden;border:1px solid var(--mid);transition:border-color .2s,transform .2s;display:block;text-decoration:none;color:inherit;}
+  .article-card:hover{border-color:var(--green);transform:translateY(-2px);}
+  .article-art{width:100%;aspect-ratio:16/9;background:linear-gradient(135deg,#0A1A0F,#1A3A24);display:flex;align-items:center;justify-content:center;overflow:hidden;position:relative;}
+  .article-art img{width:100%;height:100%;object-fit:cover;display:block;}
+  .img-pending-badge{position:absolute;bottom:8px;right:8px;background:rgba(0,0,0,0.6);color:var(--green);font-size:9px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:3px 8px;border-radius:20px;border:1px solid rgba(0,176,80,0.4);}
+  .article-body{padding:14px;}
+  .league-tag{font-size:9px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--green);margin-bottom:6px;}
+  .article-body h4{font-family:var(--font-serif);font-size:15px;line-height:1.35;margin-bottom:6px;}
+  .article-body p{font-size:12px;color:var(--mist);line-height:1.55;}
+  .article-meta{font-size:10px;color:var(--steel);margin-top:10px;}
+  .empty-state{color:var(--mist);font-size:13px;grid-column:1/-1;padding:30px 0;text-align:center;background:var(--ash);border-radius:4px;border:1px dashed var(--mid);}
+  .two-col{display:grid;grid-template-columns:2fr 1fr;gap:24px;}
+  .standings-tabs{display:flex;flex-wrap:wrap;margin-bottom:16px;border-bottom:1px solid var(--mid);}
+  .standings-tabs button{padding:10px 16px;font-size:11px;font-weight:600;letter-spacing:.07em;text-transform:uppercase;background:none;border:none;color:var(--mist);border-bottom:2px solid transparent;cursor:pointer;}
+  .standings-tabs button.active{color:var(--green);border-bottom-color:var(--green);}
+  .standings-table{width:100%;border-collapse:collapse;font-size:12px;}
+  .standings-table th{padding:8px 6px;text-align:center;color:var(--steel);font-size:10px;letter-spacing:.08em;text-transform:uppercase;}
+  .standings-table th:first-child,.standings-table td:first-child{text-align:left;padding-left:0;}
+  .standings-table th:nth-child(2),.standings-table td:nth-child(2){text-align:left;}
+  .standings-table td{padding:9px 6px;text-align:center;border-bottom:1px solid #1a1a1a;}
+  .pts{font-weight:700;}
+  .gd-pos{color:var(--green);} .gd-neg{color:var(--red);}
+  .fixture-list{display:flex;flex-direction:column;}
+  .fixture{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;padding:12px 0;border-bottom:1px solid #1a1a1a;gap:8px;}
+  .fx-home{text-align:right;font-size:13px;font-weight:600;}
+  .fx-away{text-align:left;font-size:13px;font-weight:600;}
+  .fx-score{background:var(--ash);border:1px solid var(--mid);border-radius:4px;padding:6px 14px;text-align:center;font-family:var(--font-display);font-size:18px;letter-spacing:.1em;min-width:70px;}
+  .fx-score.live{border-color:var(--red);color:var(--red);}
+  .fx-score.upcoming{font-size:11px;color:var(--mist);font-family:var(--font-body);}
+  .comp-label{font-size:9px;color:var(--steel);letter-spacing:.08em;text-transform:uppercase;text-align:center;margin-top:2px;}
+  footer{background:var(--pitch);border-top:1px solid var(--mid);padding:32px 24px;margin-top:40px;text-align:center;font-size:11px;color:var(--steel);}
+  .footer-logo{font-family:var(--font-display);font-size:32px;color:var(--green);letter-spacing:.06em;margin-bottom:8px;}
+  .status-pill{display:inline-flex;align-items:center;gap:6px;font-size:11px;color:var(--mist);background:var(--ash);border:1px solid var(--mid);padding:4px 10px;border-radius:20px;}
+  .status-dot{width:7px;height:7px;border-radius:50%;background:var(--green);}
+  @media (max-width:900px){.two-col{grid-template-columns:1fr;}#articles-grid{grid-template-columns:1fr 1fr;}}
+  @media (max-width:600px){#articles-grid{grid-template-columns:1fr;}}
+</style>
+</head>
+<body>
+
+<div id="topbar">
+  <span id="tb-date">—</span>
+  <span><a href="#standings">Standings</a><a href="#fixtures">Fixtures</a><a href="#news">News</a></span>
+</div>
+
+<header>
+  <div class="header-inner">
+    <div>
+      <div class="logo-main">WELAY<span>DAILY</span></div>
+      <div class="logo-sub">World Football · Every Day · AI Curated</div>
+    </div>
+    <div class="status-pill"><span class="status-dot"></span><span id="last-updated">Loading status...</span></div>
+  </div>
+</header>
+
+<nav>
+  <div class="nav-inner">
+    <a href="#" class="active">Home</a>
+    <a href="#news">News</a>
+    <a href="#fixtures">Fixtures</a>
+    <a href="#standings">Standings</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+  </div>
+</nav>
+
+<div class="page">
+
+  <section id="news">
+    <div class="section-head">
+      <span class="eyebrow">AI Curated &amp; Rewritten</span>
+      <h2>LATEST NEWS</h2>
+      <span class="freshness" id="news-freshness"></span>
+    </div>
+    <div id="articles-grid">
+      <div class="empty-state">Loading latest stories…</div>
+    </div>
+  </section>
+
+  <section id="fixtures">
+    <div class="two-col">
+      <div>
+        <div class="section-head">
+          <span class="eyebrow">Schedule</span>
+          <h2>FIXTURES &amp; RESULTS</h2>
+        </div>
+        <div class="fixture-list" id="fixture-list">Loading…</div>
+      </div>
+      <div id="standings">
+        <div class="section-head">
+          <span class="eyebrow">Tables</span>
+          <h2>STANDINGS</h2>
+        </div>
+        <div class="standings-tabs" id="standings-tabs"></div>
+        <table class="standings-table" id="standings-table">
+          <thead><tr><th>#</th><th>Club</th><th>P</th><th>W</th><th>D</th><th>L</th><th>GD</th><th>Pts</th></tr></thead>
+          <tbody id="standings-body"></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+</div>
+
+<footer>
+  <div class="footer-logo">WELAYDAILY</div>
+  <p>World Football · Every Day · AI-Powered, Fully Original Content</p>
+  <p style="margin-top:8px;">All articles are AI-rewritten summaries of public news events. All imagery is original, programmatically generated graphics, not photography.</p>
+  <p style="margin-top:8px;">
+    © 2026 WelayDaily.com — <a href="about.html" style="color:var(--steel);">About</a> · <a href="privacy.html" style="color:var(--steel);">Privacy Policy</a> · <a href="contact.html" style="color:var(--steel);">Contact</a>
+  </p>
+</footer>
+
+<script>
+const days=['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+const months=['January','February','March','April','May','June','July','August','September','October','November','December'];
+const now=new Date();
+document.getElementById('tb-date').textContent=`${days[now.getDay()]}, ${months[now.getMonth()]} ${now.getDate()}, ${now.getFullYear()}`;
+
+function timeAgo(iso){
+  if(!iso) return 'never';
+  const diff=(Date.now()-new Date(iso).getTime())/1000;
+  if(diff<60) return 'just now';
+  if(diff<3600) return Math.floor(diff/60)+'m ago';
+  if(diff<86400) return Math.floor(diff/3600)+'h ago';
+  return Math.floor(diff/86400)+'d ago';
+}
+
+// ---- Load articles ----
+async function loadArticles(){
+  const grid=document.getElementById('articles-grid');
+  try{
+    const res=await fetch('data/articles.json?_=' + Date.now());
+    const data=await res.json();
+    document.getElementById('last-updated').textContent =
+      data.lastRun ? `Bot last ran ${timeAgo(data.lastRun)}` : 'Bot not yet run';
+    document.getElementById('news-freshness').textContent =
+      data.lastRun ? `Updated ${timeAgo(data.lastRun)}` : '';
+
+    if(!data.articles || data.articles.length===0){
+      grid.innerHTML = `<div class="empty-state">
+        No articles published yet. The auto-publish bot runs every 3 hours via GitHub Actions —
+        check back soon, or trigger it manually from the Actions tab.
+      </div>`;
+      return;
+    }
+
+    grid.innerHTML='';
+    data.articles.forEach(a=>{
+      const card=document.createElement('a');
+      card.className='article-card';
+      card.href = `article.html?id=${encodeURIComponent(a.id)}`;
+      card.innerHTML=`
+        <div class="article-art">
+          <img src="${a.image || 'images/placeholder.svg'}" alt="${a.headline}" loading="lazy" onerror="this.onerror=null;this.src='images/placeholder.svg';">
+        </div>
+        <div class="article-body">
+          <div class="league-tag">${a.league || 'Football'}</div>
+          <h4>${a.headline}</h4>
+          <p>${a.summary}</p>
+          <div class="article-meta">WelayDaily AI · ${timeAgo(a.publishedAt)} · original content, copyright-safe</div>
+        </div>`;
+      grid.appendChild(card);
+    });
+  }catch(e){
+    grid.innerHTML = `<div class="empty-state">Couldn't load articles right now. (${e.message})</div>`;
+  }
+}
+
+// ---- Load standings + fixtures ----
+let standingsData = null;
+let activeComp = null;
+
+function renderStandings(code){
+  const comp = standingsData.competitions[code];
+  const body = document.getElementById('standings-body');
+  if(!comp || !comp.standings || comp.standings.length===0){
+    body.innerHTML = `<tr><td colspan="8" style="padding:20px 0;color:var(--mist);text-align:center;">No standings data yet for this competition.</td></tr>`;
+    return;
+  }
+  body.innerHTML='';
+  let lastGroup = undefined;
+  comp.standings.forEach(t=>{
+    if(t.group !== lastGroup){
+      lastGroup = t.group;
+      if(t.group){
+        body.innerHTML += `<tr><td colspan="8" style="padding:14px 0 4px;color:var(--green);font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;border-bottom:none;">${t.group}</td></tr>`;
+      }
+    }
+    const gdClass = t.goalDifference>0?'gd-pos':t.goalDifference<0?'gd-neg':'';
+    const gdStr = t.goalDifference>0?`+${t.goalDifference}`:`${t.goalDifference}`;
+    body.innerHTML += `<tr>
+      <td>${t.position}</td><td>${t.team}</td><td>${t.played}</td><td>${t.won}</td>
+      <td>${t.draw}</td><td>${t.lost}</td><td class="${gdClass}">${gdStr}</td><td class="pts">${t.points}</td>
+    </tr>`;
+  });
+}
+
+function renderFixtures(){
+  const list = document.getElementById('fixture-list');
+  let allFixtures = [];
+  Object.entries(standingsData.competitions).forEach(([code, comp])=>{
+    (comp.fixtures||[]).forEach(f => allFixtures.push({...f, compName: comp.name}));
+  });
+  allFixtures.sort((a,b)=> new Date(b.utcDate) - new Date(a.utcDate));
+  allFixtures = allFixtures.slice(0,16);
+
+  if(allFixtures.length===0){
+    list.innerHTML = `<div class="empty-state">No fixture data yet — the standings sync bot hasn't run, or needs a FOOTBALL_DATA_API_KEY secret configured.</div>`;
+    return;
+  }
+
+  list.innerHTML='';
+  allFixtures.forEach(f=>{
+    const isLive = f.status==='IN_PLAY' || f.status==='PAUSED' || f.status==='LIVE';
+    const isFinished = f.status==='FINISHED';
+    let scoreHtml, scoreClass;
+    if(isLive){ scoreHtml = `${f.homeScore ?? 0}–${f.awayScore ?? 0}`; scoreClass='fx-score live'; }
+    else if(isFinished){ scoreHtml = `${f.homeScore ?? 0}–${f.awayScore ?? 0}`; scoreClass='fx-score'; }
+    else { scoreHtml = new Date(f.utcDate).toLocaleString(undefined,{month:'short',day:'numeric',hour:'2-digit',minute:'2-digit'}); scoreClass='fx-score upcoming'; }
+
+    const fx=document.createElement('div');
+    fx.className='fixture';
+    fx.innerHTML = `
+      <div><div class="fx-home">${f.home}</div><div class="comp-label">${f.compName}</div></div>
+      <div class="${scoreClass}">${scoreHtml}</div>
+      <div class="fx-away">${f.away}</div>`;
+    list.appendChild(fx);
+  });
+}
+
+async function loadStandings(){
+  try{
+    const res = await fetch('data/standings.json?_=' + Date.now());
+    standingsData = await res.json();
+    const codes = Object.keys(standingsData.competitions || {});
+
+    const tabsEl = document.getElementById('standings-tabs');
+    if(codes.length===0){
+      tabsEl.innerHTML = '';
+      document.getElementById('standings-body').innerHTML =
+        `<tr><td colspan="8" style="padding:20px 0;color:var(--mist);text-align:center;">
+          No standings data yet. The sync bot runs automatically via GitHub Actions —
+          check back soon, or trigger it manually.
+        </td></tr>`;
+      renderFixtures();
+      return;
+    }
+
+    activeComp = codes[0];
+    tabsEl.innerHTML='';
+    codes.forEach(code=>{
+      const btn=document.createElement('button');
+      btn.textContent = standingsData.competitions[code].name;
+      if(code===activeComp) btn.classList.add('active');
+      btn.onclick=()=>{
+        tabsEl.querySelectorAll('button').forEach(b=>b.classList.remove('active'));
+        btn.classList.add('active');
+        activeComp=code;
+        renderStandings(code);
+      };
+      tabsEl.appendChild(btn);
+    });
+    renderStandings(activeComp);
+    renderFixtures();
+  }catch(e){
+    document.getElementById('fixture-list').innerHTML = `<div class="empty-state">Couldn't load standings/fixtures right now.</div>`;
+  }
+}
+
+loadArticles();
+loadStandings();
+</script>
+</body>
+</html>
