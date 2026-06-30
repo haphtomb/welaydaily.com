@@ -20,4 +20,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
+  <url>
+    <loc>https://www.welaydaily.com/article.html?id=african-nations-achieve-historic-world-cup-knockout-qualification-rate-9a65998b6be8</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.welaydaily.com/article.html?id=lewandowski-lights-up-mls-chicago-fire-land-global-superstar-striker-78d526d26154</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.welaydaily.com/article.html?id=alvarez-pushes-for-barcelona-move-as-transfer-saga-intensifies-dccbc17a8578</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>

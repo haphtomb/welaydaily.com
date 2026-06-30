@@ -1,4 +1,51 @@
 {
-  "articles": [],
-  "lastRun": null
+  "articles": [
+    {
+      "id": "african-nations-achieve-historic-world-cup-knockout-qualification-rate-9a65998b6be8",
+      "headline": "African Nations Achieve Historic World Cup Knockout Qualification Rate",
+      "league": "World Cup Qualifiers",
+      "summary": "African football has reached an unprecedented milestone at the 2026 FIFA World Cup, with a remarkable 90% of its participating nations advancing to the knockout stages. This historic achievement signifies a profound shift in the global football landscape, showcasing the continent's growing prowess on the world stage.",
+      "body": "The 2026 FIFA World Cup has witnessed an extraordinary performance from African teams, as nine out of ten representatives successfully navigated the group stage to reach the Round of 32. This record-breaking qualification rate of 90% for the knockout phase stands in stark contrast to the 2018 tournament, where no African side progressed beyond their initial groups.\n\nConfederation of African Football (CAF) President Patrice Motsepe lauded this success, attributing it to sustained investment in youth development, coaching, professional leagues, and infrastructure across the continent. Nations like Morocco, Ivory Coast, Senegal, Ghana, Egypt, Algeria, DR Congo, Cape Verde, and South Africa all secured their spots, whether as group runners-up or among the best third-placed teams.\n\nThis collective triumph builds upon the precedent set by Morocco's groundbreaking semi-final run in the 2022 World Cup, demonstrating that African teams are no longer considered outsiders but genuine contenders. The impressive qualification for the knockout rounds signals a significant rebalancing of footballing power globally, with African nations now consistently competing at the highest level.",
+      "tags": [
+        "African Football",
+        "World Cup 2026",
+        "CAF",
+        "Knockout Stage"
+      ],
+      "image": "images/african-nations-achieve-historic-world-cup-knockout-qualification-rate-9a65998b6be8.png",
+      "publishedAt": "2026-06-30T17:39:33.444Z"
+    },
+    {
+      "id": "lewandowski-lights-up-mls-chicago-fire-land-global-superstar-striker-78d526d26154",
+      "headline": "Lewandowski Lights Up MLS: Chicago Fire Land Global Superstar Striker",
+      "league": "MLS",
+      "summary": "In a seismic move for Major League Soccer, Polish goal-scoring sensation Robert Lewandowski has officially joined the Chicago Fire, bringing a new level of international acclaim to the league. This blockbuster transfer sees one of Europe's most prolific forwards make the highly anticipated leap across the Atlantic.",
+      "body": "The Chicago Fire have made a definitive statement in the MLS transfer market, securing the services of legendary striker Robert Lewandowski. The official announcement confirms the former Barcelona and Bayern Munich star's arrival, marking a significant moment for both the club and Major League Soccer as a whole. This acquisition instantly elevates the Fire's profile and provides a major boost to their attacking prowess.\n\nLewandowski arrives in Chicago with an incredible pedigree, having consistently been one of the world's top goalscorers for over a decade. His remarkable career includes numerous league titles, Champions League glory, and countless individual accolades. Fans across the league will be eager to see the prolific Pole bring his clinical finishing and veteran leadership to the American top flight.\n\nThis high-profile signing underscores MLS's continued ambition to attract elite talent and grow its global standing. For the Chicago Fire, securing a player of Lewandowski's caliber signals a clear intent to compete at the highest level and captivate a wider audience. His presence is expected to generate immense excitement and draw new eyes to matches at Soldier Field.",
+      "tags": [
+        "MLS",
+        "Chicago Fire",
+        "Robert Lewandowski",
+        "Transfer News"
+      ],
+      "image": "images/lewandowski-lights-up-mls-chicago-fire-land-global-superstar-striker-78d526d26154.png",
+      "publishedAt": "2026-06-30T17:39:44.648Z"
+    },
+    {
+      "id": "alvarez-pushes-for-barcelona-move-as-transfer-saga-intensifies-dccbc17a8578",
+      "headline": "Alvarez Pushes for Barcelona Move as Transfer Saga Intensifies",
+      "league": "La Liga",
+      "summary": "Julian Alvarez has publicly expressed his desire to leave Atletico Madrid, with reports indicating his strong preference for a move to FC Barcelona. This development has fueled an already complex transfer negotiation between the two La Liga giants.",
+      "body": "The highly sought-after forward, Julian Alvarez, has reportedly signaled his intention to depart Atletico Madrid, making his aspirations to join Barcelona clear. This comes as the Catalan club actively seeks a replacement for Robert Lewandowski, who recently completed a transfer to MLS side Chicago Fire. Barcelona views Alvarez as a primary target to bolster their attacking options for the upcoming season.\n\nDespite Barcelona's initial verbal offer of €100 million being rejected by Atletico, who maintain Alvarez's hefty €500 million release clause, the Blaugrana remain undeterred. Even a significant €150 million bid from Real Madrid was turned down, highlighting Atletico's firm stance. However, Alvarez's public comments have reportedly caused discontent within his current club.\n\nBarcelona is now reportedly preparing an improved bid, potentially reaching between €130 million and €150 million, in their determined pursuit of the Argentine international. The ongoing saga promises a compelling transfer battle as Barcelona aims to secure their preferred attacking reinforcement, while Atletico Madrid grapples with their player's desire for a new challenge.",
+      "tags": [
+        "La Liga",
+        "Transfer News",
+        "Barcelona",
+        "Atletico Madrid",
+        "Julian Alvarez"
+      ],
+      "image": "images/alvarez-pushes-for-barcelona-move-as-transfer-saga-intensifies-dccbc17a8578.png",
+      "publishedAt": "2026-06-30T17:40:02.487Z"
+    }
+  ],
+  "lastRun": "2026-06-30T17:40:06.487Z"
 }
