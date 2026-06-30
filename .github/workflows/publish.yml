@@ -1,0 +1,41 @@
+name: WelayDaily Auto-Publish
+
+# Runs automatically every 3 hours, plus you can trigger it manually
+# from the GitHub Actions tab ("Run workflow" button).
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # every 3 hours, UTC
+  workflow_dispatch: {}      # manual trigger button
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Sync standings & fixtures
+        env:
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+        run: node scripts/sync-standings.mjs
+
+      - name: Run news + image publishing agent
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node scripts/publish-agent.mjs
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "WelayDaily Bot"
+          git config user.email "bot@welaydaily.com"
+          git add data/ public/images/ public/sitemap.xml
+          git diff --quiet --cached || git commit -m "Auto-publish: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
