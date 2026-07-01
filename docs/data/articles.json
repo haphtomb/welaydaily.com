@@ -1,6 +1,52 @@
 {
   "articles": [
     {
+      "id": "spurs-secure-mateus-fernandes-in-major-85m-deal-dc80915a084c",
+      "headline": "Spurs Secure Mateus Fernandes in Major £85m Deal",
+      "league": "Transfer News",
+      "summary": "Tottenham Hotspur have successfully concluded a significant transfer agreement, bringing West Ham United's highly-rated midfielder Mateus Fernandes to North London. This substantial acquisition sees Spurs outmanoeuvre rivals Manchester United for one of the Premier League's most sought-after young talents.",
+      "body": "Tottenham Hotspur has reportedly reached an agreement to sign Mateus Fernandes from West Ham United in a deal valued at a staggering £85 million. The move represents a decisive step by the North London club to bolster their midfield with a player who has drawn considerable attention across the league. Fernandes is expected to undergo a medical examination imminently, paving the way for his official unveiling.\n\nThe pursuit of Fernandes developed into a high-stakes battle, with Manchester United also keen on securing his services. However, it appears Tottenham's swift action and willingness to meet West Ham's valuation proved instrumental in sealing the transfer. This outcome will undoubtedly be a blow to the Old Trafford club, who had been closely linked with the midfielder for some time.\n\nThis colossal investment underscores Tottenham's ambition to compete at the highest level and strengthen their squad with top-tier talent. Fernandes' arrival is anticipated to provide a significant boost to the team's midfield options, offering creativity and dynamism as they prepare for the upcoming season.",
+      "tags": [
+        "Tottenham Hotspur",
+        "Mateus Fernandes",
+        "Premier League",
+        "Transfer Rumours"
+      ],
+      "image": "images/spurs-secure-mateus-fernandes-in-major-85m-deal-dc80915a084c.svg",
+      "publishedAt": "2026-07-01T14:36:46.769Z"
+    },
+    {
+      "id": "lewandowski-lights-up-mls-chicago-fire-secures-star-striker-22bd9a8d541a",
+      "headline": "Lewandowski Lights Up MLS: Chicago Fire Secures Star Striker",
+      "league": "MLS",
+      "summary": "Chicago Fire has made a significant splash in Major League Soccer, officially announcing the acquisition of prolific Polish forward Robert Lewandowski. This high-profile transfer brings another global football icon to the North American league, signaling the Fire's ambitious intentions.",
+      "body": "The Chicago Fire have officially welcomed Robert Lewandowski to their ranks, a move that immediately elevates the club's profile and attacking prowess. The former FC Barcelona and Bayern Munich sensation is set to embark on a new chapter in his illustrious career, joining MLS as one of its latest marquee signings. This transfer has generated considerable excitement among fans and pundits alike, who anticipate the Polish international will bring his renowned goal-scoring ability to the heart of the Fire's offense.\n\nLewandowski's arrival follows a trend of world-class talents choosing Major League Soccer, further enhancing the league's global appeal and competitive landscape. His decision to move to Chicago represents a major coup for the Fire, providing them with an established leader and proven finisher. The club's supporters are eagerly awaiting his debut, hoping his presence will spark a resurgence and propel the team towards playoff contention.\n\nThe transfer details, while not fully disclosed, confirm Lewandowski's commitment to the Chicago Fire. His signing is expected to have a transformative impact both on and off the pitch, drawing new eyes to the league and inspiring a new generation of players. This move positions the Fire as a formidable force in the Eastern Conference, with expectations now significantly heightened for the remainder of the 2026 season.",
+      "tags": [
+        "Chicago Fire",
+        "Robert Lewandowski",
+        "MLS Transfer",
+        "Major League Soccer"
+      ],
+      "image": "images/lewandowski-lights-up-mls-chicago-fire-secures-star-striker-22bd9a8d541a.svg",
+      "publishedAt": "2026-07-01T14:37:03.571Z"
+    },
+    {
+      "id": "psg-cashes-in-ramos-joins-ac-milan-in-staggering-75-million-deal-fc822cf990da",
+      "headline": "PSG Cashes In: Ramos Joins AC Milan in Staggering €75 Million Deal",
+      "league": "Transfer News",
+      "summary": "Reigning Champions League holders Paris Saint-Germain have offloaded striker Goncalo Ramos to AC Milan in a massive €75 million transfer. This surprising move sees the Portuguese international depart Paris after struggling to secure a regular starting spot.",
+      "body": "AC Milan has secured the services of Portuguese forward Goncalo Ramos from Paris Saint-Germain in a deal reportedly worth an astounding €75 million. The transfer, finalised on the eve of the new month, sees the 25-year-old make a significant switch to Serie A, where he is expected to play a crucial role under new Milan manager Ruben Amorim. Ramos's departure comes after a season where he found regular minutes hard to come by with the French giants, who recently clinched their second consecutive Champions League title.\n\nDespite the hefty price tag, questions linger over Ramos's impact in Paris, where he was largely a reserve option. PSG's tactical shift, often employing Ousmane Dembele in a 'false nine' role, limited the striker's opportunities. This move represents a substantial financial gain for the Parisians, who will undoubtedly be pleased with the fee received for a player who didn't consistently feature in their starting eleven.\n\nFor AC Milan, the acquisition signals a clear intent to bolster their attacking options as they aim for domestic and European success. Ramos will be keen to prove his worth as a primary goal-scorer, a role he struggled to consistently command at the Parc des Princes. His arrival in Italy will be closely watched as the Rossoneri look to integrate their new, high-profile signing.",
+      "tags": [
+        "Goncalo Ramos",
+        "PSG",
+        "AC Milan",
+        "Transfer News",
+        "Champions League"
+      ],
+      "image": "images/psg-cashes-in-ramos-joins-ac-milan-in-staggering-75-million-deal-fc822cf990da.svg",
+      "publishedAt": "2026-07-01T14:37:18.623Z"
+    },
+    {
       "id": "lewandowski-makes-shock-mls-switch-joins-chicago-fire-1a819c4db5a5",
       "headline": "Lewandowski Makes Shock MLS Switch, Joins Chicago Fire",
       "league": "MLS",
@@ -236,5 +282,5 @@
       "publishedAt": "2026-06-30T18:20:02.062Z"
     }
   ],
-  "lastRun": "2026-07-01T09:48:20.429Z"
+  "lastRun": "2026-07-01T14:37:22.626Z"
 }
