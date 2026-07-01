@@ -30,6 +30,10 @@ if (!GEMINI_API_KEY) {
 const TEXT_MODEL = "gemini-2.5-flash";
 const API_BASE = "https://generativelanguage.googleapis.com/v1beta/models";
 
+const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
+// Note: OPENAI_API_KEY is optional — if absent the bot falls back to SVG graphics.
+// Set it as a GitHub secret named OPENAI_API_KEY to enable real AI cartoon images.
+
 const DATA_DIR = path.join(process.cwd(), "docs", "data");
 const IMAGES_DIR = path.join(process.cwd(), "docs", "images");
 const ARTICLES_FILE = path.join(DATA_DIR, "articles.json");
@@ -101,6 +105,7 @@ Respond ONLY with valid JSON (no markdown fences, no commentary) in this exact s
   "league": "One of: Premier League, La Liga, Champions League, Bundesliga, Serie A, Ligue 1, MLS, CAF Champions League, AFCON, World Cup Qualifiers, Transfer News, Other",
   "summary": "Two-sentence engaging summary, fully original wording",
   "body": "Three short paragraphs separated by \\n\\n, ~150 words total, fully original wording",
+  "scene_description": "A vivid 30-50 word description of a cartoon illustration scene depicting this story. Describe the ACTION and SETTING specifically (e.g. 'a striker in red and white kit celebrating a goal in a packed stadium under floodlights, arms raised, crowd cheering'). Never mention real player names or club logos. Generic stylized cartoon athletes only.",
   "tags": ["2-4 short topical tags"]
 }`;
 
@@ -209,9 +214,62 @@ function buildArticleSvg(headline, league) {
 }
 
 async function generateCartoonImage(article, outFilePath) {
+  // Try OpenAI gpt-image-1-mini first — real AI cartoon scene per story.
+  // Falls back to branded SVG graphic instantly if OpenAI is unavailable/quota hit.
+  if (OPENAI_API_KEY) {
+    try {
+      const sceneDesc = article.scene_description || article.summary || article.headline;
+
+      // Build a strong cartoon-style prompt that avoids copyright risk:
+      // - No real names, no real faces, no real club crests/logos
+      // - Explicitly cartoon/illustrated style (not photorealistic)
+      // - Describes the actual story's action/setting
+      const imagePrompt = `Editorial cartoon illustration for a football news article. ` +
+        `Flat-color comic book style, bold outlines, vivid colors, dynamic composition. ` +
+        `Scene: ${sceneDesc}. ` +
+        `IMPORTANT: completely stylized cartoon artwork — no photorealism, no real recognizable faces, ` +
+        `no real club logos or crests, generic cartoon athlete figures only. ` +
+        `Wide 16:9 landscape format, energetic sports-poster feel.`;
+
+      const res = await fetch("https://api.openai.com/v1/images/generations", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          "Authorization": `Bearer ${OPENAI_API_KEY}`,
+        },
+        body: JSON.stringify({
+          model: "gpt-image-1",
+          prompt: imagePrompt,
+          n: 1,
+          size: "1536x1024",   // landscape, closest to 16:9
+          quality: "low",      // $0.011/image at low quality — cheapest option
+        }),
+      });
+
+      if (!res.ok) {
+        const errText = await res.text();
+        throw new Error(`OpenAI image API error (${res.status}): ${errText.slice(0, 300)}`);
+      }
+
+      const data = await res.json();
+      const b64 = data?.data?.[0]?.b64_json;
+      if (!b64) throw new Error("No image data in OpenAI response");
+
+      // Save as PNG — change file extension accordingly
+      const pngPath = outFilePath.replace(/\.svg$/, ".png");
+      await fs.writeFile(pngPath, Buffer.from(b64, "base64"));
+      console.log(`  ✓ AI cartoon image generated via OpenAI`);
+      return pngPath; // caller uses this to determine the final filename
+    } catch (err) {
+      console.warn(`  ⚠ OpenAI image failed, using SVG fallback: ${err.message}`);
+    }
+  }
+
+  // SVG fallback — always works, zero cost, league-themed branded graphic
   const svg = buildArticleSvg(article.headline, article.league);
   await fs.writeFile(outFilePath, svg, "utf-8");
-  return true;
+  console.log(`  ✓ SVG fallback graphic generated`);
+  return outFilePath;
 }
 
 // ---------------------------------------------------------------
@@ -246,13 +304,13 @@ async function main() {
       }
 
       const id = `${slugify(article.headline)}-${hashOf(article.headline + Date.now())}`;
-      const imageFile = `${id}.svg`;
-      const imagePath = path.join(IMAGES_DIR, imageFile);
+      const svgPath = path.join(IMAGES_DIR, `${id}.svg`); // default; OpenAI returns PNG
 
       console.log(`  ✓ Article written: "${article.headline}"`);
+      console.log(`  → Generating cartoon image...`);
 
-      await generateCartoonImage(article, imagePath);
-      console.log(`  ✓ Cartoon graphic generated: ${imageFile}`);
+      const savedPath = await generateCartoonImage(article, svgPath);
+      const imageFilename = path.basename(savedPath); // e.g. "slug-abc.png" or "slug-abc.svg"
 
       newArticles.push({
         id,
@@ -261,7 +319,7 @@ async function main() {
         summary: article.summary,
         body: article.body,
         tags: article.tags || [],
-        image: `images/${imageFile}`,
+        image: `images/${imageFilename}`,
         publishedAt: new Date().toISOString(),
       });
 
