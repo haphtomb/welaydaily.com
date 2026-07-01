@@ -1,6 +1,52 @@
 {
   "articles": [
     {
+      "id": "lewandowski-makes-shock-mls-switch-joins-chicago-fire-1a819c4db5a5",
+      "headline": "Lewandowski Makes Shock MLS Switch, Joins Chicago Fire",
+      "league": "MLS",
+      "summary": "Polish football icon Robert Lewandowski has officially signed with Chicago Fire FC, marking a significant moment for Major League Soccer. The prolific striker's arrival is set to boost the Fire's ambitions and further elevate the league's global profile.",
+      "body": "In a stunning development for Major League Soccer, Chicago Fire FC has confirmed the acquisition of legendary Polish forward Robert Lewandowski. The former Barcelona star finalized a two-year agreement with the Fire on Monday, bringing one of the sport's most decorated goal-scorers to the American top flight. This high-profile transfer underscores the growing appeal of MLS to international talent.\n\nLewandowski, celebrated for his remarkable scoring record across Europe, joins a Chicago Fire side currently positioned third in the Eastern Conference standings, having accumulated 26 points from 14 matches before the World Cup break. His integration into the squad is expected to significantly bolster their attacking prowess, with a potential debut anticipated on July 16 against Vancouver. The Fire's management expressed their commitment to building a championship-contending team, seeing Lewandowski as a pivotal figure in that vision.\n\nThe move not only ignites excitement among Chicago Fire supporters but also sends a clear message about MLS's ambition to attract world-class players. Lewandowski, who will turn 38 in August, departs European football after a distinguished career, including multiple La Liga titles with Barcelona. His presence is poised to draw considerable attention to the league and its ongoing development.",
+      "tags": [
+        "Robert Lewandowski",
+        "Chicago Fire",
+        "MLS Transfer",
+        "Soccer News"
+      ],
+      "image": "images/lewandowski-makes-shock-mls-switch-joins-chicago-fire-1a819c4db5a5.svg",
+      "publishedAt": "2026-07-01T09:47:48.710Z"
+    },
+    {
+      "id": "alvarez-s-barcelona-dream-intensifies-as-atletico-madrid-fumes-17b7b9b1cb4f",
+      "headline": "Alvarez's Barcelona Dream Intensifies as Atletico Madrid Fumes",
+      "league": "La Liga",
+      "summary": "Julian Alvarez has publicly expressed a strong desire to join Barcelona, creating a significant transfer saga that has reportedly angered his current club, Atletico Madrid. The Argentine forward's clear preference for the Catalan giants is pushing them to prepare a substantial new offer.",
+      "body": "The summer transfer window is heating up in La Liga, with Julian Alvarez at the centre of a dramatic pursuit involving Barcelona. Reports indicate that the prolific Argentine striker has openly communicated his ambition to move to Camp Nou, reportedly turning down approaches from other European powerhouses like Paris Saint-Germain and Arsenal to focus solely on a switch to the Catalan capital. His current club, Atletico Madrid, is understandably frustrated by the public nature of his desire to depart for a direct league rival.\n\nBarcelona's interest in Alvarez is well-documented, with manager Hansi Flick reportedly viewing him as an ideal successor to the recently departed Robert Lewandowski, who has joined Chicago Fire. The Blaugrana are reportedly preparing a significant bid, potentially reaching up to €130 million, with additional performance-related bonuses, as they aim to secure their primary attacking target. This renewed push comes as Barcelona enjoys increased financial flexibility under the 1:1 rule.\n\nThis high-stakes transfer saga is expected to continue unfolding, with Atletico Madrid reportedly considering legal action over Barcelona's persistent pursuit of their star player. Alvarez's bold declaration has put immense pressure on all parties involved, setting the stage for a potentially record-breaking transfer that could reshape the attacking landscape for both Barcelona and La Liga.",
+      "tags": [
+        "Julian Alvarez",
+        "Barcelona",
+        "Atletico Madrid",
+        "Transfer News",
+        "La Liga"
+      ],
+      "image": "images/alvarez-s-barcelona-dream-intensifies-as-atletico-madrid-fumes-17b7b9b1cb4f.svg",
+      "publishedAt": "2026-07-01T09:48:06.111Z"
+    },
+    {
+      "id": "caf-rejects-afcon-expansion-bid-tournament-retains-24-team-format-9844a0993269",
+      "headline": "CAF Rejects AFCON Expansion Bid, Tournament Retains 24-Team Format",
+      "league": "AFCON",
+      "summary": "The Confederation of African Football's executive committee has voted against a proposal to enlarge the Africa Cup of Nations, ensuring the tournament will maintain its current 24-team structure. This decision puts an end to discussions about expanding the continent's premier football competition for future editions.",
+      "body": "The Africa Cup of Nations will continue with its established 24-team format, following a recent decision by the Confederation of African Football (CAF) Executive Committee. A proposal to expand the tournament to 28 participating nations, championed by CAF President Patrice Motsepe, failed to gain approval from the committee members. This means the highly anticipated 2027 edition, co-hosted by Kenya, Uganda, and Tanzania, will proceed under the existing structure.\n\nThe proposed expansion would have seen an increase in teams starting from the 2028 tournament. However, reports indicate that the executive committee members cast their votes against the change, with some suggesting a lack of sufficient sporting or organizational justification for such a move, and even a perceived absence of prior consultation. The current 24-team setup, which was implemented in 2019, will therefore remain in place for the foreseeable future.\n\nThis outcome ensures continuity for African football's flagship event, preserving the format that has been successful in recent years. While discussions continue regarding the overall improvement of African football competitions, the immediate future of the Africa Cup of Nations will see it retain its well-known structure, focusing on competitive balance and logistical manageability for host nations.",
+      "tags": [
+        "CAF",
+        "AFCON",
+        "Patrice Motsepe",
+        "Tournament Format"
+      ],
+      "image": "images/caf-rejects-afcon-expansion-bid-tournament-retains-24-team-format-9844a0993269.svg",
+      "publishedAt": "2026-07-01T09:48:16.428Z"
+    },
+    {
       "id": "lewandowski-lights-up-mls-chicago-fire-land-global-scoring-sensation-d7f458d9e5ba",
       "headline": "Lewandowski Lights Up MLS: Chicago Fire Land Global Scoring Sensation",
       "league": "MLS",
@@ -190,5 +236,5 @@
       "publishedAt": "2026-06-30T18:20:02.062Z"
     }
   ],
-  "lastRun": "2026-07-01T03:55:01.758Z"
+  "lastRun": "2026-07-01T09:48:20.429Z"
 }
