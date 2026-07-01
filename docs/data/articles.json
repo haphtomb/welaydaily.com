@@ -1,6 +1,37 @@
 {
   "articles": [
     {
+      "id": "mexico-ends-knockout-stage-drought-advances-in-thrilling-world-cup-clash-88abf0294498",
+      "headline": "Mexico Ends Knockout Stage Drought, Advances in Thrilling World Cup Clash",
+      "league": "World Cup Qualifiers",
+      "summary": "Co-hosts Mexico secured a significant 2-0 victory over Ecuador in the World Cup Round of 32, triumphing in front of a fervent home crowd. This historic win marks their first knockout stage progression in four decades, breaking a long-standing tournament hex.",
+      "body": "Mexico delivered a memorable performance against Ecuador, clinching a decisive 2-0 win in the Round of 32 at the iconic Estadio Azteca. The victory was particularly poignant for El Tri, as it ended a 40-year wait for a knockout stage triumph, dispelling the infamous 'fifth match curse' that had haunted the team. The co-hosts have also maintained an impeccable defensive record throughout the tournament, remarkably yet to concede a single goal.\n\nElsewhere in the thrilling Round of 32 action, football giants continued their campaigns. Tournament favorites France comfortably defeated Sweden 3-0, with star forward Kylian Mbappé netting two goals to propel his team forward. Meanwhile, Norway advanced past Côte d'Ivoire with a 2-1 scoreline, highlighted by Erling Haaland's 85th-minute strike that saw him become the fastest player to reach 60 international goals.\n\nThe knockout stages have already produced dramatic upsets and memorable moments. Paraguay delivered a shock by eliminating Germany after a 1-1 draw led to a 4-3 penalty shootout victory. Brazil also secured their spot in the next round with a late comeback against Japan, as Gabriel Martinelli scored a crucial 95th-minute winner in their 2-1 triumph.",
+      "tags": [
+        "World Cup 2026",
+        "Mexico",
+        "Ecuador",
+        "Knockout Stage",
+        "Football"
+      ],
+      "image": "images/mexico-ends-knockout-stage-drought-advances-in-thrilling-world-cup-clash-88abf0294498.png",
+      "publishedAt": "2026-07-01T17:29:45.641Z"
+    },
+    {
+      "id": "chicago-fire-secures-global-goal-scoring-icon-robert-lewandowski-b3784ebe3866",
+      "headline": "Chicago Fire Secures Global Goal-Scoring Icon Robert Lewandowski",
+      "league": "MLS",
+      "summary": "Major League Soccer has landed another footballing titan with the official confirmation that Robert Lewandowski will join the Chicago Fire, electrifying the league's landscape. This monumental transfer is expected to significantly boost both the Fire's on-field prospects and the league's global profile.",
+      "body": "The Chicago Fire have officially announced the acquisition of legendary striker Robert Lewandowski, bringing a world-renowned talent to Major League Soccer. This move marks a significant coup for the Illinois club, injecting a new level of star power and goal-scoring prowess into their roster. The signing has generated considerable excitement among supporters and across the league, signaling a clear intent from the Fire to compete at the highest level.\n\nLewandowski arrives in Chicago following an illustrious career in Europe, where he established himself as one of the most prolific forwards of his generation. His time at clubs like Bayern Munich and FC Barcelona saw him consistently shatter scoring records and secure numerous domestic and international accolades. His clinical finishing and relentless work rate have made him a formidable presence in any attack, and fans eagerly anticipate his impact on the MLS stage.\n\nThe Polish international's arrival is not only a boost for the Chicago Fire but also a testament to the growing appeal of MLS as a destination for top-tier global talent. His presence promises to draw new eyes to the league, both domestically and internationally, further elevating the standard and excitement of North American soccer. Supporters are already speculating about his potential debut and the new era he ushers in for the Fire.",
+      "tags": [
+        "MLS Transfers",
+        "Chicago Fire",
+        "Robert Lewandowski",
+        "Soccer News"
+      ],
+      "image": "images/chicago-fire-secures-global-goal-scoring-icon-robert-lewandowski-b3784ebe3866.png",
+      "publishedAt": "2026-07-01T17:30:09.175Z"
+    },
+    {
       "id": "thun-faces-uphill-battle-as-star-midfielder-departs-ahead-of-champions-league-qu-f74f16794d72",
       "headline": "Thun Faces Uphill Battle as Star Midfielder Departs Ahead of Champions League Qualifiers",
       "league": "Champions League",
@@ -403,5 +434,5 @@
       "publishedAt": "2026-06-30T18:20:02.062Z"
     }
   ],
-  "lastRun": "2026-07-01T17:15:29.008Z"
+  "lastRun": "2026-07-01T17:30:13.418Z"
 }
