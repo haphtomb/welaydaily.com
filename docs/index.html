@@ -17,8 +17,23 @@
   *,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
   html{scroll-behavior:smooth;}
   body{background:var(--ink);color:var(--white);font-family:var(--font-body);font-size:15px;line-height:1.6;}
-  #topbar{background:var(--pitch);border-bottom:1px solid #111;padding:6px 24px;display:flex;align-items:center;justify-content:space-between;font-size:11px;color:var(--mist);}
-  #topbar a{color:var(--green);text-decoration:none;margin-left:16px;}
+  /* WC SCORES TICKER BAR */
+  #wc-ticker-bar{background:#0D1B0D;border-bottom:2px solid var(--green);padding:0;overflow:hidden;position:sticky;top:0;z-index:200;}
+  .wc-ticker-inner{display:flex;align-items:stretch;height:42px;}
+  .wc-ticker-label{background:var(--green);color:#fff;font-size:10px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;padding:0 16px;display:flex;align-items:center;gap:6px;white-space:nowrap;flex-shrink:0;}
+  .wc-ticker-label .pulse{width:6px;height:6px;border-radius:50%;background:#fff;animation:pulse 1.5s infinite;}
+  .wc-ticker-scroll{display:flex;align-items:center;overflow-x:auto;scrollbar-width:none;-ms-overflow-style:none;flex:1;}
+  .wc-ticker-scroll::-webkit-scrollbar{display:none;}
+  .wc-ticker-matches{display:flex;align-items:center;gap:0;white-space:nowrap;}
+  .wc-ticker-match{display:flex;align-items:center;gap:8px;padding:0 20px;border-right:1px solid rgba(255,255,255,0.08);height:42px;cursor:default;}
+  .wc-ticker-match:hover{background:rgba(255,255,255,0.04);}
+  .wc-ticker-teams{display:flex;flex-direction:column;gap:2px;}
+  .wc-ticker-team{font-size:11px;font-weight:600;color:var(--white);letter-spacing:.02em;}
+  .wc-ticker-scores{display:flex;flex-direction:column;gap:2px;text-align:center;}
+  .wc-ticker-score{font-size:11px;font-weight:700;color:var(--white);min-width:16px;}
+  .wc-ticker-status{font-size:9px;color:var(--steel);letter-spacing:.06em;text-transform:uppercase;text-align:center;margin-top:1px;}
+  .wc-ticker-status.live{color:var(--red);}
+  .wc-ticker-loading{font-size:11px;color:var(--steel);padding:0 20px;display:flex;align-items:center;}
   header{background:var(--pitch);border-bottom:3px solid var(--green);padding:0 24px;}
   .header-inner{max-width:1280px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;padding:16px 0;}
   .logo-main{font-family:var(--font-display);font-size:clamp(32px,5vw,52px);letter-spacing:.04em;}
@@ -104,18 +119,30 @@
 </head>
 <body>
 
-<div id="topbar">
-  <span id="tb-date">—</span>
-  <span><a href="#standings">Standings</a><a href="#fixtures">Fixtures</a><a href="#news">News</a></span>
+<!-- WORLD CUP SCORES TICKER (kickxoff-style, sticky top) -->
+<div id="wc-ticker-bar">
+  <div class="wc-ticker-inner">
+    <div class="wc-ticker-label">
+      <span class="pulse"></span>
+      WORLD CUP
+    </div>
+    <div class="wc-ticker-scroll">
+      <div class="wc-ticker-matches" id="wc-ticker-matches">
+        <div class="wc-ticker-loading">Loading scores…</div>
+      </div>
+    </div>
+  </div>
 </div>
 
 <header>
   <div class="header-inner">
     <div>
       <div class="logo-main">WELAY<span>DAILY</span></div>
-      <div class="logo-sub">World Football · Every Day · AI Curated</div>
+      <div class="logo-sub">World Football · Every Day</div>
     </div>
-    <div class="status-pill"><span class="status-dot"></span><span id="last-updated">Loading status...</span></div>
+    <div style="display:flex;align-items:center;gap:10px;">
+      <div class="status-pill"><span class="status-dot"></span><span id="last-updated">Loading…</span></div>
+    </div>
   </div>
 </header>
 
@@ -135,9 +162,7 @@
 
   <section id="news">
     <div class="section-head">
-      <span class="eyebrow">AI Curated &amp; Rewritten</span>
       <h2>LATEST NEWS</h2>
-      <span class="freshness" id="news-freshness"></span>
     </div>
     <div id="articles-grid">
       <div class="empty-state">Loading latest stories…</div>
@@ -147,7 +172,6 @@
   <!-- WORLD CUP 2026 LIVE SECTION -->
   <section id="worldcup">
     <div class="section-head">
-      <span class="eyebrow">Live · 2026</span>
       <h2>🏆 WORLD CUP 2026</h2>
     </div>
     <div class="wc-section">
@@ -214,7 +238,7 @@
 const days=['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
 const months=['January','February','March','April','May','June','July','August','September','October','November','December'];
 const now=new Date();
-document.getElementById('tb-date').textContent=`${days[now.getDay()]}, ${months[now.getMonth()]} ${now.getDate()}, ${now.getFullYear()}`;
+// date is shown in topbar on article pages only
 
 function timeAgo(iso){
   if(!iso) return 'never';
@@ -232,9 +256,7 @@ async function loadArticles(){
     const res=await fetch('data/articles.json?_=' + Date.now());
     const data=await res.json();
     document.getElementById('last-updated').textContent =
-      data.lastRun ? `Bot last ran ${timeAgo(data.lastRun)}` : 'Bot not yet run';
-    document.getElementById('news-freshness').textContent =
-      data.lastRun ? `Updated ${timeAgo(data.lastRun)}` : '';
+      data.lastRun ? `Website last updated ${timeAgo(data.lastRun)}` : 'Updating soon…';
 
     if(!data.articles || data.articles.length===0){
       grid.innerHTML = `<div class="empty-state">
@@ -257,7 +279,7 @@ async function loadArticles(){
           <div class="league-tag">${a.league || 'Football'}</div>
           <h4>${a.headline}</h4>
           <p>${a.summary}</p>
-          <div class="article-meta">WelayDaily AI · ${timeAgo(a.publishedAt)} · original content, copyright-safe</div>
+          <div class="article-meta">WelayDaily · ${timeAgo(a.publishedAt)}</div>
         </div>`;
       grid.appendChild(card);
     });
@@ -404,7 +426,31 @@ async function loadWorldCupFallback() {
     const res = await fetch('https://raw.githubusercontent.com/openfootball/worldcup.json/master/2026/worldcup.json');
     if (!res.ok) throw new Error('Fallback unavailable');
     const data = await res.json();
-    renderWcMatchesFallback(data.matches || []);
+    const fbMatches = data.matches || [];
+    renderWcMatchesFallback(fbMatches);
+    // Populate ticker with fallback data too
+    const ticker = document.getElementById('wc-ticker-matches');
+    const scored = fbMatches.filter(m => m.score?.ft);
+    if (scored.length) {
+      ticker.innerHTML = '';
+      scored.slice(-15).reverse().forEach(m => {
+        const el = document.createElement('div');
+        el.className = 'wc-ticker-match';
+        el.innerHTML = `
+          <div class="wc-ticker-teams">
+            <div class="wc-ticker-team">${m.team1}</div>
+            <div class="wc-ticker-team">${m.team2}</div>
+          </div>
+          <div>
+            <div class="wc-ticker-scores">
+              <div class="wc-ticker-score">${m.score.ft[0]}</div>
+              <div class="wc-ticker-score">${m.score.ft[1]}</div>
+            </div>
+            <div class="wc-ticker-status">FT</div>
+          </div>`;
+        ticker.appendChild(el);
+      });
+    }
   } catch(e) {
     document.getElementById('wc-matches').innerHTML =
       `<div class="wc-loading" style="color:var(--steel);">Live World Cup data unavailable right now — check back shortly.</div>`;
@@ -416,6 +462,9 @@ async function loadWorldCupFallback() {
 function renderWcMatches(matches) {
   const container = document.getElementById('wc-matches');
   const liveDot = document.getElementById('wc-live-dot');
+
+  // Also populate the top ticker bar
+  renderWcTicker(matches);
 
   // Sort: live/in_play first, then recent completed, then upcoming
   const sorted = [...matches].sort((a, b) => {
@@ -472,6 +521,49 @@ function renderWcMatches(matches) {
       </div>
       <div class="wc-away">${away}</div>`;
     container.appendChild(row);
+  });
+}
+
+function renderWcTicker(matches) {
+  const ticker = document.getElementById('wc-ticker-matches');
+  if (!matches || !matches.length) {
+    ticker.innerHTML = '<div class="wc-ticker-loading">No scores yet</div>';
+    return;
+  }
+  // Show completed + live matches only in ticker, sorted by date desc
+  const relevant = [...matches]
+    .filter(m => m.status === 'completed' || m.status === 'finished' ||
+                 m.status === 'in_progress' || m.status === 'live')
+    .sort((a,b) => new Date(b.datetime||0) - new Date(a.datetime||0))
+    .slice(0, 20);
+
+  if (!relevant.length) {
+    ticker.innerHTML = '<div class="wc-ticker-loading">Matches coming soon</div>';
+    return;
+  }
+  ticker.innerHTML = '';
+  relevant.forEach(m => {
+    const isLive = m.status === 'in_progress' || m.status === 'live';
+    const home = m.home_team?.name ?? m.home_team?.abbreviation ?? '?';
+    const away = m.away_team?.name ?? m.away_team?.abbreviation ?? '?';
+    const hs = m.home_score ?? 0;
+    const as_ = m.away_score ?? 0;
+    const statusLabel = isLive ? (m.clock_display || 'LIVE') : 'FT';
+    const el = document.createElement('div');
+    el.className = 'wc-ticker-match';
+    el.innerHTML = `
+      <div class="wc-ticker-teams">
+        <div class="wc-ticker-team">${home}</div>
+        <div class="wc-ticker-team">${away}</div>
+      </div>
+      <div>
+        <div class="wc-ticker-scores">
+          <div class="wc-ticker-score">${hs}</div>
+          <div class="wc-ticker-score">${as_}</div>
+        </div>
+        <div class="wc-ticker-status${isLive ? ' live' : ''}">${statusLabel}</div>
+      </div>`;
+    ticker.appendChild(el);
   });
 }
 
