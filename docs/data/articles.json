@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "lewandowski-lights-up-mls-chicago-fire-land-global-scoring-sensation-d7f458d9e5ba",
+      "headline": "Lewandowski Lights Up MLS: Chicago Fire Land Global Scoring Sensation",
+      "league": "MLS",
+      "summary": "In a monumental move shaking up Major League Soccer, Polish superstar Robert Lewandowski has officially joined Chicago Fire FC. The prolific striker's arrival marks a significant statement of intent from the Eastern Conference club.",
+      "body": "Chicago Fire FC have sent shockwaves across the football world, confirming the acquisition of legendary striker Robert Lewandowski. The former Barcelona and Bayern Munich goal machine has committed to a two-year deal, extending through the 2027-28 MLS season, and will occupy a coveted Designated Player slot. This landmark transfer is poised to dramatically elevate the profile of both the Fire and the league as a whole.\n\nLewandowski, who will celebrate his 38th birthday next month, arrives in Chicago after a decorated career in Europe, most recently helping Barcelona secure multiple La Liga titles and a Copa del Rey. His incredible scoring record, including 312 goals in 384 Bundesliga appearances for Bayern Munich and Borussia Dortmund, speaks to his consistent elite performance.\n\nThe Polish international is expected to make his highly anticipated debut for the Fire on July 16 against Vancouver, following the league's World Cup break. His addition immediately bolsters a Chicago side that currently sits third in the Eastern Conference with 26 points from 14 matches, injecting world-class talent and experience into their ranks as they push for silverware.",
+      "tags": [
+        "Robert Lewandowski",
+        "Chicago Fire",
+        "MLS Transfer",
+        "Designated Player"
+      ],
+      "image": "images/lewandowski-lights-up-mls-chicago-fire-land-global-scoring-sensation-d7f458d9e5ba.svg",
+      "publishedAt": "2026-07-01T03:54:57.204Z"
+    },
+    {
       "id": "fernandes-eyed-by-european-giants-as-manchester-united-ponder-star-s-future-5d065e40a431",
       "headline": "Fernandes Eyed by European Giants as Manchester United Ponder Star's Future",
       "league": "Champions League",
@@ -175,5 +190,5 @@
       "publishedAt": "2026-06-30T18:20:02.062Z"
     }
   ],
-  "lastRun": "2026-06-30T22:17:07.627Z"
+  "lastRun": "2026-07-01T03:55:01.758Z"
 }
