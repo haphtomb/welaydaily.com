@@ -81,23 +81,52 @@ function hashOf(str) {
   return crypto.createHash("sha256").update(str).digest("hex").slice(0, 12);
 }
 
+// Catches near-duplicate stories that slip past exact headline matching —
+// e.g. Gemini rephrasing the same underlying event with different wording
+// on a later run. Compares significant word overlap between headlines.
+function isLikelyDuplicate(headline, recentHeadlines, threshold = 0.5) {
+  const normalize = s => s
+    .toLowerCase()
+    .replace(/[^a-z0-9\s]/g, "")
+    .split(/\s+/)
+    .filter(w => w.length > 3); // drop short/common words for a cleaner signal
+
+  const target = new Set(normalize(headline));
+  if (target.size === 0) return false;
+
+  for (const existing of recentHeadlines) {
+    const other = new Set(normalize(existing));
+    if (other.size === 0) continue;
+    const overlap = [...target].filter(w => other.has(w)).length;
+    const similarity = overlap / Math.min(target.size, other.size);
+    if (similarity >= threshold) return true;
+  }
+  return false;
+}
+
 // ---------------------------------------------------------------
 // Step 1 + 2: Scan latest news AND rewrite it, in one grounded call
 // ---------------------------------------------------------------
 
-async function scanAndRewrite(topic) {
+async function scanAndRewrite(topic, recentHeadlines = []) {
   const url = `${API_BASE}/${TEXT_MODEL}:generateContent?key=${GEMINI_API_KEY}`;
 
-  const prompt = `You are a football (soccer) news journalist for WelayDaily, an independent football news website.
+  const today = new Date().toISOString().slice(0, 10);
+  const avoidList = recentHeadlines.length
+    ? `\n\nDo NOT write about any of these stories — they were already published recently:\n${recentHeadlines.map(h => `- ${h}`).join("\n")}`
+    : "";
 
-Using current web search results, find one specific, real, recent news story about: "${topic}"
+  const prompt = `You are a football (soccer) news journalist for WelayDaily, an independent football news website. Today's date is ${today}.
+
+Using current web search results, find one specific, real news story about: "${topic}" that broke within the LAST 24-48 HOURS. Prioritize the most recent news you can find — do not use stories that are more than 2 days old unless nothing more recent exists for this topic.${avoidList}
 
 Then write a completely original article in your own words based on what you find. CRITICAL RULES:
 - Never copy sentences or phrases verbatim from any source — full paraphrase only
 - Do not quote anyone directly with quotation marks
 - Write naturally, like a sports journalist, not like a summary of an article
 - Be specific: real team names, real player names, real scorelines/facts as reported
-- If you cannot find a genuinely current/real story for this topic, respond with {"skip": true} and nothing else
+- Prefer stories from the last 24-48 hours over older ones, even if older stories seem more prominent
+- If you cannot find a genuinely current/real story for this topic that isn't already in the avoid list, respond with {"skip": true} and nothing else
 
 Respond ONLY with valid JSON (no markdown fences, no commentary) in this exact shape:
 {
@@ -294,6 +323,9 @@ async function main() {
 
   const existing = await readJsonSafe(ARTICLES_FILE, { articles: [] });
   const existingHeadlines = new Set(existing.articles.map(a => a.headline));
+  // Only send Gemini the most recent ~25 headlines — keeps prompt size sane
+  // while still covering everything published in roughly the last few runs.
+  const recentHeadlines = existing.articles.slice(0, 25).map(a => a.headline);
 
   const topics = pickTopics(MAX_ARTICLES_PER_RUN);
   console.log(`WelayDaily agent run started — ${new Date().toISOString()}`);
@@ -304,7 +336,7 @@ async function main() {
   for (const topic of topics) {
     try {
       console.log(`\n→ Scanning + rewriting: "${topic}"`);
-      const article = await scanAndRewrite(topic);
+      const article = await scanAndRewrite(topic, recentHeadlines);
 
       if (article.skip) {
         console.log("  (skipped — no current story found for this topic)");
@@ -312,6 +344,10 @@ async function main() {
       }
       if (!article.headline || existingHeadlines.has(article.headline)) {
         console.log("  (skipped — duplicate or missing headline)");
+        continue;
+      }
+      if (isLikelyDuplicate(article.headline, recentHeadlines)) {
+        console.log(`  (skipped — too similar to a recently published story: "${article.headline}")`);
         continue;
       }
 
