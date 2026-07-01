@@ -105,7 +105,7 @@ Respond ONLY with valid JSON (no markdown fences, no commentary) in this exact s
   "league": "One of: Premier League, La Liga, Champions League, Bundesliga, Serie A, Ligue 1, MLS, CAF Champions League, AFCON, World Cup Qualifiers, Transfer News, Other",
   "summary": "Two-sentence engaging summary, fully original wording",
   "body": "Three short paragraphs separated by \\n\\n, ~150 words total, fully original wording",
-  "scene_description": "A vivid 30-50 word description of a cartoon illustration scene depicting this story. Describe the ACTION and SETTING specifically (e.g. 'a striker in red and white kit celebrating a goal in a packed stadium under floodlights, arms raised, crowd cheering'). Never mention real player names or club logos. Generic stylized cartoon athletes only.",
+  "scene_description": "A vivid 40-60 word description of the story's key visual moment for an AI image generator. Be specific: mention the national team colors or kit colors involved, the type of moment (goal celebration, trophy lift, penalty save, transfer announcement, crowd reaction), the stadium or city if known, the scoreline if applicable, and the emotional tone. Example: 'Mexican players in green kits celebrate wildly on the pitch, scoreboard reading MEX 2-0 ECU, packed stadium with Mexican flags waving, confetti falling under stadium lights, jubilant crowd atmosphere'.",
   "tags": ["2-4 short topical tags"]
 }`;
 
@@ -219,17 +219,29 @@ async function generateCartoonImage(article, outFilePath) {
   if (OPENAI_API_KEY) {
     try {
       const sceneDesc = article.scene_description || article.summary || article.headline;
+      const league = article.league || "Football";
 
-      // Build a strong cartoon-style prompt that avoids copyright risk:
-      // - No real names, no real faces, no real club crests/logos
-      // - Explicitly cartoon/illustrated style (not photorealistic)
-      // - Describes the actual story's action/setting
-      const imagePrompt = `Editorial cartoon illustration for a football news article. ` +
-        `Flat-color comic book style, bold outlines, vivid colors, dynamic composition. ` +
-        `Scene: ${sceneDesc}. ` +
-        `IMPORTANT: completely stylized cartoon artwork — no photorealism, no real recognizable faces, ` +
-        `no real club logos or crests, generic cartoon athlete figures only. ` +
-        `Wide 16:9 landscape format, energetic sports-poster feel.`;
+      // Rich prompt strategy:
+      // - Public domain elements (flags, national colors, scorelines, stadium architecture,
+      //   team kit colors) are INCLUDED — these aren't copyrightable
+      // - People/faces are cartoonized to avoid likeness rights
+      // - Club crests/logos are stylized/simplified (not exact reproductions)
+      // - Overall style: bold graphic design poster, not generic stock art
+      const imagePrompt =
+        `Create a bold, dramatic editorial sports graphic for a football news website. ` +
+        `Style: vibrant graphic design poster combining flat-color comic book illustration ` +
+        `with sports magazine energy — think dynamic composition, bold typography feel, ` +
+        `vivid saturated colors, strong visual hierarchy. ` +
+        `\n\nStory scene: ${sceneDesc}. League context: ${league}. ` +
+        `\n\nVisual guidelines: ` +
+        `Include real national flags, team kit colors, scoreboard text, stadium architecture, ` +
+        `crowd atmosphere, confetti, and match facts where relevant — these add authenticity. ` +
+        `Players and coaches must be stylized cartoon/illustrated figures — expressive faces ` +
+        `allowed but NOT photorealistic portraits of real individuals. ` +
+        `Club badges/crests should be simplified geometric interpretations, not exact logo reproductions. ` +
+        `Background: packed stadium atmosphere with dramatic lighting. ` +
+        `Format: wide 16:9 landscape, cinematic and energetic. ` +
+        `Output a single cohesive image — no text overlays, no split panels.`;
 
       const res = await fetch("https://api.openai.com/v1/images/generations", {
         method: "POST",
