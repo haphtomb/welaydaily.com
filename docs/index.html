@@ -372,9 +372,215 @@ loadStandings();
 loadWorldCup();
 
 // ---- WORLD CUP 2026 LIVE DATA ----
-// Uses worldcup26.ir — free, open-source, no API key, real-time during tournament
+// Uses BallDontLie FIFA World Cup API — free, no API key, clean JSON
+// Docs: https://fifa.balldontlie.io/
+const WC_API = 'https://api.balldontlie.io/fifa/worldcup/v1';
 let wcGroupsData = {};
-let wcActiveGroup = 'A';
+let wcActiveGroup = 'Group A';
+
+async function loadWorldCup() {
+  try {
+    const [matchesRes, groupsRes] = await Promise.all([
+      fetch(`${WC_API}/matches?seasons[]=2026&per_page=50`),
+      fetch(`${WC_API}/standings?seasons[]=2026`)
+    ]);
+
+    if (!matchesRes.ok || !groupsRes.ok) throw new Error('API unavailable');
+
+    const matchesData = await matchesRes.json();
+    const groupsData = await groupsRes.json();
+
+    renderWcMatches(matchesData.data || []);
+    renderWcGroupTabs(groupsData.data || []);
+  } catch(e) {
+    console.warn('WC API error:', e.message);
+    // Fallback: try openfootball public JSON
+    loadWorldCupFallback();
+  }
+}
+
+async function loadWorldCupFallback() {
+  try {
+    const res = await fetch('https://raw.githubusercontent.com/openfootball/worldcup.json/master/2026/worldcup.json');
+    if (!res.ok) throw new Error('Fallback unavailable');
+    const data = await res.json();
+    renderWcMatchesFallback(data.matches || []);
+  } catch(e) {
+    document.getElementById('wc-matches').innerHTML =
+      `<div class="wc-loading" style="color:var(--steel);">Live World Cup data unavailable right now — check back shortly.</div>`;
+    document.getElementById('wc-standings-body').innerHTML =
+      `<tr><td colspan="8" class="wc-loading" style="color:var(--steel);">Unavailable</td></tr>`;
+  }
+}
+
+function renderWcMatches(matches) {
+  const container = document.getElementById('wc-matches');
+  const liveDot = document.getElementById('wc-live-dot');
+
+  // Sort: live/in_play first, then recent completed, then upcoming
+  const sorted = [...matches].sort((a, b) => {
+    const statusOrder = s => {
+      if (s === 'in_progress' || s === 'live') return 0;
+      if (s === 'completed' || s === 'finished') return 1;
+      return 2;
+    };
+    const so = statusOrder(a.status) - statusOrder(b.status);
+    if (so !== 0) return so;
+    return new Date(b.datetime || 0) - new Date(a.datetime || 0);
+  }).slice(0, 12);
+
+  const hasLive = sorted.some(m => m.status === 'in_progress' || m.status === 'live');
+  if (hasLive) liveDot.style.display = 'block';
+
+  if (!sorted.length) {
+    container.innerHTML = '<div class="wc-loading">No matches found.</div>';
+    return;
+  }
+
+  container.innerHTML = '';
+  sorted.forEach(m => {
+    const isLive = m.status === 'in_progress' || m.status === 'live';
+    const isFt = m.status === 'completed' || m.status === 'finished';
+    const home = m.home_team?.name ?? '?';
+    const away = m.away_team?.name ?? '?';
+    const hs = m.home_score ?? '–';
+    const as_ = m.away_score ?? '–';
+    const group = m.group?.name ?? m.stage?.name ?? '';
+
+    let scoreHtml, scoreClass, metaStr;
+    if (isLive) {
+      scoreHtml = `${hs}–${as_}`;
+      scoreClass = 'wc-score live-now';
+      metaStr = m.clock_display ? `🔴 ${m.clock_display}` : '🔴 LIVE';
+    } else if (isFt) {
+      scoreHtml = `${hs}–${as_}`;
+      scoreClass = 'wc-score ft';
+      metaStr = `FT · ${group}`;
+    } else {
+      scoreHtml = formatWcDate(m.datetime);
+      scoreClass = 'wc-score upcoming';
+      metaStr = group;
+    }
+
+    const row = document.createElement('div');
+    row.className = 'wc-match';
+    row.innerHTML = `
+      <div class="wc-home">${home}</div>
+      <div>
+        <div class="${scoreClass}">${scoreHtml}</div>
+        <div class="wc-match-meta">${metaStr}</div>
+      </div>
+      <div class="wc-away">${away}</div>`;
+    container.appendChild(row);
+  });
+}
+
+function renderWcMatchesFallback(matches) {
+  // openfootball format
+  const container = document.getElementById('wc-matches');
+  const recent = [...matches]
+    .filter(m => m.score)
+    .sort((a,b) => new Date(b.date||0) - new Date(a.date||0))
+    .slice(0, 12);
+
+  if (!recent.length) {
+    container.innerHTML = '<div class="wc-loading">No results yet.</div>';
+    return;
+  }
+  container.innerHTML = '';
+  recent.forEach(m => {
+    const home = m.team1 ?? '?';
+    const away = m.team2 ?? '?';
+    const score = m.score?.ft ? `${m.score.ft[0]}–${m.score.ft[1]}` : '–';
+    const group = m.group ?? '';
+    const row = document.createElement('div');
+    row.className = 'wc-match';
+    row.innerHTML = `
+      <div class="wc-home">${home}</div>
+      <div>
+        <div class="wc-score ft">${score}</div>
+        <div class="wc-match-meta">FT · ${group}</div>
+      </div>
+      <div class="wc-away">${away}</div>`;
+    container.appendChild(row);
+  });
+}
+
+function formatWcDate(dateStr) {
+  if (!dateStr) return '–';
+  try {
+    return new Date(dateStr).toLocaleString(undefined,{month:'short',day:'numeric',hour:'2-digit',minute:'2-digit'});
+  } catch { return '–'; }
+}
+
+function renderWcGroupTabs(standings) {
+  const tabsEl = document.getElementById('wc-group-tabs');
+  tabsEl.innerHTML = '';
+
+  // Group standings rows by group name
+  standings.forEach(row => {
+    const gName = row.group?.name ?? 'Unknown';
+    if (!wcGroupsData[gName]) wcGroupsData[gName] = [];
+    wcGroupsData[gName].push(row);
+  });
+
+  const groupNames = Object.keys(wcGroupsData).sort();
+  if (!groupNames.length) {
+    document.getElementById('wc-standings-body').innerHTML =
+      `<tr><td colspan="8" class="wc-loading">Group data loading…</td></tr>`;
+    return;
+  }
+  wcActiveGroup = groupNames[0];
+
+  groupNames.forEach(name => {
+    const btn = document.createElement('div');
+    btn.className = 'wc-group-tab' + (name === wcActiveGroup ? ' active' : '');
+    btn.textContent = name.replace('Group ', 'Grp ');
+    btn.onclick = () => {
+      tabsEl.querySelectorAll('.wc-group-tab').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      wcActiveGroup = name;
+      renderWcGroupStandings(wcGroupsData[name]);
+    };
+    tabsEl.appendChild(btn);
+  });
+
+  renderWcGroupStandings(wcGroupsData[wcActiveGroup]);
+}
+
+function renderWcGroupStandings(rows) {
+  const body = document.getElementById('wc-standings-body');
+  if (!rows || !rows.length) {
+    body.innerHTML = `<tr><td colspan="8" class="wc-loading">No data yet.</td></tr>`;
+    return;
+  }
+  const sorted = [...rows].sort((a,b) => {
+    const pts = (b.points??0) - (a.points??0);
+    if (pts !== 0) return pts;
+    const gd = ((b.goals_for??0)-(b.goals_against??0)) - ((a.goals_for??0)-(a.goals_against??0));
+    return gd;
+  });
+  body.innerHTML = '';
+  sorted.forEach((t, i) => {
+    const name = t.team?.name ?? '?';
+    const p = t.games_played ?? 0;
+    const w = t.wins ?? 0;
+    const d = t.draws ?? 0;
+    const l = t.losses ?? 0;
+    const gf = t.goals_for ?? 0;
+    const ga = t.goals_against ?? 0;
+    const gd = gf - ga;
+    const pts = t.points ?? 0;
+    const gdStr = gd > 0 ? `+${gd}` : `${gd}`;
+    body.innerHTML += `<tr>
+      <td>${i+1}</td><td>${name}</td>
+      <td>${p}</td><td>${w}</td><td>${d}</td><td>${l}</td>
+      <td>${gdStr}</td><td class="wc-pts">${pts}</td>
+    </tr>`;
+  });
+}
+</script>
+
 
 async function loadWorldCup() {
   try {
