@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "lewandowski-joins-chicago-fire-in-blockbuster-mls-move-4a523fd6d577",
+      "headline": "Lewandowski Joins Chicago Fire in Blockbuster MLS Move",
+      "league": "MLS",
+      "summary": "Chicago Fire has officially secured the services of superstar striker Robert Lewandowski, marking one of the biggest transfer coups in Major League Soccer history. The Polish international is set to make his highly anticipated debut against a familiar face from his Bayern Munich days.",
+      "body": "The Chicago Fire have officially confirmed the signing of Robert Lewandowski, bringing a world-renowned goal scorer to Major League Soccer. The move culminates over a year of persistent effort from the Fire's front office, who patiently pursued the veteran striker to bolster their attacking prowess. This landmark transfer is expected to significantly elevate the league's profile and provide a massive boost to the Fire's ambitions.\n\nLewandowski, known for his prolific scoring record and clinical finishing, is poised to make his debut for the Fire in an intriguing matchup. Reports indicate his first appearance will be against his former Bayern Munich teammate, Thomas Muller, adding an extra layer of narrative to his MLS introduction. Fans are eagerly anticipating the impact the legendary forward will have on the pitch.\n\nThe acquisition of Lewandowski underscores MLS's continued growth and its increasing appeal to top-tier international talent. His arrival is not only a win for Chicago but for the entire league, promising heightened competition and drawing new eyes to the American top flight as the 2026 World Cup approaches.",
+      "tags": [
+        "Robert Lewandowski",
+        "Chicago Fire",
+        "MLS Transfer",
+        "Soccer"
+      ],
+      "image": "images/lewandowski-joins-chicago-fire-in-blockbuster-mls-move-4a523fd6d577.png",
+      "publishedAt": "2026-07-01T19:02:29.387Z"
+    },
+    {
       "id": "dr-congo-secures-historic-world-cup-berth-with-tuanzebe-s-extra-time-heroics-a258d306994c",
       "headline": "DR Congo Secures Historic World Cup Berth with Tuanzebe's Extra-Time Heroics",
       "league": "World Cup Qualifiers",
@@ -494,5 +509,5 @@
       "publishedAt": "2026-06-30T18:20:02.062Z"
     }
   ],
-  "lastRun": "2026-07-01T18:48:02.795Z"
+  "lastRun": "2026-07-01T19:02:33.721Z"
 }
