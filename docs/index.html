@@ -67,7 +67,34 @@
   .fx-score.live{border-color:var(--red);color:var(--red);}
   .fx-score.upcoming{font-size:11px;color:var(--mist);font-family:var(--font-body);}
   .comp-label{font-size:9px;color:var(--steel);letter-spacing:.08em;text-transform:uppercase;text-align:center;margin-top:2px;}
-  footer{background:var(--pitch);border-top:1px solid var(--mid);padding:32px 24px;margin-top:40px;text-align:center;font-size:11px;color:var(--steel);}
+  .wc-section{background:linear-gradient(135deg,#0A1A4A,#0A1A0F);border-radius:6px;padding:24px;border:1px solid #1a3060;margin-bottom:0;}
+  .wc-header{display:flex;align-items:center;gap:12px;margin-bottom:20px;flex-wrap:wrap;}
+  .wc-trophy{font-size:28px;}
+  .wc-title{font-family:var(--font-display);font-size:26px;letter-spacing:.06em;color:var(--white);}
+  .wc-subtitle{font-size:11px;color:var(--mist);letter-spacing:.08em;text-transform:uppercase;}
+  .live-dot{width:8px;height:8px;border-radius:50%;background:var(--red);animation:pulse 1.5s infinite;margin-left:auto;}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+  .wc-cols{display:grid;grid-template-columns:1fr 1fr;gap:20px;}
+  .wc-live-matches{display:flex;flex-direction:column;gap:0;}
+  .wc-match{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;padding:10px 0;border-bottom:1px solid rgba(255,255,255,0.07);gap:8px;}
+  .wc-home{text-align:right;font-size:12px;font-weight:600;color:var(--white);}
+  .wc-away{text-align:left;font-size:12px;font-weight:600;color:var(--white);}
+  .wc-score{background:rgba(0,0,0,0.4);border:1px solid rgba(255,255,255,0.1);border-radius:4px;padding:5px 12px;text-align:center;font-family:var(--font-display);font-size:16px;letter-spacing:.1em;min-width:64px;color:var(--white);}
+  .wc-score.live-now{border-color:var(--red);color:var(--red);}
+  .wc-score.ft{color:var(--mist);font-size:14px;}
+  .wc-match-meta{font-size:9px;color:var(--steel);text-align:center;letter-spacing:.06em;margin-top:2px;text-transform:uppercase;}
+  .wc-group-tabs{display:flex;flex-wrap:wrap;gap:4px;margin-bottom:12px;}
+  .wc-group-tab{background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.1);border-radius:3px;padding:4px 10px;font-size:10px;font-weight:700;color:var(--mist);cursor:pointer;letter-spacing:.06em;}
+  .wc-group-tab.active{background:var(--green);color:#fff;border-color:var(--green);}
+  .wc-standings-table{width:100%;border-collapse:collapse;font-size:11px;}
+  .wc-standings-table th{padding:6px 4px;text-align:center;color:var(--steel);font-size:9px;letter-spacing:.08em;text-transform:uppercase;}
+  .wc-standings-table th:nth-child(2){text-align:left;}
+  .wc-standings-table td{padding:7px 4px;text-align:center;border-bottom:1px solid rgba(255,255,255,0.05);color:var(--white);}
+  .wc-standings-table td:nth-child(2){text-align:left;}
+  .wc-standings-table tr:nth-child(-n+2) td{color:var(--green);}
+  .wc-pts{font-weight:700;}
+  .wc-loading{color:var(--mist);font-size:12px;padding:20px 0;text-align:center;}
+  @media(max-width:700px){.wc-cols{grid-template-columns:1fr;}}
   .footer-logo{font-family:var(--font-display);font-size:32px;color:var(--green);letter-spacing:.06em;margin-bottom:8px;}
   .status-pill{display:inline-flex;align-items:center;gap:6px;font-size:11px;color:var(--mist);background:var(--ash);border:1px solid var(--mid);padding:4px 10px;border-radius:20px;}
   .status-dot{width:7px;height:7px;border-radius:50%;background:var(--green);}
@@ -97,6 +124,7 @@
     <a href="#" class="active">Home</a>
     <a href="#news">News</a>
     <a href="#fixtures">Fixtures</a>
+    <a href="#worldcup">🏆 World Cup</a>
     <a href="#standings">Standings</a>
     <a href="about.html">About</a>
     <a href="contact.html">Contact</a>
@@ -113,6 +141,38 @@
     </div>
     <div id="articles-grid">
       <div class="empty-state">Loading latest stories…</div>
+    </div>
+  </section>
+
+  <!-- WORLD CUP 2026 LIVE SECTION -->
+  <section id="worldcup">
+    <div class="section-head">
+      <span class="eyebrow">Live · 2026</span>
+      <h2>🏆 WORLD CUP 2026</h2>
+    </div>
+    <div class="wc-section">
+      <div class="wc-cols">
+        <!-- Live Scores / Recent Results -->
+        <div>
+          <div style="display:flex;align-items:center;gap:8px;margin-bottom:14px;">
+            <div style="font-size:13px;font-weight:700;color:var(--white);letter-spacing:.04em;">LIVE SCORES & RESULTS</div>
+            <div class="live-dot" id="wc-live-dot" style="display:none;"></div>
+          </div>
+          <div class="wc-live-matches" id="wc-matches">
+            <div class="wc-loading">Loading World Cup matches…</div>
+          </div>
+        </div>
+        <!-- Group Standings -->
+        <div>
+          <div style="font-size:13px;font-weight:700;color:var(--white);letter-spacing:.04em;margin-bottom:10px;">GROUP STANDINGS</div>
+          <div class="wc-group-tabs" id="wc-group-tabs"></div>
+          <table class="wc-standings-table">
+            <thead><tr><th>#</th><th>Team</th><th>P</th><th>W</th><th>D</th><th>L</th><th>GD</th><th class="wc-pts">Pts</th></tr></thead>
+            <tbody id="wc-standings-body"><tr><td colspan="8" class="wc-loading">Loading…</td></tr></tbody>
+          </table>
+          <div style="font-size:10px;color:var(--steel);margin-top:8px;">Top 2 per group + 8 best 3rd place advance</div>
+        </div>
+      </div>
     </div>
   </section>
 
@@ -309,6 +369,167 @@ async function loadStandings(){
 
 loadArticles();
 loadStandings();
+loadWorldCup();
+
+// ---- WORLD CUP 2026 LIVE DATA ----
+// Uses worldcup26.ir — free, open-source, no API key, real-time during tournament
+let wcGroupsData = {};
+let wcActiveGroup = 'A';
+
+async function loadWorldCup() {
+  try {
+    // Fetch both in parallel
+    const [matchesRes, groupsRes] = await Promise.all([
+      fetch('https://worldcup26.ir/get/games'),
+      fetch('https://worldcup26.ir/get/groups')
+    ]);
+
+    if (!matchesRes.ok || !groupsRes.ok) throw new Error('API unavailable');
+
+    const matches = await matchesRes.json();
+    const groups = await groupsRes.json();
+
+    renderWcMatches(matches);
+    renderWcGroupTabs(groups);
+  } catch(e) {
+    document.getElementById('wc-matches').innerHTML =
+      `<div class="wc-loading" style="color:var(--steel);">Live data temporarily unavailable — check back shortly.</div>`;
+    document.getElementById('wc-standings-body').innerHTML =
+      `<tr><td colspan="8" class="wc-loading" style="color:var(--steel);">Unavailable</td></tr>`;
+  }
+}
+
+function renderWcMatches(matches) {
+  const container = document.getElementById('wc-matches');
+  const liveDot = document.getElementById('wc-live-dot');
+
+  // Sort: live first, then by date desc, show max 12
+  const sorted = [...matches].sort((a, b) => {
+    const aLive = a.status === 'in_progress' || a.status === 'live';
+    const bLive = b.status === 'in_progress' || b.status === 'live';
+    if (aLive && !bLive) return -1;
+    if (!aLive && bLive) return 1;
+    return new Date(b.date || 0) - new Date(a.date || 0);
+  }).slice(0, 12);
+
+  const hasLive = sorted.some(m => m.status === 'in_progress' || m.status === 'live');
+  if (hasLive) liveDot.style.display = 'block';
+
+  if (!sorted.length) {
+    container.innerHTML = '<div class="wc-loading">No matches yet.</div>';
+    return;
+  }
+
+  container.innerHTML = '';
+  sorted.forEach(m => {
+    const isLive = m.status === 'in_progress' || m.status === 'live';
+    const isFt = m.status === 'completed' || m.status === 'finished' || m.status === 'ft';
+    const homeScore = m.home_score ?? m.score1 ?? m.goals1 ?? '–';
+    const awayScore = m.away_score ?? m.score2 ?? m.goals2 ?? '–';
+    const home = m.home_team ?? m.team1 ?? '?';
+    const away = m.away_team ?? m.team2 ?? '?';
+    const group = m.group ?? m.stage ?? '';
+    const scoreStr = (homeScore !== '–' || isFt || isLive)
+      ? `${homeScore}–${awayScore}`
+      : formatWcDate(m.date || m.utcDate);
+    const scoreClass = isLive ? 'wc-score live-now' : isFt ? 'wc-score ft' : 'wc-score';
+    const metaStr = isLive ? '🔴 LIVE' : isFt ? 'FT' : group;
+
+    const row = document.createElement('div');
+    row.className = 'wc-match';
+    row.innerHTML = `
+      <div class="wc-home">${home}</div>
+      <div>
+        <div class="${scoreClass}">${scoreStr}</div>
+        <div class="wc-match-meta">${metaStr}</div>
+      </div>
+      <div class="wc-away">${away}</div>`;
+    container.appendChild(row);
+  });
+}
+
+function formatWcDate(dateStr) {
+  if (!dateStr) return '–';
+  try {
+    const d = new Date(dateStr);
+    return d.toLocaleString(undefined, {month:'short', day:'numeric', hour:'2-digit', minute:'2-digit'});
+  } catch { return '–'; }
+}
+
+function renderWcGroupTabs(groups) {
+  const tabsEl = document.getElementById('wc-group-tabs');
+  tabsEl.innerHTML = '';
+
+  // API may return array of groups or object — normalize
+  const groupList = Array.isArray(groups)
+    ? groups
+    : Object.entries(groups).map(([name, data]) => ({name, ...data}));
+
+  if (!groupList.length) {
+    document.getElementById('wc-standings-body').innerHTML =
+      `<tr><td colspan="8" class="wc-loading">No group data yet.</td></tr>`;
+    return;
+  }
+
+  // Store for tab switching
+  groupList.forEach(g => {
+    const name = g.name || g.group || g.letter || '?';
+    wcGroupsData[name] = g;
+  });
+
+  const groupNames = Object.keys(wcGroupsData).sort();
+  wcActiveGroup = groupNames[0];
+
+  groupNames.forEach(name => {
+    const btn = document.createElement('div');
+    btn.className = 'wc-group-tab' + (name === wcActiveGroup ? ' active' : '');
+    btn.textContent = `Grp ${name}`;
+    btn.onclick = () => {
+      tabsEl.querySelectorAll('.wc-group-tab').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      wcActiveGroup = name;
+      renderWcGroupStandings(wcGroupsData[name]);
+    };
+    tabsEl.appendChild(btn);
+  });
+
+  renderWcGroupStandings(wcGroupsData[wcActiveGroup]);
+}
+
+function renderWcGroupStandings(group) {
+  const body = document.getElementById('wc-standings-body');
+  // Teams may be in group.teams or group.standings
+  const teams = group.teams || group.standings || [];
+  if (!teams.length) {
+    body.innerHTML = `<tr><td colspan="8" class="wc-loading">No data for this group yet.</td></tr>`;
+    return;
+  }
+  // Sort by points desc, then GD, then GF
+  const sorted = [...teams].sort((a, b) => {
+    const pts = (b.points ?? b.pts ?? 0) - (a.points ?? a.pts ?? 0);
+    if (pts !== 0) return pts;
+    const gd = ((b.goal_difference ?? b.gd ?? 0) - (a.goal_difference ?? a.gd ?? 0));
+    if (gd !== 0) return gd;
+    return ((b.goals_for ?? b.gf ?? 0) - (a.goals_for ?? a.gf ?? 0));
+  });
+
+  body.innerHTML = '';
+  sorted.forEach((t, i) => {
+    const name = t.name ?? t.team ?? t.country ?? '?';
+    const p = t.played ?? t.matches_played ?? t.mp ?? 0;
+    const w = t.won ?? t.wins ?? t.w ?? 0;
+    const d = t.drawn ?? t.draws ?? t.d ?? 0;
+    const l = t.lost ?? t.losses ?? t.l ?? 0;
+    const gd = t.goal_difference ?? t.gd ?? ((t.goals_for ?? 0) - (t.goals_against ?? 0));
+    const pts = t.points ?? t.pts ?? 0;
+    const gdStr = gd > 0 ? `+${gd}` : `${gd}`;
+    body.innerHTML += `<tr>
+      <td>${i + 1}</td><td>${name}</td>
+      <td>${p}</td><td>${w}</td><td>${d}</td><td>${l}</td>
+      <td>${gdStr}</td><td class="wc-pts">${pts}</td>
+    </tr>`;
+  });
+}
 </script>
 </body>
 </html>
