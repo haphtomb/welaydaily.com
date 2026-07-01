@@ -25,14 +25,13 @@
   .wc-ticker-scroll{display:flex;align-items:center;overflow-x:auto;scrollbar-width:none;-ms-overflow-style:none;flex:1;}
   .wc-ticker-scroll::-webkit-scrollbar{display:none;}
   .wc-ticker-matches{display:flex;align-items:center;gap:0;white-space:nowrap;}
-  .wc-ticker-match{display:flex;align-items:center;gap:8px;padding:0 20px;border-right:1px solid rgba(255,255,255,0.08);height:42px;cursor:default;}
+  .wc-ticker-match{display:flex;align-items:center;gap:10px;padding:0 18px;border-right:1px solid rgba(255,255,255,0.08);height:42px;cursor:default;}
   .wc-ticker-match:hover{background:rgba(255,255,255,0.04);}
-  .wc-ticker-teams{display:flex;flex-direction:column;gap:2px;}
-  .wc-ticker-team{font-size:11px;font-weight:600;color:var(--white);letter-spacing:.02em;}
-  .wc-ticker-scores{display:flex;flex-direction:column;gap:2px;text-align:center;}
-  .wc-ticker-score{font-size:11px;font-weight:700;color:var(--white);min-width:16px;}
-  .wc-ticker-status{font-size:9px;color:var(--steel);letter-spacing:.06em;text-transform:uppercase;text-align:center;margin-top:1px;}
-  .wc-ticker-status.live{color:var(--red);}
+  .wc-ticker-teams{display:flex;flex-direction:column;gap:3px;}
+  .wc-ticker-team{font-size:11px;font-weight:600;color:var(--white);letter-spacing:.02em;line-height:1;}
+  .wc-ticker-scores{display:flex;flex-direction:column;gap:3px;text-align:center;}
+  .wc-ticker-score{font-size:11px;font-weight:700;color:var(--white);min-width:12px;line-height:1;}
+  .wc-ticker-time{font-size:10px;font-weight:700;color:var(--red);letter-spacing:.04em;white-space:nowrap;align-self:center;}
   .wc-ticker-loading{font-size:11px;color:var(--steel);padding:0 20px;display:flex;align-items:center;}
   header{background:var(--pitch);border-bottom:3px solid var(--green);padding:0 24px;}
   .header-inner{max-width:1280px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;padding:16px 0;}
@@ -441,12 +440,9 @@ async function loadWorldCupFallback() {
             <div class="wc-ticker-team">${m.team1}</div>
             <div class="wc-ticker-team">${m.team2}</div>
           </div>
-          <div>
-            <div class="wc-ticker-scores">
-              <div class="wc-ticker-score">${m.score.ft[0]}</div>
-              <div class="wc-ticker-score">${m.score.ft[1]}</div>
-            </div>
-            <div class="wc-ticker-status">FT</div>
+          <div class="wc-ticker-scores">
+            <div class="wc-ticker-score">${m.score.ft[0]}</div>
+            <div class="wc-ticker-score">${m.score.ft[1]}</div>
           </div>`;
         ticker.appendChild(el);
       });
@@ -530,7 +526,6 @@ function renderWcTicker(matches) {
     ticker.innerHTML = '<div class="wc-ticker-loading">No scores yet</div>';
     return;
   }
-  // Show completed + live matches only in ticker, sorted by date desc
   const relevant = [...matches]
     .filter(m => m.status === 'completed' || m.status === 'finished' ||
                  m.status === 'in_progress' || m.status === 'live')
@@ -548,7 +543,10 @@ function renderWcTicker(matches) {
     const away = m.away_team?.name ?? m.away_team?.abbreviation ?? '?';
     const hs = m.home_score ?? 0;
     const as_ = m.away_score ?? 0;
-    const statusLabel = isLive ? (m.clock_display || 'LIVE') : 'FT';
+    // Time column: only shown for live matches, positioned after the scores
+    const timeHtml = isLive
+      ? `<div class="wc-ticker-time">${m.clock_display || 'LIVE'}</div>`
+      : '';
     const el = document.createElement('div');
     el.className = 'wc-ticker-match';
     el.innerHTML = `
@@ -556,13 +554,11 @@ function renderWcTicker(matches) {
         <div class="wc-ticker-team">${home}</div>
         <div class="wc-ticker-team">${away}</div>
       </div>
-      <div>
-        <div class="wc-ticker-scores">
-          <div class="wc-ticker-score">${hs}</div>
-          <div class="wc-ticker-score">${as_}</div>
-        </div>
-        <div class="wc-ticker-status${isLive ? ' live' : ''}">${statusLabel}</div>
-      </div>`;
+      <div class="wc-ticker-scores">
+        <div class="wc-ticker-score">${hs}</div>
+        <div class="wc-ticker-score">${as_}</div>
+      </div>
+      ${timeHtml}`;
     ticker.appendChild(el);
   });
 }
