@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "real-madrid-bolsters-defense-with-marquee-cucurella-signing-77d628c336b5",
+      "headline": "Real Madrid Bolsters Defense with Marquee Cucurella Signing",
+      "league": "La Liga",
+      "summary": "Real Madrid has officially secured the services of defender Marc Cucurella in a major transfer deal, reinforcing their backline ahead of the upcoming season. The Spanish international makes the move from Chelsea after a strong individual campaign despite his former club's struggles.",
+      "body": "Spanish giants Real Madrid have finalized a significant defensive acquisition, bringing Marc Cucurella to the Santiago Bernabéu. The highly-rated left-back joins Los Blancos from Chelsea in a deal reportedly valued at an initial €55 million, with potential add-ons.\n\nCucurella's arrival is expected to provide substantial reinforcement on the left flank, an area Real Madrid sought to strengthen. Despite Chelsea's challenging season and their absence from European competition, the defender consistently delivered impressive individual performances, showcasing his defensive prowess and attacking contributions.\n\nThe transfer signals Real Madrid's intent to maintain their competitive edge, adding a proven talent with international experience to their formidable squad. Supporters will be eager to see Cucurella integrate into the team and contribute to their pursuit of domestic and European honors in the new campaign.",
+      "tags": [
+        "Real Madrid",
+        "Marc Cucurella",
+        "Transfer News",
+        "La Liga"
+      ],
+      "image": "images/real-madrid-bolsters-defense-with-marquee-cucurella-signing-77d628c336b5.png",
+      "publishedAt": "2026-07-01T22:19:15.111Z"
+    },
+    {
       "id": "la-liga-unveils-2026-27-season-schedule-setting-stage-for-epic-clashes-22d7524ea1af",
       "headline": "La Liga Unveils 2026-27 Season Schedule, Setting Stage for Epic Clashes",
       "league": "La Liga",
@@ -555,5 +570,5 @@
       "publishedAt": "2026-06-30T18:20:02.062Z"
     }
   ],
-  "lastRun": "2026-07-01T20:22:31.724Z"
+  "lastRun": "2026-07-01T22:19:19.481Z"
 }
