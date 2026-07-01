@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "dr-congo-secures-historic-world-cup-berth-with-tuanzebe-s-extra-time-heroics-a258d306994c",
+      "headline": "DR Congo Secures Historic World Cup Berth with Tuanzebe's Extra-Time Heroics",
+      "league": "World Cup Qualifiers",
+      "summary": "The Democratic Republic of Congo has clinched a coveted spot at the FIFA World Cup 2026, overcoming Jamaica in a tense inter-continental play-off. Axel Tuanzebe's decisive extra-time goal sealed their dramatic qualification.",
+      "body": "The Democratic Republic of Congo has etched its name into football history, securing a place at the FIFA World Cup 2026 after a thrilling victory over Jamaica in the inter-continental play-off. The Leopards navigated a challenging qualification path, culminating in a high-stakes encounter that captivated fans worldwide. Their resilience and determination ultimately paid off, granting them a well-deserved berth in the prestigious global tournament.\n\nThe decisive moment arrived in extra time, with Axel Tuanzebe emerging as the hero for the Congolese side. His crucial goal broke the deadlock and propelled his nation to an unforgettable triumph against Jamaica. This hard-fought win marks a significant milestone for DR Congo, representing a culmination of years of effort and development within their footballing structure.\n\nThe qualification has ignited widespread celebrations across the Democratic Republic of Congo, with supporters rejoicing in their team's achievement. This historic success not only brings national pride but also provides a monumental platform for Congolese football on the world stage, showcasing their talent and passion to a global audience.",
+      "tags": [
+        "DR Congo",
+        "World Cup 2026",
+        "Qualifiers",
+        "Axel Tuanzebe"
+      ],
+      "image": "images/dr-congo-secures-historic-world-cup-berth-with-tuanzebe-s-extra-time-heroics-a258d306994c.png",
+      "publishedAt": "2026-07-01T18:00:26.339Z"
+    },
+    {
+      "id": "bayern-munich-secures-moroccan-midfield-maestro-saibari-in-major-transfer-69d3f69d32ee",
+      "headline": "Bayern Munich Secures Moroccan Midfield Maestro Saibari in Major Transfer",
+      "league": "Champions League",
+      "summary": "Bayern Munich has significantly bolstered their squad with the acquisition of Moroccan international Ismael Saibari from PSV Eindhoven, marking their first major summer signing. The versatile attacking midfielder, a standout performer at the ongoing World Cup, joins the German giants in a high-profile move.",
+      "body": "FC Bayern Munich has officially announced the capture of Ismael Saibari, bringing the highly-rated Moroccan midfielder to the Allianz Arena. The deal, reportedly valued at up to €55 million, sees the 25-year-old depart PSV Eindhoven for a long-term contract with the Bundesliga champions, extending until June 2033. This transfer represents a significant statement of intent from Bayern as they prepare for the upcoming season.\n\nSaibari, who has been a revelation for Morocco at the current World Cup, was a primary target for new Bayern coach Vincent Kompany. The Belgian manager reportedly engaged in personal discussions with the player, outlining his crucial role within the squad. Saibari's ability to operate across various attacking positions, including central attacking midfield and both wings, promises to inject considerable versatility and creativity into Bayern's offensive lineup.\n\nThe move is expected to be a major boost for Bayern's ambitions, particularly in the Champions League, a competition where Saibari already possesses valuable experience. His impressive performances for PSV, coupled with his current form on the international stage, underscore why Bayern was prepared to invest heavily in securing his signature, making him a key figure for their pursuit of domestic and European silverware.",
+      "tags": [
+        "Bayern Munich",
+        "Ismael Saibari",
+        "Transfer News",
+        "Bundesliga"
+      ],
+      "image": "images/bayern-munich-secures-moroccan-midfield-maestro-saibari-in-major-transfer-69d3f69d32ee.png",
+      "publishedAt": "2026-07-01T18:01:00.546Z"
+    },
+    {
+      "id": "caf-rejects-afcon-expansion-plan-future-tournament-format-remains-at-24-teams-2b9ef9e7997e",
+      "headline": "CAF Rejects AFCON Expansion Plan, Future Tournament Format Remains at 24 Teams",
+      "league": "AFCON",
+      "summary": "The Confederation of African Football's executive committee has voted against a proposal to enlarge the Africa Cup of Nations from 24 to 28 participating teams. This decision ensures the continent's premier international competition will maintain its current structure for upcoming editions.",
+      "body": "The Confederation of African Football (CAF) recently announced its executive committee's rejection of a plan to expand the Africa Cup of Nations (AFCON) to include 28 teams. This proposal, reportedly championed by CAF President Patrice Motsepe earlier this year, aimed to further broaden participation in the continent's flagship tournament, but it ultimately failed to gain sufficient support among the committee members.\n\nUnnamed executive committee members cited concerns regarding the necessity and timing of such an expansion, with some describing the idea as poorly conceived. The vote definitively ends discussions about a controversial format change that would have taken effect from the 2028 tournament.\n\nThe current 24-team format was adopted in 2019, replacing a smaller 16-team structure, a move that was widely seen as a significant step towards greater inclusivity in African football. While CAF's leadership remains committed to elevating the tournament's global standing, this recent decision indicates a preference for stability in its format.",
+      "tags": [
+        "AFCON",
+        "CAF",
+        "Football Governance",
+        "Tournament Format"
+      ],
+      "image": "images/caf-rejects-afcon-expansion-plan-future-tournament-format-remains-at-24-teams-2b9ef9e7997e.png",
+      "publishedAt": "2026-07-01T18:01:35.980Z"
+    },
+    {
       "id": "atletico-madrid-secures-grimaldo-in-significant-defensive-reinforcement-99a5264180c4",
       "headline": "Atletico Madrid Secures Grimaldo in Significant Defensive Reinforcement",
       "league": "La Liga",
@@ -449,5 +494,5 @@
       "publishedAt": "2026-06-30T18:20:02.062Z"
     }
   ],
-  "lastRun": "2026-07-01T17:47:52.821Z"
+  "lastRun": "2026-07-01T18:01:39.980Z"
 }
