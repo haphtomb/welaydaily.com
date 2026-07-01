@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "atletico-madrid-secures-grimaldo-in-significant-defensive-reinforcement-99a5264180c4",
+      "headline": "Atletico Madrid Secures Grimaldo in Significant Defensive Reinforcement",
+      "league": "La Liga",
+      "summary": "Atletico Madrid has officially bolstered their squad with the acquisition of accomplished left-back Alejandro Grimaldo. The Spanish international arrives from Bayer Leverkusen, bringing a wealth of experience and attacking quality to the Spanish capital.",
+      "body": "Atletico Madrid has confirmed the signing of Alejandro Grimaldo from German champions Bayer Leverkusen, a move that significantly strengthens Diego Simeone's defensive options. The highly-rated full-back has penned a long-term contract with the Rojiblancos, committing his future to the club until 2030. Reports indicate the transfer fee stands around €22 million, reflecting the player's value and consistent performances.\n\nGrimaldo enjoyed a stellar tenure at Bayer Leverkusen, playing a pivotal role in their recent successes, including a historic Bundesliga title. His ability to contribute both defensively and offensively, with a keen eye for a pass and a powerful shot, makes him a valuable asset. Atletico will undoubtedly look to leverage his dynamic playmaking from the left flank.\n\nThis acquisition signals Atletico's intent to compete at the highest level in the upcoming season. Grimaldo's arrival is expected to provide fierce competition and depth in the full-back positions, offering Simeone more tactical flexibility as the club prepares for domestic and European challenges.",
+      "tags": [
+        "Atletico Madrid",
+        "Transfers",
+        "La Liga",
+        "Alejandro Grimaldo"
+      ],
+      "image": "images/atletico-madrid-secures-grimaldo-in-significant-defensive-reinforcement-99a5264180c4.png",
+      "publishedAt": "2026-07-01T17:47:48.479Z"
+    },
+    {
       "id": "mexico-ends-knockout-stage-drought-advances-in-thrilling-world-cup-clash-88abf0294498",
       "headline": "Mexico Ends Knockout Stage Drought, Advances in Thrilling World Cup Clash",
       "league": "World Cup Qualifiers",
@@ -434,5 +449,5 @@
       "publishedAt": "2026-06-30T18:20:02.062Z"
     }
   ],
-  "lastRun": "2026-07-01T17:30:13.418Z"
+  "lastRun": "2026-07-01T17:47:52.821Z"
 }
