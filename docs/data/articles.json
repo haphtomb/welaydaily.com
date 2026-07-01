@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "la-liga-unveils-2026-27-season-schedule-setting-stage-for-epic-clashes-22d7524ea1af",
+      "headline": "La Liga Unveils 2026-27 Season Schedule, Setting Stage for Epic Clashes",
+      "league": "La Liga",
+      "summary": "The highly anticipated 2026-27 La Liga fixture list has been officially released, confirming an August 16th kickoff and outlining key dates for the season's most thrilling encounters. Fans can now mark their calendars for the crucial El Clásico and Madrid Derby showdowns as the path to the championship takes shape.",
+      "body": "The Spanish top flight, LALIGA EA SPORTS, is set to ignite on August 16, 2026, with reigning champions Barcelona welcoming Athletic Club to Camp Nou for their opening fixture. Arch-rivals Real Madrid will begin their campaign at home, hosting Real Sociedad at the Santiago Bernabeu, while Atletico Madrid will entertain newly promoted Malaga at the Riyadh Air Metropolitano.\n\nEnthusiasts can look forward to the first El Clásico of the season on the weekend of October 25, during Matchday 10, when Barcelona will host Real Madrid. The return leg between the two giants is slated for the weekend of May 9, on Matchday 35, at the Bernabeu. The fierce Madrid Derby will first unfold on Matchday 7, around September 20, at Atletico's home ground, with the second clash scheduled for April 4 at Real Madrid's stadium.\n\nThe fixture reveal, conducted by the Royal Spanish Football Federation in Madrid's Plaza de Colon, confirms an asymmetrical calendar for the upcoming season. The league will conclude on May 30, promising another captivating race for the coveted title across Spain.",
+      "tags": [
+        "La Liga",
+        "Fixture Release",
+        "Barcelona",
+        "Real Madrid"
+      ],
+      "image": "images/la-liga-unveils-2026-27-season-schedule-setting-stage-for-epic-clashes-22d7524ea1af.png",
+      "publishedAt": "2026-07-01T20:22:25.676Z"
+    },
+    {
       "id": "african-ascent-nine-nations-make-history-in-world-cup-round-of-32-3d6a1b1bdd25",
       "headline": "African Ascent: Nine Nations Make History in World Cup Round of 32",
       "league": "World Cup Qualifiers",
@@ -540,5 +555,5 @@
       "publishedAt": "2026-06-30T18:20:02.062Z"
     }
   ],
-  "lastRun": "2026-07-01T19:56:55.606Z"
+  "lastRun": "2026-07-01T20:22:31.724Z"
 }
