@@ -1,6 +1,37 @@
 {
   "articles": [
     {
+      "id": "african-ascent-nine-nations-make-history-in-world-cup-round-of-32-3d6a1b1bdd25",
+      "headline": "African Ascent: Nine Nations Make History in World Cup Round of 32",
+      "league": "World Cup Qualifiers",
+      "summary": "African football is celebrating an unprecedented milestone at the 2026 FIFA World Cup, with a record nine nations successfully navigating the group stage to reach the Round of 32. This remarkable achievement highlights the continent's rising influence and competitive strength on the global stage.",
+      "body": "The 2026 FIFA World Cup has already etched itself into the history books for African football, as a formidable nine teams have advanced to the knockout phase. Algeria, Cape Verde, Côte d'Ivoire, Democratic Republic of Congo, Egypt, Ghana, Morocco, Senegal, and South Africa have all secured their spots in the Round of 32, marking a historic and unparalleled representation for the Confederation of African Football (CAF). This collective triumph underscores a significant shift in the global football landscape.\n\nThis impressive showing is a testament to years of development and investment across African football. Nations like Cape Verde are making their mark with a debut appearance in the knockout rounds, while established powerhouses such as Morocco and Senegal continue to demonstrate their consistent quality following strong performances in previous tournaments. Their journey through the demanding qualification process has clearly prepared them for the intense competition of the World Cup finals.\n\nThe success of these nine teams has ignited immense pride and excitement across Africa, signifying a new era of competitiveness. As they prepare for challenging matchups against some of the world's best, the continent watches with anticipation, hopeful that this strong contingent can continue to break barriers and make a deep run in the tournament.",
+      "tags": [
+        "African Football",
+        "World Cup 2026",
+        "Knockout Stage",
+        "CAF",
+        "Historic Achievement"
+      ],
+      "image": "images/african-ascent-nine-nations-make-history-in-world-cup-round-of-32-3d6a1b1bdd25.png",
+      "publishedAt": "2026-07-01T19:22:27.110Z"
+    },
+    {
+      "id": "real-madrid-targets-olise-in-potential-record-breaking-transfer-bid-d1b9ac79a0cc",
+      "headline": "Real Madrid Targets Olise in Potential Record-Breaking Transfer Bid",
+      "league": "Champions League",
+      "summary": "Real Madrid is reportedly making a significant push to acquire Bayern Munich winger Michael Olise, who is thought to be hesitant about extending his current contract in Germany. This audacious move could see a new world record transfer fee established, dramatically altering the European football landscape.",
+      "body": "Real Madrid is reportedly intensifying its pursuit of Bayern Munich's highly-rated winger, Michael Olise, with sources indicating a monumental offer is being prepared. The Spanish giants are allegedly ready to table an astounding €223 million package, which would position the 24-year-old French international as the most expensive player in football history if the transfer is finalized. This ambitious approach underscores Real Madrid's determination to further enhance their already formidable squad ahead of the upcoming Champions League season.\n\nSpeculation surrounding Olise's future has grown following reports from Germany that the talented winger is reluctant to commit to a new long-term contract with Bayern Munich. Despite the German champions' desire to retain him, it appears Olise harbors aspirations for a different challenge, with Real Madrid reportedly viewed as his dream destination. This development could provide Los Blancos with a crucial advantage in their bid to secure the highly sought-after forward.\n\nWhile an informal non-aggression pact between Real Madrid and Bayern Munich regarding transfers might complicate negotiations, club president Florentino Perez's vision for a new era of \"Galacticos\" seems to be the driving force behind this pursuit. Should the transfer materialize, Olise's arrival would undoubtedly add another dynamic dimension to Real Madrid's attack, significantly influencing their tactical approach and aspirations for European glory in the seasons to come.",
+      "tags": [
+        "Real Madrid",
+        "Michael Olise",
+        "Transfer News",
+        "Bayern Munich"
+      ],
+      "image": "images/real-madrid-targets-olise-in-potential-record-breaking-transfer-bid-d1b9ac79a0cc.png",
+      "publishedAt": "2026-07-01T19:23:00.775Z"
+    },
+    {
       "id": "lewandowski-joins-chicago-fire-in-blockbuster-mls-move-4a523fd6d577",
       "headline": "Lewandowski Joins Chicago Fire in Blockbuster MLS Move",
       "league": "MLS",
@@ -509,5 +540,5 @@
       "publishedAt": "2026-06-30T18:20:02.062Z"
     }
   ],
-  "lastRun": "2026-07-01T19:02:33.721Z"
+  "lastRun": "2026-07-01T19:23:05.033Z"
 }
