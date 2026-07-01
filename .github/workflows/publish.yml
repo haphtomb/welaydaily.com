@@ -30,6 +30,7 @@ jobs:
       - name: Run news + image publishing agent
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: node scripts/publish-agent.mjs
 
       - name: Commit and push updated data
