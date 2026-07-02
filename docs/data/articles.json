@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "old-trafford-undergoing-upgrades-for-champions-league-return-832e694a83ef",
+      "headline": "Old Trafford Undergoing Upgrades for Champions League Return",
+      "league": "Champions League",
+      "summary": "Manchester United is undertaking necessary renovations at Old Trafford to meet updated UEFA regulations ahead of their return to the Champions League. The club's dugouts are being expanded to accommodate a larger number of personnel, ensuring compliance for the upcoming European campaign.",
+      "body": "Manchester United has begun essential construction work at their iconic Old Trafford stadium, focusing on the team dugouts. These modifications are a direct response to new UEFA regulations, introduced in 2025, which mandate seating for a minimum of 20 individuals on each team bench. The current dugouts at the Theatre of Dreams only seat 16, necessitating the immediate upgrade.\n\nHaving secured a return to Europe's elite competition after a three-year absence, finishing third in the Premier League last season, United is keen to ensure all logistical requirements are met well in advance. The work, which commenced yesterday morning, will take several weeks to complete, preparing the venue for the Champions League anthem once more in September.\n\nThe club has confirmed the new design will feature 21 seats, distributed across three rows, providing ample space for players and coaching staff. This proactive approach highlights Manchester United's commitment to adhering to continental standards as they prepare for a demanding season both domestically and in Europe.",
+      "tags": [
+        "Manchester United",
+        "Old Trafford",
+        "UEFA Regulations",
+        "Stadium Upgrades"
+      ],
+      "image": "images/old-trafford-undergoing-upgrades-for-champions-league-return-832e694a83ef.png",
+      "publishedAt": "2026-07-02T14:02:19.509Z"
+    },
+    {
       "id": "caf-releases-full-calendar-for-2026-27-champions-league-season-7e283d00f8e7",
       "headline": "CAF Releases Full Calendar for 2026/27 Champions League Season",
       "league": "CAF Champions League",
@@ -676,5 +691,5 @@
       "publishedAt": "2026-06-30T18:20:02.062Z"
     }
   ],
-  "lastRun": "2026-07-02T11:38:50.321Z"
+  "lastRun": "2026-07-02T14:02:29.064Z"
 }
