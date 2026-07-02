@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T03:34:39.647Z",
+  "updatedAt": "2026-07-02T08:56:05.535Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -772,7 +772,208 @@
           "form": []
         }
       ],
-      "fixtures": []
+      "fixtures": [
+        {
+          "id": 564992,
+          "utcDate": "2027-05-23T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 37,
+          "home": "Club Atlético de Madrid",
+          "away": "Athletic Club",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 564993,
+          "utcDate": "2027-05-23T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 37,
+          "home": "Deportivo Alavés",
+          "away": "Real Madrid CF",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 564994,
+          "utcDate": "2027-05-23T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 37,
+          "home": "Sevilla FC",
+          "away": "Getafe CF",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 564995,
+          "utcDate": "2027-05-23T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 37,
+          "home": "Villarreal CF",
+          "away": "CA Osasuna",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 564996,
+          "utcDate": "2027-05-23T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 37,
+          "home": "Real Racing Club de Santander",
+          "away": "Levante UD",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 564997,
+          "utcDate": "2027-05-23T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 37,
+          "home": "RC Deportivo La Coruña",
+          "away": "RCD Espanyol de Barcelona",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 564988,
+          "utcDate": "2027-05-23T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 37,
+          "home": "Rayo Vallecano de Madrid",
+          "away": "Real Betis Balompié",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 564989,
+          "utcDate": "2027-05-23T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 37,
+          "home": "FC Barcelona",
+          "away": "Málaga CF",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 564990,
+          "utcDate": "2027-05-23T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 37,
+          "home": "Valencia CF",
+          "away": "Elche CF",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 564991,
+          "utcDate": "2027-05-23T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 37,
+          "home": "RC Celta de Vigo",
+          "away": "Real Sociedad de Fútbol",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 564998,
+          "utcDate": "2027-05-30T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 38,
+          "home": "Levante UD",
+          "away": "RC Celta de Vigo",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 564999,
+          "utcDate": "2027-05-30T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 38,
+          "home": "Real Madrid CF",
+          "away": "RC Deportivo La Coruña",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 565000,
+          "utcDate": "2027-05-30T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 38,
+          "home": "Real Betis Balompié",
+          "away": "Club Atlético de Madrid",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 565001,
+          "utcDate": "2027-05-30T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 38,
+          "home": "Real Sociedad de Fútbol",
+          "away": "Villarreal CF",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 565002,
+          "utcDate": "2027-05-30T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 38,
+          "home": "Málaga CF",
+          "away": "Sevilla FC",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 565003,
+          "utcDate": "2027-05-30T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 38,
+          "home": "Elche CF",
+          "away": "Real Racing Club de Santander",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 565004,
+          "utcDate": "2027-05-30T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 38,
+          "home": "Athletic Club",
+          "away": "Rayo Vallecano de Madrid",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 565005,
+          "utcDate": "2027-05-30T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 38,
+          "home": "RCD Espanyol de Barcelona",
+          "away": "Deportivo Alavés",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 565006,
+          "utcDate": "2027-05-30T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 38,
+          "home": "Getafe CF",
+          "away": "FC Barcelona",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 565007,
+          "utcDate": "2027-05-30T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 38,
+          "home": "CA Osasuna",
+          "away": "Valencia CF",
+          "homeScore": null,
+          "awayScore": null
+        }
+      ]
     },
     "BL1": {
       "name": "Bundesliga",

@@ -1,6 +1,52 @@
 {
   "articles": [
     {
+      "id": "tielemans-late-penalty-seals-dramatic-belgian-comeback-against-senegal-018e31bbf8ae",
+      "headline": "Tielemans' Late Penalty Seals Dramatic Belgian Comeback Against Senegal",
+      "league": "World Cup Qualifiers",
+      "summary": "Belgium staged an incredible comeback from a two-goal deficit to defeat Senegal 3-2 in extra time, securing their spot in the World Cup Round of 16. Youri Tielemans emerged as the hero, converting a penalty deep into extra time to complete the stunning turnaround.",
+      "body": "In a thrilling Round of 32 clash, Belgium mounted a sensational comeback to overcome Senegal with a 3-2 victory after extra time. The African side initially stunned the Red Devils by establishing a two-goal lead, putting the European giants on the brink of an early World Cup exit.\n\nHowever, Belgium showcased immense resilience, clawing their way back into the contest. Romelu Lukaku was instrumental in initiating the fightback, with Youri Tielemans ultimately delivering the decisive blow from the penalty spot in the 125th minute of play, sealing one of the tournament's most dramatic results so far.\n\nThis hard-fought win propels Belgium into the Round of 16, where they are now set to face co-hosts USA. The Americans advanced after their own 2-0 victory over Bosnia and Herzegovina, setting up a compelling encounter in the next stage of the competition.",
+      "tags": [
+        "World Cup 2026",
+        "Belgium",
+        "Senegal",
+        "Youri Tielemans",
+        "Round of 32"
+      ],
+      "image": "images/tielemans-late-penalty-seals-dramatic-belgian-comeback-against-senegal-018e31bbf8ae.png",
+      "publishedAt": "2026-07-02T08:58:12.359Z"
+    },
+    {
+      "id": "columbus-crew-secure-andr-s-herrera-on-permanent-deal-from-river-plate-071f3e72514c",
+      "headline": "Columbus Crew Secure Andrés Herrera on Permanent Deal from River Plate",
+      "league": "MLS",
+      "summary": "The Columbus Crew have finalized the full acquisition of defender Andrés Herrera from Argentine club River Plate, securing his services for the long term after a successful loan spell. This move ensures the experienced right-back remains a crucial part of the Crew's defensive setup as they look ahead to the resumed MLS season.",
+      "body": "The Columbus Crew announced on Wednesday, July 1, 2026, that they have completed the transfer of defender Andrés Herrera from River Plate, making his stay permanent. The 27-year-old Argentine international has committed to the club with a contract extending through the 2028-29 season, including an option for the 2029-30 campaign. Herrera had previously been with the Crew on loan, proving to be a valuable asset to the team.\n\nHerrera's impact since joining Columbus has been significant, contributing to the team's desired style of play and overall culture. He has made 57 appearances across all competitions for the Crew, registering seven goals and six assists, and was part of the squad that lifted the 2024 Leagues Cup. His consistent performance during his loan period clearly demonstrated his importance to the team's ambitions.\n\nThe full acquisition of Herrera provides stability to the Crew's defense as the MLS season prepares to resume following the FIFA World Cup break. Columbus currently sits tenth in the Eastern Conference with 16 points and will restart their league campaign against New York City FC on July 22. This move signals the club's commitment to building a strong and cohesive squad for future success.",
+      "tags": [
+        "MLS",
+        "Columbus Crew",
+        "Andrés Herrera",
+        "Transfer News"
+      ],
+      "image": "images/columbus-crew-secure-andr-s-herrera-on-permanent-deal-from-river-plate-071f3e72514c.png",
+      "publishedAt": "2026-07-02T08:58:39.526Z"
+    },
+    {
+      "id": "unam-fc-challenges-nfa-over-caf-confederation-cup-nomination-9927cffe2e28",
+      "headline": "Unam FC Challenges NFA Over CAF Confederation Cup Nomination",
+      "league": "CAF Confederation Cup",
+      "summary": "Namibian club Unam FC has formally contested the Namibia Football Association's decision to bypass them for a CAF Confederation Cup spot, despite their recent NFA Cup triumph. The club argues that their cup victory should guarantee their continental participation, especially with an extended CAF registration deadline.",
+      "body": "Unam FC has lodged an official complaint with the Namibia Football Association (NFA) regarding the choice of Eeshoke Chula Chula as the nation's representative in the upcoming CAF Confederation Cup. The university-affiliated team, having secured the 2026 NFA Cup title by defeating KK Palace 2-1, believes they rightfully earned the spot through sporting merit.\n\nNFA president Robert Shimooshili had previously indicated that Eeshoke Chula Chula was nominated due to a conflict between the NFA Cup's completion and CAF's initial registration deadlines. However, Unam FC chairperson Frednard Gideon highlighted that the Confederation of African Football has since extended its club licensing submission deadline to July 25, mitigating the NFA's original concern.\n\nActing NFA general secretary Mabos Vries has confirmed receipt of Unam FC's letter, stating the matter will be discussed internally before any public announcement. Unam FC insists that all participating clubs in the NFA Cup competed under the understanding that the winner would qualify for the continental competition.",
+      "tags": [
+        "Namibian Football",
+        "CAF",
+        "Club Football",
+        "NFA Cup"
+      ],
+      "image": "images/unam-fc-challenges-nfa-over-caf-confederation-cup-nomination-9927cffe2e28.png",
+      "publishedAt": "2026-07-02T08:59:08.881Z"
+    },
+    {
       "id": "arsenal-intensify-pursuit-of-psg-s-champions-league-winning-winger-barcola-0f4c099c3e2c",
       "headline": "Arsenal Intensify Pursuit of PSG's Champions League-Winning Winger Barcola",
       "league": "Transfer News",
@@ -585,5 +631,5 @@
       "publishedAt": "2026-06-30T18:20:02.062Z"
     }
   ],
-  "lastRun": "2026-07-02T03:36:39.559Z"
+  "lastRun": "2026-07-02T08:59:12.881Z"
 }
