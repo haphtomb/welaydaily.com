@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "tynecastle-sells-out-for-hearts-champions-league-qualifier-against-sturm-graz-17eae3f79f3a",
+      "headline": "Tynecastle Sells Out for Hearts' Champions League Qualifier Against Sturm Graz",
+      "league": "Champions League",
+      "summary": "Heart of Midlothian has confirmed that tickets for their upcoming UEFA Champions League qualifying match against Sturm Graz at Tynecastle are completely sold out, reflecting immense fan enthusiasm. The rapid sell-out underscores the fervent support as the Edinburgh club prepares for a crucial European encounter.",
+      "body": "Heart of Midlothian supporters have swiftly secured their places for the highly anticipated UEFA Champions League qualifying fixture against Austrian champions Sturm Graz, with the club announcing a full house at Tynecastle. The overwhelming demand for tickets highlights the palpable excitement surrounding Hearts' return to Europe's elite club competition.\n\nThe Edinburgh side is gearing up to host the Austrians in a pivotal match as they aim to navigate the demanding qualifying stages. Fans eagerly purchased all available tickets, demonstrating a powerful show of solidarity for the team's ambitions on the continental stage.\n\nThis robust response from the fanbase is expected to provide a significant morale boost for the squad as they prepare to face Sturm Graz. The atmosphere at Tynecastle is anticipated to be electrifying, with the packed stadium ready to passionately back their team in pursuit of a place in the Champions League group stage.",
+      "tags": [
+        "Hearts",
+        "Sturm Graz",
+        "Champions League Qualifiers",
+        "Tynecastle"
+      ],
+      "image": "images/tynecastle-sells-out-for-hearts-champions-league-qualifier-against-sturm-graz-17eae3f79f3a.png",
+      "publishedAt": "2026-07-02T22:08:01.179Z"
+    },
+    {
       "id": "barcelona-unshackled-la-liga-lifts-financial-restrictions-for-summer-spending-sp-0db3e65223c4",
       "headline": "Barcelona Unshackled: La Liga Lifts Financial Restrictions for Summer Spending Spree",
       "league": "La Liga",
@@ -783,5 +798,5 @@
       "publishedAt": "2026-06-30T18:20:02.062Z"
     }
   ],
-  "lastRun": "2026-07-02T19:25:52.203Z"
+  "lastRun": "2026-07-02T22:08:05.537Z"
 }
