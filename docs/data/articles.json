@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "caf-releases-full-calendar-for-2026-27-champions-league-season-7e283d00f8e7",
+      "headline": "CAF Releases Full Calendar for 2026/27 Champions League Season",
+      "league": "CAF Champions League",
+      "summary": "The Confederation of African Football has officially unveiled the comprehensive match schedule for the upcoming 2026/27 TotalEnergies CAF Champions League and Confederation Cup campaigns. This detailed calendar provides clubs with crucial dates for preliminary rounds, group stages, and knockout fixtures.",
+      "body": "African football's governing body, CAF, announced today the full fixture list for its premier club competitions, the TotalEnergies CAF Champions League and TotalEnergies CAF Confederation Cup, for the 2026/27 season. This significant release outlines the pathway to continental glory for participating clubs, commencing with the initial preliminary rounds.\n\nThe competition is set to kick off in early September 2026 with the first preliminary round, featuring first-leg matches from September 4 to 6, followed by the return fixtures between September 11 and 13. The second preliminary round will take place in October, with group stage action then scheduled to begin in late November.\n\nFans can anticipate the group phase running through January 2027, before the knockout stages commence with the quarter-finals in late February. The semi-finals are slated for April, with the grand finals for both the Champions League and Confederation Cup expected to be held between May 9 and 31, 2027, with specific venues and dates to be confirmed later.",
+      "tags": [
+        "CAF Champions League",
+        "Fixtures",
+        "African Football",
+        "2026/27 Season"
+      ],
+      "image": "images/caf-releases-full-calendar-for-2026-27-champions-league-season-7e283d00f8e7.png",
+      "publishedAt": "2026-07-02T11:37:37.607Z"
+    },
+    {
+      "id": "real-salt-lake-bolsters-midfield-with-acquisition-of-saba-lobjanidze-from-atlant-e1a0e743cd50",
+      "headline": "Real Salt Lake Bolsters Midfield with Acquisition of Saba Lobjanidze from Atlanta United",
+      "league": "MLS",
+      "summary": "Real Salt Lake has made a significant roster move, acquiring midfielder Saba Lobjanidze from Atlanta United FC in a deal involving General Allocation Money and a draft pick. This move aims to strengthen RSL's squad as they prepare to resume the MLS season following the World Cup break.",
+      "body": "Real Salt Lake announced on July 1, 2026, the acquisition of midfielder Saba Lobjanidze from Atlanta United FC, securing the Georgian international for the remainder of the 2026 Major League Soccer regular season. The transaction saw RSL send $625,000 in General Allocation Money (GAM) to Atlanta, with an additional $100,000 in 2027 GAM contingent on Lobjanidze re-signing with Real Salt Lake. Atlanta also included their third-round pick in the 2028 MLS SuperDraft as part of the deal.\n\nLobjanidze, who holds a U.S. green card and qualifies as a domestic player, arrived in MLS in August 2023, joining Atlanta United. During his tenure with Atlanta, he accumulated 15 goals and 21 assists across 93 appearances in MLS and playoff matches. Real Salt Lake's Chief Soccer Officer and Sporting Director Kurt Schmid highlighted Lobjanidze's experience, noting his nearly 100 MLS games over the past three years, and expressed confidence that he will quickly integrate into RSL's system and bolster their attack.\n\nThe move comes as Real Salt Lake sits third in the MLS Western Conference standings with 26 points from 14 games during the current World Cup break. The team's strong start to the 2026 season, marking their second-best 14-game opening in club history, suggests Lobjanidze's arrival is intended to provide crucial depth and competition as they look to maintain their impressive form.",
+      "tags": [
+        "MLS",
+        "Transfer News",
+        "Real Salt Lake",
+        "Atlanta United"
+      ],
+      "image": "images/real-salt-lake-bolsters-midfield-with-acquisition-of-saba-lobjanidze-from-atlant-e1a0e743cd50.png",
+      "publishedAt": "2026-07-02T11:38:16.873Z"
+    },
+    {
+      "id": "orange-county-star-pedro-guimaraes-completes-dream-move-to-eintracht-frankfurt-8e0b6ae63207",
+      "headline": "Orange County Star Pedro Guimaraes Completes Dream Move to Eintracht Frankfurt",
+      "league": "Bundesliga",
+      "summary": "Young American defender Pedro Guimaraes has officially completed his transfer from Orange County SC to German Bundesliga club Eintracht Frankfurt, marking a significant step in his burgeoning career. The move represents a landmark moment for the USL Championship side, showcasing their impactful player development pathway.",
+      "body": "Eintracht Frankfurt has successfully secured the services of promising American defender Pedro Guimaraes, with Orange County SC announcing the completion of his transfer. Following his eighteenth birthday, Guimaraes has now joined the German outfit and has arrived in Frankfurt, ready to embark on the next chapter of his professional journey. This highly anticipated move underscores the growing pipeline of talent emerging from the United States to top European leagues.\n\nThe transfer stands as the largest player sale in Orange County SC's history and is recognized as one of the most substantial transfers ever from the USL Championship. It further solidifies the club's reputation as a leading developer of young football talent in North America, with Guimaraes having honed his skills through their Next Wave program after initially developing with the LAFC Academy.\n\nGuimaraes, an Aliso Viejo native, established himself as a top young defender, earning multiple call-ups to the U.S. Youth National Team, including a spot in the 2025 FIFA U-17 World Cup squad. He made 15 appearances for Orange County in 2026 before his departure, contributing a goal and two assists, bringing his total professional appearances for the club to 40.",
+      "tags": [
+        "Pedro Guimaraes",
+        "Eintracht Frankfurt",
+        "Orange County SC",
+        "Bundesliga"
+      ],
+      "image": "images/orange-county-star-pedro-guimaraes-completes-dream-move-to-eintracht-frankfurt-8e0b6ae63207.png",
+      "publishedAt": "2026-07-02T11:38:46.321Z"
+    },
+    {
       "id": "tielemans-late-penalty-seals-dramatic-belgian-comeback-against-senegal-018e31bbf8ae",
       "headline": "Tielemans' Late Penalty Seals Dramatic Belgian Comeback Against Senegal",
       "league": "World Cup Qualifiers",
@@ -631,5 +676,5 @@
       "publishedAt": "2026-06-30T18:20:02.062Z"
     }
   ],
-  "lastRun": "2026-07-02T08:59:12.881Z"
+  "lastRun": "2026-07-02T11:38:50.321Z"
 }
