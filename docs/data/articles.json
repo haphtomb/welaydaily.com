@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "arsenal-intensify-pursuit-of-psg-s-champions-league-winning-winger-barcola-0f4c099c3e2c",
+      "headline": "Arsenal Intensify Pursuit of PSG's Champions League-Winning Winger Barcola",
+      "league": "Transfer News",
+      "summary": "Arsenal are reportedly stepping up their efforts to sign French attacker Bradley Barcola from Paris Saint-Germain, with the player seemingly open to a new challenge. The Gunners are keen to bolster their squad with a player who brings recent Champions League success.",
+      "body": "North London club Arsenal is reportedly increasing their interest in Paris Saint-Germain's talented winger, Bradley Barcola. Reports suggest the French international, a two-time Champions League winner with PSG, is considering a departure from the Parc des Princes, where his starting role has become less assured. Arsenal sees Barcola as a valuable addition to their attacking options, believing his pace, creativity, and European experience would significantly enhance their squad as they aim for major honors.\n\nPSG, meanwhile, appears willing to entertain offers for Barcola. The Ligue 1 champions are reportedly looking to adjust their squad and generate funds for other transfer targets, with rumors of interest in Yan Diomande as a potential long-term replacement for the winger. This situation has reportedly encouraged Arsenal to formalize their pursuit.\n\nThe potential move highlights Arsenal's ambition to secure players accustomed to success at the highest level of European football. Bringing in a player with Barcola's winning pedigree could provide a crucial edge as the Gunners look to strengthen their challenge for the Champions League title in upcoming seasons. Liverpool is also reportedly monitoring the situation, potentially setting up a transfer battle for the attacker's signature.",
+      "tags": [
+        "Arsenal",
+        "PSG",
+        "Bradley Barcola",
+        "Transfer News"
+      ],
+      "image": "images/arsenal-intensify-pursuit-of-psg-s-champions-league-winning-winger-barcola-0f4c099c3e2c.png",
+      "publishedAt": "2026-07-02T03:36:35.259Z"
+    },
+    {
       "id": "real-madrid-bolsters-defense-with-marquee-cucurella-signing-77d628c336b5",
       "headline": "Real Madrid Bolsters Defense with Marquee Cucurella Signing",
       "league": "La Liga",
@@ -570,5 +585,5 @@
       "publishedAt": "2026-06-30T18:20:02.062Z"
     }
   ],
-  "lastRun": "2026-07-01T22:19:19.481Z"
+  "lastRun": "2026-07-02T03:36:39.559Z"
 }
