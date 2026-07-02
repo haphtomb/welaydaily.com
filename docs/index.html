@@ -62,6 +62,11 @@
   .article-body p{font-size:12px;color:var(--mist);line-height:1.55;}
   .article-meta{font-size:10px;color:var(--steel);margin-top:10px;}
   .empty-state{color:var(--mist);font-size:13px;grid-column:1/-1;padding:30px 0;text-align:center;background:var(--ash);border-radius:4px;border:1px dashed var(--mid);}
+  .pagination-bar{display:flex;align-items:center;justify-content:center;gap:20px;margin-top:32px;}
+  .page-btn{background:var(--ash);border:1px solid var(--mid);color:var(--white);font-size:12px;font-weight:600;letter-spacing:.04em;padding:9px 18px;border-radius:4px;cursor:pointer;transition:border-color .2s,color .2s;}
+  .page-btn:hover:not(:disabled){border-color:var(--green);color:var(--green);}
+  .page-btn:disabled{opacity:.35;cursor:not-allowed;}
+  .page-indicator{font-size:12px;color:var(--mist);letter-spacing:.03em;}
   .two-col{display:grid;grid-template-columns:2fr 1fr;gap:24px;}
   .standings-tabs{display:flex;flex-wrap:wrap;margin-bottom:16px;border-bottom:1px solid var(--mid);}
   .standings-tabs button{padding:10px 16px;font-size:11px;font-weight:600;letter-spacing:.07em;text-transform:uppercase;background:none;border:none;color:var(--mist);border-bottom:2px solid transparent;cursor:pointer;}
@@ -226,10 +231,9 @@
 
 <footer>
   <div class="footer-logo">WELAYDAILY</div>
-  <p>World Football · Every Day · AI-Powered, Fully Original Content</p>
-  <p style="margin-top:8px;">All articles are AI-rewritten summaries of public news events. All imagery is original, programmatically generated graphics, not photography.</p>
+  <p>World Football · Every Day</p>
   <p style="margin-top:8px;">
-    © 2026 WelayDaily.com — <a href="about.html" style="color:var(--steel);">About</a> · <a href="privacy.html" style="color:var(--steel);">Privacy Policy</a> · <a href="contact.html" style="color:var(--steel);">Contact</a>
+    © 2026 WelayDaily.com — All rights reserved · <a href="about.html" style="color:var(--steel);">About</a> · <a href="privacy.html" style="color:var(--steel);">Privacy Policy</a> · <a href="contact.html" style="color:var(--steel);">Contact</a>
   </p>
 </footer>
 
@@ -249,6 +253,10 @@ function timeAgo(iso){
 }
 
 // ---- Load articles ----
+const ARTICLES_PER_PAGE = 12;
+let allArticles = [];
+let currentPage = 1;
+
 async function loadArticles(){
   const grid=document.getElementById('articles-grid');
   try{
@@ -265,26 +273,77 @@ async function loadArticles(){
       return;
     }
 
-    grid.innerHTML='';
-    data.articles.forEach(a=>{
-      const card=document.createElement('a');
-      card.className='article-card';
-      card.href = `article.html?id=${encodeURIComponent(a.id)}`;
-      card.innerHTML=`
-        <div class="article-art">
-          <img src="${a.image || 'images/placeholder.svg'}" alt="${a.headline}" loading="lazy" onerror="this.onerror=null;this.src='images/placeholder.svg';">
-        </div>
-        <div class="article-body">
-          <div class="league-tag">${a.league || 'Football'}</div>
-          <h4>${a.headline}</h4>
-          <p>${a.summary}</p>
-          <div class="article-meta">WelayDaily · ${timeAgo(a.publishedAt)}</div>
-        </div>`;
-      grid.appendChild(card);
-    });
+    allArticles = data.articles;
+    currentPage = 1;
+    renderArticlesPage();
   }catch(e){
     grid.innerHTML = `<div class="empty-state">Couldn't load articles right now. (${e.message})</div>`;
   }
+}
+
+function renderArticlesPage(){
+  const grid=document.getElementById('articles-grid');
+  const totalPages = Math.max(1, Math.ceil(allArticles.length / ARTICLES_PER_PAGE));
+  currentPage = Math.min(Math.max(1, currentPage), totalPages);
+
+  const start = (currentPage - 1) * ARTICLES_PER_PAGE;
+  const pageItems = allArticles.slice(start, start + ARTICLES_PER_PAGE);
+
+  grid.innerHTML='';
+  pageItems.forEach(a=>{
+    const card=document.createElement('a');
+    card.className='article-card';
+    card.href = `article.html?id=${encodeURIComponent(a.id)}`;
+    card.innerHTML=`
+      <div class="article-art">
+        <img src="${a.image || 'images/placeholder.svg'}" alt="${a.headline}" loading="lazy" onerror="this.onerror=null;this.src='images/placeholder.svg';">
+      </div>
+      <div class="article-body">
+        <div class="league-tag">${a.league || 'Football'}</div>
+        <h4>${a.headline}</h4>
+        <p>${a.summary}</p>
+        <div class="article-meta">WelayDaily · ${timeAgo(a.publishedAt)}</div>
+      </div>`;
+    grid.appendChild(card);
+  });
+
+  renderPaginationControls(totalPages);
+}
+
+function renderPaginationControls(totalPages){
+  let bar = document.getElementById('articles-pagination');
+  if(!bar){
+    bar = document.createElement('div');
+    bar.id = 'articles-pagination';
+    bar.className = 'pagination-bar';
+    document.getElementById('articles-grid').insertAdjacentElement('afterend', bar);
+  }
+
+  if(totalPages <= 1){
+    bar.innerHTML = '';
+    return;
+  }
+
+  bar.innerHTML = `
+    <button class="page-btn" id="prev-page-btn" ${currentPage===1?'disabled':''}>&larr; Previous</button>
+    <span class="page-indicator">Page ${currentPage} of ${totalPages}</span>
+    <button class="page-btn" id="next-page-btn" ${currentPage===totalPages?'disabled':''}>Next &rarr;</button>
+  `;
+
+  document.getElementById('prev-page-btn').onclick = () => {
+    if(currentPage > 1){
+      currentPage--;
+      renderArticlesPage();
+      document.getElementById('news').scrollIntoView({behavior:'smooth'});
+    }
+  };
+  document.getElementById('next-page-btn').onclick = () => {
+    if(currentPage < totalPages){
+      currentPage++;
+      renderArticlesPage();
+      document.getElementById('news').scrollIntoView({behavior:'smooth'});
+    }
+  };
 }
 
 // ---- Load standings + fixtures ----
@@ -392,32 +451,19 @@ loadArticles();
 loadStandings();
 loadWorldCup();
 
-// ---- WORLD CUP 2026 LIVE DATA ----
-// Uses BallDontLie FIFA World Cup API — free, no API key, clean JSON
-// Docs: https://fifa.balldontlie.io/
-const WC_API = 'https://api.balldontlie.io/fifa/worldcup/v1';
+// Auto-refresh World Cup data every 60 seconds so live scores/minutes
+// actually update while someone has the page open, without a full reload.
+setInterval(loadWorldCup, 60000);
+
+// ---- WORLD CUP 2026 DATA ----
+// Using openfootball's public results JSON (no API key needed, safe for
+// client-side use). Live BallDontLie integration is on hold until it can
+// be moved to the backend bot to avoid exposing an API key in page source.
 let wcGroupsData = {};
 let wcActiveGroup = 'Group A';
 
 async function loadWorldCup() {
-  try {
-    const [matchesRes, groupsRes] = await Promise.all([
-      fetch(`${WC_API}/matches?seasons[]=2026&per_page=50`),
-      fetch(`${WC_API}/standings?seasons[]=2026`)
-    ]);
-
-    if (!matchesRes.ok || !groupsRes.ok) throw new Error('API unavailable');
-
-    const matchesData = await matchesRes.json();
-    const groupsData = await groupsRes.json();
-
-    renderWcMatches(matchesData.data || []);
-    renderWcGroupTabs(groupsData.data || []);
-  } catch(e) {
-    console.warn('WC API error:', e.message);
-    // Fallback: try openfootball public JSON
-    loadWorldCupFallback();
-  }
+  await loadWorldCupFallback();
 }
 
 async function loadWorldCupFallback() {
@@ -667,163 +713,7 @@ function renderWcGroupStandings(rows) {
     </tr>`;
   });
 }
-</script>
 
-
-async function loadWorldCup() {
-  try {
-    // Fetch both in parallel
-    const [matchesRes, groupsRes] = await Promise.all([
-      fetch('https://worldcup26.ir/get/games'),
-      fetch('https://worldcup26.ir/get/groups')
-    ]);
-
-    if (!matchesRes.ok || !groupsRes.ok) throw new Error('API unavailable');
-
-    const matches = await matchesRes.json();
-    const groups = await groupsRes.json();
-
-    renderWcMatches(matches);
-    renderWcGroupTabs(groups);
-  } catch(e) {
-    document.getElementById('wc-matches').innerHTML =
-      `<div class="wc-loading" style="color:var(--steel);">Live data temporarily unavailable — check back shortly.</div>`;
-    document.getElementById('wc-standings-body').innerHTML =
-      `<tr><td colspan="8" class="wc-loading" style="color:var(--steel);">Unavailable</td></tr>`;
-  }
-}
-
-function renderWcMatches(matches) {
-  const container = document.getElementById('wc-matches');
-  const liveDot = document.getElementById('wc-live-dot');
-
-  // Sort: live first, then by date desc, show max 12
-  const sorted = [...matches].sort((a, b) => {
-    const aLive = a.status === 'in_progress' || a.status === 'live';
-    const bLive = b.status === 'in_progress' || b.status === 'live';
-    if (aLive && !bLive) return -1;
-    if (!aLive && bLive) return 1;
-    return new Date(b.date || 0) - new Date(a.date || 0);
-  }).slice(0, 12);
-
-  const hasLive = sorted.some(m => m.status === 'in_progress' || m.status === 'live');
-  if (hasLive) liveDot.style.display = 'block';
-
-  if (!sorted.length) {
-    container.innerHTML = '<div class="wc-loading">No matches yet.</div>';
-    return;
-  }
-
-  container.innerHTML = '';
-  sorted.forEach(m => {
-    const isLive = m.status === 'in_progress' || m.status === 'live';
-    const isFt = m.status === 'completed' || m.status === 'finished' || m.status === 'ft';
-    const homeScore = m.home_score ?? m.score1 ?? m.goals1 ?? '–';
-    const awayScore = m.away_score ?? m.score2 ?? m.goals2 ?? '–';
-    const home = m.home_team ?? m.team1 ?? '?';
-    const away = m.away_team ?? m.team2 ?? '?';
-    const group = m.group ?? m.stage ?? '';
-    const scoreStr = (homeScore !== '–' || isFt || isLive)
-      ? `${homeScore}–${awayScore}`
-      : formatWcDate(m.date || m.utcDate);
-    const scoreClass = isLive ? 'wc-score live-now' : isFt ? 'wc-score ft' : 'wc-score';
-    const metaStr = isLive ? '🔴 LIVE' : isFt ? 'FT' : group;
-
-    const row = document.createElement('div');
-    row.className = 'wc-match';
-    row.innerHTML = `
-      <div class="wc-home">${home}</div>
-      <div>
-        <div class="${scoreClass}">${scoreStr}</div>
-        <div class="wc-match-meta">${metaStr}</div>
-      </div>
-      <div class="wc-away">${away}</div>`;
-    container.appendChild(row);
-  });
-}
-
-function formatWcDate(dateStr) {
-  if (!dateStr) return '–';
-  try {
-    const d = new Date(dateStr);
-    return d.toLocaleString(undefined, {month:'short', day:'numeric', hour:'2-digit', minute:'2-digit'});
-  } catch { return '–'; }
-}
-
-function renderWcGroupTabs(groups) {
-  const tabsEl = document.getElementById('wc-group-tabs');
-  tabsEl.innerHTML = '';
-
-  // API may return array of groups or object — normalize
-  const groupList = Array.isArray(groups)
-    ? groups
-    : Object.entries(groups).map(([name, data]) => ({name, ...data}));
-
-  if (!groupList.length) {
-    document.getElementById('wc-standings-body').innerHTML =
-      `<tr><td colspan="8" class="wc-loading">No group data yet.</td></tr>`;
-    return;
-  }
-
-  // Store for tab switching
-  groupList.forEach(g => {
-    const name = g.name || g.group || g.letter || '?';
-    wcGroupsData[name] = g;
-  });
-
-  const groupNames = Object.keys(wcGroupsData).sort();
-  wcActiveGroup = groupNames[0];
-
-  groupNames.forEach(name => {
-    const btn = document.createElement('div');
-    btn.className = 'wc-group-tab' + (name === wcActiveGroup ? ' active' : '');
-    btn.textContent = `Grp ${name}`;
-    btn.onclick = () => {
-      tabsEl.querySelectorAll('.wc-group-tab').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      wcActiveGroup = name;
-      renderWcGroupStandings(wcGroupsData[name]);
-    };
-    tabsEl.appendChild(btn);
-  });
-
-  renderWcGroupStandings(wcGroupsData[wcActiveGroup]);
-}
-
-function renderWcGroupStandings(group) {
-  const body = document.getElementById('wc-standings-body');
-  // Teams may be in group.teams or group.standings
-  const teams = group.teams || group.standings || [];
-  if (!teams.length) {
-    body.innerHTML = `<tr><td colspan="8" class="wc-loading">No data for this group yet.</td></tr>`;
-    return;
-  }
-  // Sort by points desc, then GD, then GF
-  const sorted = [...teams].sort((a, b) => {
-    const pts = (b.points ?? b.pts ?? 0) - (a.points ?? a.pts ?? 0);
-    if (pts !== 0) return pts;
-    const gd = ((b.goal_difference ?? b.gd ?? 0) - (a.goal_difference ?? a.gd ?? 0));
-    if (gd !== 0) return gd;
-    return ((b.goals_for ?? b.gf ?? 0) - (a.goals_for ?? a.gf ?? 0));
-  });
-
-  body.innerHTML = '';
-  sorted.forEach((t, i) => {
-    const name = t.name ?? t.team ?? t.country ?? '?';
-    const p = t.played ?? t.matches_played ?? t.mp ?? 0;
-    const w = t.won ?? t.wins ?? t.w ?? 0;
-    const d = t.drawn ?? t.draws ?? t.d ?? 0;
-    const l = t.lost ?? t.losses ?? t.l ?? 0;
-    const gd = t.goal_difference ?? t.gd ?? ((t.goals_for ?? 0) - (t.goals_against ?? 0));
-    const pts = t.points ?? t.pts ?? 0;
-    const gdStr = gd > 0 ? `+${gd}` : `${gd}`;
-    body.innerHTML += `<tr>
-      <td>${i + 1}</td><td>${name}</td>
-      <td>${p}</td><td>${w}</td><td>${d}</td><td>${l}</td>
-      <td>${gdStr}</td><td class="wc-pts">${pts}</td>
-    </tr>`;
-  });
-}
 </script>
 </body>
 </html>
