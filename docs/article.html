@@ -10,6 +10,8 @@
 <meta property="og:title" id="og-title" content="WelayDaily" />
 <meta property="og:description" id="og-description" content="" />
 <meta property="og:image" id="og-image" content="" />
+<meta property="og:url" id="og-url" content="" />
+<link rel="canonical" id="canonical-link" href="" />
 <meta name="twitter:card" content="summary_large_image" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,700;1,700&display=swap" rel="stylesheet" />
@@ -121,6 +123,44 @@ async function loadArticle(){
     if(article.image){
       document.getElementById('og-image').setAttribute('content', new URL(article.image, window.location.href).href);
     }
+    document.getElementById('og-url').setAttribute('content', window.location.href);
+    document.getElementById('canonical-link').setAttribute('href', window.location.href);
+
+    // Structured data (JSON-LD) so Google understands this is a genuine
+    // news article — headline, image, publish date, author/publisher.
+    // Helps eligibility for rich results and Google News/Discover.
+    const imageUrl = article.image ? new URL(article.image, window.location.href).href : new URL('images/placeholder.svg', window.location.href).href;
+    const articleUrl = window.location.href;
+    const jsonLd = {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "headline": article.headline,
+      "description": article.summary || '',
+      "image": [imageUrl],
+      "datePublished": article.publishedAt || new Date().toISOString(),
+      "dateModified": article.publishedAt || new Date().toISOString(),
+      "author": {
+        "@type": "Organization",
+        "name": "WelayDaily"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "WelayDaily",
+        "logo": {
+          "@type": "ImageObject",
+          "url": new URL('images/placeholder.svg', window.location.href).href
+        }
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": articleUrl
+      },
+      "articleSection": article.league || "Football"
+    };
+    const ldScript = document.createElement('script');
+    ldScript.type = 'application/ld+json';
+    ldScript.textContent = JSON.stringify(jsonLd);
+    document.head.appendChild(ldScript);
 
     const bodyParagraphs = (article.body || '')
       .split('\n\n')
