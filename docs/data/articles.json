@@ -1,6 +1,68 @@
 {
   "articles": [
     {
+      "id": "ac-milan-secures-gon-alo-ramos-in-club-record-deal-0b37c58eae96",
+      "headline": "AC Milan Secures Gonçalo Ramos in Club-Record Deal",
+      "league": "Transfer News",
+      "summary": "AC Milan has finalized a significant move, acquiring striker Gonçalo Ramos from Paris Saint-Germain in a transfer that establishes a new club record for the Italian giants. The Portuguese international joins the Rossoneri in a deal reportedly worth up to £60 million, signaling Milan's intent to bolster their attacking prowess.",
+      "body": "AC Milan has made a definitive statement in the summer transfer window, officially announcing the arrival of highly-rated forward Gonçalo Ramos from French champions Paris Saint-Germain. The deal, confirmed on July 2, 2026, sees the 25-year-old Portuguese international make the switch to the San Siro in a transfer package valued at up to £60 million.\n\nThe transfer fee for Ramos is structured with an initial £56 million fixed payment, potentially rising by an additional £4 million in performance-related add-ons. This substantial investment marks Ramos as Milan's most expensive acquisition in their history, surpassing their previous record signing of Rafa Leao.\n\nRamos's arrival is expected to significantly strengthen Milan's offensive options under new manager Ruben Amorim, who has made the Portuguese striker his first major signing since taking the helm. The move highlights Milan's ambition to compete at the highest level both domestically and in European competitions.",
+      "tags": [
+        "AC Milan",
+        "Gonçalo Ramos",
+        "Transfer News",
+        "Serie A",
+        "PSG"
+      ],
+      "image": "images/ac-milan-secures-gon-alo-ramos-in-club-record-deal-0b37c58eae96.png",
+      "publishedAt": "2026-07-02T15:26:49.466Z"
+    },
+    {
+      "id": "sporting-kc-fortifies-defense-with-mosquera-acquisition-from-fc-juarez-d5ee192aa630",
+      "headline": "Sporting KC Fortifies Defense with Mosquera Acquisition from FC Juarez",
+      "league": "MLS",
+      "summary": "Sporting Kansas City has significantly strengthened its defensive line, announcing the transfer of 25-year-old Colombian center-back Moises Mosquera from Mexican club FC Juarez. This key signing comes as MLS teams prepare to resume play following the FIFA World Cup break, aiming to boost their rosters for the season's second half.",
+      "body": "Sporting Kansas City confirmed the acquisition of defender Moises Mosquera on a five-year contract, securing his services through the 2030-2031 MLS season. The 25-year-old Colombian international arrives from FC Juarez, where he was a standout performer in LIGA MX, making 109 senior appearances across his career, including a stint in Portugal with CS Maritimo.\n\nMosquera's addition is expected to provide a substantial upgrade to Sporting KC's backline. The club's President of Soccer Operations and General Manager, David Lee, expressed enthusiasm for the signing, highlighting Mosquera's modern center-back attributes, including excellent athleticism, physical presence, and technical ability vital to their playing style.\n\nHis recent performance in the 2025-2026 season for Juarez saw him make 30 appearances, ranking among the league's top defenders in interceptions, aerial duels won, and clearances. Mosquera also found the net for the first time in his senior career during the 2025 Leagues Cup, scoring a header against Charlotte FC.",
+      "tags": [
+        "Sporting Kansas City",
+        "Moises Mosquera",
+        "MLS Transfer",
+        "FC Juarez"
+      ],
+      "image": "images/sporting-kc-fortifies-defense-with-mosquera-acquisition-from-fc-juarez-d5ee192aa630.png",
+      "publishedAt": "2026-07-02T15:27:17.154Z"
+    },
+    {
+      "id": "regional-disappointment-central-american-and-caribbean-teams-struggle-in-world-c-55be276fe136",
+      "headline": "Regional Disappointment: Central American and Caribbean Teams Struggle in World Cup",
+      "league": "World Cup Qualifiers",
+      "summary": "The 2026 FIFA World Cup has highlighted a significant performance gap for Central American and Caribbean nations, with Panama, Haiti, and Curaçao exiting the tournament without a single victory. Their collective struggle in the main competition casts a critical light on the region's qualification pathways and football development.",
+      "body": "The expanded 2026 FIFA World Cup format offered more opportunities for nations from Central America and the Caribbean, yet their participation in the main tournament has underscored a persistent challenge in competing at the highest level. Panama, Haiti, and debutants Curaçao all concluded their World Cup campaigns in the group stage, failing to secure a single win and collectively managing just one draw across nine matches. This early exit, marked by eight defeats and a combined three goals scored against 21 conceded, points to a clear disparity in competitive readiness.\n\nCuraçao, making their historic first appearance, did manage a surprising scoreless draw against Ecuador. However, this promising start was short-lived as they subsequently fell 2-0 to Ivory Coast, finishing at the bottom of Group E. This outcome echoes a historical trend for the region, with former Panamanian international Víctor René Mendieta noting the weak structural development within Central American and Caribbean football, suggesting that player development lags behind elite European, Asian, or African standards.\n\nHistorically, only Costa Rica from Central America has advanced beyond the group stage, reaching the quarterfinals in 2014. For this edition, Costa Rica did not even qualify. Other nations like Honduras, El Salvador, and Panama have consistently faced early elimination, while Cuba's 1938 quarterfinal appearance remains a distant highlight for the Caribbean. The 2026 tournament sadly reinforces the urgent need for robust investment and strategic development to bridge this widening gap in global football.",
+      "tags": [
+        "World Cup 2026",
+        "CONCACAF",
+        "Central America",
+        "Caribbean",
+        "Football Development"
+      ],
+      "image": "images/regional-disappointment-central-american-and-caribbean-teams-struggle-in-world-c-55be276fe136.png",
+      "publishedAt": "2026-07-02T15:27:55.308Z"
+    },
+    {
+      "id": "motsepe-confident-african-nation-will-claim-world-cup-glory-56e71e4d74d2",
+      "headline": "Motsepe Confident: African Nation Will Claim World Cup Glory",
+      "league": "Other",
+      "summary": "CAF President Patrice Motsepe has voiced strong conviction that an African team will eventually lift the FIFA World Cup trophy, buoyed by the continent's unprecedented success in the ongoing 2026 tournament. He emphasized that strategic investments and development are crucial for realizing this ultimate ambition.",
+      "body": "Confederation of African Football (CAF) President Patrice Motsepe recently articulated his unwavering belief that an African nation is destined to become world champions. His optimistic outlook comes as African teams collectively make history at the 2026 FIFA World Cup, showcasing the continent's growing footballing prowess.\n\nNine out of the ten African representatives successfully navigated the group stages to reach the Round of 32, a significant milestone for African football. While some have since exited, nations like Morocco, Algeria, Egypt, Cape Verde, and Ghana continue their campaigns, keeping the dream of a deep tournament run alive. Motsepe highlighted the historical influence of African players in top European leagues as a foundational element for current national team achievements.\n\nHowever, Motsepe stressed that achieving global supremacy won't happen by chance. He underscored the necessity of a comprehensive structural transformation within African football, advocating for substantial investment in youth development programs for both boys and girls, fostering strong partnerships with governments and the private sector, and ensuring competitive remuneration for players and coaches.",
+      "tags": [
+        "CAF",
+        "Patrice Motsepe",
+        "World Cup 2026",
+        "African Football"
+      ],
+      "image": "images/motsepe-confident-african-nation-will-claim-world-cup-glory-56e71e4d74d2.png",
+      "publishedAt": "2026-07-02T15:28:24.392Z"
+    },
+    {
       "id": "old-trafford-undergoing-upgrades-for-champions-league-return-832e694a83ef",
       "headline": "Old Trafford Undergoing Upgrades for Champions League Return",
       "league": "Champions League",
@@ -691,5 +753,5 @@
       "publishedAt": "2026-06-30T18:20:02.062Z"
     }
   ],
-  "lastRun": "2026-07-02T15:13:46.519Z"
+  "lastRun": "2026-07-02T15:28:28.392Z"
 }
