@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "tottenham-finalize-85-million-mateus-fernandes-transfer-from-west-ham-6e3823e8a525",
+      "headline": "Tottenham Finalize £85 Million Mateus Fernandes Transfer from West Ham",
+      "league": "Transfer News",
+      "summary": "Tottenham Hotspur have officially secured the services of highly-rated midfielder Mateus Fernandes from West Ham United in a significant £85 million deal, bolstering their squad for the upcoming season. This high-profile acquisition sees Spurs outmaneuver rivals Manchester United for one of the Premier League's most sought-after young talents.",
+      "body": "Tottenham Hotspur have concluded a major transfer coup, confirming the signing of Mateus Fernandes from London rivals West Ham United for a reported fee of £85 million. The confirmation of the deal on July 2, 2026, marks another substantial investment by Spurs as they continue to reshape their squad in the summer transfer window.\n\nFernandes, a dynamic midfielder, was a subject of intense speculation, with several top clubs reportedly vying for his signature. Tottenham's decisive move saw them fend off strong competition, notably from Manchester United, who had also been keen on acquiring the talented player.\n\nThe £85 million transfer underscores Fernandes's growing reputation and West Ham's valuation of their star asset. His arrival at the Tottenham Hotspur Stadium is expected to inject fresh energy and quality into the midfield, aligning with the club's ambitions for the forthcoming campaign.",
+      "tags": [
+        "Mateus Fernandes",
+        "Tottenham Hotspur",
+        "West Ham United",
+        "Premier League Transfers"
+      ],
+      "image": "images/tottenham-finalize-85-million-mateus-fernandes-transfer-from-west-ham-6e3823e8a525.png",
+      "publishedAt": "2026-07-02T18:27:30.745Z"
+    },
+    {
       "id": "ac-milan-secures-gon-alo-ramos-in-club-record-deal-0b37c58eae96",
       "headline": "AC Milan Secures Gonçalo Ramos in Club-Record Deal",
       "league": "Transfer News",
@@ -753,5 +768,5 @@
       "publishedAt": "2026-06-30T18:20:02.062Z"
     }
   ],
-  "lastRun": "2026-07-02T16:50:52.638Z"
+  "lastRun": "2026-07-02T18:27:35.101Z"
 }
