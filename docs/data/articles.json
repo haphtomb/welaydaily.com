@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "barcelona-unshackled-la-liga-lifts-financial-restrictions-for-summer-spending-sp-0db3e65223c4",
+      "headline": "Barcelona Unshackled: La Liga Lifts Financial Restrictions for Summer Spending Spree",
+      "league": "La Liga",
+      "summary": "FC Barcelona has received a significant boost to its transfer ambitions, with La Liga officially reinstating the club to the 1:1 spending rule. This crucial decision frees the Catalan giants from stringent financial limitations, allowing them to fully reinvest funds from player sales into new acquisitions.",
+      "body": "After years navigating complex financial restrictions, Barcelona can now breathe a sigh of relief as La Liga has lifted the strict measures imposed on the club. The long-awaited return to the general '1:1' spending rule fundamentally alters their approach to the transfer market, enabling them to directly utilize every euro generated from player departures to secure new talent and register star players.\n\nThis pivotal shift means the club is no longer burdened by the requirement to generate multiple times more income for each euro spent, a hurdle that severely hampered squad strengthening in recent seasons. Sources indicate this development is a major victory for the Barcelona board, simplifying their recruitment process considerably.\n\nThe breakthrough follows successful efforts by the club to balance its books, notably aided by Robert Lewandowski's high-wage exit and the permanent transfers of Ansu Fati and Iñaki Peña. With club president Joan Laporta recently inaugurated, and La Liga chief Javier Tebas publicly acknowledging the progress, Barcelona is poised for a more aggressive and straightforward summer transfer window.",
+      "tags": [
+        "Barcelona",
+        "La Liga",
+        "Financial Fair Play",
+        "Transfers"
+      ],
+      "image": "images/barcelona-unshackled-la-liga-lifts-financial-restrictions-for-summer-spending-sp-0db3e65223c4.png",
+      "publishedAt": "2026-07-02T18:34:40.474Z"
+    },
+    {
       "id": "tottenham-finalize-85-million-mateus-fernandes-transfer-from-west-ham-6e3823e8a525",
       "headline": "Tottenham Finalize £85 Million Mateus Fernandes Transfer from West Ham",
       "league": "Transfer News",
@@ -768,5 +783,5 @@
       "publishedAt": "2026-06-30T18:20:02.062Z"
     }
   ],
-  "lastRun": "2026-07-02T18:27:35.101Z"
+  "lastRun": "2026-07-02T18:34:44.781Z"
 }
