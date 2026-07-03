@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "la-liga-s-anti-piracy-measures-disrupt-half-a-million-legitimate-websites-5ad702a48c49",
+      "headline": "La Liga's Anti-Piracy Measures Disrupt Half a Million Legitimate Websites",
+      "league": "La Liga",
+      "summary": "An extensive study has revealed that La Liga's aggressive anti-piracy strategy, which involves blocking IP addresses, inadvertently took down over 500,000 legitimate websites in Spain. This collateral damage occurred on match days as the league targeted illegal streams, impacting a wide array of online platforms.",
+      "body": "A recent six-month investigation by the Open Observatory of Network Interference (OONI) has brought to light the significant unintended consequences of La Liga's approach to combating illegal streaming. From January to June of this year, the Spanish football league's tactic of instructing internet providers to block IP addresses associated with pirated content led to the inaccessibility of more than half a million legitimate websites.\n\nThe study found that on any given match day, merely blocking between four and twenty IP addresses resulted in over 400,000 unrelated domains becoming unreachable. The affected sites ranged from human rights organizations like Amnesty International to environmental groups such as Greenpeace, with outages lasting for the duration of the games.\n\nThis widespread disruption stemmed from the modern web's reliance on shared IP addresses, meaning that blocking one address to stop a pirate stream could inadvertently take down thousands of innocent sites hosted on the same server. Cloudflare was particularly impacted, with over 500,000 domains on its network affected by just over 2,200 blocked addresses.",
+      "tags": [
+        "La Liga",
+        "Anti-Piracy",
+        "Internet Censorship",
+        "Digital Rights"
+      ],
+      "image": "images/la-liga-s-anti-piracy-measures-disrupt-half-a-million-legitimate-websites-5ad702a48c49.png",
+      "publishedAt": "2026-07-03T14:05:36.745Z"
+    },
+    {
       "id": "columbus-crew-lands-la-liga-star-brais-m-ndez-as-new-designated-player-63542d048312",
       "headline": "Columbus Crew Lands La Liga Star Brais Méndez as New Designated Player",
       "league": "MLS",
@@ -890,5 +905,5 @@
       "publishedAt": "2026-06-30T18:20:02.062Z"
     }
   ],
-  "lastRun": "2026-07-03T11:35:12.321Z"
+  "lastRun": "2026-07-03T14:05:57.747Z"
 }
