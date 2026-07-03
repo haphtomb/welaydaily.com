@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T02:57:12.842Z",
+  "updatedAt": "2026-07-03T06:36:36.939Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -1231,7 +1231,208 @@
           "form": []
         }
       ],
-      "fixtures": []
+      "fixtures": [
+        {
+          "id": 566062,
+          "utcDate": "2027-05-08T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 32,
+          "home": "Bayer 04 Leverkusen",
+          "away": "Hamburger SV",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 566063,
+          "utcDate": "2027-05-08T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 32,
+          "home": "FC Bayern München",
+          "away": "Borussia Mönchengladbach",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 566064,
+          "utcDate": "2027-05-15T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 33,
+          "home": "Eintracht Frankfurt",
+          "away": "SV 07 Elversberg",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 566065,
+          "utcDate": "2027-05-15T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 33,
+          "home": "SC Paderborn 07",
+          "away": "1. FC Union Berlin",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 566066,
+          "utcDate": "2027-05-15T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 33,
+          "home": "VfB Stuttgart",
+          "away": "RB Leipzig",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 566067,
+          "utcDate": "2027-05-15T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 33,
+          "home": "Borussia Dortmund",
+          "away": "1. FC Köln",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 566068,
+          "utcDate": "2027-05-15T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 33,
+          "home": "Hamburger SV",
+          "away": "SC Freiburg",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 566069,
+          "utcDate": "2027-05-15T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 33,
+          "home": "Bayer 04 Leverkusen",
+          "away": "FC Bayern München",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 566070,
+          "utcDate": "2027-05-15T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 33,
+          "home": "SV Werder Bremen",
+          "away": "FC Schalke 04",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 566071,
+          "utcDate": "2027-05-15T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 33,
+          "home": "Borussia Mönchengladbach",
+          "away": "FC Augsburg",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 566072,
+          "utcDate": "2027-05-15T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 33,
+          "home": "TSG 1899 Hoffenheim",
+          "away": "1. FSV Mainz 05",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 566073,
+          "utcDate": "2027-05-22T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 34,
+          "home": "RB Leipzig",
+          "away": "TSG 1899 Hoffenheim",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 566074,
+          "utcDate": "2027-05-22T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 34,
+          "home": "1. FC Union Berlin",
+          "away": "Borussia Mönchengladbach",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 566075,
+          "utcDate": "2027-05-22T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 34,
+          "home": "1. FSV Mainz 05",
+          "away": "VfB Stuttgart",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 566076,
+          "utcDate": "2027-05-22T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 34,
+          "home": "FC Schalke 04",
+          "away": "Bayer 04 Leverkusen",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 566077,
+          "utcDate": "2027-05-22T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 34,
+          "home": "SV 07 Elversberg",
+          "away": "SV Werder Bremen",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 566078,
+          "utcDate": "2027-05-22T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 34,
+          "home": "FC Bayern München",
+          "away": "Eintracht Frankfurt",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 566079,
+          "utcDate": "2027-05-22T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 34,
+          "home": "FC Augsburg",
+          "away": "Hamburger SV",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 566080,
+          "utcDate": "2027-05-22T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 34,
+          "home": "SC Freiburg",
+          "away": "Borussia Dortmund",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 566081,
+          "utcDate": "2027-05-22T12:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 34,
+          "home": "1. FC Köln",
+          "away": "SC Paderborn 07",
+          "homeScore": null,
+          "awayScore": null
+        }
+      ]
     },
     "SA": {
       "name": "Serie A",

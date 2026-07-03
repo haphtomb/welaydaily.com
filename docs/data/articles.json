@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "tebas-challenges-real-madrid-s-refereeing-grievances-in-negreira-case-24145b742417",
+      "headline": "Tebas Challenges Real Madrid's Refereeing Grievances in Negreira Case",
+      "league": "La Liga",
+      "summary": "La Liga President Javier Tebas recently fired back at Real Madrid's concerns over refereeing decisions, suggesting the club's complaints might be selective. His remarks addressed Madrid's submission to UEFA regarding the ongoing Negreira case, questioning the scope of their report.",
+      "body": "La Liga's top official, Javier Tebas, has publicly critiqued Real Madrid's recent dossier sent to UEFA concerning alleged refereeing biases linked to the Negreira affair. Speaking during a press conference in the Spanish capital, Tebas indicated he had not yet reviewed the document but implied it might focus exclusively on decisions impacting Real Madrid, rather than a broader analysis of errors affecting other teams during the same period.\n\nThe league president's comments underscore the ongoing tension between La Liga and one of its most prominent clubs regarding officiating integrity. This exchange follows Real Madrid's formal complaint to UEFA, which reignited debate around historical refereeing controversies. Tebas also touched upon his recent attendance at Joan Laporta's inauguration, clarifying that institutional relationships are maintained despite any disagreements.\n\nThese latest statements from Tebas ensure the Negreira case remains a significant talking point within Spanish football. The focus now shifts to how Real Madrid might respond to these pointed remarks and whether further details from their UEFA submission will emerge, keeping the spotlight firmly on the league's administrative and sporting dynamics.",
+      "tags": [
+        "La Liga",
+        "Real Madrid",
+        "Javier Tebas",
+        "Negreira Case"
+      ],
+      "image": "images/tebas-challenges-real-madrid-s-refereeing-grievances-in-negreira-case-24145b742417.png",
+      "publishedAt": "2026-07-03T06:38:30.954Z"
+    },
+    {
       "id": "caf-initiates-bidding-process-for-2028-africa-cup-of-nations-7073a769c57b",
       "headline": "CAF Initiates Bidding Process for 2028 Africa Cup of Nations",
       "league": "AFCON",
@@ -830,5 +845,5 @@
       "publishedAt": "2026-06-30T18:20:02.062Z"
     }
   ],
-  "lastRun": "2026-07-03T02:59:36.628Z"
+  "lastRun": "2026-07-03T06:38:35.322Z"
 }
