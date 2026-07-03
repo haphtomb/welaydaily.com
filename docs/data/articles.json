@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "id": "caf-initiates-bidding-process-for-2028-africa-cup-of-nations-7073a769c57b",
+      "headline": "CAF Initiates Bidding Process for 2028 Africa Cup of Nations",
+      "league": "AFCON",
+      "summary": "The Confederation of African Football has officially launched the bidding phase for the 2028 Africa Cup of Nations, drawing early interest from several nations. Morocco, Ethiopia, and a joint bid from Botswana and South Africa have emerged as initial contenders to host the prestigious continental tournament.",
+      "body": "The Confederation of African Football (CAF) recently announced the commencement of the official bidding process for the 2028 Africa Cup of Nations. This significant development sees Morocco, Ethiopia, and a collaborative effort from Botswana and South Africa stepping forward as the first nations to express their interest in hosting the continent's premier football spectacle.\n\nCAF's initiative is part of a broader, long-term hosting strategy that also encompasses the 2032 and 2036 AFCON tournaments. Prospective hosts are required to fulfill stringent criteria, including providing robust government guarantees, detailed stadium and infrastructure development plans, comprehensive security arrangements, and substantial financial commitments.\n\nCAF inspection teams are set to begin evaluation visits before the eventual announcement of the winning bid. This process underscores CAF's commitment to elevating hosting standards, building on the successes of recent tournaments. Morocco, notably, is also preparing to host the 2025 AFCON and will co-host the 2030 FIFA World Cup.",
+      "tags": [
+        "AFCON 2028",
+        "CAF Bids",
+        "African Football",
+        "Morocco",
+        "Ethiopia",
+        "Botswana-South Africa"
+      ],
+      "image": "images/caf-initiates-bidding-process-for-2028-africa-cup-of-nations-7073a769c57b.png",
+      "publishedAt": "2026-07-03T02:59:04.408Z"
+    },
+    {
+      "id": "nottingham-forest-shakes-up-leadership-pereira-out-glasner-expected-in-7bf29feaf598",
+      "headline": "Nottingham Forest Shakes Up Leadership, Pereira Out, Glasner Expected In",
+      "league": "Premier League",
+      "summary": "Nottingham Forest has announced the departure of head coach Vitor Pereira, a move that surprised the Portuguese manager despite his team's recent European success. The club is now reportedly poised to appoint Oliver Glasner, who previously achieved significant cup triumphs with Crystal Palace, to lead the Reds into the new season.",
+      "body": "Nottingham Forest has confirmed the termination of head coach Vitor Pereira's contract, exercising a break clause in his agreement. This decision comes despite Pereira guiding the club to the Europa League semifinals during his tenure, a run that surprised many in the footballing world. Pereira himself expressed his disappointment and sadness, indicating the club's choice came as a complete surprise to him, as he believed in the project under development.\n\nReports suggest that former Crystal Palace manager Oliver Glasner is the frontrunner to take over the reins at the City Ground. Glasner's impressive track record includes leading Crystal Palace to a Conference League title last season, following an FA Cup victory the year prior. His arrival would signal a new direction for Forest as they prepare for the upcoming Premier League campaign.\n\nPereira had been Forest's fourth manager in the previous season, navigating them to a 16th-place finish in the Premier League. The anticipated appointment of Glasner, known for his tactical acumen and cup-winning pedigree, will undoubtedly generate considerable discussion among the club's supporters and across the league.",
+      "tags": [
+        "Nottingham Forest",
+        "Managerial Change",
+        "Vitor Pereira",
+        "Oliver Glasner"
+      ],
+      "image": "images/nottingham-forest-shakes-up-leadership-pereira-out-glasner-expected-in-7bf29feaf598.png",
+      "publishedAt": "2026-07-03T02:59:32.295Z"
+    },
+    {
       "id": "tynecastle-sells-out-for-hearts-champions-league-qualifier-against-sturm-graz-17eae3f79f3a",
       "headline": "Tynecastle Sells Out for Hearts' Champions League Qualifier Against Sturm Graz",
       "league": "Champions League",
@@ -798,5 +830,5 @@
       "publishedAt": "2026-06-30T18:20:02.062Z"
     }
   ],
-  "lastRun": "2026-07-02T22:08:05.537Z"
+  "lastRun": "2026-07-03T02:59:36.628Z"
 }
