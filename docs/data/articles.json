@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "caf-unveils-2026-27-champions-league-and-confederation-cup-schedules-1933f910031a",
+      "headline": "CAF Unveils 2026/27 Champions League and Confederation Cup Schedules",
+      "league": "CAF Champions League",
+      "summary": "The Confederation of African Football has officially released the match calendar for the upcoming 2026/27 TotalEnergies CAF Champions League and Confederation Cup seasons. This announcement provides clarity for clubs across the continent as they prepare for the start of preliminary rounds in September.",
+      "body": "African football enthusiasts can now mark their calendars as the Confédération Africaine de Football (CAF) has revealed the full match schedule for the 2026/27 TotalEnergies CAF Champions League and TotalEnergies CAF Confederation Cup. The preliminary stages of both prestigious club competitions are set to commence in early September 2026.\n\nThe initial preliminary round fixtures will be played with first legs from September 4-6, 2026, followed by the return legs between September 11-13, 2026. Following these opening encounters, the second preliminary round is scheduled for mid-October, with matches taking place from October 16-18 for the first legs and October 23-25 for the decisive second legs.\n\nAfter the conclusion of the preliminary rounds, the highly anticipated group phase of both the Champions League and Confederation Cup will get underway in late November. The prize money structure remains unchanged, with the Champions League winners receiving a substantial USD 6 million and the Confederation Cup champions earning USD 4 million.",
+      "tags": [
+        "CAF Champions League",
+        "African Football",
+        "Match Calendar",
+        "2026/27 Season"
+      ],
+      "image": "images/caf-unveils-2026-27-champions-league-and-confederation-cup-schedules-1933f910031a.png",
+      "publishedAt": "2026-07-04T06:22:17.270Z"
+    },
+    {
       "id": "kolo-muani-nears-juventus-return-as-bianconeri-push-for-psg-forward-00bd30241c2b",
       "headline": "Kolo Muani Nears Juventus Return as Bianconeri Push for PSG Forward",
       "league": "Transfer News",
@@ -894,22 +909,7 @@
       ],
       "image": "images/caf-rejects-afcon-expansion-bid-tournament-retains-24-team-format-9844a0993269.svg",
       "publishedAt": "2026-07-01T09:48:16.428Z"
-    },
-    {
-      "id": "lewandowski-lights-up-mls-chicago-fire-land-global-scoring-sensation-d7f458d9e5ba",
-      "headline": "Lewandowski Lights Up MLS: Chicago Fire Land Global Scoring Sensation",
-      "league": "MLS",
-      "summary": "In a monumental move shaking up Major League Soccer, Polish superstar Robert Lewandowski has officially joined Chicago Fire FC. The prolific striker's arrival marks a significant statement of intent from the Eastern Conference club.",
-      "body": "Chicago Fire FC have sent shockwaves across the football world, confirming the acquisition of legendary striker Robert Lewandowski. The former Barcelona and Bayern Munich goal machine has committed to a two-year deal, extending through the 2027-28 MLS season, and will occupy a coveted Designated Player slot. This landmark transfer is poised to dramatically elevate the profile of both the Fire and the league as a whole.\n\nLewandowski, who will celebrate his 38th birthday next month, arrives in Chicago after a decorated career in Europe, most recently helping Barcelona secure multiple La Liga titles and a Copa del Rey. His incredible scoring record, including 312 goals in 384 Bundesliga appearances for Bayern Munich and Borussia Dortmund, speaks to his consistent elite performance.\n\nThe Polish international is expected to make his highly anticipated debut for the Fire on July 16 against Vancouver, following the league's World Cup break. His addition immediately bolsters a Chicago side that currently sits third in the Eastern Conference with 26 points from 14 matches, injecting world-class talent and experience into their ranks as they push for silverware.",
-      "tags": [
-        "Robert Lewandowski",
-        "Chicago Fire",
-        "MLS Transfer",
-        "Designated Player"
-      ],
-      "image": "images/lewandowski-lights-up-mls-chicago-fire-land-global-scoring-sensation-d7f458d9e5ba.svg",
-      "publishedAt": "2026-07-01T03:54:57.204Z"
     }
   ],
-  "lastRun": "2026-07-04T02:55:35.122Z"
+  "lastRun": "2026-07-04T06:22:30.600Z"
 }
