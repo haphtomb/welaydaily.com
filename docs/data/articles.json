@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "kolo-muani-nears-juventus-return-as-bianconeri-push-for-psg-forward-00bd30241c2b",
+      "headline": "Kolo Muani Nears Juventus Return as Bianconeri Push for PSG Forward",
+      "league": "Transfer News",
+      "summary": "Juventus are reportedly close to securing the return of Randal Kolo Muani, with an agreement with Paris Saint-Germain on the horizon. The French forward is expected to finalize a loan deal with an obligation to buy, rejoining the Turin giants for the upcoming season.",
+      "body": "Reports from Italy indicate that Juventus are making significant progress in their pursuit of Paris Saint-Germain attacker Randal Kolo Muani. The Bianconeri are understood to be nearing a full agreement with the French champions for a transfer that would see the forward return to Turin. Personal terms between Kolo Muani and Juventus have reportedly been settled, with the player agreeing to a five-year contract.\n\nThe proposed deal is believed to be an initial loan arrangement, which would convert into a permanent transfer at the close of the season, valued around €30 million. Juventus are optimistic that Kolo Muani will join the squad in time for the start of pre-season preparations on July 13. This move follows the club's earlier signing of 19-year-old Italian international Jeff Ekhator from Genoa this week.\n\nKolo Muani previously spent the latter half of the 2024-25 season on loan with Juventus, where he made a notable impact by scoring ten goals in 22 appearances across all competitions. His potential return would provide a significant boost to Juventus' attacking options as they prepare for their upcoming campaign.",
+      "tags": [
+        "Kolo Muani",
+        "Juventus",
+        "PSG",
+        "Transfer News"
+      ],
+      "image": "images/kolo-muani-nears-juventus-return-as-bianconeri-push-for-psg-forward-00bd30241c2b.png",
+      "publishedAt": "2026-07-04T02:55:30.790Z"
+    },
+    {
       "id": "disney-secures-exclusive-la-liga-streaming-rights-across-nordic-region-d00a0a96b374",
       "headline": "Disney+ Secures Exclusive La Liga Streaming Rights Across Nordic Region",
       "league": "La Liga",
@@ -894,22 +909,7 @@
       ],
       "image": "images/lewandowski-lights-up-mls-chicago-fire-land-global-scoring-sensation-d7f458d9e5ba.svg",
       "publishedAt": "2026-07-01T03:54:57.204Z"
-    },
-    {
-      "id": "fernandes-eyed-by-european-giants-as-manchester-united-ponder-star-s-future-5d065e40a431",
-      "headline": "Fernandes Eyed by European Giants as Manchester United Ponder Star's Future",
-      "league": "Champions League",
-      "summary": "Manchester United's captain Bruno Fernandes is reportedly attracting significant transfer interest from clubs across Europe this summer. This renewed speculation comes as the Red Devils prepare for their highly anticipated return to Champions League football.",
-      "body": "Manchester United finds itself at a crucial juncture regarding the future of influential captain Bruno Fernandes, with reports indicating strong transfer interest from several prominent European clubs. The Portuguese midfielder, who enjoyed a stellar season, guiding United to a Premier League title and earning the Football Writers' Association Player of the Year award, is a prime target for teams outside England.\n\nThis isn't the first time Fernandes has been linked with a move away from Old Trafford, as he also garnered considerable attention during the January transfer window. However, his decision to remain proved instrumental, with his exceptional performances playing a pivotal role in Manchester United's successful qualification for the upcoming Champions League campaign after a two-season absence from Europe's elite competition.\n\nAs the summer transfer window progresses, United's hierarchy faces a significant decision on whether to retain their talismanic figure or consider offers for the midfielder. The ongoing interest highlights Fernandes's continued value and the potential challenges for Manchester United in solidifying their squad ahead of their return to top-tier European football.",
-      "tags": [
-        "Bruno Fernandes",
-        "Manchester United",
-        "Transfer News",
-        "Champions League"
-      ],
-      "image": "images/fernandes-eyed-by-european-giants-as-manchester-united-ponder-star-s-future-5d065e40a431.svg",
-      "publishedAt": "2026-06-30T22:16:36.692Z"
     }
   ],
-  "lastRun": "2026-07-03T22:07:25.448Z"
+  "lastRun": "2026-07-04T02:55:35.122Z"
 }
