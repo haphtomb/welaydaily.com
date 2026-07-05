@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "caf-launches-race-for-2028-2032-and-2036-afcon-hosting-rights-82ea99905cab",
+      "headline": "CAF Launches Race for 2028, 2032, and 2036 AFCON Hosting Rights",
+      "league": "AFCON",
+      "summary": "The Confederation of African Football has officially opened the bidding process for three future editions of its flagship tournament, the Africa Cup of Nations. All 54 member associations are now invited to present their proposals for hosting the 2028, 2032, and 2036 competitions, marking a significant long-term strategic move for the continent's football governing body.",
+      "body": "The Confederation of African Football (CAF) has initiated the extensive bidding process for the rights to host the 2028, 2032, and 2036 Africa Cup of Nations tournaments. This development, announced in the last 48 hours, invites all 54 of CAF's member associations to submit their candidacies, signaling a concerted effort to secure long-term planning for Africa's premier football event.\n\nA newly established bidding framework, developed with the support of independent advisory firm PwC, along with technical, financial, and legal experts, will guide the selection process. This framework emphasizes transparency, credibility, and ethical practices, assessing bids based on critical criteria such as infrastructure, commercial viability, operational capacity, and adherence to safety standards.\n\nThis announcement precedes the jointly hosted 2027 AFCON in Kenya, Tanzania, and Uganda, which is set to run from June 19 to July 17, 2027. CAF's revised competition calendar aims to ensure a major senior men's national team tournament takes place every year, with the exception of FIFA World Cup years, further cementing the AFCON's prominent global standing.",
+      "tags": [
+        "CAF",
+        "AFCON",
+        "Hosting Bids",
+        "African Football"
+      ],
+      "image": "images/caf-launches-race-for-2028-2032-and-2036-afcon-hosting-rights-82ea99905cab.png",
+      "publishedAt": "2026-07-05T03:25:17.438Z"
+    },
+    {
       "id": "columbus-crew-secures-spanish-midfielder-brais-m-ndez-as-designated-player-abdd1cf8ecd5",
       "headline": "Columbus Crew Secures Spanish Midfielder Brais Méndez as Designated Player",
       "league": "MLS",
@@ -892,23 +907,7 @@
       ],
       "image": "images/atletico-madrid-secures-grimaldo-in-significant-defensive-reinforcement-99a5264180c4.png",
       "publishedAt": "2026-07-01T17:47:48.479Z"
-    },
-    {
-      "id": "mexico-ends-knockout-stage-drought-advances-in-thrilling-world-cup-clash-88abf0294498",
-      "headline": "Mexico Ends Knockout Stage Drought, Advances in Thrilling World Cup Clash",
-      "league": "World Cup Qualifiers",
-      "summary": "Co-hosts Mexico secured a significant 2-0 victory over Ecuador in the World Cup Round of 32, triumphing in front of a fervent home crowd. This historic win marks their first knockout stage progression in four decades, breaking a long-standing tournament hex.",
-      "body": "Mexico delivered a memorable performance against Ecuador, clinching a decisive 2-0 win in the Round of 32 at the iconic Estadio Azteca. The victory was particularly poignant for El Tri, as it ended a 40-year wait for a knockout stage triumph, dispelling the infamous 'fifth match curse' that had haunted the team. The co-hosts have also maintained an impeccable defensive record throughout the tournament, remarkably yet to concede a single goal.\n\nElsewhere in the thrilling Round of 32 action, football giants continued their campaigns. Tournament favorites France comfortably defeated Sweden 3-0, with star forward Kylian Mbappé netting two goals to propel his team forward. Meanwhile, Norway advanced past Côte d'Ivoire with a 2-1 scoreline, highlighted by Erling Haaland's 85th-minute strike that saw him become the fastest player to reach 60 international goals.\n\nThe knockout stages have already produced dramatic upsets and memorable moments. Paraguay delivered a shock by eliminating Germany after a 1-1 draw led to a 4-3 penalty shootout victory. Brazil also secured their spot in the next round with a late comeback against Japan, as Gabriel Martinelli scored a crucial 95th-minute winner in their 2-1 triumph.",
-      "tags": [
-        "World Cup 2026",
-        "Mexico",
-        "Ecuador",
-        "Knockout Stage",
-        "Football"
-      ],
-      "image": "images/mexico-ends-knockout-stage-drought-advances-in-thrilling-world-cup-clash-88abf0294498.png",
-      "publishedAt": "2026-07-01T17:29:45.641Z"
     }
   ],
-  "lastRun": "2026-07-04T22:01:50.317Z"
+  "lastRun": "2026-07-05T03:25:21.797Z"
 }
