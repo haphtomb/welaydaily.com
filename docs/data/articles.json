@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "barcelona-completes-80-million-deal-for-newcastle-winger-anthony-gordon-b61f81440cef",
+      "headline": "Barcelona Completes €80 Million Deal for Newcastle Winger Anthony Gordon",
+      "league": "Transfer News",
+      "summary": "Barcelona has officially secured the services of Newcastle United forward Anthony Gordon in a substantial €80 million transfer. The move sees the English winger depart the Premier League for a new challenge in La Liga.",
+      "body": "In a significant summer acquisition, Spanish giants Barcelona have confirmed the signing of Anthony Gordon from Newcastle United. The highly-rated attacker makes the switch to Camp Nou in a deal reportedly worth a considerable €80 million, marking one of the most prominent transfers of the window so far.\n\nThe England international is set to bring his pace, dribbling ability, and direct attacking threat to the Catalan club. This high-profile transfer underscores Barcelona's ambition to reinforce their squad with top-tier talent as they prepare for the upcoming season and aim for domestic and European success.\n\nGordon's departure leaves a notable void in Newcastle's attacking options, while Barcelona fans eagerly anticipate seeing their new star in action. The transfer window continues to heat up with major movements across Europe, and this deal certainly makes a statement from the La Liga powerhouse.",
+      "tags": [
+        "Anthony Gordon",
+        "Barcelona",
+        "Newcastle United",
+        "La Liga"
+      ],
+      "image": "images/barcelona-completes-80-million-deal-for-newcastle-winger-anthony-gordon-b61f81440cef.png",
+      "publishedAt": "2026-07-05T16:11:24.272Z"
+    },
+    {
       "id": "manchester-united-targets-andrey-santos-for-champions-league-ambitions-d9e0c496d59c",
       "headline": "Manchester United Targets Andrey Santos for Champions League Ambitions",
       "league": "Champions League",
@@ -892,23 +907,7 @@
       ],
       "image": "images/la-liga-unveils-2026-27-season-schedule-setting-stage-for-epic-clashes-22d7524ea1af.png",
       "publishedAt": "2026-07-01T20:22:25.676Z"
-    },
-    {
-      "id": "african-ascent-nine-nations-make-history-in-world-cup-round-of-32-3d6a1b1bdd25",
-      "headline": "African Ascent: Nine Nations Make History in World Cup Round of 32",
-      "league": "World Cup Qualifiers",
-      "summary": "African football is celebrating an unprecedented milestone at the 2026 FIFA World Cup, with a record nine nations successfully navigating the group stage to reach the Round of 32. This remarkable achievement highlights the continent's rising influence and competitive strength on the global stage.",
-      "body": "The 2026 FIFA World Cup has already etched itself into the history books for African football, as a formidable nine teams have advanced to the knockout phase. Algeria, Cape Verde, Côte d'Ivoire, Democratic Republic of Congo, Egypt, Ghana, Morocco, Senegal, and South Africa have all secured their spots in the Round of 32, marking a historic and unparalleled representation for the Confederation of African Football (CAF). This collective triumph underscores a significant shift in the global football landscape.\n\nThis impressive showing is a testament to years of development and investment across African football. Nations like Cape Verde are making their mark with a debut appearance in the knockout rounds, while established powerhouses such as Morocco and Senegal continue to demonstrate their consistent quality following strong performances in previous tournaments. Their journey through the demanding qualification process has clearly prepared them for the intense competition of the World Cup finals.\n\nThe success of these nine teams has ignited immense pride and excitement across Africa, signifying a new era of competitiveness. As they prepare for challenging matchups against some of the world's best, the continent watches with anticipation, hopeful that this strong contingent can continue to break barriers and make a deep run in the tournament.",
-      "tags": [
-        "African Football",
-        "World Cup 2026",
-        "Knockout Stage",
-        "CAF",
-        "Historic Achievement"
-      ],
-      "image": "images/african-ascent-nine-nations-make-history-in-world-cup-round-of-32-3d6a1b1bdd25.png",
-      "publishedAt": "2026-07-01T19:22:27.110Z"
     }
   ],
-  "lastRun": "2026-07-05T13:41:53.136Z"
+  "lastRun": "2026-07-05T16:11:34.271Z"
 }
