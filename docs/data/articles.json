@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "manchester-city-secures-young-talent-jeremy-monga-from-leicester-city-437eb6f4a1ef",
+      "headline": "Manchester City Secures Young Talent Jeremy Monga from Leicester City",
+      "league": "Transfer News",
+      "summary": "Manchester City has reportedly reached an agreement to acquire promising 16-year-old midfielder Jeremy Monga from Leicester City in a deal valued at £12.5 million. The move sees the highly-rated youngster join the reigning Premier League champions, fending off interest from other top clubs.",
+      "body": "Manchester City has successfully negotiated a deal to bring Jeremy Monga, a standout 16-year-old talent, to the Etihad Stadium. Reports indicate that an agreement has been finalized with Leicester City for a fee of £12.5 million, which includes potential add-ons. This significant investment highlights City's ongoing strategy to secure future stars for their squad.\n\nThe young midfielder had reportedly garnered attention from several prominent clubs, including Manchester United and Arsenal. However, City's former head coach, Enzo Maresca, now believed to be a key figure in their recruitment, is said to have played a crucial role in securing Monga's transfer.\n\nWhile personal terms and official announcements are still pending for some aspects, the reported agreement marks an exciting acquisition for Manchester City as they continue to build for long-term success, integrating promising youth into their formidable ranks.",
+      "tags": [
+        "Manchester City",
+        "Jeremy Monga",
+        "Leicester City",
+        "Transfer"
+      ],
+      "image": "images/manchester-city-secures-young-talent-jeremy-monga-from-leicester-city-437eb6f4a1ef.png",
+      "publishedAt": "2026-07-05T08:54:54.994Z"
+    },
+    {
       "id": "caf-launches-race-for-2028-2032-and-2036-afcon-hosting-rights-82ea99905cab",
       "headline": "CAF Launches Race for 2028, 2032, and 2036 AFCON Hosting Rights",
       "league": "AFCON",
@@ -892,22 +907,7 @@
       ],
       "image": "images/caf-rejects-afcon-expansion-plan-future-tournament-format-remains-at-24-teams-2b9ef9e7997e.png",
       "publishedAt": "2026-07-01T18:01:35.980Z"
-    },
-    {
-      "id": "atletico-madrid-secures-grimaldo-in-significant-defensive-reinforcement-99a5264180c4",
-      "headline": "Atletico Madrid Secures Grimaldo in Significant Defensive Reinforcement",
-      "league": "La Liga",
-      "summary": "Atletico Madrid has officially bolstered their squad with the acquisition of accomplished left-back Alejandro Grimaldo. The Spanish international arrives from Bayer Leverkusen, bringing a wealth of experience and attacking quality to the Spanish capital.",
-      "body": "Atletico Madrid has confirmed the signing of Alejandro Grimaldo from German champions Bayer Leverkusen, a move that significantly strengthens Diego Simeone's defensive options. The highly-rated full-back has penned a long-term contract with the Rojiblancos, committing his future to the club until 2030. Reports indicate the transfer fee stands around €22 million, reflecting the player's value and consistent performances.\n\nGrimaldo enjoyed a stellar tenure at Bayer Leverkusen, playing a pivotal role in their recent successes, including a historic Bundesliga title. His ability to contribute both defensively and offensively, with a keen eye for a pass and a powerful shot, makes him a valuable asset. Atletico will undoubtedly look to leverage his dynamic playmaking from the left flank.\n\nThis acquisition signals Atletico's intent to compete at the highest level in the upcoming season. Grimaldo's arrival is expected to provide fierce competition and depth in the full-back positions, offering Simeone more tactical flexibility as the club prepares for domestic and European challenges.",
-      "tags": [
-        "Atletico Madrid",
-        "Transfers",
-        "La Liga",
-        "Alejandro Grimaldo"
-      ],
-      "image": "images/atletico-madrid-secures-grimaldo-in-significant-defensive-reinforcement-99a5264180c4.png",
-      "publishedAt": "2026-07-01T17:47:48.479Z"
     }
   ],
-  "lastRun": "2026-07-05T03:25:21.797Z"
+  "lastRun": "2026-07-05T08:55:12.227Z"
 }
