@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "champions-league-quest-begins-kauno-zalgiris-hosts-drita-in-qualification-opener-16e3e80e491e",
+      "headline": "Champions League Quest Begins: Kauno Zalgiris Hosts Drita in Qualification Opener",
+      "league": "Champions League",
+      "summary": "The 2026-27 UEFA Champions League season officially kicks off tomorrow as Lithuanian side Kauno Zalgiris welcomes Kosovan champions Drita for their first qualifying round clash. This crucial encounter marks the initial step in both clubs' ambitious journey towards Europe's premier club competition.",
+      "body": "European football enthusiasts are eagerly anticipating the start of the Champions League preliminary stages, with Kauno Zalgiris set to host Drita at the Darius and Girėnas Stadium in Kaunas, Lithuania. This fixture, scheduled for Tuesday, July 7th, represents the inaugural match of the competition's qualifying rounds, where teams from various nations vie for a coveted spot in the group stage.\n\nBoth Kauno Zalgiris, representing Lithuania, and Drita, the champions of Kosovo, are determined to secure a positive result in this opening leg. Success in these early rounds is vital, as it builds momentum and provides a platform for clubs to advance deeper into the tournament, facing increasingly formidable opponents along the way.\n\nThe upcoming match promises to be a tactical battle, with both sides keen to demonstrate their capabilities and lay down a marker for the rest of their European campaign. As the whistle blows, the ambition to reach the pinnacle of club football will be palpable, setting the stage for another thrilling season of Champions League action.",
+      "tags": [
+        "Champions League Qualifiers",
+        "Kauno Zalgiris",
+        "Drita",
+        "European Football"
+      ],
+      "image": "images/champions-league-quest-begins-kauno-zalgiris-hosts-drita-in-qualification-opener-16e3e80e491e.png",
+      "publishedAt": "2026-07-06T19:58:47.289Z"
+    },
+    {
       "id": "floriana-coach-praises-shamrock-rovers-ahead-of-champions-league-qualifier-bb4333a6e2ff",
       "headline": "Floriana Coach Praises Shamrock Rovers Ahead of Champions League Qualifier",
       "league": "Champions League",
@@ -891,22 +906,7 @@
       ],
       "image": "images/regional-disappointment-central-american-and-caribbean-teams-struggle-in-world-c-55be276fe136.png",
       "publishedAt": "2026-07-02T15:27:55.308Z"
-    },
-    {
-      "id": "motsepe-confident-african-nation-will-claim-world-cup-glory-56e71e4d74d2",
-      "headline": "Motsepe Confident: African Nation Will Claim World Cup Glory",
-      "league": "Other",
-      "summary": "CAF President Patrice Motsepe has voiced strong conviction that an African team will eventually lift the FIFA World Cup trophy, buoyed by the continent's unprecedented success in the ongoing 2026 tournament. He emphasized that strategic investments and development are crucial for realizing this ultimate ambition.",
-      "body": "Confederation of African Football (CAF) President Patrice Motsepe recently articulated his unwavering belief that an African nation is destined to become world champions. His optimistic outlook comes as African teams collectively make history at the 2026 FIFA World Cup, showcasing the continent's growing footballing prowess.\n\nNine out of the ten African representatives successfully navigated the group stages to reach the Round of 32, a significant milestone for African football. While some have since exited, nations like Morocco, Algeria, Egypt, Cape Verde, and Ghana continue their campaigns, keeping the dream of a deep tournament run alive. Motsepe highlighted the historical influence of African players in top European leagues as a foundational element for current national team achievements.\n\nHowever, Motsepe stressed that achieving global supremacy won't happen by chance. He underscored the necessity of a comprehensive structural transformation within African football, advocating for substantial investment in youth development programs for both boys and girls, fostering strong partnerships with governments and the private sector, and ensuring competitive remuneration for players and coaches.",
-      "tags": [
-        "CAF",
-        "Patrice Motsepe",
-        "World Cup 2026",
-        "African Football"
-      ],
-      "image": "images/motsepe-confident-african-nation-will-claim-world-cup-glory-56e71e4d74d2.png",
-      "publishedAt": "2026-07-02T15:28:24.392Z"
     }
   ],
-  "lastRun": "2026-07-06T15:34:41.175Z"
+  "lastRun": "2026-07-06T19:59:20.372Z"
 }
