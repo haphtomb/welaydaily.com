@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "floriana-coach-praises-shamrock-rovers-ahead-of-champions-league-qualifier-bb4333a6e2ff",
+      "headline": "Floriana Coach Praises Shamrock Rovers Ahead of Champions League Qualifier",
+      "league": "Champions League",
+      "summary": "As the UEFA Champions League first qualifying round approaches, Floriana's head coach Daniel Portela has lauded upcoming opponents Shamrock Rovers, acknowledging the Irish club's superior match fitness. The Maltese side prepares for their home leg against a Rovers team already deep into their domestic campaign.",
+      "body": "Floriana's head coach, Daniel Portela, has openly expressed his admiration for Shamrock Rovers as the two clubs prepare to face off in their Champions League first-round, first-leg qualifier on Tuesday. Portela highlighted Rovers' current mid-season form as a significant advantage, contrasting it with Floriana's relatively early stage of pre-season preparations.\n\nThe Maltese champions have primarily engaged in friendly matches following their return to training last month, while Shamrock Rovers benefit from having already played twenty domestic league games. Portela candidly admitted that he perceives no obvious weaknesses in the Dublin-based squad, underscoring the challenge his team faces.\n\nThe upcoming fixture marks a crucial initial step on the path to the Champions League group stages for both teams. Floriana will host the first leg in Malta, with Portela hoping the home advantage and familiar climate can help offset their current lack of competitive rhythm.",
+      "tags": [
+        "Champions League Qualifiers",
+        "Shamrock Rovers",
+        "Floriana FC",
+        "Daniel Portela"
+      ],
+      "image": "images/floriana-coach-praises-shamrock-rovers-ahead-of-champions-league-qualifier-bb4333a6e2ff.png",
+      "publishedAt": "2026-07-06T15:34:22.615Z"
+    },
+    {
       "id": "tottenham-shatters-club-record-to-bring-tonali-back-to-premier-league-c907543dc574",
       "headline": "Tottenham Shatters Club Record to Bring Tonali Back to Premier League",
       "league": "Transfer News",
@@ -891,22 +906,7 @@
       ],
       "image": "images/motsepe-confident-african-nation-will-claim-world-cup-glory-56e71e4d74d2.png",
       "publishedAt": "2026-07-02T15:28:24.392Z"
-    },
-    {
-      "id": "old-trafford-undergoing-upgrades-for-champions-league-return-832e694a83ef",
-      "headline": "Old Trafford Undergoing Upgrades for Champions League Return",
-      "league": "Champions League",
-      "summary": "Manchester United is undertaking necessary renovations at Old Trafford to meet updated UEFA regulations ahead of their return to the Champions League. The club's dugouts are being expanded to accommodate a larger number of personnel, ensuring compliance for the upcoming European campaign.",
-      "body": "Manchester United has begun essential construction work at their iconic Old Trafford stadium, focusing on the team dugouts. These modifications are a direct response to new UEFA regulations, introduced in 2025, which mandate seating for a minimum of 20 individuals on each team bench. The current dugouts at the Theatre of Dreams only seat 16, necessitating the immediate upgrade.\n\nHaving secured a return to Europe's elite competition after a three-year absence, finishing third in the Premier League last season, United is keen to ensure all logistical requirements are met well in advance. The work, which commenced yesterday morning, will take several weeks to complete, preparing the venue for the Champions League anthem once more in September.\n\nThe club has confirmed the new design will feature 21 seats, distributed across three rows, providing ample space for players and coaching staff. This proactive approach highlights Manchester United's commitment to adhering to continental standards as they prepare for a demanding season both domestically and in Europe.",
-      "tags": [
-        "Manchester United",
-        "Old Trafford",
-        "UEFA Regulations",
-        "Stadium Upgrades"
-      ],
-      "image": "images/old-trafford-undergoing-upgrades-for-champions-league-return-832e694a83ef.png",
-      "publishedAt": "2026-07-02T14:02:19.509Z"
     }
   ],
-  "lastRun": "2026-07-06T10:25:16.383Z"
+  "lastRun": "2026-07-06T15:34:41.175Z"
 }
