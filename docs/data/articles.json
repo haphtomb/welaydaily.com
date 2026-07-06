@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "real-madrid-s-la-liga-opener-postponed-due-to-world-cup-commitments-10ea1c887532",
+      "headline": "Real Madrid's La Liga Opener Postponed Due to World Cup Commitments",
+      "league": "La Liga",
+      "summary": "Real Madrid's initial La Liga fixture against Real Sociedad is set to be rescheduled, becoming the first club impacted by the league's policy regarding players' deep runs in the 2026 FIFA World Cup. The postponement comes as key Real Madrid players are guaranteed to feature in the World Cup semi-finals, triggering a mandatory recovery period.",
+      "body": "Real Madrid will see their opening 2026-27 La Liga match against Real Sociedad delayed, a decision stemming from the ongoing 2026 FIFA World Cup. With France facing Morocco in the quarter-finals, the Spanish giants are assured of having at least one player reaching the semi-final stage, necessitating a break for their international stars.\n\nLa Liga President Javier Tebas has indicated a plan to manage the schedule, suggesting the initial matchday might be split across different dates. This approach, however, contrasts with the Spanish Footballers' Association's preference for a universal delay to the league's start, aiming for all clubs to commence simultaneously.\n\nBeyond Real Madrid, other prominent La Liga clubs such as Barcelona and Atletico Madrid could also face similar postponements for their early season fixtures. The final decisions will depend on how many of their players advance to the latter stages of the global tournament, ensuring adequate rest and preparation for all involved athletes.",
+      "tags": [
+        "Real Madrid",
+        "La Liga",
+        "World Cup 2026",
+        "Fixture Postponement"
+      ],
+      "image": "images/real-madrid-s-la-liga-opener-postponed-due-to-world-cup-commitments-10ea1c887532.png",
+      "publishedAt": "2026-07-06T03:33:29.131Z"
+    },
+    {
       "id": "former-chelsea-defender-simeu-poised-for-champions-league-debut-with-tns-84a5f8887bad",
       "headline": "Former Chelsea Defender Simeu Poised for Champions League Debut with TNS",
       "league": "Champions League",
@@ -892,22 +907,7 @@
       ],
       "image": "images/tielemans-late-penalty-seals-dramatic-belgian-comeback-against-senegal-018e31bbf8ae.png",
       "publishedAt": "2026-07-02T08:58:12.359Z"
-    },
-    {
-      "id": "columbus-crew-secure-andr-s-herrera-on-permanent-deal-from-river-plate-071f3e72514c",
-      "headline": "Columbus Crew Secure Andrés Herrera on Permanent Deal from River Plate",
-      "league": "MLS",
-      "summary": "The Columbus Crew have finalized the full acquisition of defender Andrés Herrera from Argentine club River Plate, securing his services for the long term after a successful loan spell. This move ensures the experienced right-back remains a crucial part of the Crew's defensive setup as they look ahead to the resumed MLS season.",
-      "body": "The Columbus Crew announced on Wednesday, July 1, 2026, that they have completed the transfer of defender Andrés Herrera from River Plate, making his stay permanent. The 27-year-old Argentine international has committed to the club with a contract extending through the 2028-29 season, including an option for the 2029-30 campaign. Herrera had previously been with the Crew on loan, proving to be a valuable asset to the team.\n\nHerrera's impact since joining Columbus has been significant, contributing to the team's desired style of play and overall culture. He has made 57 appearances across all competitions for the Crew, registering seven goals and six assists, and was part of the squad that lifted the 2024 Leagues Cup. His consistent performance during his loan period clearly demonstrated his importance to the team's ambitions.\n\nThe full acquisition of Herrera provides stability to the Crew's defense as the MLS season prepares to resume following the FIFA World Cup break. Columbus currently sits tenth in the Eastern Conference with 16 points and will restart their league campaign against New York City FC on July 22. This move signals the club's commitment to building a strong and cohesive squad for future success.",
-      "tags": [
-        "MLS",
-        "Columbus Crew",
-        "Andrés Herrera",
-        "Transfer News"
-      ],
-      "image": "images/columbus-crew-secure-andr-s-herrera-on-permanent-deal-from-river-plate-071f3e72514c.png",
-      "publishedAt": "2026-07-02T08:58:39.526Z"
     }
   ],
-  "lastRun": "2026-07-05T22:03:21.361Z"
+  "lastRun": "2026-07-06T03:33:33.375Z"
 }
