@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "whitecaps-honor-history-with-canadian-championship-return-to-swangard-f2bc84a10798",
+      "headline": "Whitecaps Honor History with Canadian Championship Return to Swangard",
+      "league": "MLS",
+      "summary": "The Vancouver Whitecaps are set to revisit their historic roots by playing a Canadian Championship quarterfinal match at Swangard Stadium, a venue significant to the club's past. This upcoming game will also mark a personal milestone for forward Brian White, who is slated to make his 200th appearance across all competitions for the club.",
+      "body": "The Vancouver Whitecaps are embracing their heritage by hosting Cavalry FC in the first leg of the Telus Canadian Championship quarterfinals at Swangard Stadium. This 5,000-seat facility in Burnaby, British Columbia, served as the Whitecaps' home ground before they joined Major League Soccer, making the return a nostalgic moment for the club and its long-standing supporters.\n\nBeyond the sentimental return to their former stomping grounds, the match holds additional significance for veteran forward Brian White. The game against Cavalry FC is expected to be White's 200th appearance for the Whitecaps across all competitions since he joined the team in 2021.\n\nCoach Jesper Sorensen acknowledged White's crucial contributions to the team's success during his tenure. The Whitecaps will be aiming for their fifth consecutive Voyageurs Cup and their sixth Canadian title overall as they begin this year's tournament journey.",
+      "tags": [
+        "Vancouver Whitecaps",
+        "Canadian Championship",
+        "Swangard Stadium",
+        "Brian White"
+      ],
+      "image": "images/whitecaps-honor-history-with-canadian-championship-return-to-swangard-f2bc84a10798.png",
+      "publishedAt": "2026-07-07T22:12:51.790Z"
+    },
+    {
       "id": "la-galaxy-forwards-farewell-to-pec-in-record-breaking-transfer-to-cruzeiro-7acf80095eee",
       "headline": "LA Galaxy Forwards Farewell to Pec in Record-Breaking Transfer to Cruzeiro",
       "league": "MLS",
@@ -890,22 +905,7 @@
       ],
       "image": "images/manchester-city-shatters-transfer-record-for-forest-star-anderson-ba8dcbc9332a.png",
       "publishedAt": "2026-07-03T16:25:48.938Z"
-    },
-    {
-      "id": "iraq-clinches-intercontinental-playoff-spot-in-thrilling-qualifier-61c225ef6cc6",
-      "headline": "Iraq Clinches Intercontinental Playoff Spot in Thrilling Qualifier",
-      "league": "World Cup Qualifiers",
-      "summary": "Iraq has secured its place in the FIFA World Cup 2026 Intercontinental Playoffs following a dramatic victory over the United Arab Emirates in their final Asian qualifying match. A late penalty ensured the Lions of Mesopotamia advanced, keeping their World Cup dreams alive.",
-      "body": "In a captivating encounter on Tuesday, Iraq emerged victorious against the United Arab Emirates with a 2-1 scoreline in Basra, sealing a 3-2 aggregate win. The decisive moment arrived deep into stoppage time when Amir Al Ammari calmly converted a penalty, igniting celebrations among the Iraqi squad and their passionate supporters.\n\nThis crucial result propels Graham Arnold's side into the intercontinental playoff stage, bringing them one step closer to a coveted spot in the 2026 FIFA World Cup. The match was a tense affair, with both teams battling fiercely, but Iraq's perseverance ultimately paid off in the dying moments.\n\nThe qualification journey for the Asian teams has been arduous, and Iraq's dramatic progression highlights the competitive nature of the region. Their focus now shifts to the upcoming intercontinental challenge, where they will aim to make history by securing a place in the expanded global tournament.",
-      "tags": [
-        "World Cup 2026",
-        "Iraq Football",
-        "AFC Qualifiers",
-        "Intercontinental Playoff"
-      ],
-      "image": "images/iraq-clinches-intercontinental-playoff-spot-in-thrilling-qualifier-61c225ef6cc6.png",
-      "publishedAt": "2026-07-03T16:26:23.413Z"
     }
   ],
-  "lastRun": "2026-07-07T19:58:24.765Z"
+  "lastRun": "2026-07-07T22:13:25.293Z"
 }
