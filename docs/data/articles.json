@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "late-penalty-drama-sends-iraq-to-world-cup-intercontinental-playoffs-ea95c1af8558",
+      "headline": "Late Penalty Drama Sends Iraq to World Cup Intercontinental Playoffs",
+      "league": "World Cup Qualifiers",
+      "summary": "Iraq secured a dramatic victory over the United Arab Emirates in their AFC Asian Qualifiers knockout stage clash, with a stoppage-time penalty sealing their progression. The thrilling 2-1 win saw Iraq advance to the Intercontinental Playoffs, keeping their 2026 World Cup dreams alive.",
+      "body": "The Basra International Stadium erupted on Tuesday as Iraq triumphed over the United Arab Emirates in the second leg of their AFC Asian Qualifiers playoff. A nail-biting encounter saw the home side clinch a 2-1 victory, pushing them through with a 3-2 aggregate score. The match was a tense affair, with both teams battling fiercely for a chance to continue their World Cup journey.\n\nThe United Arab Emirates initially took the lead in the 52nd minute through Caio Lucas, putting pressure on the Iraqi team. However, Iraq responded with resilience, finding an equalizer in the 65th minute courtesy of Mohanad Ali. The game appeared destined for extra time until a pivotal moment deep into stoppage time.\n\nWith 17 minutes added on, Iraq was awarded a penalty. Amir Al Ammari stepped up and calmly converted the spot-kick, igniting wild celebrations among the Iraqi players and fans. This dramatic late goal secured Iraq's place in the Intercontinental Playoffs, where they will now compete for a spot in the FIFA World Cup 2026.",
+      "tags": [
+        "Iraq",
+        "UAE",
+        "World Cup Qualifiers",
+        "AFC",
+        "Penalty"
+      ],
+      "image": "images/late-penalty-drama-sends-iraq-to-world-cup-intercontinental-playoffs-ea95c1af8558.png",
+      "publishedAt": "2026-07-08T11:06:26.161Z"
+    },
+    {
       "id": "real-madrid-secures-dutch-dynamo-dumfries-in-significant-transfer-9219cc9344fd",
       "headline": "Real Madrid Secures Dutch Dynamo Dumfries in Significant Transfer",
       "league": "Transfer News",
@@ -892,22 +908,7 @@
       ],
       "image": "images/van-bronckhorst-returns-to-feyenoord-helm-for-champions-league-campaign-d3dc131d6e51.png",
       "publishedAt": "2026-07-03T22:07:21.447Z"
-    },
-    {
-      "id": "real-madrid-secures-trio-of-stars-in-ambitious-summer-transfer-drive-efd6afd596b5",
-      "headline": "Real Madrid Secures Trio of Stars in Ambitious Summer Transfer Drive",
-      "league": "Transfer News",
-      "summary": "Real Madrid has significantly bolstered its squad with the official announcements of Marc Cucurella, Bernardo Silva, and Ibrahima Konate joining the club. These high-profile acquisitions signal a clear intent from the Spanish giants to dominate the upcoming season.",
-      "body": "In a decisive move to reinforce their ranks, Real Madrid has confirmed the arrival of three prominent European talents. Defender Marc Cucurella makes the switch from Chelsea, bringing his Premier League experience to the Spanish capital. Joining him is Portuguese midfield maestro Bernardo Silva, departing Manchester City after a successful spell, and powerful French center-back Ibrahima Konate, who arrives from Liverpool.\n\nThese strategic signings are expected to inject considerable quality and depth across the pitch for manager Jose Mourinho's squad. Cucurella will strengthen the defensive line, while Silva's creative prowess and Konate's commanding presence at the back will undoubtedly elevate the team's overall capabilities.\n\nThe influx of such established players underscores Real Madrid's ambition to compete fiercely on all fronts in the new campaign. With the transfer window heating up, these significant moves send a strong message to their rivals about the club's determination to reclaim top honors.",
-      "tags": [
-        "Real Madrid",
-        "Transfer News",
-        "La Liga",
-        "Premier League"
-      ],
-      "image": "images/real-madrid-secures-trio-of-stars-in-ambitious-summer-transfer-drive-efd6afd596b5.png",
-      "publishedAt": "2026-07-03T19:24:13.114Z"
     }
   ],
-  "lastRun": "2026-07-08T08:30:38.284Z"
+  "lastRun": "2026-07-08T11:06:40.155Z"
 }
