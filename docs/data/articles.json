@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "griezmann-realizes-mls-ambition-with-orlando-city-move-64e091c89e40",
+      "headline": "Griezmann Realizes MLS Ambition with Orlando City Move",
+      "league": "MLS",
+      "summary": "French sensation Antoine Griezmann has officially joined Orlando City, marking the fulfillment of a long-held dream to play in Major League Soccer. The move sets the stage for a compelling reunion with former rival Lionel Messi in the league.",
+      "body": "Antoine Griezmann, the veteran French forward, has completed his transfer to Orlando City, an announcement made on Tuesday. The 35-year-old expressed that joining MLS has been a personal ambition since he was eighteen, emphasizing his desire to arrive while still in peak physical and mental condition. This significant signing comes after his departure from Atlético Madrid, where he concluded his tenure as the club's all-time leading scorer.\n\nGriezmann highlighted a strong connection with Orlando City and the city itself, noting his family's positive reaction to the move. He also mentioned that a visit from Orlando's sporting director to his Madrid home was a key factor in his decision. The World Cup winner indicated that he has been impressed by the caliber of his new teammates during early training sessions.\n\nThe transfer, which sees Griezmann sign a contract through 2028, will reignite his on-field rivalry with Lionel Messi, whom he frequently faced during their time in Spain. Griezmann believes his extensive experience can contribute significantly to Orlando City's pursuit of silverware, stating he hasn't observed a substantial difference in playing level compared to Europe.",
+      "tags": [
+        "Antoine Griezmann",
+        "Orlando City",
+        "MLS Transfers",
+        "Lionel Messi"
+      ],
+      "image": "images/griezmann-realizes-mls-ambition-with-orlando-city-move-64e091c89e40.png",
+      "publishedAt": "2026-07-08T05:53:18.183Z"
+    },
+    {
       "id": "barcelona-nears-permanent-deal-for-versatile-defender-jo-o-cancelo-7803533224ae",
       "headline": "Barcelona Nears Permanent Deal for Versatile Defender João Cancelo",
       "league": "La Liga",
@@ -890,22 +905,7 @@
       ],
       "image": "images/cf-montr-al-secures-midfielder-dani-pereira-in-blockbuster-trade-8e2ba9bc978a.png",
       "publishedAt": "2026-07-03T19:25:14.496Z"
-    },
-    {
-      "id": "lee-kang-in-considers-psg-exit-following-champions-league-final-bench-role-bbbb187c2a7e",
-      "headline": "Lee Kang-in Considers PSG Exit Following Champions League Final Bench Role",
-      "league": "Transfer News",
-      "summary": "Paris Saint-Germain midfielder Lee Kang-in is reportedly assessing his future at the club after not featuring in their recent Champions League final victory against Arsenal. The lack of playing time in such a pivotal match has intensified speculation surrounding a potential summer transfer, with Atlético Madrid reportedly keen on the Korean international.",
-      "body": "South Korean star Lee Kang-in is reportedly contemplating a move away from Paris Saint-Germain, despite the club's recent triumph in the UEFA Champions League. The attacking midfielder was part of the squad that secured the prestigious European trophy in 2026, defeating Arsenal 4-3 on penalties after a 1-1 draw. However, he remained an unused substitute throughout the final, a situation that has reportedly left the player feeling frustrated regarding his role at the club.\n\nThis absence from the pitch in a major fixture has reignited discussions about his playing time, which has been inconsistent in crucial matches. Reports from Spain indicate that Atlético Madrid is closely monitoring the situation, viewing it as an opportunity to secure the talented left-footed player. The Spanish club is believed to be prepared to offer Lee Kang-in a more prominent role, potentially satisfying his desire for more regular starts and a defined position.\n\nPSG, meanwhile, is reportedly not looking to part ways with the player cheaply, with a valuation around 35 million euros for his services. While Lee Kang-in has achieved domestic and European success with the French champions, his personal ambition for consistent first-team action in high-stakes games appears to be a driving force behind the current transfer speculation.",
-      "tags": [
-        "Lee Kang-in",
-        "PSG",
-        "Atlético Madrid",
-        "Transfer Rumors"
-      ],
-      "image": "images/lee-kang-in-considers-psg-exit-following-champions-league-final-bench-role-bbbb187c2a7e.png",
-      "publishedAt": "2026-07-03T19:25:45.840Z"
     }
   ],
-  "lastRun": "2026-07-08T02:41:39.381Z"
+  "lastRun": "2026-07-08T05:53:22.539Z"
 }
