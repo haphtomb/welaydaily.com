@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "barcelona-nears-permanent-deal-for-versatile-defender-jo-o-cancelo-7803533224ae",
+      "headline": "Barcelona Nears Permanent Deal for Versatile Defender João Cancelo",
+      "league": "La Liga",
+      "summary": "FC Barcelona is reportedly on the verge of securing João Cancelo on a permanent transfer, with an official announcement anticipated later this week. The move would see the dynamic full-back return to Catalonia for two seasons after productive negotiations with Al-Hilal.",
+      "body": "Barcelona is reportedly finalizing a deal to bring Portuguese international João Cancelo back to the club on a permanent basis. Sources indicate that discussions with Saudi Pro League side Al-Hilal are in an advanced stage, paving the way for the versatile defender's return to Camp Nou. The transfer fee is expected to be around €10 million, encompassing both fixed payments and variables, for a two-season agreement.\n\nCancelo's impactful performances during his most recent loan spell in 2026 under manager Hansi Flick were a significant factor in Barcelona's pursuit. His ability to operate effectively across both defensive flanks and in more advanced wide positions proved invaluable, even displacing academy product Alejandro Balde from the starting lineup at times.\n\nThe strong relationship between Barcelona president Joan Laporta and super-agent Jorge Mendes has been instrumental in facilitating the impending transfer. The finalization of the deal now hinges primarily on resolving minor tax-related issues stemming from Cancelo's previous loan period in Catalonia.",
+      "tags": [
+        "Barcelona",
+        "João Cancelo",
+        "Transfer News",
+        "La Liga"
+      ],
+      "image": "images/barcelona-nears-permanent-deal-for-versatile-defender-jo-o-cancelo-7803533224ae.png",
+      "publishedAt": "2026-07-08T02:41:35.060Z"
+    },
+    {
       "id": "whitecaps-honor-history-with-canadian-championship-return-to-swangard-f2bc84a10798",
       "headline": "Whitecaps Honor History with Canadian Championship Return to Swangard",
       "league": "MLS",
@@ -890,22 +905,7 @@
       ],
       "image": "images/lee-kang-in-considers-psg-exit-following-champions-league-final-bench-role-bbbb187c2a7e.png",
       "publishedAt": "2026-07-03T19:25:45.840Z"
-    },
-    {
-      "id": "manchester-city-shatters-transfer-record-for-forest-star-anderson-ba8dcbc9332a",
-      "headline": "Manchester City Shatters Transfer Record for Forest Star Anderson",
-      "league": "Premier League",
-      "summary": "Manchester City has secured England midfielder Elliot Anderson from Nottingham Forest in a groundbreaking deal, reportedly setting a new British transfer fee benchmark. The move sees the 23-year-old World Cup participant join the reigning Premier League champions, marking a significant statement in the summer transfer window.",
-      "body": "Manchester City has finalized the acquisition of Elliot Anderson from Nottingham Forest, a transfer understood to be the most expensive ever for a British player. While financial specifics were not officially disclosed by either club, British media outlets are reporting the comprehensive agreement could reach up to £116 million, eclipsing the previous record set by Jude Bellingham's move to Real Madrid in 2023.\n\nAnderson, currently representing England at the World Cup, successfully completed his medical examination in Kansas. The final administrative details of the transfer are expected to be concluded upon his return to England. This colossal signing also establishes Anderson as Manchester City's most expensive acquisition, surpassing the £100 million paid for Jack Grealish in 2021.\n\nThe midfielder, a product of Newcastle United's academy, joined Nottingham Forest in 2024 for £35 million. During his tenure with Forest, he made 92 appearances across all competitions, contributing six goals and 11 assists. Anderson is recognized for his high-energy play, tactical intelligence, and robust work rate, excelling in both defensive duties and offensive contributions.",
-      "tags": [
-        "Manchester City",
-        "Elliot Anderson",
-        "Transfer News",
-        "Nottingham Forest"
-      ],
-      "image": "images/manchester-city-shatters-transfer-record-for-forest-star-anderson-ba8dcbc9332a.png",
-      "publishedAt": "2026-07-03T16:25:48.938Z"
     }
   ],
-  "lastRun": "2026-07-07T22:13:25.293Z"
+  "lastRun": "2026-07-08T02:41:39.381Z"
 }
