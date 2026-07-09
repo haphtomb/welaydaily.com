@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "tchouameni-commits-long-term-future-to-real-madrid-spurning-united-pursuit-4bd6036c2e9c",
+      "headline": "Tchouameni Commits Long-Term Future to Real Madrid, Spurning United Pursuit",
+      "league": "Transfer News",
+      "summary": "Midfield sensation Aurelien Tchouameni has reportedly finalized a new five-year contract with Real Madrid, putting an end to intense speculation surrounding his future. This significant development sees the French international extend his commitment to the Spanish giants until 2031, effectively closing the door on a potential move to the Premier League.",
+      "body": "Real Madrid has successfully secured Aurelien Tchouameni on a new long-term deal, with reports indicating the midfielder has agreed to a five-year extension that will keep him at the Santiago Bernabéu until 2031. The decision by the highly-rated French international concludes a period of considerable transfer speculation, particularly concerning strong interest from Manchester United.\n\nManchester United had reportedly identified Tchouameni as a key midfield target, but their pursuit appears to have been unsuccessful. Sources suggest that the substantial salary demands involved and Real Madrid's firm stance on retaining the 26-year-old were major factors in the breakdown of any potential transfer.\n\nThis commitment from Tchouameni reinforces Real Madrid's squad stability and their ambitions for future success. His decision ensures he remains a central figure in the team's plans, much to the relief of the club's supporters and the disappointment of rival clubs who had hoped to acquire his services.",
+      "tags": [
+        "Real Madrid",
+        "Aurelien Tchouameni",
+        "Transfer News",
+        "Contract Extension"
+      ],
+      "image": "images/tchouameni-commits-long-term-future-to-real-madrid-spurning-united-pursuit-4bd6036c2e9c.png",
+      "publishedAt": "2026-07-09T06:54:04.927Z"
+    },
+    {
       "id": "griezmann-shines-in-dominant-orlando-city-debut-friendly-1abb3fd76133",
       "headline": "Griezmann Shines in Dominant Orlando City Debut Friendly",
       "league": "MLS",
@@ -894,22 +909,7 @@
       ],
       "image": "images/argentina-survive-cape-verde-scare-advance-to-world-cup-round-of-16-50ce3904dab2.svg",
       "publishedAt": "2026-07-04T16:03:59.273Z"
-    },
-    {
-      "id": "palhinha-departs-tottenham-leaving-legacy-of-crucial-survival-goal-f962cc6eaa86",
-      "headline": "Palhinha Departs Tottenham, Leaving Legacy of Crucial Survival Goal",
-      "league": "Premier League",
-      "summary": "Joao Palhinha has concluded his loan spell at Tottenham Hotspur, with the Portuguese midfielder becoming a cult hero for his pivotal contributions during a challenging season. His departure sees fans reflecting on the dramatic final-day victory that secured the club's Premier League status.",
-      "body": "Portuguese international Joao Palhinha has officially left Tottenham Hotspur, with reports confirming his loan agreement for the 2025/26 season will not be made permanent. Despite an impactful tenure where he emerged as a key midfield figure, manager Roberto De Zerbi has opted against retaining his services as the club embarks on a significant squad overhaul for the upcoming campaign.\n\nPalhinha's time in North London was marked by several memorable moments, none more significant than his decisive goal on the final day of the previous Premier League season. It was his solitary strike against Everton that clinched a vital 1-0 victory, ensuring Tottenham's top-flight survival amidst a turbulent period.\n\nWhile Spurs move forward with new midfield acquisitions like Mateus Fernandes and Sandro Tonali, supporters are fondly recalling Palhinha's crucial interventions, particularly that late-season winner. His departure closes a chapter where he undeniably left a lasting impression on the club's faithful.",
-      "tags": [
-        "Tottenham Hotspur",
-        "Joao Palhinha",
-        "Premier League",
-        "Transfer News"
-      ],
-      "image": "images/palhinha-departs-tottenham-leaving-legacy-of-crucial-survival-goal-f962cc6eaa86.png",
-      "publishedAt": "2026-07-04T16:04:26.193Z"
     }
   ],
-  "lastRun": "2026-07-09T03:01:00.982Z"
+  "lastRun": "2026-07-09T06:54:20.749Z"
 }
