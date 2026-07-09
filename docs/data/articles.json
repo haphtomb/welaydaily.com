@@ -1,6 +1,52 @@
 {
   "articles": [
     {
+      "id": "tottenham-dominates-everton-3-0-in-early-season-clash-b4037015597d",
+      "headline": "Tottenham Dominates Everton 3-0 in Early Season Clash",
+      "league": "Premier League",
+      "summary": "Tottenham Hotspur secured a convincing 3-0 victory over Everton in a recent Premier League encounter, showcasing strong attacking play and defensive solidity. Micky van de Ven was the standout performer, netting two crucial goals for the London club.",
+      "body": "Tottenham Hotspur began their campaign with a decisive 3-0 win against Everton, a result that saw them become the first team to defeat the Toffees in their new stadium. Micky van de Ven was instrumental in the victory, scoring two impressive headers, a testament to the team's dedicated work on set-pieces.\n\nSpurs' head coach, Thomas Frank, expressed his satisfaction with the team's performance, particularly highlighting van de Ven's improved aerial prowess, noting the defender's previous low scoring record. Midfielder Joao Palhinha also emphasized the significance of the win, especially after recent results, and praised the squad's effectiveness from dead-ball situations.\n\nConversely, Everton captain James Tarkowski acknowledged his team's disappointment, attributing the loss to conceding two goals from set-pieces, an area they had specifically prepared for. Despite creating opportunities, Everton found themselves trailing 2-0 at halftime and ultimately couldn't recover, marking a challenging start to their season.",
+      "tags": [
+        "Tottenham",
+        "Everton",
+        "Premier League",
+        "Match Results"
+      ],
+      "image": "images/tottenham-dominates-everton-3-0-in-early-season-clash-b4037015597d.png",
+      "publishedAt": "2026-07-09T22:30:05.310Z"
+    },
+    {
+      "id": "inter-milan-secures-record-breaking-25-million-deal-for-khalaili-b3d81838e2c2",
+      "headline": "Inter Milan Secures Record-Breaking €25 Million Deal for Khalaili",
+      "league": "Serie A",
+      "summary": "Italian champions Inter Milan have officially completed the acquisition of Arab Israeli star Anan Khalaili from Belgian club Union Saint-Gilloise, marking a historic transfer fee for an Israeli player. The dynamic right wing-back joins the Nerazzurri in a significant move that bolsters their squad for the upcoming season.",
+      "body": "Inter Milan has finalized a groundbreaking deal to bring Anan Khalaili to the San Siro, agreeing to a €25 million transfer fee with Union Saint-Gilloise. This move sets a new record for the highest fee ever paid for an Israeli footballer, highlighting the 21-year-old's burgeoning talent and potential on the European stage. Khalaili is expected to earn around €2 million per season, including performance-based bonuses, as he embarks on his new chapter in Italy.\n\nThe transfer also sees Khalaili's former club, Maccabi Haifa, benefit significantly, as they held a 15% sell-on clause in his contract and are anticipated to receive approximately €3.5 million from the record-breaking transaction. Khalaili, primarily a right wing-back, showcased impressive form during the 2025/26 season with the Belgian side, contributing six goals and five assists across 44 starts in 46 appearances.\n\nHis consistent performances have clearly caught the eye of the Serie A giants, who are keen to integrate his pace and attacking prowess into their title-winning squad. The official announcement on Thursday, July 9, 2026, confirms one of the most notable transfers of the summer window, as Inter Milan continues to strengthen its roster for both domestic and continental challenges.",
+      "tags": [
+        "Inter Milan",
+        "Anan Khalaili",
+        "Transfer News",
+        "Serie A",
+        "Union Saint-Gilloise"
+      ],
+      "image": "images/inter-milan-secures-record-breaking-25-million-deal-for-khalaili-b3d81838e2c2.png",
+      "publishedAt": "2026-07-09T22:31:06.778Z"
+    },
+    {
+      "id": "san-diego-fc-bolsters-midfield-with-acquisition-of-gabriel-pirani-from-d-c-unite-6506e5da658f",
+      "headline": "San Diego FC Bolsters Midfield with Acquisition of Gabriel Pirani from D.C. United",
+      "league": "MLS",
+      "summary": "San Diego FC has finalized a significant deal, bringing in midfielder Gabriel Pirani from D.C. United in a move aimed at enhancing their attacking prowess. The transfer involves a substantial allocation of General Allocation Money and a future sell-on clause, marking a strategic acquisition for the Western Conference club.",
+      "body": "San Diego FC officially announced today the acquisition of Brazilian midfielder Gabriel Pirani from D.C. United, a move expected to inject creativity and technical skill into their squad. The transaction sees D.C. United receive a package worth up to $1 million in General Allocation Money, with $350,000 guaranteed and an additional $650,000 in conditional payments, alongside a retained sell-on percentage. Pirani will also occupy a U22 Initiative roster slot for San Diego.\n\nPirani, a 24-year-old former Brazil youth international, made a notable impact during his tenure with D.C. United, registering 14 goals and 7 assists across 78 regular-season appearances since his initial loan move in July 2023, which became permanent in January 2024. Despite losing his regular starting position this season, his previous contributions highlight his offensive capabilities.\n\nSan Diego's Sporting Director, Tyler Heaps, expressed confidence in the new signing, emphasizing Pirani's attacking qualities and technical ability as a valuable addition to the team's competitive depth. D.C. United's Managing Director of Soccer Operations, Dr. Erkut Sogut, noted that the trade provides crucial resources and roster flexibility for their future squad building. San Diego currently sits 10th in the Western Conference, while D.C. United holds the ninth and final playoff spot in the Eastern Conference.",
+      "tags": [
+        "MLS",
+        "Transfer News",
+        "San Diego FC",
+        "D.C. United"
+      ],
+      "image": "images/san-diego-fc-bolsters-midfield-with-acquisition-of-gabriel-pirani-from-d-c-unite-6506e5da658f.png",
+      "publishedAt": "2026-07-09T22:32:03.137Z"
+    },
+    {
       "id": "houston-dynamo-2-earns-top-honors-for-mls-next-pro-matchweek-18-df26fa55ea83",
       "headline": "Houston Dynamo 2 Earns Top Honors for MLS NEXT Pro Matchweek 18",
       "league": "MLS",
@@ -863,53 +909,7 @@
       ],
       "image": "images/manchester-city-secures-young-talent-jeremy-monga-from-leicester-city-437eb6f4a1ef.png",
       "publishedAt": "2026-07-05T08:54:54.994Z"
-    },
-    {
-      "id": "caf-launches-race-for-2028-2032-and-2036-afcon-hosting-rights-82ea99905cab",
-      "headline": "CAF Launches Race for 2028, 2032, and 2036 AFCON Hosting Rights",
-      "league": "AFCON",
-      "summary": "The Confederation of African Football has officially opened the bidding process for three future editions of its flagship tournament, the Africa Cup of Nations. All 54 member associations are now invited to present their proposals for hosting the 2028, 2032, and 2036 competitions, marking a significant long-term strategic move for the continent's football governing body.",
-      "body": "The Confederation of African Football (CAF) has initiated the extensive bidding process for the rights to host the 2028, 2032, and 2036 Africa Cup of Nations tournaments. This development, announced in the last 48 hours, invites all 54 of CAF's member associations to submit their candidacies, signaling a concerted effort to secure long-term planning for Africa's premier football event.\n\nA newly established bidding framework, developed with the support of independent advisory firm PwC, along with technical, financial, and legal experts, will guide the selection process. This framework emphasizes transparency, credibility, and ethical practices, assessing bids based on critical criteria such as infrastructure, commercial viability, operational capacity, and adherence to safety standards.\n\nThis announcement precedes the jointly hosted 2027 AFCON in Kenya, Tanzania, and Uganda, which is set to run from June 19 to July 17, 2027. CAF's revised competition calendar aims to ensure a major senior men's national team tournament takes place every year, with the exception of FIFA World Cup years, further cementing the AFCON's prominent global standing.",
-      "tags": [
-        "CAF",
-        "AFCON",
-        "Hosting Bids",
-        "African Football"
-      ],
-      "image": "images/caf-launches-race-for-2028-2032-and-2036-afcon-hosting-rights-82ea99905cab.png",
-      "publishedAt": "2026-07-05T03:25:17.438Z"
-    },
-    {
-      "id": "columbus-crew-secures-spanish-midfielder-brais-m-ndez-as-designated-player-abdd1cf8ecd5",
-      "headline": "Columbus Crew Secures Spanish Midfielder Brais Méndez as Designated Player",
-      "league": "MLS",
-      "summary": "The Columbus Crew has bolstered its squad with the acquisition of Spanish midfielder Brais Méndez, bringing a wealth of La Liga experience to the reigning MLS Cup champions. Méndez joins as a Designated Player, signaling the club's ambition to maintain its competitive edge in the league.",
-      "body": "The Columbus Crew announced a significant roster move on July 2, confirming the acquisition of Brais Méndez from La Liga side Real Sociedad. The Spanish international midfielder arrives as a Designated Player, with his contract extending through the 2028-29 season, including a club option for an additional year. He will officially join the team when the MLS secondary transfer window opens on July 13.\n\nMéndez brings a decade of top-flight Spanish football experience to Ohio, having registered 33 goals and 24 assists across 166 appearances for Real Sociedad. His tenure there saw him contribute to the club's UEFA Champions League qualification and a Copa Del Rey title. The midfielder has also earned four senior caps for the Spanish national team, underscoring his pedigree.\n\nGeneral Manager Issa Tall expressed enthusiasm for the signing, noting Méndez's exceptional technical abilities and tactical understanding gained from one of the world's premier leagues. This strategic addition is expected to significantly impact the Crew's roster, both immediately and in the long term, as the team prepares to push through the latter half of the season.",
-      "tags": [
-        "Columbus Crew",
-        "Brais Méndez",
-        "Transfer News",
-        "MLS",
-        "Real Sociedad"
-      ],
-      "image": "images/columbus-crew-secures-spanish-midfielder-brais-m-ndez-as-designated-player-abdd1cf8ecd5.png",
-      "publishedAt": "2026-07-04T22:00:39.557Z"
-    },
-    {
-      "id": "african-pride-soars-as-morocco-egypt-advance-to-world-cup-last-16-6309483b5649",
-      "headline": "African Pride Soars as Morocco, Egypt Advance to World Cup Last 16",
-      "league": "Other",
-      "summary": "The Confederation of African Football has expressed immense satisfaction following the qualification of two of its member nations, Morocco and Egypt, to the Round of 16 at the ongoing FIFA World Cup. This historic achievement sees the continent's representatives continue their impressive run on the global stage, setting up intriguing knockout clashes.",
-      "body": "African football's governing body, CAF, has celebrated the progression of Morocco and Egypt into the FIFA World Cup 2026 Round of 16. Both nations secured their spots after navigating challenging Round of 32 encounters, igniting continental pride and hope for further advancement in the tournament.\n\nMorocco, the first African team to qualify, overcame the Netherlands in a tense penalty shootout after their match ended in a 1-1 draw. Egypt followed suit, making history by winning their first-ever knockout stage match at a World Cup, defeating Australia 4-2 on penalties after a 1-1 stalemate in regulation and extra time.\n\nCAF took to social media to commend the teams, emphasizing Africa's continued presence in the competition. Morocco is now set to face co-hosts Canada, while Egypt prepares for a formidable challenge against defending champions Argentina in their respective Round of 16 fixtures.",
-      "tags": [
-        "CAF",
-        "World Cup 2026",
-        "Morocco",
-        "Egypt"
-      ],
-      "image": "images/african-pride-soars-as-morocco-egypt-advance-to-world-cup-last-16-6309483b5649.png",
-      "publishedAt": "2026-07-04T22:01:07.651Z"
     }
   ],
-  "lastRun": "2026-07-09T19:47:53.360Z"
+  "lastRun": "2026-07-09T22:32:07.138Z"
 }
