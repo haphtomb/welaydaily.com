@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "ceballos-returns-to-seville-nearing-real-betis-reunion-e22df74f0797",
+      "headline": "Ceballos Returns to Seville, Nearing Real Betis Reunion",
+      "league": "La Liga",
+      "summary": "Former Real Madrid midfielder Dani Ceballos has arrived in Seville for discussions regarding a potential transfer back to Real Betis, with his contract at the capital club having recently concluded. The Spanish international is reportedly keen to join a team where he will play a significant role, making Betis a strong contender for his signature.",
+      "body": "Dani Ceballos, now a free agent after his departure from Real Madrid, has traveled to Seville to engage in negotiations concerning a possible return to his former club, Real Betis. The 29-year-old midfielder found himself outside the plans of incoming Real Madrid coach José Mourinho, leading to an early termination of his contract. Ceballos is highly regarded across Spain and has attracted interest from numerous European clubs since becoming available.\n\nHowever, Real Betis has consistently emerged as a leading destination, having pursued a reunion with the former Arsenal loanee for several weeks. Their persistent efforts appear to be culminating in crucial discussions, as Ceballos has expressed a clear desire for a club where he can be a central figure.\n\nTransfer specialist Fabrizio Romano confirmed Ceballos' presence in Seville on Friday, indicating that talks are progressing for a move that would see the talented Spaniard back at the Estadio Benito Villamarín. This potential transfer would mark a significant acquisition for Betis, adding a proven La Liga midfielder to their ranks.",
+      "tags": [
+        "Dani Ceballos",
+        "Real Betis",
+        "Transfer News",
+        "La Liga"
+      ],
+      "image": "images/ceballos-returns-to-seville-nearing-real-betis-reunion-e22df74f0797.png",
+      "publishedAt": "2026-07-11T02:38:29.131Z"
+    },
+    {
       "id": "oyarzabal-reaffirms-loyalty-to-real-sociedad-amidst-barcelona-speculation-b1eae73eefba",
       "headline": "Oyarzabal Reaffirms Loyalty to Real Sociedad Amidst Barcelona Speculation",
       "league": "La Liga",
@@ -894,22 +909,7 @@
       ],
       "image": "images/dr-gu-in-departs-tottenham-for-fiorentina-in-loan-to-buy-agreement-8960a0b661ae.png",
       "publishedAt": "2026-07-06T22:15:40.290Z"
-    },
-    {
-      "id": "queiroz-departs-as-ghana-coach-after-world-cup-round-of-16-exit-31449cab71e3",
-      "headline": "Queiroz Departs as Ghana Coach After World Cup Round of 16 Exit",
-      "league": "World Cup Qualifiers",
-      "summary": "Carlos Queiroz has officially concluded his tenure as head coach of the Ghana national team, the Black Stars, following their elimination from the 2026 FIFA World Cup Round of 16. His departure comes after a short-term contract that hinged on the team's performance in the global tournament.",
-      "body": "Carlos Queiroz will not continue at the helm of Ghana's national football team. The Portuguese tactician's departure was confirmed on July 5, 2026, after the Black Stars exited the 2026 FIFA World Cup in the Round of 16. Queiroz had taken on a four-month contract in April, which included an extension clause contingent on Ghana reaching the tournament's quarter-finals.\n\nDespite the early exit, Queiroz expressed pride in his time with the team, stating his belief that the Black Stars had regained respect and credibility on the international stage. His contract is set to officially conclude at the end of July.\n\nQueiroz also offered insights into the future of Ghanaian football, emphasizing that sustained success requires robust organization off the pitch, complementing the efforts made during matches. This advice highlights a crucial area for the national team's development moving forward.",
-      "tags": [
-        "Ghana",
-        "Carlos Queiroz",
-        "World Cup 2026",
-        "Managerial Change"
-      ],
-      "image": "images/queiroz-departs-as-ghana-coach-after-world-cup-round-of-16-exit-31449cab71e3.png",
-      "publishedAt": "2026-07-06T22:16:33.752Z"
     }
   ],
-  "lastRun": "2026-07-10T22:06:33.011Z"
+  "lastRun": "2026-07-11T02:38:33.423Z"
 }
