@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "egyptian-fa-pushes-for-expanded-caf-club-competitions-ahead-of-key-vote-03d076b150c2",
+      "headline": "Egyptian FA Pushes for Expanded CAF Club Competitions Ahead of Key Vote",
+      "league": "CAF Champions League",
+      "summary": "African club football could see a significant shake-up as the Egyptian Football Association (EFA) has formally proposed expanding the CAF Champions League and Confederation Cup. This initiative, driven by recent continental success, seeks to grant more clubs access to Africa's premier tournaments.",
+      "body": "The Confederation of African Football's Executive Committee is poised to discuss a pivotal proposal next week that could reshape its top club competitions. Hany Abo Rida, president of the Egyptian Football Association, has submitted an official request to increase the number of participating teams in both the CAF Champions League and the CAF Confederation Cup. This move follows an impressive showing by African national teams at the recent 2026 FIFA World Cup, which the EFA believes demonstrates the continent's growing footballing strength.\n\nUnder the proposed expansion, each member association would receive an additional slot in both club tournaments. For highly-ranked nations, this could translate to having up to three representatives vying for continental glory in both the Champions League and Confederation Cup. The extra teams would enter through the preliminary qualifying rounds.\n\nThe potential impact is significant for clubs across Africa. For instance, Nigeria's Shooting Stars, who secured a Confederation Cup spot by finishing third in their domestic league, could find themselves in the Champions League if the proposal gains approval. Similarly, Egyptian giants Al Ahly, currently slated for the Confederation Cup, would also qualify for the Champions League alongside Zamalek and Pyramids under the new structure.",
+      "tags": [
+        "CAF",
+        "Champions League",
+        "Confederation Cup",
+        "Egyptian FA"
+      ],
+      "image": "images/egyptian-fa-pushes-for-expanded-caf-club-competitions-ahead-of-key-vote-03d076b150c2.png",
+      "publishedAt": "2026-07-11T13:21:06.784Z"
+    },
+    {
       "id": "manchester-city-secures-highly-rated-leicester-starlet-jeremy-monga-9cff40c44228",
       "headline": "Manchester City Secures Highly-Rated Leicester Starlet Jeremy Monga",
       "league": "Transfer News",
@@ -894,23 +909,7 @@
       ],
       "image": "images/real-sociedad-extends-matarazzo-s-reign-after-historic-copa-del-rey-triumph-6fe488c547dc.png",
       "publishedAt": "2026-07-07T14:35:04.871Z"
-    },
-    {
-      "id": "onana-finalizes-loan-move-to-trabzonspor-from-manchester-united-9cf1bd3ec3e1",
-      "headline": "Onana Finalizes Loan Move to Trabzonspor from Manchester United",
-      "league": "Transfer News",
-      "summary": "Manchester United's goalkeeper, André Onana, has officially completed a loan transfer, joining Turkish Süper Lig club Trabzonspor for the upcoming season. This move sees the Cameroonian international temporarily depart Old Trafford in pursuit of new opportunities.",
-      "body": "Manchester United's goalkeeping ranks have seen a notable change with the confirmation of André Onana's temporary departure. The accomplished Cameroonian shot-stopper has finalized a loan agreement to Trabzonspor, a prominent team in Turkey's top flight, for the duration of the next season.\n\nThis arrangement is understood to be a direct loan, with expectations for Onana to rejoin Manchester United upon the completion of his spell in Turkey next summer. The move provides both the player and the English club an opportunity to re-evaluate his long-term prospects at Old Trafford, following a period of consistent play in a new league setting.\n\nTrabzonspor stands to gain significantly from securing a goalkeeper of Onana's experience and quality, bringing his background from elite European competitions and international football to their squad. Meanwhile, Manchester United benefits by freeing up a spot in their goalkeeping roster while ensuring Onana continues his professional development through regular match action.",
-      "tags": [
-        "André Onana",
-        "Manchester United",
-        "Trabzonspor",
-        "Süper Lig",
-        "Loan Transfer"
-      ],
-      "image": "images/onana-finalizes-loan-move-to-trabzonspor-from-manchester-united-9cf1bd3ec3e1.png",
-      "publishedAt": "2026-07-07T14:35:40.654Z"
     }
   ],
-  "lastRun": "2026-07-11T10:17:25.847Z"
+  "lastRun": "2026-07-11T13:21:10.784Z"
 }
