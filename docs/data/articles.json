@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "manchester-united-secures-andrey-santos-in-50-million-chelsea-deal-0a687c4a606b",
+      "headline": "Manchester United Secures Andrey Santos in £50 Million Chelsea Deal",
+      "league": "Transfer News",
+      "summary": "Manchester United has reportedly reached a comprehensive agreement with Chelsea for the transfer of highly-rated midfielder Andrey Santos, with the deal valued at an impressive £50 million. The Brazilian talent is now expected to travel to Manchester to complete his medical examinations and finalize personal terms, signaling a significant reinforcement for the Old Trafford club.",
+      "body": "Manchester United has successfully negotiated a deal with Chelsea for the acquisition of promising midfielder Andrey Santos. The agreement, reportedly worth up to £50 million, marks a substantial move in the summer transfer window, with the young Brazilian set to join the Red Devils' ranks. Santos's impending arrival is anticipated to bolster United's midfield options significantly ahead of the new season.\n\nThe 18-year-old talent has been given the green light to travel to Manchester, where he will undergo a medical assessment and finalize the remaining details of his transfer to Old Trafford. This development concludes a period of speculation surrounding his future, as both clubs worked towards a mutual understanding for the player's switch.\n\nSantos's departure from Chelsea comes less than a year after his initial move to Stamford Bridge, highlighting the rapid nature of top-tier football transfers. His potential and impressive performances have clearly caught the eye of the Manchester United hierarchy, who are keen to integrate him into their squad as they prepare for the upcoming campaign.",
+      "tags": [
+        "Andrey Santos",
+        "Manchester United",
+        "Chelsea",
+        "Transfer",
+        "Premier League"
+      ],
+      "image": "images/manchester-united-secures-andrey-santos-in-50-million-chelsea-deal-0a687c4a606b.png",
+      "publishedAt": "2026-07-12T16:02:14.681Z"
+    },
+    {
       "id": "champions-league-qualifiers-ignite-veterans-and-newcomers-shine-in-opening-round-3f79a6762515",
       "headline": "Champions League Qualifiers Ignite: Veterans and Newcomers Shine in Opening Rounds",
       "league": "Champions League",
@@ -893,22 +909,7 @@
       ],
       "image": "images/deportivo-la-coru-a-secures-bayern-prodigy-asp-jensen-amid-lazio-interest-3796fa455f50.png",
       "publishedAt": "2026-07-08T19:27:47.294Z"
-    },
-    {
-      "id": "world-cup-hero-lopes-sits-out-as-champions-league-qualifiers-begin-800e85b22536",
-      "headline": "World Cup Hero Lopes Sits Out as Champions League Qualifiers Begin",
-      "league": "Champions League",
-      "summary": "The 2026/27 UEFA Champions League qualifying rounds have commenced, featuring early upsets and the notable absence of Shamrock Rovers defender Roberto 'Pico' Lopes, who is recuperating after his impressive World Cup campaign with Cape Verde. Gibraltar's Lincoln Red Imps secured a convincing victory in their opening fixture, marking a dramatic start to Europe's elite club competition.",
-      "body": "The road to the UEFA Champions League group stage for the 2026/27 season has officially begun, with the first qualifying round matches taking place across various European nations. These initial fixtures have already produced compelling narratives and results, setting the tone for the long qualification process.\n\nOne of the most significant talking points from the early stages was the absence of Shamrock Rovers' key defender, Roberto 'Pico' Lopes. The 34-year-old, a prominent figure in Cape Verde's memorable World Cup journey that saw them push defending champions Argentina to their limits, recently returned to Dublin and was not available for his club's first leg. Meanwhile, in Gibraltar, Lincoln Red Imps secured a decisive 3-1 victory over Andorran side Inter Club d'Escaldes, with veteran left-back Nano, aged 41, scoring the first goal of the competition from the penalty spot.\n\nElsewhere, Bosnian champions Borac Banja Luka played to a 1-1 draw at home against Levski Sofia, highlighting the competitive nature of these early ties. As teams vie for a coveted spot in Europe's premier club tournament, these qualifying matches continue to unfold away from the intense spotlight of the ongoing World Cup.",
-      "tags": [
-        "Champions League Qualifiers",
-        "Pico Lopes",
-        "Shamrock Rovers",
-        "Lincoln Red Imps"
-      ],
-      "image": "images/world-cup-hero-lopes-sits-out-as-champions-league-qualifiers-begin-800e85b22536.png",
-      "publishedAt": "2026-07-08T19:28:17.121Z"
     }
   ],
-  "lastRun": "2026-07-12T13:22:50.157Z"
+  "lastRun": "2026-07-12T16:02:56.640Z"
 }
