@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "houston-dynamo-bolster-attack-with-acquisition-of-striker-duncan-mcguire-abf24e9c6c0a",
+      "headline": "Houston Dynamo Bolster Attack with Acquisition of Striker Duncan McGuire",
+      "league": "MLS",
+      "summary": "Houston Dynamo FC has finalized a significant transfer, bringing striker Duncan McGuire to the club from Orlando City in exchange for a substantial amount of General Allocation Money. This move aims to strengthen the Dynamo's offensive capabilities as they continue their push up the league standings.",
+      "body": "Houston Dynamo FC officially announced the acquisition of 25-year-old forward Duncan McGuire from Orlando City on Friday, July 10, 2026, in a deal involving up to $2.4 million in General Allocation Money (GAM). The initial agreement sees Orlando receiving $1.25 million in GAM, spread across the next three seasons, with additional performance-based incentives potentially increasing the total. McGuire's contract with the Dynamo extends through 2027, with a club option for 2028, signaling a long-term commitment from the Houston side.\n\nMcGuire, a US international, was a sixth overall pick in the 2023 MLS SuperDraft and has been a prolific scorer for Orlando City, tallying 32 goals and seven assists in 109 appearances across all competitions. His consistent ability to find the back of the net and influence games in the final third was a key factor in Houston's decision to pursue the transfer.\n\nPat Onstad, President of Soccer for Houston Dynamo FC, expressed satisfaction with the addition, highlighting McGuire's experience and potential for further improvement within the team's environment. This strategic move is anticipated to provide a significant boost to the Dynamo's attacking options as they prepare for the upcoming playoff push.",
+      "tags": [
+        "MLS",
+        "Transfer News",
+        "Houston Dynamo",
+        "Orlando City",
+        "Duncan McGuire"
+      ],
+      "image": "images/houston-dynamo-bolster-attack-with-acquisition-of-striker-duncan-mcguire-abf24e9c6c0a.png",
+      "publishedAt": "2026-07-12T06:00:14.590Z"
+    },
+    {
       "id": "dragusin-secures-fiorentina-loan-move-from-tottenham-hotspur-25f7f4b7669b",
       "headline": "Dragusin Secures Fiorentina Loan Move from Tottenham Hotspur",
       "league": "Transfer News",
@@ -893,22 +909,7 @@
       ],
       "image": "images/la-liga-president-slams-fifa-over-controversial-balogun-ban-reversal-c9a6b93109d9.png",
       "publishedAt": "2026-07-08T08:30:34.283Z"
-    },
-    {
-      "id": "griezmann-realizes-mls-ambition-with-orlando-city-move-64e091c89e40",
-      "headline": "Griezmann Realizes MLS Ambition with Orlando City Move",
-      "league": "MLS",
-      "summary": "French sensation Antoine Griezmann has officially joined Orlando City, marking the fulfillment of a long-held dream to play in Major League Soccer. The move sets the stage for a compelling reunion with former rival Lionel Messi in the league.",
-      "body": "Antoine Griezmann, the veteran French forward, has completed his transfer to Orlando City, an announcement made on Tuesday. The 35-year-old expressed that joining MLS has been a personal ambition since he was eighteen, emphasizing his desire to arrive while still in peak physical and mental condition. This significant signing comes after his departure from Atlético Madrid, where he concluded his tenure as the club's all-time leading scorer.\n\nGriezmann highlighted a strong connection with Orlando City and the city itself, noting his family's positive reaction to the move. He also mentioned that a visit from Orlando's sporting director to his Madrid home was a key factor in his decision. The World Cup winner indicated that he has been impressed by the caliber of his new teammates during early training sessions.\n\nThe transfer, which sees Griezmann sign a contract through 2028, will reignite his on-field rivalry with Lionel Messi, whom he frequently faced during their time in Spain. Griezmann believes his extensive experience can contribute significantly to Orlando City's pursuit of silverware, stating he hasn't observed a substantial difference in playing level compared to Europe.",
-      "tags": [
-        "Antoine Griezmann",
-        "Orlando City",
-        "MLS Transfers",
-        "Lionel Messi"
-      ],
-      "image": "images/griezmann-realizes-mls-ambition-with-orlando-city-move-64e091c89e40.png",
-      "publishedAt": "2026-07-08T05:53:18.183Z"
     }
   ],
-  "lastRun": "2026-07-12T02:47:32.164Z"
+  "lastRun": "2026-07-12T06:00:23.823Z"
 }
