@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "women-s-champions-league-star-mapi-le-n-joins-london-city-lionesses-3e4250160c30",
+      "headline": "Women's Champions League Star Mapi León Joins London City Lionesses",
+      "league": "Champions League",
+      "summary": "Former Barcelona defensive stalwart Mapi León has completed a significant move to London City Lionesses, reuniting with ex-teammate Alexia Putellas as the English club continues to strengthen its roster. This transfer marks another high-profile departure from the reigning Women's Champions League victors.",
+      "body": "London City Lionesses have made a notable statement in the transfer market, securing the services of decorated defender Mapi León. The Spanish international, a four-time Women's Champions League winner with Barcelona, joins the English club on a three-year deal after her contract expired with the Catalan giants. Her arrival follows closely on the heels of fellow Barcelona legend Alexia Putellas, who also recently moved to the ambitious London side, signaling a determined push for success in the Women's Super League.\n\nLeón's departure is part of a broader shift at Barcelona, which has seen several key players move on this summer. The highly-regarded defender was a pivotal figure in Barcelona's recent dominant era, including their emphatic 4-0 triumph over OL Lyonnes in the Champions League final this past May. Her experience and leadership will be invaluable as London City Lionesses aim to build on their sixth-place finish in the English top flight last season.\n\nThe acquisition of players of León's caliber underscores London City Lionesses' growing ambitions and the influence of owner Michele Kang in developing women's football. With two former Barcelona stars now anchoring their squad, the Lionesses are clearly setting their sights on challenging for higher honors in both domestic and European competitions in the upcoming seasons.",
+      "tags": [
+        "Women's Football",
+        "Transfer News",
+        "Champions League",
+        "London City Lionesses"
+      ],
+      "image": "images/women-s-champions-league-star-mapi-le-n-joins-london-city-lionesses-3e4250160c30.png",
+      "publishedAt": "2026-07-13T21:58:49.359Z"
+    },
+    {
       "id": "tottenham-seals-marquee-tonali-deal-from-newcastle-in-100m-swoop-91b7e215f233",
       "headline": "Tottenham Seals Marquee Tonali Deal from Newcastle in €100M Swoop",
       "league": "Premier League",
@@ -892,22 +907,7 @@
       ],
       "image": "images/sabah-fc-downs-the-new-saints-in-champions-league-qualifier-e0363342c1e9.png",
       "publishedAt": "2026-07-10T14:28:37.207Z"
-    },
-    {
-      "id": "barcelona-completes-blockbuster-80-million-signing-of-anthony-gordon-9df16822a24d",
-      "headline": "Barcelona Completes Blockbuster €80 Million Signing of Anthony Gordon",
-      "league": "Transfer News",
-      "summary": "Spanish giants Barcelona have officially secured the services of dynamic winger Anthony Gordon from Newcastle United in a substantial €80 million transfer. This high-profile move sees the English talent depart the Premier League for a new challenge in La Liga.",
-      "body": "Barcelona has finalized a major acquisition, confirming the signing of Anthony Gordon from Newcastle United in a deal reportedly worth €80 million. The versatile attacker, known for his pace and direct play, has been a key figure for the Magpies, but will now ply his trade at Camp Nou. This transfer marks a significant investment by the Catalan club as they aim to bolster their attacking options for the upcoming season.\n\nThe 25-year-old winger's departure from St. James' Park concludes weeks of speculation linking him with a move to Spain. Gordon's impressive performances in the Premier League caught the eye of several top European clubs, but Barcelona ultimately won the race for his signature. He is expected to add a new dimension to Barcelona's offensive strategies.\n\nThis substantial fee underscores Gordon's growing reputation and Newcastle's strong negotiating position. His arrival is anticipated to ignite excitement among Barcelona fans, eager to see how the English star integrates into the squad and contributes to their pursuit of domestic and European silverware.",
-      "tags": [
-        "Anthony Gordon",
-        "Barcelona",
-        "Newcastle United",
-        "La Liga"
-      ],
-      "image": "images/barcelona-completes-blockbuster-80-million-signing-of-anthony-gordon-9df16822a24d.png",
-      "publishedAt": "2026-07-10T14:29:40.968Z"
     }
   ],
-  "lastRun": "2026-07-13T19:26:16.110Z"
+  "lastRun": "2026-07-13T21:59:22.060Z"
 }
