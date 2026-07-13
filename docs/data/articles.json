@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "lewandowski-joins-chicago-fire-in-staggering-mls-move-6ef14de528cf",
+      "headline": "Lewandowski Joins Chicago Fire in Staggering MLS Move",
+      "league": "MLS",
+      "summary": "In a surprising turn for global football, legendary Polish striker Robert Lewandowski has completed a significant transfer to MLS side Chicago Fire, marking another high-profile acquisition for the American league. The move underscores MLS's increasing financial strength and its growing appeal to elite international talent post-World Cup.",
+      "body": "The football world is still buzzing after news broke yesterday of Robert Lewandowski's transfer to the Chicago Fire. The veteran forward, departing Barcelona, has committed to the MLS club through the 2027-2028 season, a remarkable deal that highlights the growing financial power of Major League Soccer on the international stage. His decision to join the Fire over other potential suitors, including clubs in Liga MX, signals a clear shift in the global football landscape, with top European stars increasingly viewing MLS as a premier destination for their careers.\n\nAt 37 years old, the prolific striker is embarking on a new chapter, aiming to become the focal point of Chicago Fire's attack and help elevate the team's standing within the league. This acquisition is seen as a strategic move for the Fire, who are betting on the Polish international's proven goal-scoring ability to reignite their ambitions for top honors.\n\nLewandowski's arrival is not just a boost for Chicago but for MLS as a whole, further solidifying its reputation as a league capable of attracting and securing world-class players. The substantial financial incentives and competitive environment offered by American clubs are making MLS an increasingly attractive option for players seeking new challenges and lucrative opportunities.",
+      "tags": [
+        "Robert Lewandowski",
+        "Chicago Fire",
+        "MLS Transfer",
+        "Major League Soccer"
+      ],
+      "image": "images/lewandowski-joins-chicago-fire-in-staggering-mls-move-6ef14de528cf.png",
+      "publishedAt": "2026-07-13T02:47:53.448Z"
+    },
+    {
       "id": "roma-targets-chelsea-duo-to-bolster-squad-for-champions-league-ambition-a9f10bbc341e",
       "headline": "Roma Targets Chelsea Duo to Bolster Squad for Champions League Ambition",
       "league": "Champions League",
@@ -893,22 +908,7 @@
       ],
       "image": "images/colorado-rapids-lucas-herrington-sparks-major-european-club-interest-1714f0d83a4d.png",
       "publishedAt": "2026-07-09T12:05:19.269Z"
-    },
-    {
-      "id": "real-betis-officially-secure-fran-garc-a-install-50m-release-clause-45cbf1c35690",
-      "headline": "Real Betis Officially Secure Fran García, Install €50M Release Clause",
-      "league": "La Liga",
-      "summary": "Real Betis has officially completed the signing of defender Fran García from Real Madrid, securing his services until 2030. The move includes a substantial €50 million release clause, highlighting Betis's confidence in their new acquisition.",
-      "body": "Real Betis has finalized the transfer of left-back Fran García from Real Madrid, concluding a deal that sees the 26-year-old commit to the Verdiblancos until June 2030. The agreement involved Betis paying €4 million for 50% of García's economic rights, with Real Madrid retaining the remaining share through a future sell-on clause.\n\nGarcía, a product of Real Madrid's academy, brings valuable La Liga experience gained during his time at Rayo Vallecano. His return to the Santiago Bernabéu offered limited first-team opportunities, prompting his search for consistent playing time. Betis views García as a crucial addition, with his attacking prowess, speed, and top-flight experience expected to bolster Manuel Pellegrini's squad on the left flank.\n\nThe inclusion of a significant €50 million release clause in García's contract underscores Betis's belief in his long-term value. This strategic move aims to protect the club's investment and ensure they are well-positioned should other major European clubs express interest in the future.",
-      "tags": [
-        "Real Betis",
-        "Fran García",
-        "Transfer News",
-        "La Liga"
-      ],
-      "image": "images/real-betis-officially-secure-fran-garc-a-install-50m-release-clause-45cbf1c35690.png",
-      "publishedAt": "2026-07-09T12:05:53.678Z"
     }
   ],
-  "lastRun": "2026-07-12T21:53:58.589Z"
+  "lastRun": "2026-07-13T02:47:57.901Z"
 }
