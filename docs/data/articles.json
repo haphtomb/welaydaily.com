@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "croatia-reinstates-slaven-bili-to-lead-national-team-after-world-cup-exit-1f365b9d209d",
+      "headline": "Croatia Reinstates Slaven Bilić to Lead National Team After World Cup Exit",
+      "league": "World Cup Qualifiers",
+      "summary": "Following their early elimination from the 2026 FIFA World Cup, the Croatian Football Federation has announced the return of Slaven Bilić as the national team's head coach. Bilić is tasked with revitalizing the squad after a disappointing performance in the global tournament.",
+      "body": "Slaven Bilić has been appointed as the new head coach for the Croatian national team, marking his second tenure with the Vatreni. This significant managerial change comes in the immediate aftermath of Croatia's premature exit from the 2026 FIFA World Cup, where their journey concluded in the Round of 32. Their campaign ended with a narrow 2-1 defeat to Portugal, a result that prompted the departure of former coach Zlatko Dalić.\n\nBilić previously guided Croatia between 2006 and 2012, overseeing their participation in several major international competitions. His reappointment underscores the Croatian Football Federation's commitment to instigating fresh impetus and direction for the squad, with an eye towards upcoming qualification campaigns and a renewed push for international success.\n\nNow at 57 years old, Bilić's immediate focus will be on rebuilding team morale and strategy. He has conveyed his strong belief in the players' capabilities and emphasized his role in injecting renewed energy, ambition, and determination to ensure Croatia maintains its esteemed position within the footballing world.",
+      "tags": [
+        "Croatia",
+        "Slaven Bilic",
+        "Coaching Change",
+        "World Cup 2026"
+      ],
+      "image": "images/croatia-reinstates-slaven-bili-to-lead-national-team-after-world-cup-exit-1f365b9d209d.png",
+      "publishedAt": "2026-07-14T05:32:40.125Z"
+    },
+    {
       "id": "women-s-champions-league-star-mapi-le-n-joins-london-city-lionesses-3e4250160c30",
       "headline": "Women's Champions League Star Mapi León Joins London City Lionesses",
       "league": "Champions League",
@@ -892,22 +907,7 @@
       ],
       "image": "images/france-advances-to-world-cup-semifinals-after-decisive-win-over-morocco-b010fc0cac1e.png",
       "publishedAt": "2026-07-10T17:00:37.028Z"
-    },
-    {
-      "id": "sabah-fc-downs-the-new-saints-in-champions-league-qualifier-e0363342c1e9",
-      "headline": "Sabah FC Downs The New Saints in Champions League Qualifier",
-      "league": "Champions League",
-      "summary": "Azerbaijani champions Sabah FC initiated their UEFA Champions League qualifying campaign with a solid home victory, securing a two-goal advantage against Welsh side The New Saints. This crucial first-leg performance puts them in a strong position as they eye progression to the next round.",
-      "body": "The UEFA Champions League first qualifying round saw Azerbaijani titleholders Sabah FC make a strong statement on home turf, defeating Welsh champions The New Saints with a 2-0 scoreline. The decisive goals came in the second half, with Simić V. breaking the deadlock in the 66th minute, followed by Parris extending the lead in the 84th minute.\n\nThe match, held on July 7th, marked a significant start for Sabah FC as they navigated a challenging encounter. Despite finishing the game with ten men, the Azerbaijani side demonstrated resilience to maintain their clean sheet and secure a valuable lead ahead of the return leg.\n\nThis result provides Sabah FC with a considerable advantage as they prepare for the second leg, where The New Saints will face an uphill battle to overturn the deficit. The Welsh club will need a strong performance at home to keep their Champions League aspirations alive.",
-      "tags": [
-        "Champions League Qualifiers",
-        "Sabah FC",
-        "The New Saints",
-        "Football"
-      ],
-      "image": "images/sabah-fc-downs-the-new-saints-in-champions-league-qualifier-e0363342c1e9.png",
-      "publishedAt": "2026-07-10T14:28:37.207Z"
     }
   ],
-  "lastRun": "2026-07-14T02:30:13.466Z"
+  "lastRun": "2026-07-14T05:32:58.005Z"
 }
