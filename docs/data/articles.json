@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "caf-opens-bidding-for-afcon-2028-2032-and-2036-tournaments-f3c70abf66eb",
+      "headline": "CAF Opens Bidding for AFCON 2028, 2032, and 2036 Tournaments",
+      "league": "AFCON",
+      "summary": "The Confederation of African Football has officially launched the bidding process for the Africa Cup of Nations tournaments in 2028, 2032, and 2036. This significant move invites member associations across the continent to present their proposals for hosting Africa's premier football event.",
+      "body": "The Confederation of African Football (CAF) has initiated the call for bids from its 54 member associations to host the prestigious Africa Cup of Nations for the 2028, 2032, and 2036 editions. This significant announcement, made today, opens a new chapter for African nations aspiring to stage the continent's biggest sporting spectacle, known for attracting billions of television viewers and digital engagement globally. The upcoming 2027 AFCON will be co-hosted by Kenya, Tanzania, and Uganda, showcasing a multi-nation approach.\n\nCAF has developed a comprehensive bidding framework, crafted with the support of independent experts, ensuring a transparent, credible, and ethical selection process. This framework aligns with global best practices for major sporting event hosting. The continental body intends to hold a senior men's national team competition annually, with the exception of FIFA World Cup years, further solidifying the tournament's prominence.\n\nThis invitation for future hosts underscores CAF's commitment to the continued growth and development of African football. Member associations now have the opportunity to showcase their infrastructure and organizational capabilities, vying for the chance to welcome the continent's top national teams and their passionate supporters. Further details regarding national team competitions are expected to be released in due course.",
+      "tags": [
+        "CAF",
+        "AFCON",
+        "Bidding",
+        "African Football"
+      ],
+      "image": "images/caf-opens-bidding-for-afcon-2028-2032-and-2036-tournaments-f3c70abf66eb.png",
+      "publishedAt": "2026-07-15T22:02:46.629Z"
+    },
+    {
       "id": "caf-unveils-stars-spotlight-webinar-featuring-top-wafcon-2026-talents-c2556df20ee8",
       "headline": "CAF Unveils 'Stars Spotlight' Webinar Featuring Top WAFCON 2026 Talents",
       "league": "AFCON",
@@ -893,23 +908,7 @@
       ],
       "image": "images/galaxy-edge-club-am-rica-in-tense-friendly-showdown-6bc6a2dd6079.png",
       "publishedAt": "2026-07-12T08:31:39.139Z"
-    },
-    {
-      "id": "houston-dynamo-bolster-attack-with-acquisition-of-striker-duncan-mcguire-abf24e9c6c0a",
-      "headline": "Houston Dynamo Bolster Attack with Acquisition of Striker Duncan McGuire",
-      "league": "MLS",
-      "summary": "Houston Dynamo FC has finalized a significant transfer, bringing striker Duncan McGuire to the club from Orlando City in exchange for a substantial amount of General Allocation Money. This move aims to strengthen the Dynamo's offensive capabilities as they continue their push up the league standings.",
-      "body": "Houston Dynamo FC officially announced the acquisition of 25-year-old forward Duncan McGuire from Orlando City on Friday, July 10, 2026, in a deal involving up to $2.4 million in General Allocation Money (GAM). The initial agreement sees Orlando receiving $1.25 million in GAM, spread across the next three seasons, with additional performance-based incentives potentially increasing the total. McGuire's contract with the Dynamo extends through 2027, with a club option for 2028, signaling a long-term commitment from the Houston side.\n\nMcGuire, a US international, was a sixth overall pick in the 2023 MLS SuperDraft and has been a prolific scorer for Orlando City, tallying 32 goals and seven assists in 109 appearances across all competitions. His consistent ability to find the back of the net and influence games in the final third was a key factor in Houston's decision to pursue the transfer.\n\nPat Onstad, President of Soccer for Houston Dynamo FC, expressed satisfaction with the addition, highlighting McGuire's experience and potential for further improvement within the team's environment. This strategic move is anticipated to provide a significant boost to the Dynamo's attacking options as they prepare for the upcoming playoff push.",
-      "tags": [
-        "MLS",
-        "Transfer News",
-        "Houston Dynamo",
-        "Orlando City",
-        "Duncan McGuire"
-      ],
-      "image": "images/houston-dynamo-bolster-attack-with-acquisition-of-striker-duncan-mcguire-abf24e9c6c0a.png",
-      "publishedAt": "2026-07-12T06:00:14.590Z"
     }
   ],
-  "lastRun": "2026-07-15T19:13:37.551Z"
+  "lastRun": "2026-07-15T22:03:09.469Z"
 }
