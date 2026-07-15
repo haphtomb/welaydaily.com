@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "caf-unveils-stars-spotlight-webinar-featuring-top-wafcon-2026-talents-c2556df20ee8",
+      "headline": "CAF Unveils 'Stars Spotlight' Webinar Featuring Top WAFCON 2026 Talents",
+      "league": "AFCON",
+      "summary": "The Confederation of African Football has announced its second 'Stars Spotlight' webinar, connecting media with key players ahead of the 2026 Women's Africa Cup of Nations. This digital event aims to build anticipation and foster engagement for the upcoming continental tournament in Morocco.",
+      "body": "The Confederation of African Football (CAF) is hosting its second 'Stars Spotlight' webinar today, July 15, bringing together some of the continent's most prominent women footballers. This initiative, announced on July 14, serves as a crucial platform for journalists and stakeholders to interact with leading players just over a week before the TotalEnergies CAF Women's Africa Cup of Nations (WAFCON) kicks off in Morocco.\n\nModerated by renowned sports journalist Usher Komugisha, the English-language session features a distinguished panel of seven stars set to headline WAFCON 2026. Participants include Nigeria's Asisat Oshoala, Zambia's Barbra Banda, South Africa's Refiloe Jane, Malawi's Tabitha Chawinga, Ghana's Cynthia F. Konlan, Egypt's Nadine Ghazi, and Tanzania's Anastazia Katunzi.\n\nThe webinar offers these athletes an opportunity to discuss their preparations, tournament ambitions, and the ongoing development of women's football across Africa. The session will conclude with a live question-and-answer segment, allowing accredited media direct interaction with the players before the tournament commences on July 26 and runs until August 16.",
+      "tags": [
+        "CAF",
+        "WAFCON 2026",
+        "Women's Football",
+        "Asisat Oshoala"
+      ],
+      "image": "images/caf-unveils-stars-spotlight-webinar-featuring-top-wafcon-2026-talents-c2556df20ee8.png",
+      "publishedAt": "2026-07-15T19:13:33.551Z"
+    },
+    {
       "id": "fenerbah-e-finalizes-major-move-for-forward-mason-greenwood-from-marseille-4b7541397376",
       "headline": "Fenerbahçe Finalizes Major Move for Forward Mason Greenwood from Marseille",
       "league": "Transfer News",
@@ -894,22 +909,7 @@
       ],
       "image": "images/houston-dynamo-bolster-attack-with-acquisition-of-striker-duncan-mcguire-abf24e9c6c0a.png",
       "publishedAt": "2026-07-12T06:00:14.590Z"
-    },
-    {
-      "id": "dragusin-secures-fiorentina-loan-move-from-tottenham-hotspur-25f7f4b7669b",
-      "headline": "Dragusin Secures Fiorentina Loan Move from Tottenham Hotspur",
-      "league": "Transfer News",
-      "summary": "Tottenham Hotspur has reached an agreement to send defender Radu Dragusin to Fiorentina on a season-long loan, with the move marking his return to Serie A. The deal includes an option for the Italian club to make the transfer permanent next summer.",
-      "body": "Tottenham Hotspur has reportedly finalized a loan agreement for center-back Radu Dragusin to join Italian side Fiorentina for the upcoming season. The defender, who arrived at Spurs in January, is set to return to Serie A, where he previously played for Genoa before his move to England.\n\nThe arrangement between the two clubs includes an option for Fiorentina to secure Dragusin's services on a permanent basis at the conclusion of the loan spell. This move provides Dragusin with an opportunity for consistent playing time as he looks to further develop his career.\n\nThis temporary departure comes as Tottenham continues to reshape its squad for the new campaign. Dragusin's return to Italy will allow him to compete in a familiar league, potentially paving the way for a long-term future with the Viola.",
-      "tags": [
-        "Tottenham Hotspur",
-        "Fiorentina",
-        "Radu Dragusin",
-        "Serie A"
-      ],
-      "image": "images/dragusin-secures-fiorentina-loan-move-from-tottenham-hotspur-25f7f4b7669b.png",
-      "publishedAt": "2026-07-12T02:46:25.834Z"
     }
   ],
-  "lastRun": "2026-07-15T16:25:49.688Z"
+  "lastRun": "2026-07-15T19:13:37.551Z"
 }
