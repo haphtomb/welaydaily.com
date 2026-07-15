@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "trossard-departs-arsenal-for-turkish-giants-besiktas-in-20-million-switch-b05717a5dc74",
+      "headline": "Trossard Departs Arsenal for Turkish Giants Besiktas in €20 Million Switch",
+      "league": "Transfer News",
+      "summary": "Belgian international Leandro Trossard has officially completed his move from Arsenal to Turkish club Besiktas, marking a new chapter in his career following a successful stint in the Premier League. The winger's transfer, valued at approximately €20 million, sees him sign a multi-year deal with the Istanbul side.",
+      "body": "Leandro Trossard, the dynamic Belgian forward, has finalized his transfer to Besiktas, concluding his tenure with Arsenal. The move, reportedly worth around €20 million, was confirmed on July 14th, with Trossard set to undergo a medical examination in Istanbul before the official unveiling.\n\nThe 31-year-old winger has agreed to a three-year contract with the Turkish club, with an option for an additional season, and is expected to command an annual salary of approximately €7 million. His departure comes after a notable period at Arsenal, where he played a crucial role in their Premier League title triumph, contributing eight goals and eleven assists across 50 appearances last season.\n\nTrossard's impressive performances, including a strong showing at the recent 2026 World Cup, made him an attractive target for Besiktas, who are eager to bolster their squad. The deal signifies a significant acquisition for the Turkish outfit as they prepare for the upcoming season, adding a proven talent with international experience to their ranks.",
+      "tags": [
+        "Leandro Trossard",
+        "Arsenal",
+        "Besiktas",
+        "Transfer News"
+      ],
+      "image": "images/trossard-departs-arsenal-for-turkish-giants-besiktas-in-20-million-switch-b05717a5dc74.png",
+      "publishedAt": "2026-07-15T02:28:22.551Z"
+    },
+    {
       "id": "sommer-joins-club-brugge-in-champions-league-comeback-bid-b697bab76433",
       "headline": "Sommer Joins Club Brugge in Champions League Comeback Bid",
       "league": "Champions League",
@@ -893,22 +908,7 @@
       ],
       "image": "images/caf-considers-expanding-champions-league-and-confederation-cup-participation-0d7d9e605f36.png",
       "publishedAt": "2026-07-11T07:58:18.167Z"
-    },
-    {
-      "id": "dynamo-acquires-striker-mcguire-from-orlando-in-significant-allocation-money-dea-fc0ec8fb0813",
-      "headline": "Dynamo Acquires Striker McGuire from Orlando in Significant Allocation Money Deal",
-      "league": "MLS",
-      "summary": "Houston Dynamo FC has secured the services of prolific forward Duncan McGuire from Orlando City SC in a transaction involving substantial General Allocation Money. This move sees the 25-year-old striker depart Florida after a successful tenure to join the Texas club.",
-      "body": "Orlando City SC confirmed the transfer of Duncan McGuire to Houston Dynamo FC, receiving a significant package of General Allocation Money (GAM) in return. The Lions are set to acquire $600,000 in 2026 GAM, $400,000 in 2027 GAM, and an additional $250,000 in 2027-28 GAM, with the potential for an extra $1.15 million in performance-based incentives. Orlando City will also benefit from a sell-on clause for any future transfer involving McGuire.\n\nMcGuire, who is 25 years old, initially joined Orlando City in January 2023 as a SuperDraft pick. During his time with the Central Florida club, he established himself as a key attacking force, netting 32 goals and providing nine assists across 109 appearances in all competitions. His goal tally places him fourth in Orlando City's all-time scoring records.\n\nOrlando City's General Manager and Sporting Director, Ricardo Moreira, acknowledged McGuire's considerable contribution to the club's success over recent years. The move is viewed as mutually beneficial, allowing McGuire a new chapter in his career while providing Orlando with valuable resources for future squad development.",
-      "tags": [
-        "MLS",
-        "Transfer News",
-        "Houston Dynamo",
-        "Orlando City SC"
-      ],
-      "image": "images/dynamo-acquires-striker-mcguire-from-orlando-in-significant-allocation-money-dea-fc0ec8fb0813.png",
-      "publishedAt": "2026-07-11T05:42:59.156Z"
     }
   ],
-  "lastRun": "2026-07-14T21:59:36.307Z"
+  "lastRun": "2026-07-15T02:28:36.179Z"
 }
