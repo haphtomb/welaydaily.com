@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "karim-adeyemi-lands-in-barcelona-ahead-of-imminent-22m-transfer-4bd44947fd97",
+      "headline": "Karim Adeyemi Lands in Barcelona Ahead of Imminent €22M Transfer",
+      "league": "La Liga",
+      "summary": "German international Karim Adeyemi has arrived in Barcelona, poised to complete his €22 million transfer from Borussia Dortmund to the Catalan giants. The forward is expected to undergo his medical examination today before formally signing a five-year contract.",
+      "body": "Barcelona is buzzing with the arrival of Karim Adeyemi, who touched down in the city yesterday, July 15, 2026, to finalize his move from Borussia Dortmund. The highly-rated German forward is set to become the club's second summer acquisition, with his official presentation anticipated next week once President Joan Laporta and Sporting Director Deco return from the World Cup final.\n\nThe €22 million deal, which could include an additional €7 million in performance-related bonuses, will see Adeyemi commit to a five-year contract, keeping him at Camp Nou until the summer of 2031. The 24-year-old, who has openly supported Barcelona since childhood, is eager to begin this new chapter in his career.\n\nCoach Hansi Flick is reportedly a keen admirer of Adeyemi, having previously handed him his senior Germany debut. Flick believes the attacker's blistering pace, direct style of play, and versatility will inject a vital new dimension into the Blaugrana's offensive strategies for the upcoming season.",
+      "tags": [
+        "Barcelona",
+        "Karim Adeyemi",
+        "Transfer News",
+        "La Liga"
+      ],
+      "image": "images/karim-adeyemi-lands-in-barcelona-ahead-of-imminent-22m-transfer-4bd44947fd97.png",
+      "publishedAt": "2026-07-16T02:36:35.613Z"
+    },
+    {
       "id": "caf-opens-bidding-for-afcon-2028-2032-and-2036-tournaments-f3c70abf66eb",
       "headline": "CAF Opens Bidding for AFCON 2028, 2032, and 2036 Tournaments",
       "league": "AFCON",
@@ -893,22 +908,7 @@
       ],
       "image": "images/caf-mourns-tragic-loss-of-south-african-world-cup-midfielder-jayden-adams-53c0ad6e1f4f.png",
       "publishedAt": "2026-07-12T08:31:11.109Z"
-    },
-    {
-      "id": "galaxy-edge-club-am-rica-in-tense-friendly-showdown-6bc6a2dd6079",
-      "headline": "Galaxy Edge Club América in Tense Friendly Showdown",
-      "league": "MLS",
-      "summary": "The LA Galaxy secured a narrow 1-0 victory over Mexican giants Club América in a spirited friendly match at Dignity Health Sports Park on Saturday night. Ghanaian forward Joseph Paintsil netted the decisive goal, breaking a lengthy period without home fans in attendance for the Galaxy.",
-      "body": "The Los Angeles Galaxy celebrated a return to action in front of their home supporters with a hard-fought 1-0 win against Liga MX powerhouse Club América. Joseph Paintsil delivered the lone goal for the Galaxy, finding the back of the net in the first half of the contest. The friendly marked the first time in 49 days that fans were able to cheer on their team at Dignity Health Sports Park.\n\nThe decisive moment arrived in the 26th minute when Marco Reus delivered a free kick into the penalty area. Jakob Glesnes skillfully headed the ball into Paintsil's path, allowing the Ghanaian attacker to convert from close range, giving the Galaxy the lead. The home side then successfully defended their advantage, maintaining a clean sheet against their formidable opponents.\n\nThis victory provides a positive boost for Greg Vanney's squad as they prepare to resume MLS regular-season play. The Galaxy are now set to face cross-town rivals LAFC in the highly anticipated 'El Tráfico' on Friday, July 17, back at Dignity Health Sports Park.",
-      "tags": [
-        "LA Galaxy",
-        "Club América",
-        "Friendly",
-        "Joseph Paintsil"
-      ],
-      "image": "images/galaxy-edge-club-am-rica-in-tense-friendly-showdown-6bc6a2dd6079.png",
-      "publishedAt": "2026-07-12T08:31:39.139Z"
     }
   ],
-  "lastRun": "2026-07-15T22:03:09.469Z"
+  "lastRun": "2026-07-16T02:36:49.271Z"
 }
