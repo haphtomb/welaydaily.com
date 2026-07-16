@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "shamrock-rovers-stage-dramatic-comeback-advance-in-champions-league-qualifiers-abc6f2618de7",
+      "headline": "Shamrock Rovers Stage Dramatic Comeback, Advance in Champions League Qualifiers",
+      "league": "Champions League",
+      "summary": "Shamrock Rovers delivered a stunning performance at home, overturning a first-leg deficit against Floriana to secure their passage into the next round of Champions League qualification. The Irish champions showcased resilience, netting five goals to win the tie convincingly on aggregate.",
+      "body": "Dublin's Shamrock Rovers roared back into contention in the UEFA Champions League first qualifying round, triumphing over Maltese side Floriana with a dominant 5-1 victory in the second leg. This emphatic win at Tallaght Stadium secured their progression with a 5-3 aggregate score, delighting the home crowd after a challenging start to the tie.\n\nThe Hoops, captained by World Cup star Roberto 'Pico' Lopes, found themselves two goals down after the initial encounter but wasted no time in the return fixture. They opened their scoring just seven minutes in, setting the tone for a relentless offensive display. Despite a quick response from Floriana, Shamrock Rovers maintained their composure, adding another before halftime and a further three goals after the break to seal their dramatic comeback.\n\nFive different players contributed to the Irish side's goal tally, highlighting a collective effort that propelled them into the second qualifying round. Shamrock Rovers will now prepare to face Ararat-Armenia in their quest to reach the lucrative 36-team Champions League league phase.",
+      "tags": [
+        "Shamrock Rovers",
+        "Champions League Qualifiers",
+        "Pico Lopes",
+        "Football"
+      ],
+      "image": "images/shamrock-rovers-stage-dramatic-comeback-advance-in-champions-league-qualifiers-abc6f2618de7.png",
+      "publishedAt": "2026-07-16T08:15:29.192Z"
+    },
+    {
       "id": "brentford-edges-afc-wimbledon-in-thrilling-pre-season-friendly-604e7a8b0492",
       "headline": "Brentford Edges AFC Wimbledon in Thrilling Pre-Season Friendly",
       "league": "Premier League",
@@ -892,23 +907,7 @@
       ],
       "image": "images/portsmouth-raids-a-league-again-secures-teen-midfielder-brooke-smith-297f7f272789.png",
       "publishedAt": "2026-07-12T10:31:34.011Z"
-    },
-    {
-      "id": "barcelona-secures-anthony-gordon-in-staggering-80-million-deal-bbb5563fd850",
-      "headline": "Barcelona Secures Anthony Gordon in Staggering €80 Million Deal",
-      "league": "Transfer News",
-      "summary": "Barcelona has officially completed the blockbuster signing of forward Anthony Gordon from Newcastle United, with the Spanish giants reportedly paying a massive €80 million for his services. This high-profile transfer marks a significant statement of intent from the Catalan club as they prepare for the upcoming season.",
-      "body": "In a move that has sent shockwaves through European football, Barcelona has successfully acquired English attacker Anthony Gordon from Newcastle United. The reported transfer fee stands at a staggering €80 million, underscoring the immense value placed on the young talent by the Spanish powerhouse. Gordon’s arrival is expected to inject fresh impetus into Barcelona’s attacking line-up, providing a dynamic presence on the wing.\n\nThe 22-year-old winger, who joined Newcastle from Everton in January 2023, quickly established himself as a key player for the Magpies, showcasing his blistering pace, dribbling ability, and eye for goal. His impressive performances in the Premier League caught the attention of several top clubs, but Barcelona ultimately won the race for his signature, solidifying their commitment to building a competitive squad.\n\nThis significant investment highlights Barcelona's ambition under Hansi Flick, as they aim to reclaim domestic and European dominance. Gordon will now link up with his new teammates, with fans eagerly anticipating his debut and the impact he will have in La Liga and potential Champions League campaigns.",
-      "tags": [
-        "Anthony Gordon",
-        "Barcelona",
-        "Newcastle United",
-        "La Liga",
-        "Transfer"
-      ],
-      "image": "images/barcelona-secures-anthony-gordon-in-staggering-80-million-deal-bbb5563fd850.png",
-      "publishedAt": "2026-07-12T08:30:41.478Z"
     }
   ],
-  "lastRun": "2026-07-16T05:42:55.575Z"
+  "lastRun": "2026-07-16T08:15:41.616Z"
 }
