@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "egnatia-storms-into-next-round-with-record-champions-league-victory-5305b3dde3bf",
+      "headline": "Egnatia Storms into Next Round with Record Champions League Victory",
+      "league": "Champions League",
+      "summary": "Albanian side KF Egnatia achieved a historic milestone in the UEFA Champions League first qualifying round, securing their largest ever win in continental competition. Their dominant home performance against Petrocub ensured a comfortable passage to the second qualifying stage.",
+      "body": "KF Egnatia delivered a commanding display in the UEFA Champions League first qualifying round, securing a resounding 6-1 victory over Moldovan champions Petrocub in the second leg. This emphatic win at their home ground sealed a 7-2 aggregate triumph, marking a significant moment in the club's history.\n\nThe Albanian representatives showcased their attacking strength throughout the match, finding the net three times in each half to dismantle their opponents. This remarkable result not only propelled Egnatia into the second qualifying round but also stands as their most substantial victory in any European competition to date.\n\nThis successful progression is particularly significant as it marks the first occasion Egnatia has advanced past a Champions League qualifying tie, moving them closer to becoming only the second Albanian club to potentially reach the prestigious group stage of a UEFA club competition. They now look ahead to their next challenge in the qualifiers.",
+      "tags": [
+        "Champions League Qualifiers",
+        "KF Egnatia",
+        "Albanian Football",
+        "European Football"
+      ],
+      "image": "images/egnatia-storms-into-next-round-with-record-champions-league-victory-5305b3dde3bf.png",
+      "publishedAt": "2026-07-16T22:05:55.918Z"
+    },
+    {
       "id": "barcelona-secures-anthony-gordon-in-staggering-80-million-deal-651a48a71479",
       "headline": "Barcelona Secures Anthony Gordon in Staggering €80 Million Deal",
       "league": "Transfer News",
@@ -889,22 +904,7 @@
       ],
       "image": "images/world-cup-success-delays-la-liga-kick-off-for-top-clubs-d721baef1406.png",
       "publishedAt": "2026-07-12T21:53:54.588Z"
-    },
-    {
-      "id": "newcastle-united-snatch-highly-rated-winger-kyran-thompson-from-arsenal-academy-41248fec4ed3",
-      "headline": "Newcastle United Snatch Highly-Rated Winger Kyran Thompson from Arsenal Academy",
-      "league": "Transfer News",
-      "summary": "Newcastle United have reportedly finalized a deal to acquire promising 16-year-old winger Kyran Thompson from Arsenal's youth setup, with transfer guru Fabrizio Romano confirming the move. The England U-17 international departs the Gunners as a free agent, opting for Newcastle's long-term development project.",
-      "body": "Newcastle United has successfully secured the services of highly-regarded academy talent Kyran Thompson, bringing the 16-year-old winger to St. James' Park. The deal was confirmed by transfer specialist Fabrizio Romano, who used his signature \"Here we go\" phrase to signal the completion of the transfer. Thompson, an England Under-17 international, leaves Arsenal's Hale End academy as a free agent.\n\nThe young attacker reportedly weighed multiple offers before deciding on Newcastle's vision for his future development. This move underscores the Magpies' ongoing strategy to invest significantly in their youth recruitment, targeting some of the nation's most promising prospects to bolster their ranks for years to come.\n\nDespite Arsenal's strong reputation for nurturing young talent, Thompson's decision highlights his belief that his pathway to senior football will be best served on Tyneside. This acquisition marks a notable coup for Newcastle, adding a player with significant potential to their burgeoning youth system.",
-      "tags": [
-        "Newcastle United",
-        "Arsenal",
-        "Kyran Thompson",
-        "Transfer News"
-      ],
-      "image": "images/newcastle-united-snatch-highly-rated-winger-kyran-thompson-from-arsenal-academy-41248fec4ed3.png",
-      "publishedAt": "2026-07-12T19:08:17.835Z"
     }
   ],
-  "lastRun": "2026-07-16T19:14:04.017Z"
+  "lastRun": "2026-07-16T22:06:00.277Z"
 }
