@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "brentford-edges-afc-wimbledon-in-thrilling-pre-season-friendly-604e7a8b0492",
+      "headline": "Brentford Edges AFC Wimbledon in Thrilling Pre-Season Friendly",
+      "league": "Premier League",
+      "summary": "Brentford secured a narrow 3-2 victory over AFC Wimbledon in a closely contested pre-season encounter yesterday, providing valuable match practice for both sides. The behind-closed-doors friendly saw the Premier League team tested by their lower-league opponents, with goals exchanged throughout the ninety minutes.",
+      "body": "Premier League side Brentford faced a spirited challenge from AFC Wimbledon in a recent friendly match, ultimately securing a 3-2 win. The Bees found themselves trailing twice in the contest held behind closed doors, showcasing the competitive nature of Wimbledon's early pre-season preparations. Aron Sasu opened the scoring for the Dons, demonstrating his goal-scoring prowess by winning the ball high up the pitch and finishing clinically.\n\nAFC Wimbledon reclaimed the lead in the second half when Riley Horan capitalized on a corner, scrambling the ball home after a header from Dan Sweeney struck the post. However, Brentford responded with two well-taken goals, including a fine strike from distance and a dinked effort in the closing stages, to seal their victory. The match served as an important workout for Brentford as they build towards the upcoming Premier League season.\n\nDespite the defeat, AFC Wimbledon's performance against top-flight opposition offered promising signs for their own campaign. The encounter allowed both managerial teams to assess their squads, integrate new tactics, and give minutes to various players in a competitive environment ahead of the official season kick-off.",
+      "tags": [
+        "Brentford",
+        "AFC Wimbledon",
+        "Pre-Season",
+        "Friendly"
+      ],
+      "image": "images/brentford-edges-afc-wimbledon-in-thrilling-pre-season-friendly-604e7a8b0492.png",
+      "publishedAt": "2026-07-16T05:42:51.268Z"
+    },
+    {
       "id": "karim-adeyemi-lands-in-barcelona-ahead-of-imminent-22m-transfer-4bd44947fd97",
       "headline": "Karim Adeyemi Lands in Barcelona Ahead of Imminent €22M Transfer",
       "league": "La Liga",
@@ -893,22 +908,7 @@
       ],
       "image": "images/barcelona-secures-anthony-gordon-in-staggering-80-million-deal-bbb5563fd850.png",
       "publishedAt": "2026-07-12T08:30:41.478Z"
-    },
-    {
-      "id": "caf-mourns-tragic-loss-of-south-african-world-cup-midfielder-jayden-adams-53c0ad6e1f4f",
-      "headline": "CAF Mourns Tragic Loss of South African World Cup Midfielder Jayden Adams",
-      "league": "Other",
-      "summary": "African football is in mourning following the sudden passing of South African international Jayden Adams at just 25 years old. CAF President Dr. Patrice Motsepe has expressed profound sadness and offered condolences to the player's family and the football community.",
-      "body": "The Confederation of African Football (CAF) has released a statement conveying deep sorrow over the untimely death of South African midfielder Jayden Adams. The talented 25-year-old, who recently featured for Bafana Bafana in the 2026 FIFA World Cup and was a key part of Mamelodi Sundowns' CAF Champions League-winning squad in 2026, passed away on Saturday, July 11, 2026, at his residence in Stellenbosch, South Africa.\n\nCAF President Dr. Patrice Motsepe, on behalf of the confederation and its 54 member associations, extended heartfelt sympathies to the South African Football Association (SAFA), Mamelodi Sundowns Football Club, and Adams' grieving family. The passing of such a promising young talent has sent shockwaves through the African football fraternity.\n\nAdams had become a regular fixture for the South African national team and was a vital presence in the Mamelodi Sundowns midfield, contributing significantly to their recent continental triumph. His dedication and skill on the pitch will be fondly remembered by fans and teammates alike.",
-      "tags": [
-        "Jayden Adams",
-        "CAF",
-        "South Africa",
-        "Mamelodi Sundowns"
-      ],
-      "image": "images/caf-mourns-tragic-loss-of-south-african-world-cup-midfielder-jayden-adams-53c0ad6e1f4f.png",
-      "publishedAt": "2026-07-12T08:31:11.109Z"
     }
   ],
-  "lastRun": "2026-07-16T02:36:49.271Z"
+  "lastRun": "2026-07-16T05:42:55.575Z"
 }
