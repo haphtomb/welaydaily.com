@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "kups-secure-extra-time-victory-advance-in-champions-league-qualifiers-42d141325674",
+      "headline": "KuPS Secure Extra Time Victory, Advance in Champions League Qualifiers",
+      "league": "Champions League",
+      "summary": "KuPS Kuopio secured a dramatic victory over Vardar, prevailing in extra time during their Champions League first qualifying round second leg. The Finnish side clinched their spot in the next stage with a narrow 4-3 aggregate triumph after a thrilling encounter.",
+      "body": "KuPS Kuopio advanced to the second qualifying round of the UEFA Champions League following a hard-fought 3-2 extra-time defeat to Vardar, which nevertheless saw them win 4-3 on aggregate. The Finnish champions faced a resilient Vardar side in the return leg on July 14th or 15th, with the match extending beyond 90 minutes as both teams battled fiercely for progression.\n\nThe decisive goals came in extra time, breaking the deadlock and ultimately sealing KuPS's passage. This triumph marks a significant step for the club in their European campaign, demonstrating their ability to perform under pressure in a tightly contested fixture.\n\nKuPS will now look ahead to the second qualifying round, where they will aim to continue their journey in Europe's premier club competition. Their narrow aggregate victory underscores the competitive nature of the early Champions League stages and sets the stage for further exciting matches.",
+      "tags": [
+        "Champions League Qualifiers",
+        "KuPS",
+        "Vardar",
+        "Extra Time"
+      ],
+      "image": "images/kups-secure-extra-time-victory-advance-in-champions-league-qualifiers-42d141325674.png",
+      "publishedAt": "2026-07-17T05:45:19.030Z"
+    },
+    {
       "id": "arsenal-secures-34-million-deal-for-club-brugge-winger-christos-tzolis-9449eefa1f03",
       "headline": "Arsenal Secures £34 Million Deal for Club Brugge Winger Christos Tzolis",
       "league": "Premier League",
@@ -889,22 +904,7 @@
       ],
       "image": "images/roma-targets-chelsea-duo-to-bolster-squad-for-champions-league-ambition-a9f10bbc341e.png",
       "publishedAt": "2026-07-12T21:52:55.318Z"
-    },
-    {
-      "id": "caf-executive-committee-rejects-afcon-expansion-to-28-teams-1c01bc8af31e",
-      "headline": "CAF Executive Committee Rejects AFCON Expansion to 28 Teams",
-      "league": "AFCON",
-      "summary": "The Confederation of African Football's Executive Committee has voted against expanding the Africa Cup of Nations from 24 to 28 participating nations. This decision maintains the current tournament format, despite a proposal championed by CAF President Patrice Motsepe.",
-      "body": "The Confederation of African Football (CAF) has officially decided against increasing the number of teams competing in the Africa Cup of Nations. A proposal to expand the continental showpiece from 24 to 28 nations was put before the CAF Executive Committee but was ultimately rejected following a vote.\n\nCAF President Patrice Motsepe had reportedly advocated for the expansion, which would have taken effect from the 2028 AFCON edition. However, the committee members, after internal deliberations, voted down the idea, citing strong opposition and questions regarding its necessity and timing.\n\nThis outcome means the Africa Cup of Nations will continue to feature 24 teams, a format that has been in place since 2019. Discussions within CAF are ongoing regarding broader improvements to African football competitions and their future structures, but for now, the tournament's size remains unchanged.",
-      "tags": [
-        "CAF",
-        "AFCON",
-        "Patrice Motsepe",
-        "Tournament Format"
-      ],
-      "image": "images/caf-executive-committee-rejects-afcon-expansion-to-28-teams-1c01bc8af31e.png",
-      "publishedAt": "2026-07-12T21:53:23.057Z"
     }
   ],
-  "lastRun": "2026-07-17T02:38:47.241Z"
+  "lastRun": "2026-07-17T05:45:34.175Z"
 }
