@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "arsenal-secures-34-million-deal-for-club-brugge-winger-christos-tzolis-9449eefa1f03",
+      "headline": "Arsenal Secures £34 Million Deal for Club Brugge Winger Christos Tzolis",
+      "league": "Premier League",
+      "summary": "Arsenal has reportedly reached a comprehensive agreement with Club Brugge for the transfer of Greek international Christos Tzolis, marking a significant summer acquisition for the Premier League champions. The move, valued at approximately £34 million, is poised to bring a dynamic attacking talent to Mikel Arteta's squad as a replacement for the recently departed Leandro Trossard.",
+      "body": "Premier League title holders Arsenal have reportedly finalized a substantial deal to bring Club Brugge's highly-rated winger, Christos Tzolis, to the Emirates Stadium. The Gunners are set to invest around £34 million to secure the services of the 24-year-old Greek international, who is expected to fill the void left by Leandro Trossard's recent transfer to Besiktas. This acquisition signals Arsenal's intent to bolster their attacking options as they prepare for the upcoming season.\n\nTzolis has garnered considerable attention for his impressive performances in Belgium, where he demonstrated a keen eye for goal and a strong ability to create scoring opportunities. Last season, the winger was a standout performer for Club Brugge, contributing significantly with 17 goals and 23 assists across 36 league appearances. His arrival is anticipated to provide Arsenal with added pace and creativity on the flanks.\n\nThe transfer, which has been widely reported by multiple outlets, signifies Arsenal's commitment to strategic recruitment following their successful Premier League campaign. With the World Cup recently concluded, clubs are actively shaping their rosters, and Tzolis's move represents one of the more prominent transfers of the summer window, bringing a proven talent to the English top flight.",
+      "tags": [
+        "Arsenal",
+        "Christos Tzolis",
+        "Transfer News",
+        "Premier League"
+      ],
+      "image": "images/arsenal-secures-34-million-deal-for-club-brugge-winger-christos-tzolis-9449eefa1f03.png",
+      "publishedAt": "2026-07-17T02:38:42.981Z"
+    },
+    {
       "id": "egnatia-storms-into-next-round-with-record-champions-league-victory-5305b3dde3bf",
       "headline": "Egnatia Storms into Next Round with Record Champions League Victory",
       "league": "Champions League",
@@ -889,22 +904,7 @@
       ],
       "image": "images/caf-executive-committee-rejects-afcon-expansion-to-28-teams-1c01bc8af31e.png",
       "publishedAt": "2026-07-12T21:53:23.057Z"
-    },
-    {
-      "id": "world-cup-success-delays-la-liga-kick-off-for-top-clubs-d721baef1406",
-      "headline": "World Cup Success Delays La Liga Kick-Off for Top Clubs",
-      "league": "La Liga",
-      "summary": "The upcoming 2026-27 La Liga season will commence with a split schedule, as five opening-weekend matches are set to be postponed. This unprecedented decision accommodates clubs whose players are still competing in the advanced stages of the World Cup, ensuring adequate rest and pre-season preparation.",
-      "body": "Spain's top football division has confirmed that the 2026-27 campaign will begin in two phases, with several key fixtures pushed back from the initial August 15 start date. This measure, agreed upon by La Liga and its member clubs, aims to protect players returning from the World Cup semi-finals by granting them essential recovery time and a full pre-season training period.\n\nAmong the high-profile matches affected are Real Madrid's clash with Real Sociedad and Barcelona's encounter against Athletic Club, both involving teams with numerous international players who advanced deep into the global tournament. Additionally, Celta Vigo's fixture against Osasuna and Atlético Madrid's match versus Málaga will also be rescheduled.\n\nThe postponement of a fifth game, Valencia against Real Betis, hinges on Argentina's progress in the World Cup, specifically due to Giovani Lo Celso's involvement. While no new dates have been confirmed, these delayed games are expected to be played midweek between the second and third rounds of fixtures later in August.",
-      "tags": [
-        "La Liga",
-        "World Cup",
-        "Fixture Postponement",
-        "2026-27 Season"
-      ],
-      "image": "images/world-cup-success-delays-la-liga-kick-off-for-top-clubs-d721baef1406.png",
-      "publishedAt": "2026-07-12T21:53:54.588Z"
     }
   ],
-  "lastRun": "2026-07-16T22:06:00.277Z"
+  "lastRun": "2026-07-17T02:38:47.241Z"
 }
