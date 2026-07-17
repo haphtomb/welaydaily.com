@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "lewandowski-embraces-mls-challenge-citing-emotional-departure-from-barcelona-814d6220379b",
+      "headline": "Lewandowski Embraces MLS Challenge, Citing Emotional Departure from Barcelona",
+      "league": "MLS",
+      "summary": "Polish football icon Robert Lewandowski recently spoke publicly for the first time since his high-profile move to Chicago Fire, reflecting on the personal motivations behind his decision to leave European football for Major League Soccer. The veteran striker expressed deep emotional connections influencing his departure from Barcelona, marking a significant new chapter in his illustrious career.",
+      "body": "Robert Lewandowski has officially addressed the media, providing insights into his transfer to MLS side Chicago Fire. The legendary Polish forward detailed the emotional factors that contributed to his decision to exit Barcelona, signaling a poignant end to his tenure in European club football. His move to the United States represents a fresh challenge for the prolific goalscorer.\n\nLewandowski's comments shed light on the personal journey that led him to the American league, a departure that has generated considerable interest across the football world. Fans and pundits alike are eager to see the impact the former Barcelona star will have in Major League Soccer, bringing his wealth of experience and goal-scoring prowess to Chicago.\n\nThe striker's arrival is expected to significantly boost the profile of Chicago Fire and the MLS as a whole. His sentiments underscore a new phase in his career, driven by more than just on-field aspirations, as he prepares to make his mark with his new club.",
+      "tags": [
+        "Robert Lewandowski",
+        "Chicago Fire",
+        "MLS",
+        "Transfer News"
+      ],
+      "image": "images/lewandowski-embraces-mls-challenge-citing-emotional-departure-from-barcelona-814d6220379b.png",
+      "publishedAt": "2026-07-17T13:29:58.498Z"
+    },
+    {
+      "id": "reigning-champions-banyana-banyana-jet-off-to-morocco-for-wafcon-fd6f2cc55642",
+      "headline": "Reigning Champions Banyana Banyana Jet Off to Morocco for WAFCON",
+      "league": "AFCON",
+      "summary": "South Africa's national women's football team, Banyana Banyana, is set to travel to Morocco this weekend to commence final preparations for the upcoming 2026 CAF Women's Africa Cup of Nations. The reigning continental champions aim to defend their title in the tournament, which begins later this month.",
+      "body": "Banyana Banyana, who clinched the WAFCON title in the previous edition, will depart for Morocco on Saturday as they intensify their training ahead of the continental showpiece. Head coach Dr. Desiree Ellis is expected to announce her definitive squad for the tournament on Friday, confirming the players tasked with defending Africa's most coveted women's football trophy.\n\nThe South African squad has been allocated to Group B, where they will face formidable opponents including Ivory Coast, Burkina Faso, and Tanzania. Their recent performance saw them climb to 57th in the FIFA rankings after a 1-0 victory against Japan in an international friendly in June, positioning them as the second-highest ranked African team behind Nigeria.\n\nThe 2026 TotalEnergies CAF Women's Africa Cup of Nations is scheduled to take place in Morocco from July 26 to August 16. Banyana Banyana began their pre-tournament camp on July 12, focusing on fine-tuning their strategies and ensuring peak physical condition for the challenges ahead in their quest for back-to-back continental triumphs.",
+      "tags": [
+        "Banyana Banyana",
+        "WAFCON 2026",
+        "South Africa Football",
+        "Women's Football"
+      ],
+      "image": "images/reigning-champions-banyana-banyana-jet-off-to-morocco-for-wafcon-fd6f2cc55642.png",
+      "publishedAt": "2026-07-17T13:31:01.737Z"
+    },
+    {
       "id": "athletic-club-dismisses-barcelona-s-pursuit-of-defender-aymeric-laporte-8a5d511876ea",
       "headline": "Athletic Club Dismisses Barcelona's Pursuit of Defender Aymeric Laporte",
       "league": "La Liga",
@@ -874,37 +904,7 @@
       ],
       "image": "images/manchester-united-poised-to-secure-tielemans-midfield-masterclass-80ef90126127.png",
       "publishedAt": "2026-07-13T17:16:38.987Z"
-    },
-    {
-      "id": "milan-president-scaroni-underscores-champions-league-s-vital-financial-impact-898208092e70",
-      "headline": "Milan President Scaroni Underscores Champions League's Vital Financial Impact",
-      "league": "Champions League",
-      "summary": "AC Milan president Paolo Scaroni recently highlighted the immense financial benefits of Champions League participation, underscoring its pivotal role in the club's economic sustainability and future investments. He noted that the newly expanded 36-team format significantly boosts revenue, which is vital for maintaining competitive sporting results.",
-      "body": "AC Milan's president, Paolo Scaroni, recently articulated the profound financial importance of the UEFA Champions League for top European clubs. Speaking at an Affari&Finanza event, Scaroni detailed how the prestigious competition generates substantial additional revenues, estimating figures between 70 and 130 million euros for a club like Milan, potentially accounting for a quarter of its total turnover. This financial injection is critical, he explained, for enabling strategic investments and ensuring the club's long-term economic health.\n\nScaroni drew an analogy, describing the management of a football club as simultaneously scaling two mountains: achieving sporting success and ensuring financial stability. He stressed that a lapse in one area inevitably impacts the other, a reality far removed from the financial landscapes of previous eras. The club president pointed to the Champions League's new 36-team format as a key driver for these increased revenues, directly influencing AC Milan's ability to plan for a brighter future.\n\nAmong the significant strategic initiatives for Milan, Scaroni highlighted the ongoing new San Siro stadium project, which he believes will be instrumental for the club's long-term growth. Under his leadership, Milan's turnover has seen a substantial increase, rising from €241 million in 2018 to €495 million in 2025, with ambitions to surpass the €500 million mark and eventually reach €1 billion.",
-      "tags": [
-        "AC Milan",
-        "Champions League",
-        "Football Finance",
-        "Paolo Scaroni"
-      ],
-      "image": "images/milan-president-scaroni-underscores-champions-league-s-vital-financial-impact-898208092e70.png",
-      "publishedAt": "2026-07-13T17:17:27.842Z"
-    },
-    {
-      "id": "caf-committee-recommends-against-expanding-club-competitions-30c8e363f7cf",
-      "headline": "CAF Committee Recommends Against Expanding Club Competitions",
-      "league": "CAF Champions League",
-      "summary": "The Confederation of African Football's Competitions Committee has reportedly advised against a proposal to increase participant numbers in the CAF Champions League and Confederation Cup, maintaining the current format for the upcoming 2026/27 season. This recommendation follows a formal request by the Egyptian Football Association to grant additional berths in both continental club tournaments.",
-      "body": "The Confederation of African Football's Competitions Committee has reportedly delivered a significant decision regarding the structure of its premier club tournaments. According to recent reports from Morocco, the committee has recommended rejecting a proposal that sought to expand the number of participating clubs in both the CAF Champions League and the CAF Confederation Cup starting from the 2026/27 season.\n\nThis recommendation comes after the Egyptian Football Association, led by President Hani Abu Rida, submitted an official request to CAF. The Egyptian proposal aimed to provide each member association with an additional slot in the two continental competitions, with these new spots to be allocated based on CAF's existing ranking criteria.\n\nThe Competitions Committee has forwarded its recommendation, along with detailed explanations for its stance, to CAF Secretary General Nigerian Samson Adamu. The Secretary General is expected to consult with CAF President Patrice Motsepe before an official response is sent to the Egyptian FA. This decision suggests that the current competition format is likely to remain unchanged for the foreseeable future.",
-      "tags": [
-        "CAF",
-        "Champions League",
-        "Confederation Cup",
-        "Club Football"
-      ],
-      "image": "images/caf-committee-recommends-against-expanding-club-competitions-30c8e363f7cf.png",
-      "publishedAt": "2026-07-13T12:08:18.303Z"
     }
   ],
-  "lastRun": "2026-07-17T10:51:22.553Z"
+  "lastRun": "2026-07-17T13:31:05.737Z"
 }
