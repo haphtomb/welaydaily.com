@@ -24,7 +24,7 @@ jobs:
 
       - name: Build player & club profiles
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY_PROFILES: ${{ secrets.GEMINI_API_KEY_PROFILES }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
         run: node scripts/build-profiles.mjs
