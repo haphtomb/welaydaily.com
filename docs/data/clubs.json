@@ -1,19 +1,4 @@
 {
-  "clubs": [
-    {
-      "slug": "chelsea",
-      "name": "Chelsea",
-      "crestUrl": "https://media.api-sports.io/football/teams/49.png",
-      "illustration": "images/profiles/chelsea.png",
-      "founded": 1905,
-      "country": "England",
-      "stadium": "Stamford Bridge",
-      "stadiumCapacity": 41841,
-      "stadiumCity": "London",
-      "summary": "Chelsea, founded 1905, is a London-based English football club playing at Stamford Bridge (capacity 41,841).",
-      "bio": "Chelsea Football Club, established in 1905, is a well-known English professional football club based in London. For over a century, the club has been a consistent presence in English football, establishing its roots in the sport's landscape. Their home ground is the iconic Stamford Bridge, located in London, which boasts a capacity of 41,841 spectators. This stadium has served as the club's home since its inception, hosting countless matches throughout its long history.\n\nA defining characteristic of Chelsea is its enduring presence in English football since its founding in 1905. The club's continued operation from its original home, Stamford Bridge, underscores its deep connection to its London base. With a substantial capacity of 41,841, Stamford Bridge remains a significant venue in the capital, reflecting the club's established standing. These foundational elements highlight Chelsea's long-standing contribution to the sport.\n\nAs of the current season, Chelsea Football Club continues its participation in English football competitions. The club remains an active entity, competing from its historic home at Stamford Bridge. While specific performance metrics for the current season are not provided, Chelsea maintains its status as an established club within the English football system, building upon its long history since 1905.",
-      "updatedAt": "2026-07-18T21:07:24.233Z"
-    }
-  ],
-  "updatedAt": "2026-07-18T21:07:34.671Z"
+  "clubs": [],
+  "updatedAt": "2026-07-18T21:27:16.850Z"
 }
