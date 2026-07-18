@@ -1,0 +1,38 @@
+name: WelayDaily Profile Builder
+
+# Runs once a week (profile data doesn't change often) — Sunday 03:00 UTC.
+# Also runnable manually from the Actions tab for testing.
+on:
+  schedule:
+    - cron: "0 3 * * 0"   # every Sunday at 03:00 UTC
+  workflow_dispatch: {}     # manual trigger button
+
+permissions:
+  contents: write
+
+jobs:
+  build-profiles:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Build player & club profiles
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        run: node scripts/build-profiles.mjs
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "WelayDaily Bot"
+          git config user.email "bot@welaydaily.com"
+          git add docs/data/players.json docs/data/clubs.json docs/images/profiles/
+          git diff --quiet --cached || git commit -m "Profile refresh: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
