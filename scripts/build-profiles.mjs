@@ -51,7 +51,14 @@ const SPORTSDB_BASE = "https://www.thesportsdb.com/api/v1/json/123";
 
 const DATA_DIR = path.join(process.cwd(), "docs", "data");
 const IMAGES_DIR = path.join(process.cwd(), "docs", "images", "profiles");
-const CURRENT_SEASON = 2025; // API-Football uses the year the season STARTS (2025-26 season = 2025)
+// API-Football's FREE TIER only has access to seasons 2022–2024 — it does
+// NOT include the current 2025-26 season. Using season: 2025 causes every
+// single request to fail with "Free plans do not have access to this
+// season, try from 2022 to 2024." Using the most recent free-tier-covered
+// season (2024) as a real, honest trade-off: profiles show last completed
+// season's stats rather than the live current campaign. This is disclosed
+// to readers via the "stats as of" language in the profile pages.
+const CURRENT_SEASON = 2024;
 
 // Gemini's free tier has a low requests-per-minute limit. Spacing calls
 // out this much protects against 429 quota errors when building 30
@@ -106,12 +113,13 @@ Here is real, verified statistical data to ground your writing — use these act
 ${statsSummary}
 
 Write 3 short paragraphs (about 180-220 words total):
-1. Current status/team and a career overview grounded in the real stats above
+1. Overview and club/team context grounded in the real stats above
 2. Key achievements or notable characteristics, using the real numbers provided
-3. A closing paragraph on their current form or standing this season
+3. A closing paragraph summarizing their standing based on the ${CURRENT_SEASON}-${CURRENT_SEASON + 1} season data provided
 
 Rules:
 - Only state facts consistent with the data given — do not invent trophies, transfer fees, or stats not in the data
+- Do NOT describe the ${CURRENT_SEASON}-${CURRENT_SEASON + 1} season data as "current" or "this season" — refer to it as "the ${CURRENT_SEASON}-${CURRENT_SEASON + 1} season" specifically, since it may not be the most recent completed season
 - Write in an engaging but factual encyclopedia tone, not hype-filled marketing copy
 - If the data provided is sparse, write a shorter but still accurate profile rather than padding with speculation
 
@@ -297,12 +305,12 @@ async function buildPlayerProfile(seed) {
 - Nationality: ${nationality}
 - Age: ${age}
 - Height: ${height}
-- Current club (this season): ${team}
+- Club (${CURRENT_SEASON}-${CURRENT_SEASON + 1} season): ${team}
 - Position: ${position}
-- Appearances this season: ${appearances}
-- Goals this season: ${goals}
-- Assists this season: ${assists}
-- Average match rating this season: ${rating}
+- Appearances (${CURRENT_SEASON}-${CURRENT_SEASON + 1} season): ${appearances}
+- Goals (${CURRENT_SEASON}-${CURRENT_SEASON + 1} season): ${goals}
+- Assists (${CURRENT_SEASON}-${CURRENT_SEASON + 1} season): ${assists}
+- Average match rating (${CURRENT_SEASON}-${CURRENT_SEASON + 1} season): ${rating}
 `.trim();
 
   const narrative = await writeNarrative("player", seed.searchName, statsSummary);
@@ -328,6 +336,7 @@ async function buildPlayerProfile(seed) {
     currentClub: team,
     position,
     stats: { appearances, goals, assists, rating },
+    statsSeasonLabel: `${CURRENT_SEASON}-${CURRENT_SEASON + 1}`,
     summary: narrative.summary,
     bio: narrative.bio,
     updatedAt: new Date().toISOString(),
