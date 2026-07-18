@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "bowen-commits-future-to-west-ham-amid-championship-challenge-16b7d1f34f54",
+      "headline": "Bowen Commits Future to West Ham Amid Championship Challenge",
+      "league": "Transfer News",
+      "summary": "Jarrod Bowen has put an end to speculation surrounding his future by signing a new contract with West Ham United, reaffirming his dedication to the club following their relegation to the Championship. The influential winger has chosen to remain at the London Stadium, aiming to help the Hammers secure an immediate return to the Premier League.",
+      "body": "Jarrod Bowen has reportedly penned a revised deal with West Ham, confirming his intention to stay with the club for the upcoming season. This commitment comes despite the team's recent drop from the top flight, a decision that will undoubtedly be welcomed by the Hammers' faithful. Bowen's loyalty is a significant boost as the club prepares for a challenging campaign in England's second tier.\n\nThe England international had been a subject of considerable transfer interest, with many anticipating a move away from East London following West Ham's relegation. However, sources indicate that the winger has chosen to reject lucrative offers from elsewhere, opting instead to play a pivotal role in the club's efforts to regain Premier League status.\n\nHis decision highlights a strong bond with West Ham and a desire to contribute to their resurgence. Bowen's continued presence will provide crucial experience and attacking prowess as the team navigates the demanding Championship schedule with the clear objective of promotion.",
+      "tags": [
+        "Jarrod Bowen",
+        "West Ham United",
+        "Transfer News",
+        "Championship"
+      ],
+      "image": "images/bowen-commits-future-to-west-ham-amid-championship-challenge-16b7d1f34f54.svg",
+      "publishedAt": "2026-07-18T05:28:10.235Z"
+    },
+    {
       "id": "aston-villa-shatters-club-record-to-land-swiss-midfield-sensation-manzambi-aced0deea430",
       "headline": "Aston Villa Shatters Club Record to Land Swiss Midfield Sensation Manzambi",
       "league": "Transfer News",
@@ -893,22 +908,7 @@
       ],
       "image": "images/orlando-city-unveils-antoine-griezmann-in-grand-ceremony-star-eyes-trophy-succes-00bc909698be.png",
       "publishedAt": "2026-07-14T10:49:42.635Z"
-    },
-    {
-      "id": "african-quartet-secures-spots-in-u-17-women-s-world-cup-87e9f8121cab",
-      "headline": "African Quartet Secures Spots in U-17 Women's World Cup",
-      "league": "World Cup Qualifiers",
-      "summary": "Four African nations have successfully navigated the challenging qualification rounds, earning their places at the upcoming FIFA U-17 Women's World Cup in Morocco. Kenya, Ghana, Nigeria, and Zambia will represent the continent alongside the host nation later this year.",
-      "body": "The Confederation of African Football (CAF) qualifiers for the FIFA U-17 Women's World Cup Morocco 2026 have concluded, with Kenya, Ghana, Nigeria, and Zambia emerging victorious. These four teams triumphed over their respective opponents in a thrilling final round of matches to secure their continental berths.\n\nKenya's Junior Starlets delivered a particularly impressive performance, overcoming South Africa with a commanding 5-1 aggregate scoreline. They secured a 2-0 away victory in Pretoria before sealing their qualification with a decisive 3-1 win at home in Nairobi.\n\nGhana defeated Senegal, Nigeria bested Benin, and Zambia triumphed over Ethiopia to complete the African contingent. The expanded 24-team tournament is set to kick off in Morocco from October 17 to November 7, 2026, where the host nation will also participate.",
-      "tags": [
-        "CAF",
-        "Women's Football",
-        "U17 World Cup",
-        "Kenya"
-      ],
-      "image": "images/african-quartet-secures-spots-in-u-17-women-s-world-cup-87e9f8121cab.png",
-      "publishedAt": "2026-07-14T10:50:35.964Z"
     }
   ],
-  "lastRun": "2026-07-18T02:29:59.465Z"
+  "lastRun": "2026-07-18T05:28:26.201Z"
 }
