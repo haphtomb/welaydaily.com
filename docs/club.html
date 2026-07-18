@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title id="page-title">Club Profile – WelayDaily</title>
+<meta name="description" id="page-description" content="Club profile, stadium and history on WelayDaily." />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="WelayDaily" />
+<meta property="og:title" id="og-title" content="WelayDaily" />
+<meta property="og:description" id="og-description" content="" />
+<meta property="og:image" id="og-image" content="" />
+<meta property="og:url" id="og-url" content="" />
+<link rel="canonical" id="canonical-link" href="" />
+<meta name="twitter:card" content="summary_large_image" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,700;1,700&display=swap" rel="stylesheet" />
+<style>
+  :root{--green:#00B050;--green-d:#007A35;--pitch:#0A1A0F;--ink:#0D0D0D;--ash:#1A1A1A;--mid:#2C2C2C;--steel:#555;--mist:#AAA;--white:#F5F5F0;}
+  *,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+  body{background:var(--ink);color:var(--white);font-family:'Inter',sans-serif;font-size:15px;line-height:1.7;}
+  header{background:var(--pitch);border-bottom:3px solid var(--green);padding:16px 24px;}
+  .logo{font-family:'Bebas Neue',sans-serif;font-size:32px;letter-spacing:.04em;}
+  .logo a{color:inherit;text-decoration:none;}
+  .logo span{color:var(--green);}
+  nav.crumb{max-width:900px;margin:20px auto 0;padding:0 24px;font-size:12px;}
+  nav.crumb a{color:var(--mist);text-decoration:none;}
+  nav.crumb a:hover{color:var(--green);}
+  main{max-width:900px;margin:0 auto;padding:20px 24px 60px;}
+  .club-header{display:grid;grid-template-columns:260px 1fr;gap:32px;margin-bottom:32px;}
+  .club-art{width:100%;aspect-ratio:1/1;border-radius:8px;overflow:hidden;background:linear-gradient(135deg,#0A1A0F,#1A3A24);display:flex;align-items:center;justify-content:center;}
+  .club-art img{width:100%;height:100%;object-fit:cover;display:block;}
+  .club-art .placeholder{font-size:60px;opacity:.25;}
+  .country-tag{display:inline-block;font-size:10px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--green);background:rgba(0,176,80,0.1);border:1px solid rgba(0,176,80,0.3);padding:4px 10px;border-radius:3px;margin-bottom:12px;}
+  h1{font-family:'Playfair Display',serif;font-size:clamp(28px,4vw,42px);line-height:1.15;margin-bottom:10px;}
+  .tagline{font-size:16px;color:var(--mist);margin-bottom:20px;}
+  .quick-facts{display:grid;grid-template-columns:1fr 1fr;gap:10px 24px;font-size:13px;}
+  .quick-facts dt{color:var(--steel);text-transform:uppercase;font-size:10px;letter-spacing:.06em;}
+  .quick-facts dd{color:var(--white);font-weight:600;margin-bottom:8px;}
+  .bio-text p{color:var(--mist);margin-bottom:18px;font-size:15.5px;}
+  .disclosure{margin-top:32px;padding:14px 16px;background:var(--ash);border:1px solid var(--mid);border-left:3px solid var(--green);border-radius:4px;font-size:12px;color:var(--mist);}
+  .disclosure a{color:var(--green);}
+  .updated-note{font-size:11px;color:var(--steel);margin-top:16px;}
+  .not-found{text-align:center;padding:60px 20px;color:var(--mist);}
+  .not-found a{color:var(--green);}
+  footer{text-align:center;padding:32px 24px;color:var(--steel);font-size:11px;border-top:1px solid var(--mid);margin-top:40px;}
+  footer a{color:var(--steel);}
+  @media (max-width:640px){.club-header{grid-template-columns:1fr;}.club-art{max-width:220px;margin:0 auto;}}
+</style>
+</head>
+<body>
+
+<header><div class="logo"><a href="index.html">WELAY<span>DAILY</span></a></div></header>
+<nav class="crumb"><a href="index.html">Home</a> <span style="color:var(--steel)">/</span> <a href="clubs.html">Clubs</a></nav>
+
+<main id="profile-main">
+  <p style="color:var(--mist);padding:40px 0;">Loading profile…</p>
+</main>
+
+<footer>
+  © 2026 WelayDaily.com — All rights reserved · <a href="about.html">About</a> · <a href="privacy.html">Privacy Policy</a> · <a href="contact.html">Contact</a>
+</footer>
+
+<script>
+function escapeHtml(str){
+  const div = document.createElement('div');
+  div.textContent = str || '';
+  return div.innerHTML;
+}
+
+function timeAgo(iso){
+  if(!iso) return '';
+  const diff=(Date.now()-new Date(iso).getTime())/1000;
+  if(diff<60) return 'just now';
+  if(diff<3600) return Math.floor(diff/60)+'m ago';
+  if(diff<86400) return Math.floor(diff/3600)+'h ago';
+  return Math.floor(diff/86400)+'d ago';
+}
+
+async function loadClub(){
+  const params = new URLSearchParams(window.location.search);
+  const id = params.get('id');
+  const main = document.getElementById('profile-main');
+
+  if(!id){ main.innerHTML = notFoundHtml(); return; }
+
+  try{
+    const res = await fetch('data/clubs.json?_=' + Date.now());
+    const data = await res.json();
+    const club = (data.clubs || []).find(c => c.slug === id);
+
+    if(!club){ main.innerHTML = notFoundHtml(); return; }
+
+    document.getElementById('page-title').textContent = `${club.name} – Profile, Stadium & History – WelayDaily`;
+    document.getElementById('page-description').setAttribute('content', club.summary || '');
+    document.getElementById('og-title').setAttribute('content', `${club.name} – WelayDaily`);
+    document.getElementById('og-description').setAttribute('content', club.summary || '');
+    document.getElementById('og-url').setAttribute('content', window.location.href);
+    document.getElementById('canonical-link').setAttribute('href', window.location.href);
+    const imgForMeta = club.illustration || club.crestUrl;
+    if(imgForMeta){
+      document.getElementById('og-image').setAttribute('content', new URL(imgForMeta, window.location.href).href);
+    }
+
+    // JSON-LD structured data (SportsTeam schema)
+    const jsonLd = {
+      "@context": "https://schema.org",
+      "@type": "SportsTeam",
+      "name": club.name,
+      "sport": "Soccer",
+      "foundingDate": club.founded ? String(club.founded) : undefined,
+      "location": club.stadiumCity ? { "@type": "Place", "name": club.stadiumCity } : undefined,
+      "image": imgForMeta ? new URL(imgForMeta, window.location.href).href : undefined,
+      "url": window.location.href
+    };
+    const ldScript = document.createElement('script');
+    ldScript.type = 'application/ld+json';
+    ldScript.textContent = JSON.stringify(jsonLd);
+    document.head.appendChild(ldScript);
+
+    const bioParagraphs = (club.bio || '')
+      .split('\n\n')
+      .filter(p => p.trim())
+      .map(p => `<p>${escapeHtml(p)}</p>`)
+      .join('');
+
+    main.innerHTML = `
+      <div class="club-header">
+        <div class="club-art">
+          ${club.illustration || club.crestUrl
+            ? `<img src="${club.illustration || club.crestUrl}" alt="${escapeHtml(club.name)}" onerror="this.onerror=null;this.parentElement.innerHTML='<span class=placeholder>⚽</span>';">`
+            : `<span class="placeholder">⚽</span>`}
+        </div>
+        <div>
+          <div class="country-tag">${escapeHtml(club.country || 'Football Club')}</div>
+          <h1>${escapeHtml(club.name)}</h1>
+          <div class="tagline">${escapeHtml(club.summary || '')}</div>
+          <dl class="quick-facts">
+            <dt>Founded</dt><dd>${club.founded ?? 'N/A'}</dd>
+            <dt>Country</dt><dd>${escapeHtml(club.country || 'N/A')}</dd>
+            <dt>Stadium</dt><dd>${escapeHtml(club.stadium || 'N/A')}</dd>
+            <dt>Capacity</dt><dd>${club.stadiumCapacity ? club.stadiumCapacity.toLocaleString() : 'N/A'}</dd>
+          </dl>
+        </div>
+      </div>
+
+      <div class="bio-text">${bioParagraphs}</div>
+
+      <div class="disclosure">
+        Stadium and club data sourced from API-Football, current as of the latest data refresh. Profile narrative
+        is AI-assisted, written from these real facts. The featured image is a stylized illustration, not a
+        photograph. Read more about <a href="about.html">how we work</a>.
+      </div>
+      <div class="updated-note">Profile last updated ${timeAgo(club.updatedAt)}</div>
+    `;
+  }catch(e){
+    main.innerHTML = `<p style="color:var(--mist);padding:40px 0;">Couldn't load this profile right now.</p>`;
+  }
+}
+
+function notFoundHtml(){
+  return `<div class="not-found">
+    <h1 style="font-family:'Bebas Neue',sans-serif;font-size:28px;color:var(--green);margin-bottom:12px;">Profile not found</h1>
+    <p>This club profile may not exist yet, or the link is incorrect.</p>
+    <p style="margin-top:16px;"><a href="clubs.html">← Back to all clubs</a></p>
+  </div>`;
+}
+
+loadClub();
+</script>
+</body>
+</html>

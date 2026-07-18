@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Top Players – Profiles & Stats – WelayDaily</title>
+<meta name="description" content="Player profiles, career stats and current form for the world's top footballers — updated regularly." />
+<link rel="canonical" href="https://www.welaydaily.com/players.html" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,700;1,700&display=swap" rel="stylesheet" />
+<style>
+  :root{--green:#00B050;--pitch:#0A1A0F;--ink:#0D0D0D;--ash:#1A1A1A;--mid:#2C2C2C;--steel:#555;--mist:#AAA;--white:#F5F5F0;}
+  *,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+  body{background:var(--ink);color:var(--white);font-family:'Inter',sans-serif;font-size:15px;line-height:1.6;}
+  header{background:var(--pitch);border-bottom:3px solid var(--green);padding:16px 24px;}
+  .logo{font-family:'Bebas Neue',sans-serif;font-size:32px;letter-spacing:.04em;}
+  .logo a{color:inherit;text-decoration:none;}
+  .logo span{color:var(--green);}
+  nav.crumb{max-width:1100px;margin:20px auto 0;padding:0 24px;font-size:12px;}
+  nav.crumb a{color:var(--mist);text-decoration:none;}
+  nav.crumb a:hover{color:var(--green);}
+  main{max-width:1100px;margin:0 auto;padding:20px 24px 60px;}
+  h1{font-family:'Bebas Neue',sans-serif;font-size:36px;letter-spacing:.05em;margin-bottom:8px;}
+  .subtitle{color:var(--mist);font-size:14px;margin-bottom:32px;}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:18px;}
+  .card{background:var(--ash);border:1px solid var(--mid);border-radius:6px;overflow:hidden;text-decoration:none;color:inherit;display:block;transition:border-color .2s,transform .2s;}
+  .card:hover{border-color:var(--green);transform:translateY(-2px);}
+  .card-art{width:100%;aspect-ratio:1/1;background:linear-gradient(135deg,#0A1A0F,#1A3A24);display:flex;align-items:center;justify-content:center;}
+  .card-art img{width:100%;height:100%;object-fit:cover;display:block;}
+  .card-art .placeholder{font-size:36px;opacity:.25;}
+  .card-body{padding:12px;}
+  .card-body h3{font-family:'Playfair Display',serif;font-size:14px;margin-bottom:4px;}
+  .card-body .meta{font-size:11px;color:var(--mist);}
+  .empty-state{color:var(--mist);font-size:13px;grid-column:1/-1;padding:30px 0;text-align:center;background:var(--ash);border-radius:4px;border:1px dashed var(--mid);}
+  footer{text-align:center;padding:32px 24px;color:var(--steel);font-size:11px;border-top:1px solid var(--mid);margin-top:40px;}
+  footer a{color:var(--steel);}
+</style>
+</head>
+<body>
+
+<header><div class="logo"><a href="index.html">WELAY<span>DAILY</span></a></div></header>
+<nav class="crumb"><a href="index.html">Home</a></nav>
+
+<main>
+  <h1>PLAYER PROFILES</h1>
+  <div class="subtitle">Stats, career overviews and current form for the world's top footballers.</div>
+  <div class="grid" id="players-grid">
+    <div class="empty-state">Loading player profiles…</div>
+  </div>
+</main>
+
+<footer>
+  © 2026 WelayDaily.com — All rights reserved · <a href="about.html">About</a> · <a href="privacy.html">Privacy Policy</a> · <a href="contact.html">Contact</a>
+</footer>
+
+<script>
+async function loadPlayers(){
+  const grid = document.getElementById('players-grid');
+  try{
+    const res = await fetch('data/players.json?_=' + Date.now());
+    const data = await res.json();
+    if(!data.players || data.players.length === 0){
+      grid.innerHTML = `<div class="empty-state">Player profiles are being built — check back soon.</div>`;
+      return;
+    }
+    grid.innerHTML = '';
+    data.players.forEach(p => {
+      const card = document.createElement('a');
+      card.className = 'card';
+      card.href = `player.html?id=${encodeURIComponent(p.slug)}`;
+      const img = p.illustration || p.photoUrl;
+      card.innerHTML = `
+        <div class="card-art">
+          ${img ? `<img src="${img}" alt="${p.name}" loading="lazy" onerror="this.parentElement.innerHTML='<span class=placeholder>⚽</span>'">` : `<span class="placeholder">⚽</span>`}
+        </div>
+        <div class="card-body">
+          <h3>${p.name}</h3>
+          <div class="meta">${p.currentClub || ''}${p.position ? ' · ' + p.position : ''}</div>
+        </div>`;
+      grid.appendChild(card);
+    });
+  }catch(e){
+    grid.innerHTML = `<div class="empty-state">Couldn't load player profiles right now.</div>`;
+  }
+}
+loadPlayers();
+</script>
+</body>
+</html>
