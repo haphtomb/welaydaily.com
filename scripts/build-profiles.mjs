@@ -278,9 +278,35 @@ async function buildPlayerProfile(seed) {
   );
 
   if (!match) {
+    // Fallback: try a scoped name search combined with the team ID, which
+    // API-Football documents as a valid parameter combination. This can
+    // succeed in cases where the plain squad listing is incomplete or
+    // paginated in a way that misses the player.
+    try {
+      const searchResults = await afFetch(`/players?search=${encodeURIComponent(seed.searchName.split(" ").pop())}&team=${teamId}&season=${CURRENT_SEASON}`);
+      const fallbackMatch = (searchResults || []).find(entry =>
+        namesLikelyMatch(seed.searchName, entry.player.firstname, entry.player.lastname, entry.player.name)
+      );
+      if (fallbackMatch) {
+        return finalizePlayerProfile(seed, fallbackMatch);
+      }
+    } catch (fallbackErr) {
+      console.warn(`  ⚠ Fallback search also failed: ${fallbackErr.message}`);
+    }
+
+    const actualNames = squadResults.slice(0, 25).map(e => e.player.name || `${e.player.firstname || ""} ${e.player.lastname || ""}`.trim()).join(", ");
     console.warn(`  ⚠ "${seed.searchName}" not found in ${seed.club}'s ${CURRENT_SEASON} squad response — skipping`);
+    console.warn(`    (squad returned ${squadResults.length} entries; first ~25 names: ${actualNames})`);
     return null;
   }
+
+  return finalizePlayerProfile(seed, match);
+}
+
+// Extracted so both the primary squad-lookup path and the search+team
+// fallback path can share identical downstream processing (stats
+// extraction, narrative writing, image generation).
+async function finalizePlayerProfile(seed, match) {
 
   const player = match.player;
   const statsEntries = match.statistics || [];
@@ -430,14 +456,25 @@ async function main() {
   const existingPlayersBySlug = new Map(existingPlayersData.players.map(p => [p.slug, p]));
   const existingClubsBySlug = new Map(existingClubsData.clubs.map(c => [c.slug, c]));
 
-  const playersToBuild = CURATED_PLAYERS.filter(seed => {
+  let playersToBuild = CURATED_PLAYERS.filter(seed => {
     const existing = existingPlayersBySlug.get(seed.slug);
     return !existing || isStale(existing);
   });
-  const clubsToBuild = CURATED_CLUBS.filter(seed => {
+  let clubsToBuild = CURATED_CLUBS.filter(seed => {
     const existing = existingClubsBySlug.get(seed.slug);
     return !existing || isStale(existing);
   });
+
+  // Optional debug limit — set TEST_LIMIT=3 (or any small number) as a
+  // workflow_dispatch input / repo variable to safely verify a fix works
+  // on just a couple of profiles before burning a full quota budget on
+  // a run that might still have a bug. Leave unset for normal full runs.
+  const testLimit = Number(process.env.TEST_LIMIT || 0);
+  if (testLimit > 0) {
+    playersToBuild = playersToBuild.slice(0, testLimit);
+    clubsToBuild = clubsToBuild.slice(0, testLimit);
+    console.log(`⚠ TEST_LIMIT=${testLimit} active — only attempting ${playersToBuild.length} players and ${clubsToBuild.length} clubs this run.`);
+  }
 
   console.log(`WelayDaily profile builder started — ${new Date().toISOString()}`);
   console.log(`${existingPlayersBySlug.size}/${CURATED_PLAYERS.length} players already built, ${playersToBuild.length} to build/refresh this run.`);
