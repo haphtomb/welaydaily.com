@@ -16,7 +16,14 @@
  *   4. ILLUSTRATE -> OpenAI generates a cartoon illustration per profile
  *   5. PUBLISH -> Writes docs/data/players.json and docs/data/clubs.json
  *
- * Requires secrets: GEMINI_API_KEY, OPENAI_API_KEY, API_FOOTBALL_KEY
+ * Requires secrets: GEMINI_API_KEY_PROFILES, OPENAI_API_KEY, API_FOOTBALL_KEY
+ *
+ * NOTE: This uses a SEPARATE Gemini API key/account (GEMINI_API_KEY_PROFILES)
+ * from the one the news bot uses (GEMINI_API_KEY). Gemini's free tier has a
+ * very low daily request cap (~20/day for gemini-2.5-flash at time of writing),
+ * which the news bot alone can approach on its own 8-runs/day schedule. Sharing
+ * one key between both bots causes both to silently fail with 429 quota
+ * errors. Keeping them on separate free-tier accounts avoids this entirely.
  * ---------------------------------------------------------------
  */
 
@@ -24,12 +31,12 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import { CURATED_PLAYERS, CURATED_CLUBS } from "./profile-seed-data.mjs";
 
-const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
+const GEMINI_API_KEY = process.env.GEMINI_API_KEY_PROFILES;
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 const API_FOOTBALL_KEY = process.env.API_FOOTBALL_KEY;
 
 if (!GEMINI_API_KEY) {
-  console.error("Missing GEMINI_API_KEY secret.");
+  console.error("Missing GEMINI_API_KEY_PROFILES secret. This should be a SEPARATE Gemini API key/account from the news bot's GEMINI_API_KEY, to avoid sharing the free tier's ~20 requests/day cap between both bots. Get one free at https://aistudio.google.com/apikey using a different Google account.");
   process.exit(1);
 }
 if (!API_FOOTBALL_KEY) {
@@ -378,44 +385,102 @@ async function buildClubProfile(seed) {
 // ---------------------------------------------------------------
 // Main
 // ---------------------------------------------------------------
+//
+// RESUME LOGIC: because Gemini's free tier only allows ~20 requests/day
+// (see build-profiles.yml notes), building all 30 profiles (20 players +
+// 10 clubs) in one run isn't always possible. Rather than requiring
+// manual batching, this script loads whatever profiles already exist,
+// skips anyone already built (unless older than REBUILD_AFTER_DAYS),
+// and only works on what's still missing. Just re-running the same
+// workflow on subsequent days will naturally fill in the rest.
+
+const REBUILD_AFTER_DAYS = 30; // refresh a profile's data/narrative after this long
+
+async function readJsonSafe(file, fallback) {
+  try {
+    const raw = await fs.readFile(file, "utf-8");
+    return JSON.parse(raw);
+  } catch {
+    return fallback;
+  }
+}
+
+function isStale(profile) {
+  if (!profile?.updatedAt) return true;
+  const ageMs = Date.now() - new Date(profile.updatedAt).getTime();
+  return ageMs > REBUILD_AFTER_DAYS * 24 * 60 * 60 * 1000;
+}
 
 async function main() {
   await fs.mkdir(DATA_DIR, { recursive: true });
   await fs.mkdir(IMAGES_DIR, { recursive: true });
 
+  const existingPlayersData = await readJsonSafe(path.join(DATA_DIR, "players.json"), { players: [] });
+  const existingClubsData = await readJsonSafe(path.join(DATA_DIR, "clubs.json"), { clubs: [] });
+
+  const existingPlayersBySlug = new Map(existingPlayersData.players.map(p => [p.slug, p]));
+  const existingClubsBySlug = new Map(existingClubsData.clubs.map(c => [c.slug, c]));
+
+  const playersToBuild = CURATED_PLAYERS.filter(seed => {
+    const existing = existingPlayersBySlug.get(seed.slug);
+    return !existing || isStale(existing);
+  });
+  const clubsToBuild = CURATED_CLUBS.filter(seed => {
+    const existing = existingClubsBySlug.get(seed.slug);
+    return !existing || isStale(existing);
+  });
+
   console.log(`WelayDaily profile builder started — ${new Date().toISOString()}`);
-  console.log(`Building ${CURATED_PLAYERS.length} player profiles and ${CURATED_CLUBS.length} club profiles.`);
+  console.log(`${existingPlayersBySlug.size}/${CURATED_PLAYERS.length} players already built, ${playersToBuild.length} to build/refresh this run.`);
+  console.log(`${existingClubsBySlug.size}/${CURATED_CLUBS.length} clubs already built, ${clubsToBuild.length} to build/refresh this run.`);
   console.log(`API-Football call budget for this run: ${MAX_AF_CALLS_PER_RUN}`);
 
-  const players = [];
-  for (const seed of CURATED_PLAYERS) {
+  let builtCount = 0;
+
+  for (const seed of playersToBuild) {
     try {
       const profile = await buildPlayerProfile(seed);
       if (profile) {
-        players.push(profile);
+        existingPlayersBySlug.set(seed.slug, profile); // overwrite/insert
+        builtCount++;
         console.log(`  ✓ Built: ${profile.name}`);
       }
     } catch (err) {
       console.error(`  ✗ Failed on ${seed.searchName}: ${err.message}`);
-      if (err.message.includes("budget for this run exhausted")) break;
+      if (err.message.includes("budget for this run exhausted") || err.message.includes("429")) {
+        console.log("  → Stopping early (quota limit hit). Remaining profiles will build on the next scheduled run.");
+        break;
+      }
     }
     await new Promise(r => setTimeout(r, 1500)); // gentle pacing
   }
 
-  const clubs = [];
-  for (const seed of CURATED_CLUBS) {
+  for (const seed of clubsToBuild) {
     try {
       const profile = await buildClubProfile(seed);
       if (profile) {
-        clubs.push(profile);
+        existingClubsBySlug.set(seed.slug, profile);
+        builtCount++;
         console.log(`  ✓ Built: ${profile.name}`);
       }
     } catch (err) {
       console.error(`  ✗ Failed on ${seed.searchName}: ${err.message}`);
-      if (err.message.includes("budget for this run exhausted")) break;
+      if (err.message.includes("budget for this run exhausted") || err.message.includes("429")) {
+        console.log("  → Stopping early (quota limit hit). Remaining profiles will build on the next scheduled run.");
+        break;
+      }
     }
     await new Promise(r => setTimeout(r, 1500));
   }
+
+  // Preserve original CURATED_PLAYERS/CURATED_CLUBS order in the output
+  // files, rather than however Map insertion order happens to land.
+  const players = CURATED_PLAYERS
+    .map(seed => existingPlayersBySlug.get(seed.slug))
+    .filter(Boolean);
+  const clubs = CURATED_CLUBS
+    .map(seed => existingClubsBySlug.get(seed.slug))
+    .filter(Boolean);
 
   await fs.writeFile(
     path.join(DATA_DIR, "players.json"),
@@ -426,8 +491,13 @@ async function main() {
     JSON.stringify({ clubs, updatedAt: new Date().toISOString() }, null, 2)
   );
 
-  console.log(`\n✓ Wrote ${players.length} player profiles and ${clubs.length} club profiles.`);
+  console.log(`\n✓ This run built/refreshed ${builtCount} profile(s).`);
+  console.log(`✓ Total stored: ${players.length}/${CURATED_PLAYERS.length} players, ${clubs.length}/${CURATED_CLUBS.length} clubs.`);
   console.log(`Total API-Football calls used this run: ${apiFootballCallsThisRun}`);
+
+  if (players.length < CURATED_PLAYERS.length || clubs.length < CURATED_CLUBS.length) {
+    console.log(`→ Not all profiles are built yet. Re-run this workflow again (manually or wait for next Sunday) to continue filling in the rest.`);
+  }
 }
 
 main().catch(err => {
