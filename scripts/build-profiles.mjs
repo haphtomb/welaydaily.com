@@ -46,6 +46,11 @@ const DATA_DIR = path.join(process.cwd(), "docs", "data");
 const IMAGES_DIR = path.join(process.cwd(), "docs", "images", "profiles");
 const CURRENT_SEASON = 2025; // API-Football uses the year the season STARTS (2025-26 season = 2025)
 
+// Gemini's free tier has a low requests-per-minute limit. Spacing calls
+// out this much protects against 429 quota errors when building 30
+// profiles in one run (each profile = 1 Gemini call for the narrative).
+const GEMINI_PACING_MS = 8000;
+
 // Simple request counter so a single run never blows past the free
 // 100/day quota even if something loops unexpectedly.
 let apiFootballCallsThisRun = 0;
@@ -182,30 +187,95 @@ async function generateProfileImage(sceneDescription, outPath) {
 // ---------------------------------------------------------------
 // Player profile builder
 // ---------------------------------------------------------------
+//
+// API-Football's /players endpoint requires either a team+season or
+// league+season combination — pure name-only search is rejected with
+// a "League or Team field is required" error. So the real lookup path
+// is two calls: resolve the player's club to a team ID (reusing the
+// same /teams?search= endpoint that already works for club profiles),
+// then pull that team's full squad stats via /players?team=X&season=Y
+// and find our target by name within the response.
+//
+// This means each CURATED_PLAYERS entry needs a `club` hint (the
+// current club to search within) — see profile-seed-data.mjs.
+
+function normalizeNameForMatch(name) {
+  return name
+    .toLowerCase()
+    .normalize("NFD").replace(/[\u0300-\u036f]/g, "") // strip accents
+    .replace(/[^a-z\s]/g, "")
+    .replace(/\bjr\b|\bjunior\b/g, "junior") // normalize "Jr."/"Jr"/"Junior" variants
+    .trim();
+}
+
+// Word-overlap based matching: robust against full legal names
+// (e.g. API returns "Vinícius José Paixão de Oliveira Júnior" for
+// the player commonly known as "Vinicius Junior"). We check whether
+// enough of the search name's significant words appear in the
+// candidate's full name or known/common name, rather than requiring
+// an exact substring match either direction.
+function namesLikelyMatch(searchName, firstname, lastname, knownName) {
+  const targetWords = normalizeNameForMatch(searchName).split(/\s+/).filter(w => w.length > 1);
+  const full = normalizeNameForMatch(`${firstname || ""} ${lastname || ""}`);
+  const known = normalizeNameForMatch(knownName || "");
+  const haystack = `${full} ${known}`;
+
+  if (targetWords.length === 0) return false;
+
+  // Single-word search names (e.g. "Rodri", "Pedri") — require exact
+  // whole-word presence, not just substring, to avoid false positives.
+  if (targetWords.length === 1) {
+    const haystackWords = haystack.split(/\s+/);
+    return haystackWords.includes(targetWords[0]) || known === targetWords[0];
+  }
+
+  // Multi-word search names — require ALL significant words to appear
+  // somewhere in the combined haystack (order-independent).
+  return targetWords.every(w => haystack.includes(w));
+}
 
 async function buildPlayerProfile(seed) {
-  console.log(`\n→ Building player profile: ${seed.name || seed.searchName}`);
+  console.log(`\n→ Building player profile: ${seed.searchName}`);
 
-  const searchResults = await afFetch(`/players?search=${encodeURIComponent(seed.searchName)}`);
-  if (!searchResults || searchResults.length === 0) {
-    console.warn(`  ⚠ No API-Football match found for "${seed.searchName}" — skipping`);
+  if (!seed.club) {
+    console.warn(`  ⚠ No club hint provided for "${seed.searchName}" — skipping (see profile-seed-data.mjs)`);
     return null;
   }
 
-  // Take the first/best match. API-Football returns the player plus
-  // their statistics array (one entry per competition/team for the season).
-  const match = searchResults[0];
+  // Step 1: resolve the club name to a team ID
+  const teamResults = await afFetch(`/teams?search=${encodeURIComponent(seed.club)}`);
+  if (!teamResults || teamResults.length === 0) {
+    console.warn(`  ⚠ Could not resolve club "${seed.club}" for player "${seed.searchName}" — skipping`);
+    return null;
+  }
+  const teamId = teamResults[0].team.id;
+
+  // Step 2: pull that team's full squad + stats for the season, then
+  // find our target player by (normalized, accent-insensitive) name match.
+  const squadResults = await afFetch(`/players?team=${teamId}&season=${CURRENT_SEASON}`);
+  if (!squadResults || squadResults.length === 0) {
+    console.warn(`  ⚠ No squad data returned for team ID ${teamId} (${seed.club}) — skipping "${seed.searchName}"`);
+    return null;
+  }
+
+  const match = squadResults.find(entry =>
+    namesLikelyMatch(seed.searchName, entry.player.firstname, entry.player.lastname, entry.player.name)
+  );
+
+  if (!match) {
+    console.warn(`  ⚠ "${seed.searchName}" not found in ${seed.club}'s ${CURRENT_SEASON} squad response — skipping`);
+    return null;
+  }
+
   const player = match.player;
   const statsEntries = match.statistics || [];
-
-  // Prefer the entry with the most minutes played (their primary team/competition)
   const primaryStats = statsEntries.reduce((best, cur) => {
     const bestMin = best?.games?.minutes || 0;
     const curMin = cur?.games?.minutes || 0;
     return curMin > bestMin ? cur : best;
   }, statsEntries[0]);
 
-  const team = primaryStats?.team?.name || "Unknown club";
+  const team = primaryStats?.team?.name || seed.club;
   const position = primaryStats?.games?.position || "Unknown position";
   const appearances = primaryStats?.games?.appearences ?? "N/A";
   const goals = primaryStats?.goals?.total ?? "N/A";
@@ -229,6 +299,7 @@ async function buildPlayerProfile(seed) {
 `.trim();
 
   const narrative = await writeNarrative("player", seed.searchName, statsSummary);
+  await new Promise(r => setTimeout(r, GEMINI_PACING_MS)); // spread out Gemini calls to respect free-tier RPM
 
   // Bonus: try to enrich with a real photo/thumbnail from TheSportsDB
   const sportsDbData = await sportsDbFetch(`/searchplayers.php?p=${encodeURIComponent(seed.searchName)}`);
@@ -282,6 +353,7 @@ async function buildClubProfile(seed) {
 `.trim();
 
   const narrative = await writeNarrative("club", seed.searchName, statsSummary);
+  await new Promise(r => setTimeout(r, GEMINI_PACING_MS)); // spread out Gemini calls to respect free-tier RPM
 
   const imageFile = `${seed.slug}.png`;
   const imagePath = path.join(IMAGES_DIR, imageFile);
