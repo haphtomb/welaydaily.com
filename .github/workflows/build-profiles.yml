@@ -5,7 +5,12 @@ name: WelayDaily Profile Builder
 on:
   schedule:
     - cron: "0 3 * * 0"   # every Sunday at 03:00 UTC
-  workflow_dispatch: {}     # manual trigger button
+  workflow_dispatch:     # manual trigger button
+    inputs:
+      test_limit:
+        description: "Optional: limit to first N players/clubs for a safe test run (leave blank for full run)"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -27,6 +32,7 @@ jobs:
           GEMINI_API_KEY_PROFILES: ${{ secrets.GEMINI_API_KEY_PROFILES }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+          TEST_LIMIT: ${{ github.event.inputs.test_limit }}
         run: node scripts/build-profiles.mjs
 
       - name: Commit and push updated data
