@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "aston-villa-shatters-club-record-to-land-swiss-midfield-sensation-manzambi-aced0deea430",
+      "headline": "Aston Villa Shatters Club Record to Land Swiss Midfield Sensation Manzambi",
+      "league": "Transfer News",
+      "summary": "Aston Villa has officially confirmed the signing of highly-rated Swiss World Cup star Johan Manzambi from Freiburg in a club-record deal, securing the midfielder's services despite interest from other Premier League rivals. The significant transfer fee underscores Villa's ambition in the current window.",
+      "body": "Aston Villa has made a monumental statement in the transfer market, officially announcing the acquisition of 20-year-old Swiss international Johan Manzambi from German club Freiburg. The deal, reportedly valued at close to £59.5 million, sets a new club record for the West Midlands side, highlighting their intent to bolster their squad with top-tier talent.\n\nManzambi, who impressed on the global stage during the recent World Cup, had been a target for several clubs, with Newcastle United also having previously agreed a substantial £49 million deal with Freiburg. However, Villa ultimately won the race for the midfielder's signature, bringing the young star to Villa Park.\n\nThe dynamic midfielder is expected to provide a significant boost to Aston Villa's midfield options, particularly following Youri Tielemans' departure to Manchester United and Amadou Onana's recent injury during the World Cup. Manzambi's arrival signals a clear intent from Villa to compete at the highest level.",
+      "tags": [
+        "Aston Villa",
+        "Johan Manzambi",
+        "Freiburg",
+        "Premier League Transfers"
+      ],
+      "image": "images/aston-villa-shatters-club-record-to-land-swiss-midfield-sensation-manzambi-aced0deea430.svg",
+      "publishedAt": "2026-07-18T02:29:48.116Z"
+    },
+    {
       "id": "brentford-edges-afc-wimbledon-in-thrilling-pre-season-encounter-b4a039c1f285",
       "headline": "Brentford Edges AFC Wimbledon in Thrilling Pre-Season Encounter",
       "league": "Premier League",
@@ -893,22 +908,7 @@
       ],
       "image": "images/african-quartet-secures-spots-in-u-17-women-s-world-cup-87e9f8121cab.png",
       "publishedAt": "2026-07-14T10:50:35.964Z"
-    },
-    {
-      "id": "alvarez-leans-towards-barcelona-amidst-premier-league-disinterest-37d978049422",
-      "headline": "Alvarez Leans Towards Barcelona Amidst Premier League Disinterest",
-      "league": "La Liga",
-      "summary": "Julian Alvarez has reportedly signaled a preference for a move to Barcelona, with recent indications suggesting he is not considering a return to the Premier League, significantly bolstering the Catalan club's long-standing pursuit of the forward. This development provides a timely boost for Barcelona as they aim to strengthen their attacking options for the upcoming season.",
-      "body": "Barcelona's hopes of securing Julian Alvarez have received a considerable uplift following reports that the Argentine international is disinclined towards a Premier League comeback this summer. According to journalist Pedro Morata, English interest is unlikely to sway Alvarez's intentions, positioning Barcelona more favorably in their ongoing efforts to sign the prolific attacker.\n\nAlvarez, who joined Atletico Madrid from Manchester City in 2024, remains under contract with Los Rojiblancos until 2030. Despite his lengthy deal, Barcelona has consistently been linked with the World Cup winner, with the player himself reportedly favoring a switch to the Catalan giants should he depart Atletico.\n\nHowever, any potential transfer hinges on Atletico Madrid's willingness to negotiate a deal and Barcelona's capacity to satisfy the financial demands involved. Alvarez is recognized as one of Europe's premier forwards, and his performances for both club and country have attracted considerable attention from top clubs.",
-      "tags": [
-        "Julian Alvarez",
-        "Barcelona",
-        "Atletico Madrid",
-        "Transfer News"
-      ],
-      "image": "images/alvarez-leans-towards-barcelona-amidst-premier-league-disinterest-37d978049422.png",
-      "publishedAt": "2026-07-14T08:06:27.747Z"
     }
   ],
-  "lastRun": "2026-07-17T21:56:16.960Z"
+  "lastRun": "2026-07-18T02:29:59.465Z"
 }
