@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "albion-kicks-off-pre-season-with-dominant-four-goal-display-over-wycombe-3313573a4331",
+      "headline": "Albion Kicks Off Pre-Season with Dominant Four-Goal Display Over Wycombe",
+      "league": "Premier League",
+      "summary": "Brighton & Hove Albion commenced their pre-season schedule with a commanding 4-1 victory against League One side Wycombe Wanderers, showcasing attacking flair and integrating new talent. The comfortable win at their training ground provided a strong start to Fabian Hurzeler's preparations for the upcoming Premier League campaign.",
+      "body": "Brighton & Hove Albion delivered an impressive performance in their opening pre-season friendly yesterday, overcoming Wycombe Wanderers with a decisive 4-1 scoreline. The Seagulls quickly established control, with Babis Kostoulas netting two well-taken goals to set the tone. Ibrahim Osman added a spectacular overhead kick, further extending Albion's lead before the break, delighting the coaching staff and early observers.\n\nThe second half saw Georginio Rutter secure Brighton's fourth goal, completing a comprehensive display of offensive power. Notably, new acquisition Pascal Struijk made his initial appearance for the club, featuring for 45 minutes at the heart of the defense and offering fans a first glimpse of his capabilities since his arrival from Leeds.\n\nThis strong start at the American Express Elite Football Performance Centre provides a positive foundation for Fabian Hurzeler's squad as they intensify their preparations. The team will aim to build on this momentum in their subsequent pre-season fixtures, looking to fine-tune tactics and integrate players ahead of the demanding 2026/27 Premier League season.",
+      "tags": [
+        "Brighton",
+        "Pre-Season",
+        "Friendly",
+        "Match Report"
+      ],
+      "image": "images/albion-kicks-off-pre-season-with-dominant-four-goal-display-over-wycombe-3313573a4331.png",
+      "publishedAt": "2026-07-19T02:43:09.494Z"
+    },
+    {
       "id": "shakhtar-donetsk-eyes-stamford-bridge-for-champions-league-home-620c9f8c8a14",
       "headline": "Shakhtar Donetsk Eyes Stamford Bridge for Champions League Home",
       "league": "Champions League",
@@ -892,22 +907,7 @@
       ],
       "image": "images/sunderland-secures-experienced-belgian-international-thomas-meunier-5f976a26f217.png",
       "publishedAt": "2026-07-15T13:46:11.616Z"
-    },
-    {
-      "id": "sevilla-orchestrates-major-player-exits-to-fuel-summer-transfer-ambitions-443a9bf6aefd",
-      "headline": "Sevilla Orchestrates Major Player Exits to Fuel Summer Transfer Ambitions",
-      "league": "La Liga",
-      "summary": "Sevilla is actively restructuring its squad by offloading several players to reduce salary expenses and generate crucial funds for new acquisitions. Key departures, including Akor Adams and Tanguy Nianzou, are nearing completion, paving the way for fresh talent at the Ramón Sánchez Pizjuán.",
-      "body": "Sevilla FC's sporting director, José Ignacio Navarro, is spearheading an intensive effort to streamline the club's roster, with significant progress made on several outgoing transfers. This strategic clear-out aims to both lighten the wage bill and provide the necessary financial flexibility for upcoming signings. The focus has been particularly sharp on forward Akor Adams and defender Tanguy Nianzou, whose exits are set to provide substantial relief and capital.\n\nAdams is reportedly on the verge of a transfer to Serie A club Venezia FC, a deal anticipated to bring in more than €15 million, potentially rising to over €20 million with add-ons. Meanwhile, Nianzou is finalizing a move to Ligue 1 side LOSC Lille on a free transfer, which includes him waiving a portion of his owed salary and Sevilla covering some of his final year's wages, saving the club over four million euros.\n\nBeyond these imminent departures, Sevilla is also working to find new clubs for Joan Jordán, Federico Gattoni, Fábio Cardoso, and Rafa Mir, who are currently training apart from the main squad. These moves are vital for the Andalusian club as they look to reshape their team and bring in reinforcements ahead of the new La Liga season.",
-      "tags": [
-        "Sevilla FC",
-        "Transfer News",
-        "La Liga",
-        "Player Exits"
-      ],
-      "image": "images/sevilla-orchestrates-major-player-exits-to-fuel-summer-transfer-ambitions-443a9bf6aefd.png",
-      "publishedAt": "2026-07-15T13:47:03.156Z"
     }
   ],
-  "lastRun": "2026-07-18T21:53:14.938Z"
+  "lastRun": "2026-07-19T02:43:13.782Z"
 }
