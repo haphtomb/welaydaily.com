@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "manchester-united-bolster-midfield-with-andrey-santos-acquisition-862cf06c9b07",
+      "headline": "Manchester United Bolster Midfield with Andrey Santos Acquisition",
+      "league": "Transfer News",
+      "summary": "Manchester United has officially confirmed the signing of Brazilian international midfielder Andrey Santos, securing his services on a long-term contract. This move is set to significantly enhance the midfield options for manager Michael Carrick as the club prepares for the upcoming season.",
+      "body": "Manchester United has successfully completed the transfer of highly-rated Brazilian midfielder Andrey Santos, bringing him to Old Trafford on a long-term deal. The confirmation came through official channels today, marking a significant addition to the Red Devils' squad. Santos, previously with Chelsea, arrives with a reputation for dynamic play and strong defensive capabilities, having also represented his national team.\n\nThe move is expected to provide crucial depth and quality to Manchester United's midfield, an area manager Michael Carrick has been keen to strengthen. Supporters are eager to see how the young talent integrates into the team and contributes to their ambitions in both domestic and European competitions.\n\nThis high-profile acquisition underscores United's commitment to building a competitive squad. Santos's arrival is anticipated to inject fresh energy and tactical flexibility into the midfield, offering Carrick more options as the new campaign approaches.",
+      "tags": [
+        "Andrey Santos",
+        "Manchester United",
+        "Transfer",
+        "Premier League"
+      ],
+      "image": "images/manchester-united-bolster-midfield-with-andrey-santos-acquisition-862cf06c9b07.png",
+      "publishedAt": "2026-07-22T13:55:04.896Z"
+    },
+    {
       "id": "aston-villa-strengthen-midfield-with-38-million-joao-gomes-acquisition-eb4d0303d2ea",
       "headline": "Aston Villa Strengthen Midfield with £38 Million Joao Gomes Acquisition",
       "league": "Transfer News",
@@ -890,22 +905,7 @@
       ],
       "image": "images/leeds-united-enters-transfer-scramble-for-champions-league-winner-john-stones-e89da6c7843f.png",
       "publishedAt": "2026-07-19T13:20:12.275Z"
-    },
-    {
-      "id": "wafcon-2026-heats-up-as-morocco-and-south-africa-reveal-squads-de83c351050d",
-      "headline": "WAFCON 2026 Heats Up as Morocco and South Africa Reveal Squads",
-      "league": "AFCON",
-      "summary": "As the 2026 Women's Africa Cup of Nations approaches, host nation Morocco and defending champions South Africa have officially announced their final squads. Both teams are now in their final stages of preparation for the highly anticipated continental tournament, set to kick off later this month.",
-      "body": "With the Women's Africa Cup of Nations (WAFCON) 2026 rapidly approaching, host Morocco and reigning champions South Africa have unveiled their definitive rosters. Morocco's head coach, Jorge Vilda, publicly announced the Atlas Lionesses' 26-player squad on July 17, as they prepare to launch their campaign on home soil. The tournament, hosted by Morocco for the third consecutive time, will feature 16 national teams competing from July 26 to August 16.\n\nMorocco finds itself in Group A, where they will face Algeria, Senegal, and Kenya. Their opening match is scheduled against Kenya on July 26, marking the beginning of their quest for continental glory. Meanwhile, the defending champions, South Africa's Banyana Banyana, are set to depart for Morocco this Saturday, following coach Desiree Ellis's squad announcement on Friday.\n\nBanyana Banyana, drawn into Group B alongside Ivory Coast, Burkina Faso, and Tanzania, will commence their title defense on July 27 against Tanzania in Casablanca. Key players like Thembi Kgatlana and Refiloe Jane are expected to lead the South African charge as they aim to secure another WAFCON trophy and qualify for the 2027 FIFA Women's World Cup.",
-      "tags": [
-        "WAFCON 2026",
-        "Morocco",
-        "South Africa",
-        "Squad Announcement"
-      ],
-      "image": "images/wafcon-2026-heats-up-as-morocco-and-south-africa-reveal-squads-de83c351050d.png",
-      "publishedAt": "2026-07-19T13:20:43.144Z"
     }
   ],
-  "lastRun": "2026-07-22T11:14:00.781Z"
+  "lastRun": "2026-07-22T13:55:21.041Z"
 }
