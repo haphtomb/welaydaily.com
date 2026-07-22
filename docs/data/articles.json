@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "levski-sofia-begins-second-qualifying-round-journey-against-universitatea-craiov-d908d8f5433c",
+      "headline": "Levski Sofia Begins Second Qualifying Round Journey Against Universitatea Craiova",
+      "league": "Champions League",
+      "summary": "Bulgarian giants Levski Sofia embark on their second qualifying round quest today, hosting Romanian club Universitatea Craiova in a pivotal first-leg encounter. Both teams are eager to establish an early advantage as they battle for a coveted spot in the Champions League league phase.",
+      "body": "The road to the 2026-27 UEFA Champions League league phase intensifies this week, with Levski Sofia welcoming Universitatea Craiova to the Stadion Georgi Asparuhov in a highly anticipated second qualifying round fixture. Levski Sofia, having successfully navigated the initial stages, now faces a formidable challenge against their Romanian counterparts who are just entering the competition at this stage.\n\nThis crucial tie, kicking off on Wednesday, July 22nd, sees the Bulgarian champions aiming to leverage their home advantage in Sofia to secure a strong position before the return leg. Building a significant lead in the first encounter will be paramount for either side hoping to progress further in Europe's premier club competition.\n\nThe early qualifying rounds are always fraught with tension and high stakes, as clubs from across the continent vie for a chance to compete among Europe's elite. Both Levski Sofia and Universitatea Craiova will be fully focused on delivering a performance that keeps their continental dreams alive.",
+      "tags": [
+        "Champions League",
+        "Qualifiers",
+        "Levski Sofia",
+        "Universitatea Craiova"
+      ],
+      "image": "images/levski-sofia-begins-second-qualifying-round-journey-against-universitatea-craiov-d908d8f5433c.png",
+      "publishedAt": "2026-07-22T22:06:12.035Z"
+    },
+    {
       "id": "middlesbrough-secures-tottenham-youngster-will-lankshear-in-20-million-deal-5aa858815aa7",
       "headline": "Middlesbrough Secures Tottenham Youngster Will Lankshear in £20 Million Deal",
       "league": "Transfer News",
@@ -890,22 +905,7 @@
       ],
       "image": "images/arsenal-bolsters-attack-with-40-million-signing-of-christos-tzolis-646f6f1cda74.png",
       "publishedAt": "2026-07-19T19:07:24.301Z"
-    },
-    {
-      "id": "barcelona-regains-financial-flexibility-with-la-liga-s-1-1-rule-reinstatement-5e4c7d5c9074",
-      "headline": "Barcelona Regains Financial Flexibility with La Liga's 1:1 Rule Reinstatement",
-      "league": "La Liga",
-      "summary": "Barcelona has officially returned to La Liga's crucial 1:1 financial fair play rule, a development confirmed by league president Javier Tebas. This significant shift grants the Catalan giants renewed freedom in the transfer market, allowing them to reinvest all generated funds into new player acquisitions.",
-      "body": "In a major boost for Barcelona, La Liga president Javier Tebas announced today that the club has successfully reinstated its 1:1 spending rule. This means the Blaugrana can now spend every euro they earn on new transfers, a substantial change that offers considerable flexibility as the summer window progresses. The news comes after a period of intense financial restructuring at Camp Nou.\n\nThe club's return to this favorable financial standing is attributed to a series of strategic player movements. Key departures, including Robert Lewandowski and Ansu Fati, the latter moving to Monaco for €11 million following his loan spell, have been instrumental in freeing up significant salary space. Additionally, the recent acquisition of winger Anthony Gordon was structured with a manageable salary, further easing the wage bill.\n\nThis newfound financial agility paves the way for Barcelona to finalize further business, with the impending confirmation of Karim Adeyemi's arrival already anticipated. The ability to operate freely in the market will undoubtedly empower the club to strengthen its squad effectively for the upcoming season, marking a pivotal moment in their ongoing rebuild.",
-      "tags": [
-        "Barcelona",
-        "La Liga",
-        "Transfer News",
-        "Financial Fair Play"
-      ],
-      "image": "images/barcelona-regains-financial-flexibility-with-la-liga-s-1-1-rule-reinstatement-5e4c7d5c9074.png",
-      "publishedAt": "2026-07-19T19:07:53.465Z"
     }
   ],
-  "lastRun": "2026-07-22T19:23:30.006Z"
+  "lastRun": "2026-07-22T22:06:16.495Z"
 }
