@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "la-liga-delays-big-three-openers-for-world-cup-stars-recovery-e60c107dae9a",
+      "headline": "La Liga Delays Big Three Openers for World Cup Stars' Recovery",
+      "league": "La Liga",
+      "summary": "Spain's top flight will commence its season on August 15th, but the opening fixtures for Barcelona, Real Madrid, and Atletico Madrid have been rescheduled. This decision grants their World Cup-participating players extended rest following a demanding international tournament.",
+      "body": "The highly anticipated return of La Liga football is set for August 15th, but fans eager to see the league's biggest clubs in action will have to wait slightly longer. The Spanish football authorities have confirmed that the initial matches involving Barcelona, Real Madrid, and Atletico Madrid will be postponed.\n\nThis adjustment to the calendar is a direct response to the recent World Cup, which saw many key players from these prominent clubs heavily involved, particularly those from the victorious Spanish national team. The league aims to provide these athletes with adequate recovery time before they embark on a new domestic campaign.\n\nConsequently, these three La Liga giants are now expected to kick off their respective seasons during the second round of fixtures later in August. This strategic delay acknowledges the physical toll of international competition and prioritizes player welfare, ensuring a stronger start to the season for all involved.",
+      "tags": [
+        "La Liga",
+        "Season Start",
+        "Fixture Postponement",
+        "World Cup"
+      ],
+      "image": "images/la-liga-delays-big-three-openers-for-world-cup-stars-recovery-e60c107dae9a.png",
+      "publishedAt": "2026-07-23T05:56:30.800Z"
+    },
+    {
       "id": "foxes-secure-narrow-pre-season-victory-against-c-diz-in-spain-cd380cca4f9c",
       "headline": "Foxes Secure Narrow Pre-Season Victory Against Cádiz in Spain",
       "league": "Premier League",
@@ -890,22 +905,7 @@
       ],
       "image": "images/fire-offload-top-scorer-cuypers-after-lewandowski-acquisition-aebc6d0c297b.png",
       "publishedAt": "2026-07-20T11:48:13.797Z"
-    },
-    {
-      "id": "barcelona-s-ferran-torres-secures-world-cup-glory-for-spain-2151a471e2e9",
-      "headline": "Barcelona's Ferran Torres Secures World Cup Glory for Spain",
-      "league": "La Liga",
-      "summary": "Ferran Torres, the Barcelona forward, emerged as Spain's hero, scoring the decisive extra-time goal that clinched the 2026 FIFA World Cup title for La Roja. This monumental victory against Argentina has significant implications for both the national team and the player's club future.",
-      "body": "Spain lifted their second World Cup trophy on Sunday after a tense 1-0 extra-time triumph over reigning champions Argentina. The breakthrough arrived in the 106th minute when Barcelona's Ferran Torres found the back of the net, securing the coveted title for Luis de la Fuente's squad after a dominant performance where they controlled possession and created numerous opportunities. Argentina's challenge was compounded by Enzo Fernández's red card just before extra time, leaving them with ten men to navigate the final period.\n\nTorres's heroic strike not only etched his name into Spanish football history but also sparked fresh discussions regarding his standing at Camp Nou. The 25-year-old's performance throughout the tournament, culminating in the winning goal, could elevate his profile and influence within the Barcelona setup, particularly after facing scrutiny in recent seasons.\n\nWhile the national team celebrates this historic achievement, the focus will soon shift back to club football. The World Cup victory, heavily influenced by La Liga talents like Torres and Golden Ball winner Rodri, underscores the league's quality and will undoubtedly fuel excitement as clubs prepare for the upcoming La Liga season, with Barcelona now boasting a World Cup-winning goalscorer in their ranks.",
-      "tags": [
-        "Ferran Torres",
-        "Spain National Team",
-        "Barcelona",
-        "World Cup 2026"
-      ],
-      "image": "images/barcelona-s-ferran-torres-secures-world-cup-glory-for-spain-2151a471e2e9.png",
-      "publishedAt": "2026-07-20T02:57:00.478Z"
     }
   ],
-  "lastRun": "2026-07-23T02:46:23.771Z"
+  "lastRun": "2026-07-23T05:56:48.453Z"
 }
