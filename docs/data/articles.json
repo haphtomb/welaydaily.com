@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "hugo-cuypers-completes-multi-million-dollar-switch-to-monterrey-from-chicago-fir-b2b41de120c7",
+      "headline": "Hugo Cuypers Completes Multi-Million Dollar Switch to Monterrey from Chicago Fire",
+      "league": "Transfer News",
+      "summary": "Belgian forward Hugo Cuypers has officially departed Chicago Fire FC, sealing a multi-million dollar transfer to Mexican Liga MX powerhouse Club de Fútbol Monterrey. The move, announced today, sees the prolific striker embark on a new chapter after a highly successful stint in Major League Soccer.",
+      "body": "Chicago Fire FC confirmed today the transfer of their Belgian forward, Hugo Cuypers, to Liga MX side Club de Fútbol Monterrey for a multi-million dollar fee. The departure comes as Cuypers' contract with the MLS club was nearing its conclusion, prompting the Fire to maximize the opportunity and secure a significant return for the player.\n\nCuypers arrived in Chicago in 2024 from K.A.A. Gent and quickly established himself as a fan favorite and a formidable goal-scorer. He featured in 82 matches across all competitions for the Fire, earning the Golden Boot award in both the 2024 and 2025 seasons. His impact was immediate, as he was also named the Club's MVP in his debut 2024 campaign.\n\nThe 2026 season saw Cuypers continue his impressive form, netting 13 goals in just 11 matches during the first half of the year, including a record-breaking streak of scoring in 10 consecutive appearances. This strong performance, combined with his contract situation, made him a sought-after asset, ultimately leading to his high-profile move to the Mexican top flight.",
+      "tags": [
+        "Hugo Cuypers",
+        "Chicago Fire FC",
+        "CF Monterrey",
+        "Liga MX",
+        "MLS Transfer"
+      ],
+      "image": "images/hugo-cuypers-completes-multi-million-dollar-switch-to-monterrey-from-chicago-fir-b2b41de120c7.png",
+      "publishedAt": "2026-07-23T22:06:04.412Z"
+    },
+    {
       "id": "sheffield-united-secure-confident-pre-season-victory-over-huddersfield-6b0afbf3ed59",
       "headline": "Sheffield United Secure Confident Pre-Season Victory Over Huddersfield",
       "league": "Premier League",
@@ -893,22 +909,7 @@
       ],
       "image": "images/roma-escalates-pursuit-with-third-bid-for-west-ham-s-summerville-f26532ded2cc.png",
       "publishedAt": "2026-07-20T22:02:39.712Z"
-    },
-    {
-      "id": "palace-dominates-swindon-in-strong-pre-season-showing-a4fa1cc2dc28",
-      "headline": "Palace Dominates Swindon in Strong Pre-Season Showing",
-      "league": "Premier League",
-      "summary": "Crystal Palace launched their pre-season campaign with an emphatic 5-1 victory over Swindon, showcasing an impressive attacking display. The dominant performance signals a promising start as the Eagles build momentum for the upcoming Premier League season.",
-      "body": "Crystal Palace delivered a commanding performance in their recent pre-season friendly, securing a convincing 5-1 win against Swindon. The Eagles' attacking prowess was on full display, with the squad demonstrating sharp movement and clinical finishing throughout the match. This early showing provides a significant boost for the team as they continue their preparations for the rigorous challenges of the new Premier League campaign. \n\nThe fixture, held at the Crystal Palace Academy on July 18th, saw the London club establish control from the outset, overwhelming their opponents with relentless pressure. The comprehensive scoreline reflects a positive outing for the team, allowing the coaching staff to assess various player combinations and tactical approaches ahead of the competitive season. \n\nFans will be encouraged by the team's cohesion and goal-scoring ability in this early friendly. Such a strong start to pre-season often sets a positive tone, fostering confidence within the squad as they aim for a successful run in the demanding Premier League.",
-      "tags": [
-        "Crystal Palace",
-        "Pre-Season",
-        "Match Result",
-        "Swindon"
-      ],
-      "image": "images/palace-dominates-swindon-in-strong-pre-season-showing-a4fa1cc2dc28.png",
-      "publishedAt": "2026-07-20T22:03:10.628Z"
     }
   ],
-  "lastRun": "2026-07-23T19:20:14.303Z"
+  "lastRun": "2026-07-23T22:06:08.795Z"
 }
