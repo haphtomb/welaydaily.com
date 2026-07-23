@@ -1,6 +1,67 @@
 {
   "articles": [
     {
+      "id": "chelsea-shatter-british-transfer-record-with-117m-morgan-rogers-acquisition-2d4b777bdab8",
+      "headline": "Chelsea Shatter British Transfer Record with £117M Morgan Rogers Acquisition",
+      "league": "Transfer News",
+      "summary": "Chelsea have completed the monumental signing of Morgan Rogers from Aston Villa for a staggering £117 million, setting a new British transfer record. The England international winger has committed his future to Stamford Bridge on a six-year deal.",
+      "body": "In a move that sends shockwaves through the Premier League, Chelsea have officially secured the services of highly-rated winger Morgan Rogers from Aston Villa. The London giants reportedly shelled out an astonishing £117 million for the 22-year-old, a fee that now stands as the highest ever paid for a British player. This significant investment underscores Chelsea's ambition under Xabi Alonso's leadership, as they continue to reshape their squad for the upcoming season.\n\nRogers, who previously impressed during his tenure at Aston Villa, has put pen to paper on a long-term six-year contract, signaling his commitment to the Blues' project. The transfer, which materialized swiftly following an agreement between the two clubs, sees Rogers taking on a new challenge in West London.\n\nThe acquisition of Rogers is a clear statement of intent from Chelsea, adding a dynamic attacking talent to their ranks. His arrival is expected to inject pace and creativity into the team, with the player reportedly taking on Andrey Santos' former squad number. This record-breaking deal highlights the intense competition for top English talent in the current transfer market.",
+      "tags": [
+        "Chelsea FC",
+        "Morgan Rogers",
+        "Premier League",
+        "Transfer Record"
+      ],
+      "image": "images/chelsea-shatter-british-transfer-record-with-117m-morgan-rogers-acquisition-2d4b777bdab8.png",
+      "publishedAt": "2026-07-23T11:12:02.467Z"
+    },
+    {
+      "id": "zamalek-threatens-champions-league-exit-over-proposed-expansion-7df3165203f3",
+      "headline": "Zamalek Threatens Champions League Exit Over Proposed Expansion",
+      "league": "CAF Champions League",
+      "summary": "Egyptian football powerhouse Zamalek has reportedly threatened to withdraw from the upcoming CAF Champions League season if the Confederation of African Football proceeds with plans to expand the competition. The club strongly opposes changes that could alter qualification criteria and potentially benefit rivals.",
+      "body": "Cairo giants Zamalek are reportedly prepared to pull out of the CAF Champions League if the continental governing body moves forward with a proposed expansion of the tournament format. The White Knights are vocal in their opposition to any new structure that might increase the number of participating clubs, particularly if it creates a pathway for teams like their fierce rivals Al Ahly to gain entry.\n\nClub officials believe that altering the existing qualification system would compromise the integrity of Africa's premier club competition. While the Confederation of African Football has yet to make a definitive announcement regarding the expansion, discussions have intensified in recent months, with CAF exploring avenues to boost the competition's commercial appeal and global reach.\n\nShould Zamalek follow through on their threat, it would present a significant challenge for CAF as the new Champions League season approaches. Such a high-profile withdrawal could cast a shadow over the start of the campaign and spark further debate about the implementation of any proposed reforms, forcing CAF to balance its expansion ambitions with concerns from one of the continent's most influential clubs.",
+      "tags": [
+        "Zamalek",
+        "CAF Champions League",
+        "Club Football",
+        "Egyptian Football"
+      ],
+      "image": "images/zamalek-threatens-champions-league-exit-over-proposed-expansion-7df3165203f3.png",
+      "publishedAt": "2026-07-23T11:12:36.623Z"
+    },
+    {
+      "id": "hammers-dominate-stevenage-with-five-goal-pre-season-rout-e5086bfa6ad5",
+      "headline": "Hammers Dominate Stevenage with Five-Goal Pre-Season Rout",
+      "league": "Premier League",
+      "summary": "West Ham United commenced their pre-season campaign with an emphatic 5-0 victory over Stevenage, showcasing a strong performance and early squad depth. The commanding win provides a positive start as the Hammers prepare for the upcoming Premier League season.",
+      "body": "West Ham United kicked off their pre-season schedule in impressive fashion today, securing a resounding 5-0 triumph against Stevenage. The dominant display saw the Premier League side assert control from the outset, demonstrating their attacking prowess and defensive solidity against their lower-league opponents.\n\nThe match, part of the clubs' preparations for the new season, allowed manager David Moyes to field a mix of established first-team players and emerging talents. Key figures like James Ward-Prowse featured in the lineup, as the Hammers looked to build fitness and cohesion.\n\nThis comprehensive victory sets an optimistic tone for West Ham as they continue their pre-season fixtures. The clean sheet and multiple goals will undoubtedly boost confidence within the squad, providing a solid foundation for their aspirations in the forthcoming Premier League campaign.",
+      "tags": [
+        "West Ham",
+        "Pre-season",
+        "Stevenage",
+        "Football",
+        "Premier League"
+      ],
+      "image": "images/hammers-dominate-stevenage-with-five-goal-pre-season-rout-e5086bfa6ad5.png",
+      "publishedAt": "2026-07-23T11:13:11.425Z"
+    },
+    {
+      "id": "egnatia-and-celje-share-six-goals-in-thrilling-champions-league-qualifier-46d4a14df79b",
+      "headline": "Egnatia and Celje Share Six Goals in Thrilling Champions League Qualifier",
+      "league": "Champions League",
+      "summary": "Albanian champions Egnatia and Slovenian side NK Celje played out an exhilarating 3-3 draw in the first leg of their UEFA Champions League second qualifying round clash. The high-scoring encounter leaves the tie finely poised ahead of the return leg.",
+      "body": "The Arena Egnatia witnessed a captivating contest on Wednesday as KF Egnatia hosted NK Celje in their initial battle for a place in the next stage of Europe's elite club competition. Both teams displayed attacking intent from the outset, leading to a back-and-forth affair that saw six goals shared evenly between them.\n\nThe Albanian champions, clad in their distinctive red and white, found themselves in an intense struggle against their Slovenian counterparts, who played in their yellow and blue kits. Neither side managed to establish a significant lead, with each goal being met with a swift response from the opposition, creating a dramatic atmosphere for the supporters present.\n\nThis thrilling 3-3 stalemate means that everything is still to play for as the teams prepare for the decisive second leg. The result sets up an intriguing return fixture where both clubs will be eager to find a winner and advance further in their quest for Champions League group stage football.",
+      "tags": [
+        "Champions League Qualifiers",
+        "Egnatia",
+        "Celje",
+        "Football"
+      ],
+      "image": "images/egnatia-and-celje-share-six-goals-in-thrilling-champions-league-qualifier-46d4a14df79b.png",
+      "publishedAt": "2026-07-23T11:13:46.004Z"
+    },
+    {
       "id": "caf-confirms-afcon-expansion-to-28-teams-for-2027-tournament-e407ac612d79",
       "headline": "CAF Confirms AFCON Expansion to 28 Teams for 2027 Tournament",
       "league": "AFCON",
@@ -845,67 +906,7 @@
       ],
       "image": "images/hearts-adjust-champions-league-squad-ahead-of-sturm-graz-clash-fbc313bd7431.png",
       "publishedAt": "2026-07-20T16:26:54.236Z"
-    },
-    {
-      "id": "franca-hat-trick-propels-crystal-palace-to-dominant-pre-season-victory-ffbb3611a3c6",
-      "headline": "Franca Hat-Trick Propels Crystal Palace to Dominant Pre-Season Victory",
-      "league": "Premier League",
-      "summary": "Crystal Palace launched their pre-season with an emphatic 5-1 win over League Two side Swindon Town, showcasing their attacking prowess. Young Brazilian forward Matheus Franca was the standout performer, netting an impressive hat-trick in the second half.",
-      "body": "Crystal Palace commenced their pre-season campaign in strong fashion, securing a commanding 5-1 victory against Swindon Town at their training ground. The Eagles' forward line proved sharp, with Eddie Nketiah opening the scoring with two goals in the first half. Swindon managed to pull one back through Fletcher Holman, keeping the scoreline respectable at the break.\n\nHowever, the second half belonged to Matheus Franca. The talented Brazilian attacker took center stage, unleashing a stunning hat-trick that included a delicate chip, a confident penalty, and a superb individual effort. His clinical finishing ensured a comfortable win for Palace as they build momentum for the upcoming Premier League season.\n\nThe comprehensive performance will undoubtedly please the coaching staff, offering valuable minutes and the opportunity to integrate players. The decisive victory provides an encouraging start to their preparations, highlighting the team's offensive potential early in their pre-season schedule.",
-      "tags": [
-        "Crystal Palace",
-        "Pre-Season",
-        "Match Results",
-        "Matheus Franca"
-      ],
-      "image": "images/franca-hat-trick-propels-crystal-palace-to-dominant-pre-season-victory-ffbb3611a3c6.png",
-      "publishedAt": "2026-07-20T16:27:25.589Z"
-    },
-    {
-      "id": "super-falcons-intensify-wafcon-prep-as-squad-nears-full-strength-4372db0551a8",
-      "headline": "Super Falcons Intensify WAFCON Prep as Squad Nears Full Strength",
-      "league": "AFCON",
-      "summary": "Nigeria's Super Falcons are ramping up their preparations for the 14th Women Africa Cup of Nations, with their camp in Casablanca nearing full attendance. The reigning champions are focusing on team cohesion as the continental tournament approaches.",
-      "body": "The Super Falcons, Nigeria's esteemed women's national team, are deep into their training camp in Casablanca as they gear up for the upcoming 14th Women Africa Cup of Nations. As of Sunday evening, only six players were still anticipated to link up with the squad, signaling that the coaching staff has most of their selected talent on hand to finalize preparations.\n\nThis near-complete roster allows the team to intensify their tactical work and build crucial chemistry ahead of their title defense. The focus will now shift towards honing strategies and ensuring every player is integrated into the system, aiming for peak performance when the tournament kicks off.\n\nThe reigning champions are committed to a rigorous build-up, leaving no stone unturned in their quest for another continental triumph. With the majority of their players now assembled, the Super Falcons are poised to fine-tune their approach and make a strong statement in Morocco.",
-      "tags": [
-        "Super Falcons",
-        "WAFCON 2026",
-        "Nigeria Football",
-        "Casablanca"
-      ],
-      "image": "images/super-falcons-intensify-wafcon-prep-as-squad-nears-full-strength-4372db0551a8.png",
-      "publishedAt": "2026-07-20T14:07:21.691Z"
-    },
-    {
-      "id": "alvarez-considers-drastic-action-to-force-atletico-exit-amid-barcelona-links-039c826f8a63",
-      "headline": "Alvarez Considers Drastic Action to Force Atletico Exit Amid Barcelona Links",
-      "league": "La Liga",
-      "summary": "Julian Alvarez is reportedly contemplating a strike to push for a departure from Atletico Madrid, as the forward's relationship with the club reaches a critical point over his transfer desires. The Argentine international, who prefers a move to Barcelona, feels Atletico has not honored a previous agreement regarding his potential exit. ",
-      "body": "Julian Alvarez's tenure at Atletico Madrid appears to be heading for a dramatic conclusion, with reports suggesting the striker is considering refusing to train to force a transfer. This comes after Atletico reportedly rejected a substantial £129 million offer from cross-city rivals Real Madrid last month, a move that seemingly intensified Alvarez's desire to leave the club.\n\nThe 26-year-old, who joined Atletico in August 2024 for £81.8 million, has openly expressed his wish to pursue a new challenge and fulfill a long-held ambition. His representatives reportedly believe that Atletico Madrid has failed to uphold a prior commitment, which would have allowed him to depart for Barcelona under specific financial conditions.\n\nWith Barcelona and Arsenal both linked, Alvarez is understood to favor a switch to the Catalan giants. However, Atletico's apparent unwillingness to entertain offers, despite the player's reported discomfort and a massive £431 million release clause, has led to a highly strained atmosphere between the player and the club.",
-      "tags": [
-        "Julian Alvarez",
-        "Atletico Madrid",
-        "Transfer Saga",
-        "Barcelona"
-      ],
-      "image": "images/alvarez-considers-drastic-action-to-force-atletico-exit-amid-barcelona-links-039c826f8a63.png",
-      "publishedAt": "2026-07-20T14:08:01.597Z"
-    },
-    {
-      "id": "champions-league-third-qualifying-round-draw-sets-intriguing-august-clashes-d0baacf708f9",
-      "headline": "Champions League Third Qualifying Round Draw Sets Intriguing August Clashes",
-      "league": "Champions League",
-      "summary": "The UEFA Champions League third qualifying round draw took place today, revealing a series of compelling matchups for early August. Teams now know their path forward as they vie for a coveted spot in Europe's premier club competition.",
-      "body": "The road to the 2026/27 UEFA Champions League group stage became clearer on Monday, July 20, as the third qualifying round draw was conducted. Twenty hopeful clubs and pairings learned their fate, split across the champions and league paths, with first legs scheduled for August 4-5 and return fixtures on August 11.\n\nAmong the standout ties in the league path, Belgian side R. Union Saint-Gilloise will face Norway's Bodø/Glimt in what is anticipated to be a fiercely contested battle between two clubs known for their astute operations. This pairing pits two of European football's recent overachievers against each other. Elsewhere, Greek giants Olympiacos are set to clash with Dutch surprise package NEC Nijmegen, while Olympique Lyonnais from France will take on Czech outfit AC Sparta Praha.\n\nOther notable fixtures include the winner of the Fenerbahçe SK/Górnik Zabrze tie against either SK Sturm Graz or Heart of Midlothian FC. These crucial qualification rounds represent the penultimate hurdle before the play-off stage, determining which teams will continue their quest for a place in the lucrative 36-team main phase of the Champions League.",
-      "tags": [
-        "Champions League",
-        "Qualifying Draw",
-        "UEFA",
-        "Football News"
-      ],
-      "image": "images/champions-league-third-qualifying-round-draw-sets-intriguing-august-clashes-d0baacf708f9.png",
-      "publishedAt": "2026-07-20T14:08:30.754Z"
     }
   ],
-  "lastRun": "2026-07-23T08:33:25.298Z"
+  "lastRun": "2026-07-23T11:13:50.004Z"
 }
