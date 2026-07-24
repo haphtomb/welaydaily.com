@@ -1,6 +1,37 @@
 {
   "articles": [
     {
+      "id": "inter-miami-lands-casemiro-amidst-mls-tampering-investigation-0be81f3ccd96",
+      "headline": "Inter Miami Lands Casemiro Amidst MLS Tampering Investigation",
+      "league": "MLS",
+      "summary": "Inter Miami has officially secured Brazilian midfielder Casemiro on a free transfer, adding another global star to their roster, but the move is immediately overshadowed by a formal MLS investigation into potential tampering. The league is reportedly scrutinizing how the deal came to fruition, particularly regarding Discovery Rights held by another club.",
+      "body": "Inter Miami has announced the acquisition of veteran Brazilian midfielder Casemiro, bringing the former Manchester United and Real Madrid star to Major League Soccer. The 34-year-old joins the Florida club on a deal extending through July 2027, with an option for an additional two years, further bolstering a squad that already features Lionel Messi and Luis Suárez. Casemiro arrives as a free agent following the conclusion of his contract with Manchester United, where he spent four seasons.\n\nHowever, the high-profile signing is already facing scrutiny from Major League Soccer officials. The league has initiated a formal investigation into allegations of tampering surrounding Casemiro's transfer. The core of the inquiry reportedly centers on the MLS Discovery Rights system, which grants clubs exclusive negotiating windows for certain players.\n\nReports indicate that the LA Galaxy held the Discovery Rights for Casemiro, suggesting that Inter Miami may have bypassed proper league protocols in their pursuit of the midfielder. While a settlement between Inter Miami and the Galaxy concerning these rights has been acknowledged, the MLS has stated that details of this agreement will remain undisclosed until their review is complete, hinting at potential sanctions depending on the investigation's findings.",
+      "tags": [
+        "Inter Miami",
+        "Casemiro",
+        "MLS",
+        "Transfer News",
+        "Investigation"
+      ],
+      "image": "images/inter-miami-lands-casemiro-amidst-mls-tampering-investigation-0be81f3ccd96.png",
+      "publishedAt": "2026-07-24T05:52:43.669Z"
+    },
+    {
+      "id": "ten-man-omonia-nicosia-holds-firm-for-crucial-champions-league-qualifier-win-620c06dcf4d0",
+      "headline": "Ten-Man Omonia Nicosia Holds Firm for Crucial Champions League Qualifier Win",
+      "league": "Champions League",
+      "summary": "Omonia Nicosia secured a vital 1-0 victory over Kairat Almaty in their Champions League second qualifying round first leg, overcoming a first-half red card to maintain their slender lead. The Cypriot side displayed remarkable resilience, defending effectively for over an hour with ten men to take an advantage into the return fixture.",
+      "body": "Omonia Nicosia demonstrated impressive resolve to defeat Kairat Almaty by a single goal in the opening leg of their Champions League second qualifying round tie. The Cypriot hosts took an early lead through Panayiotis Andreou in the 13th minute, setting a positive tone for the evening's contest.\n\nHowever, the match took a dramatic turn when Omonia's Loic Nego received a red card in the 34th minute, leaving his team to play with a numerical disadvantage for the majority of the encounter. Despite being reduced to ten men, Omonia's defensive unit held steadfast, thwarting Kairat's attempts to find an equalizer.\n\nThe 1-0 scoreline provides Omonia with a narrow but significant advantage as they prepare for the second leg. The result underscores their fighting spirit and tactical discipline, setting up an intriguing return fixture in Kazakhstan where Kairat will aim to overturn the deficit.",
+      "tags": [
+        "Champions League Qualifiers",
+        "Omonia Nicosia",
+        "Kairat Almaty",
+        "Football"
+      ],
+      "image": "images/ten-man-omonia-nicosia-holds-firm-for-crucial-champions-league-qualifier-win-620c06dcf4d0.png",
+      "publishedAt": "2026-07-24T05:53:14.071Z"
+    },
+    {
       "id": "agf-aarhus-crumbles-at-home-as-lech-poznan-secures-dominant-first-leg-lead-651a1dc5c3f5",
       "headline": "AGF Aarhus Crumbles at Home as Lech Poznan Secures Dominant First-Leg Lead",
       "league": "Champions League",
@@ -878,37 +909,7 @@
       ],
       "image": "images/wrexham-stuns-manchester-united-in-shock-pre-season-friendly-93b458352ccd.png",
       "publishedAt": "2026-07-21T02:41:21.204Z"
-    },
-    {
-      "id": "messi-sidelined-inter-miami-star-to-miss-upcoming-mls-matches-and-all-star-game-23904de15eea",
-      "headline": "Messi Sidelined: Inter Miami Star to Miss Upcoming MLS Matches and All-Star Game",
-      "league": "MLS",
-      "summary": "Inter Miami will be without their talisman Lionel Messi for their next two league fixtures and the upcoming MLS All-Star Game, as the Argentine maestro is set for a period of rest following his demanding World Cup campaign. Teammate Rodrigo De Paul will also be absent, with both players having featured extensively for Argentina in their recent World Cup final appearance.",
-      "body": "Lionel Messi, along with fellow Argentine international Rodrigo De Paul, will be unavailable for Inter Miami's immediate Major League Soccer commitments. The duo, who played every minute for Argentina through their World Cup journey, including Sunday's final against Spain, are being afforded a crucial rest period. This decision means they will miss Wednesday's match against Chicago Fire and Saturday's encounter with CF Montreal.\n\nBeyond league play, both Messi and De Paul will also sit out the highly anticipated MLS All-Star Game on July 29, where the MLS All-Stars are scheduled to face their Liga MX counterparts. The move aligns with recommendations from FIFPRO, the global players' union, which advocates for a 21-day rest period for professional footballers at the conclusion of their seasons, especially after major tournaments.\n\nInter Miami, currently holding second place in the MLS Eastern Conference standings, will need to navigate these important fixtures without two of their key players. The team will look to maintain their strong form as they prepare for the Leagues Cup in early August, with Messi and De Paul expected to return to action mid-August.",
-      "tags": [
-        "Lionel Messi",
-        "Inter Miami",
-        "MLS All-Star",
-        "Player Rest"
-      ],
-      "image": "images/messi-sidelined-inter-miami-star-to-miss-upcoming-mls-matches-and-all-star-game-23904de15eea.png",
-      "publishedAt": "2026-07-21T02:41:50.425Z"
-    },
-    {
-      "id": "timbers-secure-former-leicester-boss-cifuentes-on-three-year-deal-9d54de13de83",
-      "headline": "Timbers Secure Former Leicester Boss Cifuentes on Three-Year Deal",
-      "league": "MLS",
-      "summary": "The Portland Timbers have reportedly finalized a significant coaching appointment, bringing in former Leicester City manager Marti Cifuentes to lead the club. This move signals a fresh direction for the Western Conference side, with Cifuentes agreeing to a three-year contract.",
-      "body": "The Portland Timbers are set to welcome Marti Cifuentes as their new head coach, according to recent reports. The Spanish tactician, previously at the helm of English Premier League side Leicester City, has reportedly inked a three-year agreement to take charge in the Rose City. This appointment marks a notable shift for the Timbers, who will look to Cifuentes to revitalize their campaign.\n\nCifuentes arrives with a reputation for tactical acumen, having guided Leicester City during his tenure. His experience in a top European league suggests the Timbers are aiming for a high-caliber coaching philosophy to implement across the squad. The long-term nature of the contract indicates a commitment from the club to a sustained project under his leadership.\n\nFans in Portland will be eager to see the impact of this new managerial era as the team prepares for upcoming fixtures. The move is expected to bring a fresh perspective and potentially new playing style to the Timbers as they navigate the remainder of the MLS season and build towards future success.",
-      "tags": [
-        "Portland Timbers",
-        "Marti Cifuentes",
-        "MLS Coaching",
-        "Transfer News"
-      ],
-      "image": "images/timbers-secure-former-leicester-boss-cifuentes-on-three-year-deal-9d54de13de83.png",
-      "publishedAt": "2026-07-20T22:01:59.834Z"
     }
   ],
-  "lastRun": "2026-07-24T02:41:02.545Z"
+  "lastRun": "2026-07-24T05:53:25.798Z"
 }
