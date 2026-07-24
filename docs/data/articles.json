@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "cherries-dominate-st-pauli-with-convincing-pre-season-victory-467bfbefe2e3",
+      "headline": "Cherries Dominate St. Pauli with Convincing Pre-Season Victory",
+      "league": "Premier League",
+      "summary": "AFC Bournemouth commenced their pre-season tour with an impressive 4-1 triumph over German side St. Pauli in Austria. The emphatic win provides an early boost for the Cherries as they build momentum towards the upcoming Premier League campaign.",
+      "body": "AFC Bournemouth showcased a formidable performance, securing a commanding 4-1 victory against St. Pauli today in Saalfelden, Austria. The Cherries demonstrated strong attacking intent and solid defensive work, setting a positive tone for their pre-season schedule. This result marks a promising start to their preparations, with the squad appearing sharp and focused early on.\n\nThe match saw Bournemouth assert their dominance, finding the net four times against their German opponents. While specific goalscorers were not widely detailed, the team's collective effort in front of goal was evident, highlighting a cohesive attacking unit. The performance will undoubtedly please the coaching staff, who are keen to integrate new tactical approaches and maintain fitness levels.\n\nFans will be encouraged by this early display of strength and depth, suggesting a determined outlook for the season ahead. The pre-season fixtures are crucial for fine-tuning strategies and giving players valuable match time, and this strong showing against St. Pauli indicates Bournemouth are well on track.",
+      "tags": [
+        "Bournemouth",
+        "Pre-Season",
+        "Match Result",
+        "St. Pauli"
+      ],
+      "image": "images/cherries-dominate-st-pauli-with-convincing-pre-season-victory-467bfbefe2e3.png",
+      "publishedAt": "2026-07-24T19:27:56.092Z"
+    },
+    {
       "id": "real-madrid-accelerates-rodri-pursuit-tchouam-ni-exit-possible-e0c72cbff158",
       "headline": "Real Madrid Accelerates Rodri Pursuit, Tchouaméni Exit Possible",
       "league": "La Liga",
@@ -895,22 +910,7 @@
       ],
       "image": "images/champions-league-third-qualifying-round-draw-unveils-intriguing-european-matchup-793b3511e58b.png",
       "publishedAt": "2026-07-21T16:26:48.087Z"
-    },
-    {
-      "id": "ipswich-nears-agreement-for-world-cup-defender-issa-diop-8badde5428dc",
-      "headline": "Ipswich Nears Agreement for World Cup Defender Issa Diop",
-      "league": "Transfer News",
-      "summary": "Newly-promoted Ipswich Town is reportedly close to securing a significant defensive reinforcement, with an agreement reached for Fulham's Moroccan international, Issa Diop. The move aims to bolster the Tractor Boys' backline as they prepare for their return to the Premier League.",
-      "body": "Ipswich Town has reportedly made substantial progress in their summer transfer window, with an agreement in place to bring experienced defender Issa Diop to Portman Road. The newly-promoted Premier League side is set to acquire the Moroccan international from Fulham in a deal valued at approximately £8.5 million. Diop, who featured for his national team in the recent World Cup, is expected to provide crucial top-flight experience for Ipswich's upcoming campaign.\n\nThe 29-year-old centre-back found playing time limited at Craven Cottage last season, prompting his search for new opportunities. His potential arrival signals Ipswich's clear intent to strengthen defensively as they aim to establish themselves back in England's top tier. This acquisition would mark a significant step for the club in building a competitive squad.\n\nWhile the deal is not yet fully finalised, reports suggest both clubs are moving towards a swift conclusion. Diop's presence would undoubtedly add a layer of defensive solidity and leadership, which could prove invaluable for Kieran McKenna's side as they face the challenges of Premier League football.",
-      "tags": [
-        "Ipswich Town",
-        "Issa Diop",
-        "Fulham",
-        "Premier League"
-      ],
-      "image": "images/ipswich-nears-agreement-for-world-cup-defender-issa-diop-8badde5428dc.png",
-      "publishedAt": "2026-07-21T13:51:27.185Z"
     }
   ],
-  "lastRun": "2026-07-24T16:46:12.965Z"
+  "lastRun": "2026-07-24T19:28:00.092Z"
 }
