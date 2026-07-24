@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "barcelona-dominates-europa-in-opening-pre-season-friendly-23856f53c4ff",
+      "headline": "Barcelona Dominates Europa in Opening Pre-Season Friendly",
+      "league": "La Liga",
+      "summary": "Barcelona commenced their pre-season schedule with a commanding 4-1 victory over local side CE Europa today, marking Hansi Flick's third season at the helm. The match, played behind closed doors, saw the Blaugrana showcase an attacking display despite missing several key players.",
+      "body": "FC Barcelona kicked off their preparations for the upcoming campaign with a convincing win against CE Europa at their Ciutat Esportiva Joan Gamper training ground. The Catalan giants secured a 4-1 triumph in their initial pre-season friendly, providing an early glimpse into the squad's form under manager Hansi Flick. Young talent Hamza Abdelkarim was among the goal-scorers, highlighting the club's academy contributions to the senior team's efforts.\n\nThe fixture saw Barcelona navigate a challenging period with numerous first-team regulars unavailable due to recent World Cup commitments and ongoing injury recoveries. Despite these absences, the team demonstrated a cohesive performance, controlling the flow of the game and creating multiple scoring opportunities. The early lead established by the Blaugrana set the tone for a productive outing, with Europa finding it difficult to contain their opponents.\n\nThis victory serves as a positive start to Barcelona's pre-season, offering valuable minutes to a mix of experienced players and promising youth prospects. The focus now shifts to further training and upcoming fixtures as Flick continues to refine his squad and tactical approach in anticipation of the rigorous 2026-27 La Liga season.",
+      "tags": [
+        "Barcelona",
+        "Pre-Season",
+        "Friendly",
+        "Hansi Flick"
+      ],
+      "image": "images/barcelona-dominates-europa-in-opening-pre-season-friendly-23856f53c4ff.png",
+      "publishedAt": "2026-07-24T22:06:49.813Z"
+    },
+    {
       "id": "cherries-dominate-st-pauli-with-convincing-pre-season-victory-467bfbefe2e3",
       "headline": "Cherries Dominate St. Pauli with Convincing Pre-Season Victory",
       "league": "Premier League",
@@ -895,22 +910,7 @@
       ],
       "image": "images/french-world-cup-winner-antoine-griezmann-poised-for-orlando-city-debut-c88c5fa59891.png",
       "publishedAt": "2026-07-21T16:25:49.523Z"
-    },
-    {
-      "id": "champions-league-third-qualifying-round-draw-unveils-intriguing-european-matchup-793b3511e58b",
-      "headline": "Champions League Third Qualifying Round Draw Unveils Intriguing European Matchups",
-      "league": "Champions League",
-      "summary": "The UEFA Champions League third qualifying round draw has set the stage for several compelling encounters next month, with clubs across Europe learning their potential paths to the lucrative group stage. Teams from both the Champions Path and League Path discovered their opponents in Nyon on Monday, initiating the next phase of intense competition.",
-      "body": "The road to Europe's elite club competition intensified on Monday as UEFA conducted the draw for the Champions League third qualifying round. Hopefuls from various leagues were paired, with first-leg matches slated for August 4th or 5th, and the decisive return fixtures scheduled for August 11th. This stage is critical for many clubs, as progression brings them one step closer to the play-off round and the ultimate dream of Champions League football.\n\nAmong the notable pairings in the League Path, Greek giants Olympiacos are set to face Dutch side NEC Nijmegen, a team that finished as a surprising third in the Eredivisie last season. Another intriguing tie sees Czech champions Sparta Prague drawn against French powerhouse Olympique Lyonnais, now under new American ownership. These matchups promise high-stakes football as teams vie for a place in the competition's final qualifying phase.\n\nClubs navigating the Champions Path also learned their challenging routes, with many awaiting the outcomes of the ongoing second qualifying round ties. The winners of these upcoming contests will advance to face their newly drawn opponents, with everything on the line. The pressure is mounting as the competition heats up, inching closer to the highly anticipated group stage.",
-      "tags": [
-        "UCL Qualifiers",
-        "European Football",
-        "Club Competition",
-        "UEFA Draw"
-      ],
-      "image": "images/champions-league-third-qualifying-round-draw-unveils-intriguing-european-matchup-793b3511e58b.png",
-      "publishedAt": "2026-07-21T16:26:48.087Z"
     }
   ],
-  "lastRun": "2026-07-24T19:28:00.092Z"
+  "lastRun": "2026-07-24T22:06:54.224Z"
 }
