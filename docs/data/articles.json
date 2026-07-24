@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "agf-aarhus-crumbles-at-home-as-lech-poznan-secures-dominant-first-leg-lead-651a1dc5c3f5",
+      "headline": "AGF Aarhus Crumbles at Home as Lech Poznan Secures Dominant First-Leg Lead",
+      "league": "Champions League",
+      "summary": "Danish side AGF Aarhus suffered a significant home defeat in their Champions League second qualifying round first leg, falling to a ruthless Lech Poznan. The Polish visitors capitalized on defensive vulnerabilities and a numerical advantage to take a commanding lead into the return fixture.",
+      "body": "Lech Poznan delivered a crushing blow to AGF Aarhus's Champions League aspirations, securing a decisive 4-1 victory in the first leg of their second qualifying round tie. The match, played in Denmark, saw the home side struggle to contain a clinical Poznan attack, with their defensive frailties exposed throughout the encounter. Adding to AGF's woes, they were reduced to ten men, further complicating their efforts to stem the tide.\n\nThe Polish outfit showcased their attacking prowess, converting their chances efficiently and demonstrating a tactical superiority that left AGF with a mountain to climb. This emphatic away win puts Lech Poznan in a formidable position as they prepare to host the second leg. The result means AGF Aarhus will require an extraordinary performance in Poland to overturn the significant deficit and keep their European dream alive.\n\nThe Danish club will need to regroup quickly and address their defensive issues, alongside finding a way to compensate for their numerical disadvantage, if they hope to mount a comeback. For Lech Poznan, this commanding performance sets a strong precedent as they eye progression to the next stage of the Champions League qualifiers.",
+      "tags": [
+        "Champions League Qualifiers",
+        "Lech Poznan",
+        "AGF Aarhus",
+        "Football"
+      ],
+      "image": "images/agf-aarhus-crumbles-at-home-as-lech-poznan-secures-dominant-first-leg-lead-651a1dc5c3f5.png",
+      "publishedAt": "2026-07-24T02:40:58.286Z"
+    },
+    {
       "id": "hugo-cuypers-completes-multi-million-dollar-switch-to-monterrey-from-chicago-fir-b2b41de120c7",
       "headline": "Hugo Cuypers Completes Multi-Million Dollar Switch to Monterrey from Chicago Fire",
       "league": "Transfer News",
@@ -893,23 +908,7 @@
       ],
       "image": "images/timbers-secure-former-leicester-boss-cifuentes-on-three-year-deal-9d54de13de83.png",
       "publishedAt": "2026-07-20T22:01:59.834Z"
-    },
-    {
-      "id": "roma-escalates-pursuit-with-third-bid-for-west-ham-s-summerville-f26532ded2cc",
-      "headline": "Roma Escalates Pursuit with Third Bid for West Ham's Summerville",
-      "league": "Transfer News",
-      "summary": "AS Roma has reportedly tabled a third offer to West Ham United in their determined effort to acquire Dutch winger Crysencio Summerville. The Italian club is pushing to finalize a deal for the talented player as the summer transfer window progresses.",
-      "body": "Roma's quest to bring Crysencio Summerville to the Italian capital is reportedly intensifying, with a third official bid now submitted to West Ham United. The Serie A side is actively seeking to bolster its attacking options and views the Dutch international as a crucial addition to their squad for the upcoming season.\n\nSummerville, who has been a standout performer for the Hammers, has been a long-term target for the Giallorossi. This latest proposal underscores Roma's commitment to securing the winger's signature, indicating their strong desire to integrate him into their team.\n\nWhile the specific financial details of this most recent offer have not been publicly disclosed, it signals a significant step in the ongoing transfer negotiations. The football world now awaits West Ham's response to this renewed and persistent approach from the Roman club.",
-      "tags": [
-        "Roma",
-        "West Ham",
-        "Crysencio Summerville",
-        "Serie A",
-        "Premier League"
-      ],
-      "image": "images/roma-escalates-pursuit-with-third-bid-for-west-ham-s-summerville-f26532ded2cc.png",
-      "publishedAt": "2026-07-20T22:02:39.712Z"
     }
   ],
-  "lastRun": "2026-07-23T22:06:08.795Z"
+  "lastRun": "2026-07-24T02:41:02.545Z"
 }
