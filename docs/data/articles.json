@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "yaya-tour-kicks-off-coaching-career-with-champions-league-qualifying-victory-4a6542829062",
+      "headline": "Yaya Touré Kicks Off Coaching Career with Champions League Qualifying Victory",
+      "league": "Champions League",
+      "summary": "Football icon Yaya Touré successfully guided Slovan Bratislava to a winning start in their Champions League second qualifying round campaign, securing a valuable two-goal advantage in the first leg. His managerial debut saw the Slovakian champions overcome Iberia 1999 on the road, setting a positive tone for their European aspirations.",
+      "body": "Former midfield maestro Yaya Touré has made an impressive entry into senior management, overseeing Slovan Bratislava's victory in the UEFA Champions League second qualifying round. The Slovakian champions secured a 2-0 win against Georgian side Iberia 1999 in the first leg of their tie, marking a memorable competitive debut for their new head coach.\n\nUnder Touré's guidance, Slovan Bratislava demonstrated solid control, scoring twice to establish a significant lead ahead of the return fixture. This crucial away triumph puts them in a strong position to advance further in the competition, continuing their quest for a place in the Champions League league phase.\n\nThe result not only highlights Touré's promising start in the dugout but also underscores Slovan Bratislava's ambition to compete among Europe's elite. Fans eagerly anticipate how the legendary midfielder will continue to shape the team's performance as they navigate the challenging qualifying rounds.",
+      "tags": [
+        "Yaya Touré",
+        "Slovan Bratislava",
+        "Champions League Qualifiers",
+        "Coaching Debut"
+      ],
+      "image": "images/yaya-tour-kicks-off-coaching-career-with-champions-league-qualifying-victory-4a6542829062.png",
+      "publishedAt": "2026-07-25T21:58:19.579Z"
+    },
+    {
       "id": "fulham-stumble-in-pre-season-opener-fall-to-championship-side-norwich-840a0b759beb",
       "headline": "Fulham Stumble in Pre-Season Opener, Fall to Championship Side Norwich",
       "league": "Premier League",
@@ -893,22 +908,7 @@
       ],
       "image": "images/levski-sofia-begins-second-qualifying-round-journey-against-universitatea-craiov-d908d8f5433c.png",
       "publishedAt": "2026-07-22T22:06:12.035Z"
-    },
-    {
-      "id": "middlesbrough-secures-tottenham-youngster-will-lankshear-in-20-million-deal-5aa858815aa7",
-      "headline": "Middlesbrough Secures Tottenham Youngster Will Lankshear in £20 Million Deal",
-      "league": "Transfer News",
-      "summary": "Middlesbrough has completed a significant acquisition, signing promising forward Will Lankshear from Tottenham Hotspur in a deal potentially reaching £20 million. The move sees the young talent depart north London for the Championship, with Spurs retaining future interest through a sell-on clause and matching rights.",
-      "body": "Middlesbrough has officially finalized the transfer of highly-rated striker Will Lankshear from Premier League side Tottenham Hotspur. The deal, reported to be worth up to £20 million, marks a substantial investment for the Championship club as they aim to bolster their attacking options for the upcoming season. Lankshear, a 21-year-old talent, has been a prominent figure in Tottenham's youth setup and will now seek regular senior football at the Riverside Stadium.\n\nTottenham, while sanctioning the sale, has strategically included clauses in the agreement to protect their future interests. The North London club has secured a 20% sell-on clause, ensuring they will benefit from any subsequent transfer of Lankshear. Additionally, Spurs have negotiated matching rights, allowing them the option to match any future bids for the player.\n\nThis transfer highlights Middlesbrough's ambition in the market and Lankshear's desire for a clearer path to first-team action. The move is expected to provide the young forward with a crucial platform to further develop his career in a competitive league, with both clubs hoping the transfer proves mutually beneficial in the long run.",
-      "tags": [
-        "Middlesbrough",
-        "Tottenham",
-        "Will Lankshear",
-        "Transfer News"
-      ],
-      "image": "images/middlesbrough-secures-tottenham-youngster-will-lankshear-in-20-million-deal-5aa858815aa7.png",
-      "publishedAt": "2026-07-22T19:21:00.388Z"
     }
   ],
-  "lastRun": "2026-07-25T19:10:38.437Z"
+  "lastRun": "2026-07-25T21:58:34.431Z"
 }
