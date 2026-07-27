@@ -1,6 +1,37 @@
 {
   "articles": [
     {
+      "id": "european-hopefuls-dominate-first-legs-in-champions-league-qualifiers-8f2718771214",
+      "headline": "European Hopefuls Dominate First Legs in Champions League Qualifiers",
+      "league": "Champions League",
+      "summary": "Several clubs asserted their authority in the initial matches of the Champions League second qualifying round this past week, securing commanding victories and setting themselves up strongly for advancement. Teams like Crvena Zvezda, Sturm Graz, and Lech Poznań delivered impressive performances to take significant leads into their upcoming return fixtures.",
+      "body": "The UEFA Champions League second qualifying round's first legs delivered a flurry of decisive results, as a number of teams established dominant positions. Serbian powerhouse Crvena Zvezda showcased their intent with a resounding 4-0 away triumph over Northern Ireland's Larne, signaling a strong start to their European campaign.\n\nAustrian side Sturm Graz also made a powerful statement, dispatching Scottish club Hearts with a convincing 4-0 victory on home soil. Meanwhile, Polish outfit Lech Poznań put in a stellar performance on the road, defeating Danish club Aarhus 4-1 to gain a significant advantage before the second leg. Other notable results included Slovan Bratislava's comfortable 2-0 away win against Georgian side Iberia 1999, while Dinamo Zagreb secured a 1-1 draw against Thun.\n\nThese strong first-leg showings have provided a clear indication of which teams are poised to progress in the competition. With the return matches scheduled for later this week, the spotlight now turns to whether the leading clubs can consolidate their advantages and secure their berths in the next stage of the Champions League qualifiers.",
+      "tags": [
+        "Champions League",
+        "Qualifiers",
+        "Crvena Zvezda",
+        "Sturm Graz"
+      ],
+      "image": "images/european-hopefuls-dominate-first-legs-in-champions-league-qualifiers-8f2718771214.png",
+      "publishedAt": "2026-07-27T06:33:34.687Z"
+    },
+    {
+      "id": "deportivo-debutant-aubameyang-draws-blank-in-goalless-oviedo-friendly-4922b9c06d7c",
+      "headline": "Deportivo Debutant Aubameyang Draws Blank in Goalless Oviedo Friendly",
+      "league": "La Liga",
+      "summary": "Newly promoted La Liga side Deportivo La Coruña played out a scoreless draw against Real Oviedo in a pre-season friendly, with star summer signing Pierre-Emerick Aubameyang making his debut. The match was unfortunately marred by injuries to two Deportivo players, raising early concerns for the club.",
+      "body": "Deportivo La Coruña, making their return to La Liga this season, kicked off their pre-season preparations with a goalless draw against Real Oviedo on Saturday at the Estadio Carlos Tartiere. All eyes were on new recruit Pierre-Emerick Aubameyang, who featured for the Galician club for the first time since his transfer. The former Arsenal and Marseille striker had an opportunity to open his scoring account, but his effort was well saved.\n\nThe friendly encounter, however, was overshadowed by injury concerns for the newly promoted side. Deportivo saw both Ilyas Chaira and Adrià Altimira forced off the pitch due to knocks. Altimira was substituted before the half-hour mark after a collision, while Chaira followed ten minutes later, signaling discomfort in his right arm. These early setbacks will undoubtedly be a worry for the Deportivo coaching staff as they build towards the demanding La Liga season.\n\nDespite the injuries and the lack of goals, the match provided a valuable opportunity for both managers to assess their squads and build fitness. Deportivo, who secured their promotion to Spain's top flight for the first time since 2018, will be keen to integrate their new signings and ensure their squad is robust ahead of a challenging campaign.",
+      "tags": [
+        "Deportivo La Coruña",
+        "Pierre-Emerick Aubameyang",
+        "Pre-season",
+        "La Liga",
+        "Transfer News"
+      ],
+      "image": "images/deportivo-debutant-aubameyang-draws-blank-in-goalless-oviedo-friendly-4922b9c06d7c.png",
+      "publishedAt": "2026-07-27T06:34:06.303Z"
+    },
+    {
       "id": "real-madrid-poised-to-land-diomande-after-psg-withdraw-from-race-3a1e66dc70c9",
       "headline": "Real Madrid Poised to Land Diomande After PSG Withdraw from Race",
       "league": "Transfer News",
@@ -879,38 +910,7 @@
       ],
       "image": "images/nottingham-forest-dominates-blackburn-in-pre-season-display-806c02c901c4.png",
       "publishedAt": "2026-07-24T08:31:10.940Z"
-    },
-    {
-      "id": "inter-miami-lands-casemiro-amidst-mls-tampering-investigation-0be81f3ccd96",
-      "headline": "Inter Miami Lands Casemiro Amidst MLS Tampering Investigation",
-      "league": "MLS",
-      "summary": "Inter Miami has officially secured Brazilian midfielder Casemiro on a free transfer, adding another global star to their roster, but the move is immediately overshadowed by a formal MLS investigation into potential tampering. The league is reportedly scrutinizing how the deal came to fruition, particularly regarding Discovery Rights held by another club.",
-      "body": "Inter Miami has announced the acquisition of veteran Brazilian midfielder Casemiro, bringing the former Manchester United and Real Madrid star to Major League Soccer. The 34-year-old joins the Florida club on a deal extending through July 2027, with an option for an additional two years, further bolstering a squad that already features Lionel Messi and Luis Suárez. Casemiro arrives as a free agent following the conclusion of his contract with Manchester United, where he spent four seasons.\n\nHowever, the high-profile signing is already facing scrutiny from Major League Soccer officials. The league has initiated a formal investigation into allegations of tampering surrounding Casemiro's transfer. The core of the inquiry reportedly centers on the MLS Discovery Rights system, which grants clubs exclusive negotiating windows for certain players.\n\nReports indicate that the LA Galaxy held the Discovery Rights for Casemiro, suggesting that Inter Miami may have bypassed proper league protocols in their pursuit of the midfielder. While a settlement between Inter Miami and the Galaxy concerning these rights has been acknowledged, the MLS has stated that details of this agreement will remain undisclosed until their review is complete, hinting at potential sanctions depending on the investigation's findings.",
-      "tags": [
-        "Inter Miami",
-        "Casemiro",
-        "MLS",
-        "Transfer News",
-        "Investigation"
-      ],
-      "image": "images/inter-miami-lands-casemiro-amidst-mls-tampering-investigation-0be81f3ccd96.png",
-      "publishedAt": "2026-07-24T05:52:43.669Z"
-    },
-    {
-      "id": "ten-man-omonia-nicosia-holds-firm-for-crucial-champions-league-qualifier-win-620c06dcf4d0",
-      "headline": "Ten-Man Omonia Nicosia Holds Firm for Crucial Champions League Qualifier Win",
-      "league": "Champions League",
-      "summary": "Omonia Nicosia secured a vital 1-0 victory over Kairat Almaty in their Champions League second qualifying round first leg, overcoming a first-half red card to maintain their slender lead. The Cypriot side displayed remarkable resilience, defending effectively for over an hour with ten men to take an advantage into the return fixture.",
-      "body": "Omonia Nicosia demonstrated impressive resolve to defeat Kairat Almaty by a single goal in the opening leg of their Champions League second qualifying round tie. The Cypriot hosts took an early lead through Panayiotis Andreou in the 13th minute, setting a positive tone for the evening's contest.\n\nHowever, the match took a dramatic turn when Omonia's Loic Nego received a red card in the 34th minute, leaving his team to play with a numerical disadvantage for the majority of the encounter. Despite being reduced to ten men, Omonia's defensive unit held steadfast, thwarting Kairat's attempts to find an equalizer.\n\nThe 1-0 scoreline provides Omonia with a narrow but significant advantage as they prepare for the second leg. The result underscores their fighting spirit and tactical discipline, setting up an intriguing return fixture in Kazakhstan where Kairat will aim to overturn the deficit.",
-      "tags": [
-        "Champions League Qualifiers",
-        "Omonia Nicosia",
-        "Kairat Almaty",
-        "Football"
-      ],
-      "image": "images/ten-man-omonia-nicosia-holds-firm-for-crucial-champions-league-qualifier-win-620c06dcf4d0.png",
-      "publishedAt": "2026-07-24T05:53:14.071Z"
     }
   ],
-  "lastRun": "2026-07-27T02:56:10.275Z"
+  "lastRun": "2026-07-27T06:34:10.544Z"
 }
