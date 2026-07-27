@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "real-madrid-poised-to-land-diomande-after-psg-withdraw-from-race-3a1e66dc70c9",
+      "headline": "Real Madrid Poised to Land Diomande After PSG Withdraw from Race",
+      "league": "Transfer News",
+      "summary": "Real Madrid is on the verge of securing RB Leipzig's highly-rated winger Yan Diomande, with Paris Saint-Germain officially pulling out of negotiations. The anticipated blockbuster deal is now reportedly agreed between the clubs, paving the way for the Ivorian sensation to undergo medical tests in Madrid this week.",
+      "body": "Real Madrid appears to have won the fiercely contested race for RB Leipzig's teenage prodigy, Yan Diomande. Reports confirm that Paris Saint-Germain, who were also keen on the winger, have formally withdrawn their interest, citing \"disproportionate\" asking prices and salary demands. This development leaves Los Blancos in a commanding position to finalize the transfer.\n\nSources close to the negotiations suggest that a fee exceeding €100 million has been agreed upon, although RB Leipzig was reportedly holding out for a sum closer to €130 million. Diomande, who impressed significantly for Ivory Coast at the recent World Cup and enjoyed a stellar Bundesliga season, is now expected to travel to the Spanish capital within days to complete his medical examination and sign a five-year contract with the fifteen-time Champions League winners.\n\nAn official announcement from Real Madrid regarding the acquisition of the 19-year-old talent could even come as early as today, Monday. This move marks another significant statement of intent from the Spanish giants as they continue to reshape their squad for the upcoming season, adding one of Europe's most exciting young attackers to their ranks.",
+      "tags": [
+        "Diomande",
+        "Real Madrid",
+        "RB Leipzig",
+        "Transfer News"
+      ],
+      "image": "images/real-madrid-poised-to-land-diomande-after-psg-withdraw-from-race-3a1e66dc70c9.png",
+      "publishedAt": "2026-07-27T02:56:05.940Z"
+    },
+    {
       "id": "marcinkowski-s-heroics-secure-point-for-galaxy-in-california-cl-sico-4e39b3920cde",
       "headline": "Marcinkowski's Heroics Secure Point for Galaxy in California Clásico",
       "league": "MLS",
@@ -895,22 +910,7 @@
       ],
       "image": "images/ten-man-omonia-nicosia-holds-firm-for-crucial-champions-league-qualifier-win-620c06dcf4d0.png",
       "publishedAt": "2026-07-24T05:53:14.071Z"
-    },
-    {
-      "id": "agf-aarhus-crumbles-at-home-as-lech-poznan-secures-dominant-first-leg-lead-651a1dc5c3f5",
-      "headline": "AGF Aarhus Crumbles at Home as Lech Poznan Secures Dominant First-Leg Lead",
-      "league": "Champions League",
-      "summary": "Danish side AGF Aarhus suffered a significant home defeat in their Champions League second qualifying round first leg, falling to a ruthless Lech Poznan. The Polish visitors capitalized on defensive vulnerabilities and a numerical advantage to take a commanding lead into the return fixture.",
-      "body": "Lech Poznan delivered a crushing blow to AGF Aarhus's Champions League aspirations, securing a decisive 4-1 victory in the first leg of their second qualifying round tie. The match, played in Denmark, saw the home side struggle to contain a clinical Poznan attack, with their defensive frailties exposed throughout the encounter. Adding to AGF's woes, they were reduced to ten men, further complicating their efforts to stem the tide.\n\nThe Polish outfit showcased their attacking prowess, converting their chances efficiently and demonstrating a tactical superiority that left AGF with a mountain to climb. This emphatic away win puts Lech Poznan in a formidable position as they prepare to host the second leg. The result means AGF Aarhus will require an extraordinary performance in Poland to overturn the significant deficit and keep their European dream alive.\n\nThe Danish club will need to regroup quickly and address their defensive issues, alongside finding a way to compensate for their numerical disadvantage, if they hope to mount a comeback. For Lech Poznan, this commanding performance sets a strong precedent as they eye progression to the next stage of the Champions League qualifiers.",
-      "tags": [
-        "Champions League Qualifiers",
-        "Lech Poznan",
-        "AGF Aarhus",
-        "Football"
-      ],
-      "image": "images/agf-aarhus-crumbles-at-home-as-lech-poznan-secures-dominant-first-leg-lead-651a1dc5c3f5.png",
-      "publishedAt": "2026-07-24T02:40:58.286Z"
     }
   ],
-  "lastRun": "2026-07-26T22:03:49.148Z"
+  "lastRun": "2026-07-27T02:56:10.275Z"
 }
