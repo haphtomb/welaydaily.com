@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "sturm-graz-advances-comfortably-as-hearts-comeback-bid-falls-short-8ef10ac88622",
+      "headline": "Sturm Graz Advances Comfortably as Hearts' Comeback Bid Falls Short",
+      "league": "Champions League",
+      "summary": "Sturm Graz secured their passage to the next Champions League qualifying stage, successfully defending their commanding first-leg lead against Heart of Midlothian. The Scottish side, despite their efforts at home, couldn't overturn the significant deficit.",
+      "body": "Austrian club Sturm Graz has progressed in the UEFA Champions League second qualifying round, playing out a goalless draw against Heart of Midlothian at Tynecastle Park today. This result confirms Sturm Graz's advancement with a decisive 4-0 aggregate victory, building on their impressive performance in the initial encounter. Hearts, supported by their home crowd in Edinburgh, fought diligently but were ultimately unable to penetrate the visitors' defense to spark a comeback.\n\nThe Scottish Premiership team faced a formidable challenge after suffering a heavy defeat in Austria a week prior. While they managed to create some attacking opportunities and displayed improved defensive organization, they couldn't secure the crucial goals needed to bridge the gap. Sturm Graz, in turn, expertly managed the match, ensuring their substantial first-leg advantage was never seriously threatened.\n\nThis progression moves Sturm Graz closer to the coveted Champions League league phase, highlighting their strong start to the European campaign. For Hearts, their European journey concludes in the qualifying rounds, and their focus will now shift back to their domestic league aspirations.",
+      "tags": [
+        "Champions League Qualifiers",
+        "Sturm Graz",
+        "Hearts",
+        "Football"
+      ],
+      "image": "images/sturm-graz-advances-comfortably-as-hearts-comeback-bid-falls-short-8ef10ac88622.png",
+      "publishedAt": "2026-07-28T19:26:10.616Z"
+    },
+    {
+      "id": "aston-villa-fall-to-porto-in-tense-pre-season-friendly-9cb75ec10df0",
+      "headline": "Aston Villa Fall to Porto in Tense Pre-Season Friendly",
+      "league": "Premier League",
+      "summary": "Aston Villa experienced a narrow defeat against Portuguese giants FC Porto in a pre-season encounter, despite a spirited effort. The match saw a late goal from Villa's Luka Lynch, offering a glimmer of hope in the losing effort.",
+      "body": "Aston Villa faced a challenging test in their pre-season preparations, succumbing to a 2-1 loss against FC Porto on July 25th. The Villans, still integrating new strategies under their coaching staff, found themselves trailing for much of the match against a well-drilled Porto side.\n\nThe game, played in Portugal, saw both teams utilizing their squads to build match fitness and tactical understanding. While the scoreline ultimately favored the home team, Aston Villa showcased moments of promise, particularly in their attacking transitions as the game progressed.\n\nLuka Lynch netted for Aston Villa, assisted by Bogarde, providing a late consolation goal that reflected the team's persistence. Despite the defeat, the fixture offered valuable insights for the Villans as they continue to fine-tune their squad ahead of the demanding Premier League season.",
+      "tags": [
+        "Aston Villa",
+        "FC Porto",
+        "Pre-Season",
+        "Match Report"
+      ],
+      "image": "images/aston-villa-fall-to-porto-in-tense-pre-season-friendly-9cb75ec10df0.png",
+      "publishedAt": "2026-07-28T19:26:42.049Z"
+    },
+    {
+      "id": "sounders-loan-young-forward-tsukanome-to-pittsburgh-riverhounds-529577ad6e2d",
+      "headline": "Sounders Loan Young Forward Tsukanome to Pittsburgh Riverhounds",
+      "league": "Transfer News",
+      "summary": "Seattle Sounders FC have officially loaned promising forward Yu Tsukanome to USL Championship side Pittsburgh Riverhounds SC for the remainder of the 2026 season. This move aims to provide the 25-year-old Japanese talent with valuable first-team minutes.",
+      "body": "Seattle Sounders FC confirmed today the temporary departure of forward Yu Tsukanome, who will spend the rest of the 2026 USL Championship season with Pittsburgh Riverhounds SC. The loan, effective immediately, is expected to offer Tsukanome crucial playing time as he continues his professional development within the American soccer pyramid.\n\nTsukanome initially joined the Sounders organization this season after a successful two-year stint with Tacoma Defiance, the club's MLS NEXT Pro affiliate. During his time with Defiance, he demonstrated significant scoring prowess, notably netting 21 goals across all competitions in the 2025 MLS NEXT Pro season.\n\nDespite his impressive form at the MLS NEXT Pro level, Tsukanome has yet to make a first-team appearance for Seattle since his signing. This loan to the Riverhounds provides an opportunity for the forward to gain experience in a competitive environment, with the aim of returning to challenge for a spot with the Sounders' senior squad in the future.",
+      "tags": [
+        "MLS",
+        "Seattle Sounders",
+        "Transfers",
+        "USL Championship"
+      ],
+      "image": "images/sounders-loan-young-forward-tsukanome-to-pittsburgh-riverhounds-529577ad6e2d.png",
+      "publishedAt": "2026-07-28T19:27:11.175Z"
+    },
+    {
+      "id": "stones-poised-for-san-siro-switch-as-inter-milan-nears-agreement-d43a348beace",
+      "headline": "Stones Poised for San Siro Switch as Inter Milan Nears Agreement",
+      "league": "Serie A",
+      "summary": "England international John Stones is reportedly on the verge of a significant move to Serie A champions Inter Milan, with an agreement in principle nearing completion for the defender. The former Manchester City stalwart is expected to sign a long-term contract at the San Siro after his departure from the Etihad.",
+      "body": "Inter Milan is reportedly finalizing a major transfer coup, with reports indicating that England defender John Stones is close to sealing a move to the reigning Serie A champions. Sources, including football transfer expert Fabrizio Romano, suggest an agreement in principle has been reached for the central defender, who recently became a free agent after his contract with Manchester City concluded.\n\nThe 32-year-old’s imminent arrival in Milan is expected to see him commit to a contract running until June 2028. This move marks a new chapter for Stones, who spent a decade at Manchester City, where he enjoyed immense success, securing multiple Premier League titles and a Champions League trophy.\n\nHis departure from the Premier League champions has been closely watched, and his decision to join Inter Milan will undoubtedly bolster their defensive ranks, adding significant experience and quality to Cristian Chivu’s squad. Stones will be looking to make an immediate impact in Italy as the Nerazzurri prepare for the upcoming domestic and European campaigns.",
+      "tags": [
+        "John Stones",
+        "Inter Milan",
+        "Transfer News",
+        "Serie A"
+      ],
+      "image": "images/stones-poised-for-san-siro-switch-as-inter-milan-nears-agreement-d43a348beace.png",
+      "publishedAt": "2026-07-28T19:28:02.985Z"
+    },
+    {
       "id": "caf-unveils-august-date-for-inter-club-competition-draws-a7011c1d900d",
       "headline": "CAF Unveils August Date for Inter-Club Competition Draws",
       "league": "CAF Champions League",
@@ -852,68 +912,7 @@
       ],
       "image": "images/yaya-tour-kicks-off-coaching-career-with-champions-league-qualifying-victory-4a6542829062.png",
       "publishedAt": "2026-07-25T21:58:19.579Z"
-    },
-    {
-      "id": "fulham-stumble-in-pre-season-opener-fall-to-championship-side-norwich-840a0b759beb",
-      "headline": "Fulham Stumble in Pre-Season Opener, Fall to Championship Side Norwich",
-      "league": "Premier League",
-      "summary": "Fulham commenced their pre-season schedule with a disappointing two-goal defeat against Championship club Norwich City in a behind-closed-doors friendly today. The loss provides new manager Álvaro Arbeloa with an early assessment of his squad's readiness for the upcoming Premier League campaign.",
-      "body": "Premier League outfit Fulham experienced a challenging start to their pre-season, succumbing to a 2-0 loss against Norwich City in a closed-door encounter at Motspur Park. The Canaries, under manager Philippe Clement, demonstrated sharp form, with Anis Ben Slimane breaking the deadlock in the 19th minute, finding the net from close range after a strong press from Mathias Kvistgaarden.\n\nNorwich extended their advantage just after the hour mark when Harry Darling capitalized on a corner, heading home to double their lead. Fulham's new boss, Álvaro Arbeloa, utilized the friendly to assess his squad, making extensive changes at halftime, introducing players such as Tom Cairney and Emile Smith Rowe. Despite some dangerous moments created by Fulham winger Kevin, Norwich goalkeeper Vladan Kovacevic proved difficult to beat.\n\nThe result, while only a pre-season friendly, signals areas for improvement for the Cottagers as they prepare for their upcoming training camp in Portugal. Arbeloa and his team will aim to refine their strategy and integrate new tactical approaches ahead of the demanding Premier League season, with this initial outing providing valuable insights.",
-      "tags": [
-        "Fulham",
-        "Norwich City",
-        "Pre-Season",
-        "Match Report"
-      ],
-      "image": "images/fulham-stumble-in-pre-season-opener-fall-to-championship-side-norwich-840a0b759beb.png",
-      "publishedAt": "2026-07-25T19:09:24.930Z"
-    },
-    {
-      "id": "champions-league-qualifiers-ignite-as-second-round-action-begins-4d127ce46c6b",
-      "headline": "Champions League Qualifiers Ignite as Second Round Action Begins",
-      "league": "Champions League",
-      "summary": "The 2026-27 UEFA Champions League journey is actively unfolding with its crucial qualifying rounds, as clubs across Europe fiercely compete for a coveted spot in the upcoming league phase. The initial stage has concluded, setting the stage for more intense matchups as new teams enter the competition.",
-      "body": "Following the recent conclusion of the World Cup, football enthusiasts are now turning their attention to the burgeoning UEFA Champions League 2026-27 season, which has already commenced its preliminary qualifying stages. The first round of qualification has successfully wrapped up, with teams like Kazakhstan's Kairat and Bulgarian side Levski Sofia notably advancing, demonstrating their early ambitions for European football.\n\nThe focus now shifts to the second qualifying round, with matches scheduled for both the current week, including fixtures on July 21 and 22, and extending into the following week, with games set for July 28 and 29. This phase marks a significant escalation in the competition, as several higher-profile clubs begin their quest for Champions League glory.\n\nAmong the teams making their entry at this stage are Turkish giants Fenerbahçe and Serbian powerhouse Red Star Belgrade, adding considerable weight and excitement to the ties. With only seven coveted places available through the rigorous qualification process, every upcoming fixture is critical for these clubs and their passionate supporters vying for a spot among Europe's elite.",
-      "tags": [
-        "Champions League",
-        "Qualifiers",
-        "European Football",
-        "Fenerbahçe",
-        "Red Star Belgrade"
-      ],
-      "image": "images/champions-league-qualifiers-ignite-as-second-round-action-begins-4d127ce46c6b.png",
-      "publishedAt": "2026-07-25T19:10:01.798Z"
-    },
-    {
-      "id": "la-liga-unveils-2026-27-season-calendar-cl-sico-dates-set-0b8e16ea41ac",
-      "headline": "La Liga Unveils 2026-27 Season Calendar, Clásico Dates Set",
-      "league": "La Liga",
-      "summary": "Spanish football fans can now mark their calendars as La Liga has officially released the full fixture list for the upcoming 2026-27 season. The announcement confirms the eagerly anticipated dates for the two El Clásico encounters between rivals Barcelona and Real Madrid.",
-      "body": "The Royal Spanish Football Federation (RFEF) officially unveiled the complete La Liga calendar for the 2026-27 campaign on Friday, setting the stage for 380 top-flight matches. The new season is scheduled to commence on August 15th and will conclude on May 30th of the following year. This comprehensive schedule provides clarity for clubs and supporters alike as pre-season preparations intensify across Spain.\n\nA key highlight for many supporters is the confirmation of the El Clásico dates. The first monumental clash between reigning champions Barcelona and their fierce rivals Real Madrid will take place at Camp Nou on October 25th. The return fixture, held at the Santiago Bernabéu, is slated for May 9th, potentially playing a crucial role in the title race.\n\nIn related news, several clubs, including Villarreal, Málaga, and Real Sociedad, will play their opening matches away from home due to ongoing stadium works, local events, or security considerations. The Madrid derby also arrives early in the season, with Atlético Madrid hosting Real Madrid on September 20th, followed by the reverse fixture on April 4th.",
-      "tags": [
-        "La Liga",
-        "Fixture Release",
-        "El Clásico",
-        "2026-27 Season"
-      ],
-      "image": "images/la-liga-unveils-2026-27-season-calendar-cl-sico-dates-set-0b8e16ea41ac.png",
-      "publishedAt": "2026-07-25T19:10:34.437Z"
-    },
-    {
-      "id": "atl-tico-madrid-eyeing-surprise-move-for-free-agent-jadon-sancho-f0e24742c5c3",
-      "headline": "Atlético Madrid Eyeing Surprise Move for Free Agent Jadon Sancho",
-      "league": "La Liga",
-      "summary": "Atlético Madrid is reportedly exploring a potential deal to bring English winger Jadon Sancho to the Spanish capital as a free agent. The move could offer Sancho a significant career revival in La Liga after a period of uncertainty.",
-      "body": "Atlético Madrid are reportedly considering a surprising move for English international Jadon Sancho, who is currently available as a free agent. The Spanish giants are said to be seriously evaluating the possibility of bringing the talented winger to the Cívitas Metropolitano, a development that could mark a fresh start for the 26-year-old.\n\nAccording to reports, no advanced negotiations have taken place yet, with any potential transfer largely dependent on Sancho's willingness to accept a considerable reduction in his current wage demands. This financial aspect remains a key hurdle for the Spanish club in their pursuit of the former Borussia Dortmund and Manchester United player.\n\nShould the deal materialize, it would represent a significant opportunity for Sancho to reignite his career in one of Europe's top leagues. Atlético Madrid, known for their disciplined system under Diego Simeone, could provide the platform for the winger to rediscover his best form and contribute to their La Liga ambitions.",
-      "tags": [
-        "Atlético Madrid",
-        "Jadon Sancho",
-        "Transfer News",
-        "La Liga"
-      ],
-      "image": "images/atl-tico-madrid-eyeing-surprise-move-for-free-agent-jadon-sancho-f0e24742c5c3.png",
-      "publishedAt": "2026-07-25T16:06:38.283Z"
     }
   ],
-  "lastRun": "2026-07-28T16:44:34.245Z"
+  "lastRun": "2026-07-28T19:28:06.985Z"
 }
