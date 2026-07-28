@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "real-madrid-officially-registers-key-defensive-signings-for-new-season-9c99146c742f",
+      "headline": "Real Madrid Officially Registers Key Defensive Signings for New Season",
+      "league": "La Liga",
+      "summary": "Real Madrid has formally registered three significant defensive additions with La Liga, bolstering their squad ahead of the 2026/27 campaign. New head coach José Mourinho will now have Marc Cucurella, Ibrahima Konaté, and Denzel Dumfries available for selection.",
+      "body": "The Spanish giants, Real Madrid, have completed the official registration of three new defenders, ensuring their availability for the impending La Liga season. Marc Cucurella, Ibrahima Konaté, and Denzel Dumfries are now officially recognized as Real Madrid players by the league.\n\nCucurella, a Spanish international, joined from Chelsea in a deal valued at €55 million, potentially rising to €60 million with add-ons. Meanwhile, French center-back Konaté arrived at the Bernabéu on a free transfer after his contract with Liverpool expired.\n\nThese registrations mark a crucial step in strengthening Real Madrid's backline under the guidance of new manager José Mourinho. The club had previously registered Dutch full-back Denzel Dumfries earlier in July, highlighting a clear focus on defensive reinforcements for the upcoming season.",
+      "tags": [
+        "Real Madrid",
+        "La Liga",
+        "Transfers",
+        "Player Registration"
+      ],
+      "image": "images/real-madrid-officially-registers-key-defensive-signings-for-new-season-9c99146c742f.png",
+      "publishedAt": "2026-07-28T22:07:19.231Z"
+    },
+    {
       "id": "sturm-graz-advances-comfortably-as-hearts-comeback-bid-falls-short-8ef10ac88622",
       "headline": "Sturm Graz Advances Comfortably as Hearts' Comeback Bid Falls Short",
       "league": "Champions League",
@@ -897,22 +912,7 @@
       ],
       "image": "images/aston-villa-fall-to-porto-in-pre-season-clash-25bf62abf746.png",
       "publishedAt": "2026-07-26T02:48:46.411Z"
-    },
-    {
-      "id": "yaya-tour-kicks-off-coaching-career-with-champions-league-qualifying-victory-4a6542829062",
-      "headline": "Yaya Touré Kicks Off Coaching Career with Champions League Qualifying Victory",
-      "league": "Champions League",
-      "summary": "Football icon Yaya Touré successfully guided Slovan Bratislava to a winning start in their Champions League second qualifying round campaign, securing a valuable two-goal advantage in the first leg. His managerial debut saw the Slovakian champions overcome Iberia 1999 on the road, setting a positive tone for their European aspirations.",
-      "body": "Former midfield maestro Yaya Touré has made an impressive entry into senior management, overseeing Slovan Bratislava's victory in the UEFA Champions League second qualifying round. The Slovakian champions secured a 2-0 win against Georgian side Iberia 1999 in the first leg of their tie, marking a memorable competitive debut for their new head coach.\n\nUnder Touré's guidance, Slovan Bratislava demonstrated solid control, scoring twice to establish a significant lead ahead of the return fixture. This crucial away triumph puts them in a strong position to advance further in the competition, continuing their quest for a place in the Champions League league phase.\n\nThe result not only highlights Touré's promising start in the dugout but also underscores Slovan Bratislava's ambition to compete among Europe's elite. Fans eagerly anticipate how the legendary midfielder will continue to shape the team's performance as they navigate the challenging qualifying rounds.",
-      "tags": [
-        "Yaya Touré",
-        "Slovan Bratislava",
-        "Champions League Qualifiers",
-        "Coaching Debut"
-      ],
-      "image": "images/yaya-tour-kicks-off-coaching-career-with-champions-league-qualifying-victory-4a6542829062.png",
-      "publishedAt": "2026-07-25T21:58:19.579Z"
     }
   ],
-  "lastRun": "2026-07-28T19:28:06.985Z"
+  "lastRun": "2026-07-28T22:07:23.523Z"
 }
