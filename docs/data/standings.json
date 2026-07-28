@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T05:47:26.753Z",
+  "updatedAt": "2026-07-28T08:34:31.777Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -1233,8 +1233,98 @@
       ],
       "fixtures": [
         {
+          "id": 566053,
+          "utcDate": "2027-04-24T00:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 31,
+          "home": "Borussia Mönchengladbach",
+          "away": "FC Schalke 04",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 566054,
+          "utcDate": "2027-04-24T00:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 31,
+          "home": "Eintracht Frankfurt",
+          "away": "Bayer 04 Leverkusen",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 566055,
+          "utcDate": "2027-05-08T00:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 32,
+          "home": "FC Schalke 04",
+          "away": "Eintracht Frankfurt",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 566056,
+          "utcDate": "2027-05-08T00:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 32,
+          "home": "RB Leipzig",
+          "away": "SC Paderborn 07",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 566057,
+          "utcDate": "2027-05-08T00:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 32,
+          "home": "SC Freiburg",
+          "away": "1. FC Köln",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 566058,
+          "utcDate": "2027-05-08T00:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 32,
+          "home": "1. FSV Mainz 05",
+          "away": "Borussia Dortmund",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 566059,
+          "utcDate": "2027-05-08T00:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 32,
+          "home": "FC Augsburg",
+          "away": "VfB Stuttgart",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 566060,
+          "utcDate": "2027-05-08T00:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 32,
+          "home": "1. FC Union Berlin",
+          "away": "SV Werder Bremen",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 566061,
+          "utcDate": "2027-05-08T00:00:00Z",
+          "status": "SCHEDULED",
+          "matchday": 32,
+          "home": "SV 07 Elversberg",
+          "away": "TSG 1899 Hoffenheim",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
           "id": 566062,
-          "utcDate": "2027-05-08T12:00:00Z",
+          "utcDate": "2027-05-08T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 32,
           "home": "Bayer 04 Leverkusen",
@@ -1244,7 +1334,7 @@
         },
         {
           "id": 566063,
-          "utcDate": "2027-05-08T12:00:00Z",
+          "utcDate": "2027-05-08T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 32,
           "home": "FC Bayern München",
@@ -1254,7 +1344,7 @@
         },
         {
           "id": 566064,
-          "utcDate": "2027-05-15T12:00:00Z",
+          "utcDate": "2027-05-15T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 33,
           "home": "Eintracht Frankfurt",
@@ -1264,7 +1354,7 @@
         },
         {
           "id": 566065,
-          "utcDate": "2027-05-15T12:00:00Z",
+          "utcDate": "2027-05-15T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 33,
           "home": "SC Paderborn 07",
@@ -1274,7 +1364,7 @@
         },
         {
           "id": 566066,
-          "utcDate": "2027-05-15T12:00:00Z",
+          "utcDate": "2027-05-15T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 33,
           "home": "VfB Stuttgart",
@@ -1284,7 +1374,7 @@
         },
         {
           "id": 566067,
-          "utcDate": "2027-05-15T12:00:00Z",
+          "utcDate": "2027-05-15T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 33,
           "home": "Borussia Dortmund",
@@ -1294,7 +1384,7 @@
         },
         {
           "id": 566068,
-          "utcDate": "2027-05-15T12:00:00Z",
+          "utcDate": "2027-05-15T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 33,
           "home": "Hamburger SV",
@@ -1304,7 +1394,7 @@
         },
         {
           "id": 566069,
-          "utcDate": "2027-05-15T12:00:00Z",
+          "utcDate": "2027-05-15T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 33,
           "home": "Bayer 04 Leverkusen",
@@ -1314,7 +1404,7 @@
         },
         {
           "id": 566070,
-          "utcDate": "2027-05-15T12:00:00Z",
+          "utcDate": "2027-05-15T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 33,
           "home": "SV Werder Bremen",
@@ -1324,7 +1414,7 @@
         },
         {
           "id": 566071,
-          "utcDate": "2027-05-15T12:00:00Z",
+          "utcDate": "2027-05-15T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 33,
           "home": "Borussia Mönchengladbach",
@@ -1334,101 +1424,11 @@
         },
         {
           "id": 566072,
-          "utcDate": "2027-05-15T12:00:00Z",
+          "utcDate": "2027-05-15T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 33,
           "home": "TSG 1899 Hoffenheim",
           "away": "1. FSV Mainz 05",
-          "homeScore": null,
-          "awayScore": null
-        },
-        {
-          "id": 566073,
-          "utcDate": "2027-05-22T12:00:00Z",
-          "status": "SCHEDULED",
-          "matchday": 34,
-          "home": "RB Leipzig",
-          "away": "TSG 1899 Hoffenheim",
-          "homeScore": null,
-          "awayScore": null
-        },
-        {
-          "id": 566074,
-          "utcDate": "2027-05-22T12:00:00Z",
-          "status": "SCHEDULED",
-          "matchday": 34,
-          "home": "1. FC Union Berlin",
-          "away": "Borussia Mönchengladbach",
-          "homeScore": null,
-          "awayScore": null
-        },
-        {
-          "id": 566075,
-          "utcDate": "2027-05-22T12:00:00Z",
-          "status": "SCHEDULED",
-          "matchday": 34,
-          "home": "1. FSV Mainz 05",
-          "away": "VfB Stuttgart",
-          "homeScore": null,
-          "awayScore": null
-        },
-        {
-          "id": 566076,
-          "utcDate": "2027-05-22T12:00:00Z",
-          "status": "SCHEDULED",
-          "matchday": 34,
-          "home": "FC Schalke 04",
-          "away": "Bayer 04 Leverkusen",
-          "homeScore": null,
-          "awayScore": null
-        },
-        {
-          "id": 566077,
-          "utcDate": "2027-05-22T12:00:00Z",
-          "status": "SCHEDULED",
-          "matchday": 34,
-          "home": "SV 07 Elversberg",
-          "away": "SV Werder Bremen",
-          "homeScore": null,
-          "awayScore": null
-        },
-        {
-          "id": 566078,
-          "utcDate": "2027-05-22T12:00:00Z",
-          "status": "SCHEDULED",
-          "matchday": 34,
-          "home": "FC Bayern München",
-          "away": "Eintracht Frankfurt",
-          "homeScore": null,
-          "awayScore": null
-        },
-        {
-          "id": 566079,
-          "utcDate": "2027-05-22T12:00:00Z",
-          "status": "SCHEDULED",
-          "matchday": 34,
-          "home": "FC Augsburg",
-          "away": "Hamburger SV",
-          "homeScore": null,
-          "awayScore": null
-        },
-        {
-          "id": 566080,
-          "utcDate": "2027-05-22T12:00:00Z",
-          "status": "SCHEDULED",
-          "matchday": 34,
-          "home": "SC Freiburg",
-          "away": "Borussia Dortmund",
-          "homeScore": null,
-          "awayScore": null
-        },
-        {
-          "id": 566081,
-          "utcDate": "2027-05-22T12:00:00Z",
-          "status": "SCHEDULED",
-          "matchday": 34,
-          "home": "1. FC Köln",
-          "away": "SC Paderborn 07",
           "homeScore": null,
           "awayScore": null
         }
