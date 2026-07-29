@@ -1,6 +1,52 @@
 {
   "articles": [
     {
+      "id": "real-madrid-completes-blockbuster-deal-for-winger-yan-diomande-cf58f8e522f8",
+      "headline": "Real Madrid Completes Blockbuster Deal for Winger Yan Diomande",
+      "league": "Transfer News",
+      "summary": "Real Madrid has officially finalized the high-profile transfer of Ivorian winger Yan Diomande, with the move confirmed by leading transfer sources. The talented attacker joins the Spanish giants in a deal reportedly valued at over 100 million euros.",
+      "body": "Real Madrid has made a significant splash in the summer transfer market, successfully securing the signature of dynamic winger Yan Diomande. The Ivory Coast international arrives from RB Leipzig in a deal understood to exceed €100 million, highlighting his immense potential and Real Madrid's substantial investment in their future attacking prowess. This major acquisition is set to bolster Los Blancos' squad depth and offensive capabilities for the upcoming campaign. \n\nDiomande, renowned for his electrifying pace and flair on the flank, is expected to commit his long-term future to the Santiago Bernabéu, with reports indicating a contract extending until 2031. His arrival underscores Real Madrid's strategic approach to building a formidable team, blending established stars with elite young talent to maintain their competitive edge both domestically and in European competitions. The confirmation of this transfer follows widespread anticipation. \n\nThe 20-year-old's move to the Spanish capital represents a pivotal moment in his burgeoning career. Supporters are eagerly awaiting his debut, anticipating that he will add a new dimension to Real Madrid's already potent attack. This transfer clearly signals the club's continued intent to attract top-tier talent to strengthen their ranks.",
+      "tags": [
+        "Real Madrid",
+        "Yan Diomande",
+        "La Liga",
+        "Transfer"
+      ],
+      "image": "images/real-madrid-completes-blockbuster-deal-for-winger-yan-diomande-cf58f8e522f8.png",
+      "publishedAt": "2026-07-29T19:18:21.063Z"
+    },
+    {
+      "id": "la-liga-rejects-vinicius-rule-focuses-on-stricter-time-wasting-penalties-a288147acb40",
+      "headline": "La Liga Rejects 'Vinicius Rule,' Focuses on Stricter Time-Wasting Penalties",
+      "league": "La Liga",
+      "summary": "Spanish football authorities have opted against implementing the controversial 'Vinicius Rule' from the recent World Cup, choosing instead to intensify their efforts against time-wasting tactics for the upcoming season. The league's refereeing committee aims to align with UEFA guidelines, prioritizing continuous match flow and fair play.",
+      "body": "La Liga's Technical Committee of Referees (CTA) has confirmed its decision not to adopt the 'Vinicius Rule,' a measure trialed during the recent FIFA World Cup. This rule would have led to automatic ejections for players covering their mouths during on-field confrontations, a response to a notable incident involving Real Madrid's Vinicius Junior last season. Despite its global tournament trial, which saw two players dismissed, Spanish officials were not convinced of its suitability for the domestic league.\n\nInstead of the 'Vinicius Rule,' La Liga is reportedly set to implement a more stringent approach to time-wasting for the 2026-27 campaign. This initiative mirrors efforts in other major European leagues, such as the Premier League, all aimed at enhancing the actual playing time within matches. The CTA has even formally requested the International Football Association Board (IFAB) to explore new penalties specifically targeting goalkeepers who feign or exaggerate injuries to delay proceedings.\n\nFran Soto, president of the CTA, articulated the committee's reservations about the 'Vinicius Rule,' highlighting concerns over potentially reducing teams to ten players without conclusive evidence of an offense. Consequently, players in Spain will not face automatic sanctions for covering their mouths during disputes, underscoring La Liga's distinct strategy for managing on-field conduct and upholding competitive integrity.",
+      "tags": [
+        "La Liga",
+        "Refereeing",
+        "Rule Changes",
+        "Time-Wasting"
+      ],
+      "image": "images/la-liga-rejects-vinicius-rule-focuses-on-stricter-time-wasting-penalties-a288147acb40.png",
+      "publishedAt": "2026-07-29T19:19:10.828Z"
+    },
+    {
+      "id": "world-cup-boosts-mls-momentum-san-diego-fc-ceo-confirms-ecffebedcf47",
+      "headline": "World Cup Boosts MLS Momentum, San Diego FC CEO Confirms",
+      "league": "MLS",
+      "summary": "Major League Soccer is experiencing a significant surge in interest following the 2026 FIFA World Cup, with San Diego FC's CEO highlighting its impact as a second major catalyst for the league. This comes alongside plans for a pivotal schedule change in 2027, aiming to further integrate soccer into the national sports landscape.",
+      "body": "Major League Soccer is riding a fresh wave of momentum, bolstered significantly by the recently concluded 2026 FIFA World Cup. Tom Penn, the Chief Executive Officer of expansion club San Diego FC, has identified the global tournament as the league's \"second booster,\" following the monumental arrival of Lionel Messi in 2023. Penn indicated that the World Cup's positive effects surpassed initial projections, solidifying soccer's growing presence in the United States.\n\nEvidence of this heightened interest is apparent in recent club performance metrics. Several MLS teams have reported substantial increases in ticket sales, with the Philadelphia Union noting a remarkable 218% rise in single-game purchases, and Nashville SC experiencing a 161% jump in online ticket acquisitions since the tournament began. This uptick underscores a successful conversion of World Cup viewership into tangible engagement at the club level.\n\nLooking ahead, the league is set to implement a crucial shift to a summer-to-spring schedule in 2027, a move Penn described as profoundly important for MLS. He acknowledged that this summer, following the World Cup, presented an optimal opportunity for such a transition, aiming to further embed soccer within the broader American sports culture. Recent valuations also reflect this growth, with Inter Miami CF and New York City FC reportedly valued at $1.6 billion and $1.55 billion respectively.",
+      "tags": [
+        "MLS",
+        "World Cup",
+        "San Diego FC",
+        "Tom Penn",
+        "League Growth"
+      ],
+      "image": "images/world-cup-boosts-mls-momentum-san-diego-fc-ceo-confirms-ecffebedcf47.png",
+      "publishedAt": "2026-07-29T19:19:41.502Z"
+    },
+    {
       "id": "m-ller-shatters-shooting-record-as-mls-all-stars-shine-in-skills-showcase-e48e58368467",
       "headline": "Müller Shatters Shooting Record as MLS All-Stars Shine in Skills Showcase",
       "league": "MLS",
@@ -862,52 +908,7 @@
       ],
       "image": "images/real-madrid-poised-to-land-diomande-after-psg-withdraw-from-race-3a1e66dc70c9.png",
       "publishedAt": "2026-07-27T02:56:05.940Z"
-    },
-    {
-      "id": "marcinkowski-s-heroics-secure-point-for-galaxy-in-california-cl-sico-4e39b3920cde",
-      "headline": "Marcinkowski's Heroics Secure Point for Galaxy in California Clásico",
-      "league": "MLS",
-      "summary": "LA Galaxy goalkeeper JT Marcinkowski earned a spot on the MLS Team of the Matchday after a phenomenal performance, notably saving a late penalty against his former club. His crucial stop preserved a 1-1 road draw for the Galaxy against the San Jose Earthquakes in a thrilling California Clásico.",
-      "body": "LA Galaxy's shot-stopper JT Marcinkowski was a standout performer in Matchday 18, securing his place on the MLS Team of the Matchday. The veteran goalkeeper played a pivotal role in his team's 1-1 draw against the San Jose Earthquakes at Stanford Stadium, making five crucial saves throughout the match.\n\nThe defining moment of his performance came deep into stoppage time when Marcinkowski denied Timo Werner from the penalty spot. This heroic save prevented the Earthquakes from snatching a late victory and ensured the Galaxy walked away with a hard-earned point in the heated California Clásico.\n\nThis appearance marked Marcinkowski's first time facing his former club and also his inaugural selection to the Team of the Matchday for the 2026 season, highlighting a significant individual achievement amidst a collective effort to battle for a result on the road.",
-      "tags": [
-        "LA Galaxy",
-        "JT Marcinkowski",
-        "MLS",
-        "California Clásico"
-      ],
-      "image": "images/marcinkowski-s-heroics-secure-point-for-galaxy-in-california-cl-sico-4e39b3920cde.png",
-      "publishedAt": "2026-07-26T22:02:16.852Z"
-    },
-    {
-      "id": "manchester-united-lands-chelsea-midfielder-andre-santos-in-blockbuster-deal-470b94d0f5ef",
-      "headline": "Manchester United Lands Chelsea Midfielder Andre Santos in Blockbuster Deal",
-      "league": "Transfer News",
-      "summary": "Manchester United has officially secured the services of highly-rated midfielder Andre Santos from Chelsea in a significant transfer, bolstering their midfield ahead of the new season. The move sees the promising talent switch Stamford Bridge for Old Trafford in a deal reportedly valued at £50 million.",
-      "body": "Manchester United has completed a major coup in the transfer market, announcing the signing of Andre Santos from Premier League rivals Chelsea. The 22-year-old Brazilian midfielder makes the highly anticipated switch to Old Trafford, providing a substantial boost to Erik ten Hag's squad as they prepare for the upcoming campaign. This move marks one of the most significant domestic transfers of the summer window so far.\n\nReports indicate that the Red Devils finalized the deal for a hefty £50 million, underlining their commitment to strengthening key areas. Santos, known for his dynamic playmaking, defensive contributions, and impressive ball control, is expected to integrate quickly into United's midfield, offering both creativity and steel in the engine room. His arrival is poised to inject fresh energy and quality into the team.\n\nThe acquisition comes after weeks of speculation, with United successfully fending off interest from other top clubs to secure Santos's signature. Fans at Old Trafford will be eager to see their new midfield maestro in action, with expectations high for the young talent to make an immediate impact and help Manchester United challenge for top honors.",
-      "tags": [
-        "Andre Santos",
-        "Manchester United",
-        "Chelsea",
-        "Premier League"
-      ],
-      "image": "images/manchester-united-lands-chelsea-midfielder-andre-santos-in-blockbuster-deal-470b94d0f5ef.png",
-      "publishedAt": "2026-07-26T22:02:46.392Z"
-    },
-    {
-      "id": "psg-demands-staggering-fee-for-star-winger-bradley-barcola-amid-liverpool-intere-eee084ad0d81",
-      "headline": "PSG Demands Staggering Fee for Star Winger Bradley Barcola Amid Liverpool Interest",
-      "league": "Transfer News",
-      "summary": "Paris Saint-Germain has reportedly escalated their asking price for French international Bradley Barcola, with Liverpool keen on securing the talented winger. The Parisian club is now demanding a colossal €170 million, significantly complicating any potential move to Anfield.",
-      "body": "The transfer saga surrounding Bradley Barcola has intensified as Paris Saint-Germain reportedly set an exorbitant valuation for their prized winger. Sources indicate the French champions are now seeking €170 million for the 23-year-old, a figure influenced by recent high-profile transfers in the market.\n\nLiverpool has shown significant interest in Barcola, who is understood to be open to a switch to Merseyside. However, PSG's increased demands, coming after the player reportedly declined a new contract extension, present a substantial hurdle for the English club.\n\nBarcola's impressive resume, including being a two-time Champions League winner and a strong performer at the recent World Cup, underpins PSG's confidence in their valuation. With multiple clubs making inquiries, the French giants appear determined to hold out for their steep price.",
-      "tags": [
-        "Bradley Barcola",
-        "PSG",
-        "Liverpool",
-        "Transfer Rumours"
-      ],
-      "image": "images/psg-demands-staggering-fee-for-star-winger-bradley-barcola-amid-liverpool-intere-eee084ad0d81.png",
-      "publishedAt": "2026-07-26T22:03:45.148Z"
     }
   ],
-  "lastRun": "2026-07-29T16:26:18.848Z"
+  "lastRun": "2026-07-29T19:19:45.503Z"
 }
