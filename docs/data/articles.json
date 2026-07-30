@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "lee-kang-in-s-atl-tico-madrid-move-nearly-derailed-by-psg-obstruction-b1bdd0738619",
+      "headline": "Lee Kang-in's Atlético Madrid Move Nearly Derailed by PSG Obstruction",
+      "league": "La Liga",
+      "summary": "Details have emerged regarding South Korean star Lee Kang-in's €40 million transfer to Atlético Madrid, revealing that the deal faced significant hurdles due to Paris Saint-Germain's obstruction. The midfielder's unwavering commitment to the move ultimately proved decisive in finalizing his switch to the Spanish capital.",
+      "body": "Atlético Madrid's recent acquisition of Lee Kang-in, officially announced on July 25, was reportedly on the brink of collapse just days before its completion. Sources indicate that Paris Saint-Germain employed various obstructive and delaying tactics during the negotiation process, making the transfer exceptionally difficult for the Spanish club. This prolonged saga spanned four years of Atlético's persistent pursuit of the talented South Korean international.\n\nDespite PSG's challenging stance, Lee Kang-in's firm resolve to join Diego Simeone's side was crucial in navigating the complex discussions. His determination ensured that the €40 million transfer, which includes a base fee of €35 million and €5 million in add-ons, eventually went through. He is set to don the prestigious number 7 jersey for his new club.\n\nThe 24-year-old attacking midfielder is expected to bring creative depth and versatility to Atlético Madrid, a quality the club has sought to enhance. With Antoine Griezmann having departed, Lee Kang-in's arrival is anticipated to fill a vital role in breaking down compact defenses, offering a new dimension to the team's attacking play.",
+      "tags": [
+        "Lee Kang-in",
+        "Atlético Madrid",
+        "Transfer News",
+        "PSG"
+      ],
+      "image": "images/lee-kang-in-s-atl-tico-madrid-move-nearly-derailed-by-psg-obstruction-b1bdd0738619.png",
+      "publishedAt": "2026-07-30T05:44:13.482Z"
+    },
+    {
       "id": "ac-milan-strengthens-defense-with-promising-senegalese-french-talent-diawara-57026ce02c2d",
       "headline": "AC Milan Strengthens Defense with Promising Senegalese-French Talent Diawara",
       "league": "Serie A",
@@ -892,23 +907,7 @@
       ],
       "image": "images/european-hopefuls-dominate-first-legs-in-champions-league-qualifiers-8f2718771214.png",
       "publishedAt": "2026-07-27T06:33:34.687Z"
-    },
-    {
-      "id": "deportivo-debutant-aubameyang-draws-blank-in-goalless-oviedo-friendly-4922b9c06d7c",
-      "headline": "Deportivo Debutant Aubameyang Draws Blank in Goalless Oviedo Friendly",
-      "league": "La Liga",
-      "summary": "Newly promoted La Liga side Deportivo La Coruña played out a scoreless draw against Real Oviedo in a pre-season friendly, with star summer signing Pierre-Emerick Aubameyang making his debut. The match was unfortunately marred by injuries to two Deportivo players, raising early concerns for the club.",
-      "body": "Deportivo La Coruña, making their return to La Liga this season, kicked off their pre-season preparations with a goalless draw against Real Oviedo on Saturday at the Estadio Carlos Tartiere. All eyes were on new recruit Pierre-Emerick Aubameyang, who featured for the Galician club for the first time since his transfer. The former Arsenal and Marseille striker had an opportunity to open his scoring account, but his effort was well saved.\n\nThe friendly encounter, however, was overshadowed by injury concerns for the newly promoted side. Deportivo saw both Ilyas Chaira and Adrià Altimira forced off the pitch due to knocks. Altimira was substituted before the half-hour mark after a collision, while Chaira followed ten minutes later, signaling discomfort in his right arm. These early setbacks will undoubtedly be a worry for the Deportivo coaching staff as they build towards the demanding La Liga season.\n\nDespite the injuries and the lack of goals, the match provided a valuable opportunity for both managers to assess their squads and build fitness. Deportivo, who secured their promotion to Spain's top flight for the first time since 2018, will be keen to integrate their new signings and ensure their squad is robust ahead of a challenging campaign.",
-      "tags": [
-        "Deportivo La Coruña",
-        "Pierre-Emerick Aubameyang",
-        "Pre-season",
-        "La Liga",
-        "Transfer News"
-      ],
-      "image": "images/deportivo-debutant-aubameyang-draws-blank-in-goalless-oviedo-friendly-4922b9c06d7c.png",
-      "publishedAt": "2026-07-27T06:34:06.303Z"
     }
   ],
-  "lastRun": "2026-07-30T02:26:00.321Z"
+  "lastRun": "2026-07-30T05:44:17.796Z"
 }
