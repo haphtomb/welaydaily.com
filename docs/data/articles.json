@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "casemiro-joins-inter-miami-reuniting-with-messi-with-undiminished-drive-0d0b7dd8f724",
+      "headline": "Casemiro Joins Inter Miami, Reuniting with Messi with Undiminished Drive",
+      "league": "MLS",
+      "summary": "Brazilian midfield maestro Casemiro has officially joined Inter Miami as a free agent, expressing his eagerness to continue his trophy-laden career alongside Lionel Messi. The 34-year-old brings a wealth of experience and a winning mentality to the MLS side, signing a deal through the 2027 season.",
+      "body": "Inter Miami has confirmed the high-profile acquisition of veteran midfielder Casemiro, who arrives as a free agent after his departure from European football. The former Real Madrid and Manchester United star was unveiled on Thursday, articulating his unwavering desire for success in his new American venture.\n\nCasemiro, a five-time Champions League winner with Real Madrid and an FA Cup and League Cup victor with Manchester United, has committed to Inter Miami through the 2027 MLS Sprint campaign, with an option to extend until June 2029. The Brazilian international, who recently featured for his country at the 2026 World Cup, highlighted his excitement to play alongside Lionel Messi, referring to him as “the best in history.”\n\nThe 34-year-old midfielder emphasized that his ambition to win remains as strong as ever, stating that Miami was his preferred destination for this new chapter in his illustrious career. His arrival is anticipated to significantly bolster Inter Miami's midfield, injecting both quality and a proven championship pedigree into the squad.",
+      "tags": [
+        "Inter Miami",
+        "Casemiro",
+        "MLS",
+        "Transfer News"
+      ],
+      "image": "images/casemiro-joins-inter-miami-reuniting-with-messi-with-undiminished-drive-0d0b7dd8f724.png",
+      "publishedAt": "2026-08-01T22:02:43.848Z"
+    },
+    {
       "id": "real-madrid-completes-25-million-signing-of-promising-striker-carlos-esp-38478969bfa3",
       "headline": "Real Madrid Completes €25 Million Signing of Promising Striker Carlos Espí",
       "league": "Transfer News",
@@ -891,23 +906,7 @@
       ],
       "image": "images/malawi-stuns-reigning-champions-nigeria-in-historic-wafcon-upset-057279f7c9f4.png",
       "publishedAt": "2026-07-30T08:30:47.229Z"
-    },
-    {
-      "id": "agf-completes-stunning-comeback-to-advance-in-champions-league-qualifiers-043aede9a959",
-      "headline": "AGF Completes Stunning Comeback to Advance in Champions League Qualifiers",
-      "league": "Champions League",
-      "summary": "Danish side AGF orchestrated a remarkable turnaround in their UEFA Champions League second qualifying round clash, overcoming a significant first-leg deficit against Lech Poznan to secure progression. The thrilling encounter culminated in a penalty shootout, where AGF held their nerve to claim a historic victory.",
-      "body": "AGF delivered a performance for the ages on Wednesday, July 29, stunning Polish opponents Lech Poznan in the second leg of their Champions League qualifier. Trailing by three goals after a 4-1 defeat in the initial fixture, the Danish club produced an identical 4-1 victory at home, leveling the aggregate score at 5-5 after an intense period of extra time.\n\nThe dramatic comeback saw Tobias Bech open the scoring for AGF, followed by a crucial penalty from Kristian Arnstad. Frederik Tingager then notched the equalizing goal, erasing the first-leg disadvantage and sending the tie into a decisive penalty shootout.\n\nIn the subsequent spot-kick drama, AGF maintained their composure, converting four penalties to Lech Poznan's three, ultimately triumphing 4-3. This monumental win not only propels AGF into the third qualifying round but also guarantees them a place in a European league phase for the first time in their club's history.",
-      "tags": [
-        "Champions League",
-        "AGF",
-        "Lech Poznan",
-        "Qualifiers",
-        "Comeback"
-      ],
-      "image": "images/agf-completes-stunning-comeback-to-advance-in-champions-league-qualifiers-043aede9a959.png",
-      "publishedAt": "2026-07-30T08:31:24.856Z"
     }
   ],
-  "lastRun": "2026-08-01T19:12:13.662Z"
+  "lastRun": "2026-08-01T22:02:48.059Z"
 }
