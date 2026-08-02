@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "malawi-stuns-egypt-with-resounding-3-1-victory-at-wafcon-2ec72b24ec8d",
+      "headline": "Malawi Stuns Egypt with Resounding 3-1 Victory at WAFCON",
+      "league": "AFCON",
+      "summary": "Malawi continued their impressive run at the 2026 Women's Africa Cup of Nations, securing a notable 3-1 win against Egypt to edge closer to the quarterfinals. Despite a second-half red card, the Malawian squad maintained their composure and delivered a dominant performance.",
+      "body": "Malawi's national women's team achieved a significant 3-1 triumph over Egypt on August 1, 2026, in a captivating encounter at the Women's Africa Cup of Nations. This victory further solidifies Malawi's unexpected yet strong challenge in their debut WAFCON appearance, pushing them closer to a spot in the knockout stages.\n\nThe goals for Malawi came from Rose Kadzere, Faith Chinzimu, and the prolific forward Temwa Chawinga, highlighting a collective offensive effort. Egypt managed to pull one back through Emam Kassem, but it proved insufficient to spark a comeback against the determined Malawian side.\n\nEven with a player sent off in the second half, leaving them with ten women for a substantial period, Malawi showcased remarkable resilience and tactical discipline to hold off Egypt's attempts to equalize. The team's performance has been a major highlight of the tournament, captivating fans with their unexpected success.",
+      "tags": [
+        "WAFCON 2026",
+        "Malawi",
+        "Egypt",
+        "African Football"
+      ],
+      "image": "images/malawi-stuns-egypt-with-resounding-3-1-victory-at-wafcon-2ec72b24ec8d.png",
+      "publishedAt": "2026-08-02T02:47:51.122Z"
+    },
+    {
       "id": "casemiro-joins-inter-miami-reuniting-with-messi-with-undiminished-drive-0d0b7dd8f724",
       "headline": "Casemiro Joins Inter Miami, Reuniting with Messi with Undiminished Drive",
       "league": "MLS",
@@ -890,23 +905,7 @@
       ],
       "image": "images/barcelona-faces-deadline-in-pursuit-of-valencia-midfielder-javi-guerra-1e50749f0a29.png",
       "publishedAt": "2026-07-30T08:30:01.921Z"
-    },
-    {
-      "id": "malawi-stuns-reigning-champions-nigeria-in-historic-wafcon-upset-057279f7c9f4",
-      "headline": "Malawi Stuns Reigning Champions Nigeria in Historic WAFCON Upset",
-      "league": "AFCON",
-      "summary": "In a stunning turn of events at the 2026 Women's Africa Cup of Nations, Malawi delivered a monumental shock by defeating ten-time champions Nigeria with a dramatic 3-2 victory. This historic win marked Malawi's debut in the competition and immediately positioned them as a dark horse.",
-      "body": "The Super Falcons, widely regarded as the tournament's most dominant force and defending champions, unexpectedly faltered against a determined Malawian side on the third day of the competition. The result sends shockwaves through Group C, as Malawi secured a crucial three points in their inaugural WAFCON appearance.\n\nMalawi's triumph over the heavily favored Nigerian team is already being hailed as one of the biggest upsets in the history of the Women's Africa Cup of Nations. While Nigeria struggled to assert their usual dominance, the Malawian squad displayed resilience and clinical finishing to net three goals against the continental giants.\n\nThis unexpected outcome significantly boosts Malawi's chances of progressing to the knockout stages, while Nigeria now faces increased pressure to recover in their remaining group matches. Elsewhere in Group C, Zambia kicked off their campaign impressively, securing a commanding 6-0 victory over Egypt.",
-      "tags": [
-        "WAFCON 2026",
-        "Malawi",
-        "Nigeria",
-        "Football Upset",
-        "African Football"
-      ],
-      "image": "images/malawi-stuns-reigning-champions-nigeria-in-historic-wafcon-upset-057279f7c9f4.png",
-      "publishedAt": "2026-07-30T08:30:47.229Z"
     }
   ],
-  "lastRun": "2026-08-01T22:02:48.059Z"
+  "lastRun": "2026-08-02T02:47:55.459Z"
 }
