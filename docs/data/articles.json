@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "arsenal-finalize-blockbuster-90-million-deal-for-midfield-maestro-bruno-guimarae-229713847ecf",
+      "headline": "Arsenal Finalize Blockbuster €90 Million Deal for Midfield Maestro Bruno Guimaraes",
+      "league": "Premier League",
+      "summary": "Arsenal have reportedly secured a significant agreement in principle with Newcastle United for the transfer of Brazilian midfielder Bruno Guimaraes. The Gunners are set to pay a substantial €90 million fee to bring the highly-rated player to the Emirates.",
+      "body": "Premier League champions Arsenal have made a definitive statement in the summer transfer window, reportedly reaching an agreement with Newcastle United for the acquisition of Bruno Guimaraes. The commanding Brazilian midfielder is set to join Mikel Arteta's squad in a deal valued at a hefty €90 million, significantly bolstering the Gunners' midfield options ahead of the new season.\n\nThis high-profile move comes after persistent speculation linking Guimaraes with a switch away from St. James' Park. Arsenal's pursuit of the influential player indicates their strong intent to maintain their competitive edge and reinforce their squad with top-tier talent.\n\nThe impending arrival of Guimaraes is expected to be a pivotal signing for Arsenal, potentially paving the way for further strategic adjustments within their existing midfield setup. Fans will be eagerly anticipating the official announcement and the opportunity to see the dynamic Brazilian in the famous red and white.",
+      "tags": [
+        "Arsenal",
+        "Bruno Guimaraes",
+        "Transfer News",
+        "Premier League"
+      ],
+      "image": "images/arsenal-finalize-blockbuster-90-million-deal-for-midfield-maestro-bruno-guimarae-229713847ecf.svg",
+      "publishedAt": "2026-08-03T06:28:48.350Z"
+    },
+    {
       "id": "leeds-stun-liverpool-with-thrilling-second-half-comeback-in-chicago-friendly-eddffed9b4a3",
       "headline": "Leeds Stun Liverpool with Thrilling Second-Half Comeback in Chicago Friendly",
       "league": "Premier League",
@@ -889,22 +904,7 @@
       ],
       "image": "images/el-salvador-kicks-off-final-concacaf-qualifiers-with-crucial-win-over-guatemala-363274b7a454.png",
       "publishedAt": "2026-07-31T14:09:06.109Z"
-    },
-    {
-      "id": "real-madrid-suffers-legal-setback-in-la-liga-tv-revenue-dispute-dfd6cc6ca965",
-      "headline": "Real Madrid Suffers Legal Setback in La Liga TV Revenue Dispute",
-      "league": "La Liga",
-      "summary": "Real Madrid's attempt to annul a significant television broadcast revenue agreement with La Liga has been rejected by the Madrid Court of First Instance. This ruling marks another legal blow for the club in its ongoing battle with the Spanish league over financial distribution.",
-      "body": "The Madrid Court of First Instance has delivered a significant decision against Real Madrid, dismissing their lawsuit aimed at overturning an agreement concerning the distribution of audiovisual revenues. The civil chamber of Court of First Instance No. 26 sided firmly with La Liga, rejecting the club's bid to annul the deal established in August 2023, which dictates how broadcast revenues linked to social impact are shared among clubs.\n\nThe court's decision highlighted that the agreement was duly adopted by the relevant bodies with adequate justification for its purpose and operational mechanism. Furthermore, Real Madrid reportedly failed to present sufficient technical evidence to substantiate the specific financial losses they claimed in their lawsuit.\n\nThis latest ruling follows Real Madrid's previous unsuccessful criminal lawsuit on the same matter, indicating a persistent legal challenge from the club against the league's financial structures. While a setback for Los Blancos, the judgment is not yet final and can be appealed within twenty working days.",
-      "tags": [
-        "Real Madrid",
-        "La Liga",
-        "Legal Dispute",
-        "TV Rights"
-      ],
-      "image": "images/real-madrid-suffers-legal-setback-in-la-liga-tv-revenue-dispute-dfd6cc6ca965.png",
-      "publishedAt": "2026-07-31T14:09:39.237Z"
     }
   ],
-  "lastRun": "2026-08-03T02:48:55.294Z"
+  "lastRun": "2026-08-03T06:28:52.686Z"
 }
