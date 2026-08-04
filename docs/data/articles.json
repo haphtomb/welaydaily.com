@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "haiti-and-costa-rica-battle-for-u-20-world-cup-berth-amidst-schedule-change-3b97b9cf9561",
+      "headline": "Haiti and Costa Rica Battle for U-20 World Cup Berth Amidst Schedule Change",
+      "league": "World Cup Qualifiers",
+      "summary": "Haiti and Costa Rica are set to face off in a crucial CONCACAF U-20 Championship quarter-final today, with the victor securing a coveted spot in the 2027 U-20 World Cup. The highly anticipated match experienced a last-minute venue and time alteration in Puebla, Mexico.",
+      "body": "The CONCACAF U-20 Championship quarter-finals are heating up, as Haiti's \"Les Grenadiers\" prepare for a decisive clash against Costa Rica's \"Les Ticos\" today. The stakes are incredibly high, with the winner earning automatic qualification for the 2027 U-20 World Cup. This represents a historic opportunity for Haiti, who are vying for their first-ever appearance at the global youth tournament.\n\nAdding a layer of drama to the crucial encounter, the match schedule underwent a recent change. Originally slated for the Cuauhtémoc Stadium, the game has been relocated to the BUAP University Stadium in Puebla, Mexico. Kick-off has also been adjusted to 2:00 PM Puebla time. These logistical shifts mean both teams will need to quickly adapt to the new arrangements.\n\nHaiti reached this stage by finishing second in Group A, securing six points through hard-fought victories over Cuba and El Salvador after an initial loss to the United States. Costa Rica, meanwhile, also accumulated six points, showcasing their strength with wins against Guatemala and Antigua and Barbuda. The stage is now set for a thrilling battle as one nation looks to make history and the other aims for its tenth U-20 World Cup qualification.",
+      "tags": [
+        "U-20 World Cup",
+        "CONCACAF",
+        "Haiti",
+        "Costa Rica"
+      ],
+      "image": "images/haiti-and-costa-rica-battle-for-u-20-world-cup-berth-amidst-schedule-change-3b97b9cf9561.svg",
+      "publishedAt": "2026-08-04T05:49:28.686Z"
+    },
+    {
       "id": "chalobah-departs-chelsea-for-cesc-f-bregas-como-revolution-f2c837b79fd0",
       "headline": "Chalobah Departs Chelsea for Cesc Fàbregas' Como Revolution",
       "league": "Serie A",
@@ -891,22 +906,7 @@
       ],
       "image": "images/real-madrid-tables-final-offer-for-star-vinicius-junior-3ceee1e10b4d.png",
       "publishedAt": "2026-08-01T05:57:55.676Z"
-    },
-    {
-      "id": "burkina-faso-secures-historic-first-wafcon-victory-against-tanzania-0ceb37054232",
-      "headline": "Burkina Faso Secures Historic First WAFCON Victory Against Tanzania",
-      "league": "Other",
-      "summary": "Burkina Faso's women's national team made history on Friday, clinching their inaugural victory at the Women's Africa Cup of Nations with a hard-fought 2-1 triumph over Tanzania. This significant result keeps their quarterfinal aspirations alive in the ongoing tournament.",
-      "body": "The Stallions of Burkina Faso etched their name in the Women's Africa Cup of Nations history books yesterday, defeating Tanzania 2-1 in a thrilling Group B encounter held in Casablanca, Morocco. This monumental win marks the nation's first-ever success at the prestigious continental competition, igniting hopes for a deep run.\n\nThe breakthrough arrived just before halftime when A. Kabré netted in the 43rd minute, giving Burkina Faso a deserved lead. Tanzania, however, responded swiftly after the break, with Hasnath Ubamba finding an equalizer in the 55th minute, momentarily shifting momentum. Yet, Burkina Faso pressed on, and R. Sawadogo ultimately delivered the decisive goal, sealing a memorable victory.\n\nThis crucial three points not only secures a historic milestone for Burkina Faso but also leaves Group B wide open. With other results in the group, the Stallions now have a tangible chance to advance to the knockout stages, setting the stage for an exciting final round of group matches.",
-      "tags": [
-        "WAFCON 2026",
-        "Burkina Faso",
-        "Tanzania",
-        "Women's Football"
-      ],
-      "image": "images/burkina-faso-secures-historic-first-wafcon-victory-against-tanzania-0ceb37054232.png",
-      "publishedAt": "2026-08-01T05:58:30.155Z"
     }
   ],
-  "lastRun": "2026-08-04T02:33:03.602Z"
+  "lastRun": "2026-08-04T05:49:33.019Z"
 }
