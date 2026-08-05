@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "banyana-banyana-secure-wafcon-quarterfinal-berth-with-kgatlana-strike-d8e842050188",
+      "headline": "Banyana Banyana Secure WAFCON Quarterfinal Berth with Kgatlana Strike",
+      "league": "AFCON",
+      "summary": "South Africa's women's national team, Banyana Banyana, advanced to the quarterfinals of the TotalEnergies CAF Women's Africa Cup of Nations after a hard-fought victory over Burkina Faso. A decisive first-half goal ensured their progression in the continental tournament.",
+      "body": "The defending champions, South Africa, successfully navigated their final Group B fixture, securing a crucial 1-0 win against Burkina Faso on Tuesday evening. This vital result confirms Banyana Banyana's place in the knockout stages of the 2026 TotalEnergies CAF Women's Africa Cup of Nations, keeping their title defense aspirations alive.\n\nThe decisive moment arrived in the 21st minute when Thembi Kgatlana capitalized on a well-executed play, slotting the ball home from close range. Despite an initial bright start from Burkina Faso, who failed to convert an early opportunity, South Africa steadily gained control and maintained their slender advantage throughout the match.\n\nThe disciplined performance by the South African defense effectively neutralized Burkina Faso's attacking efforts in the second half, ensuring the team preserved their lead. This victory sends Banyana Banyana into the quarterfinals, where they will continue their pursuit of another continental title, with Kgatlana once again proving instrumental.",
+      "tags": [
+        "WAFCON 2026",
+        "South Africa",
+        "Thembi Kgatlana",
+        "Quarterfinals"
+      ],
+      "image": "images/banyana-banyana-secure-wafcon-quarterfinal-berth-with-kgatlana-strike-d8e842050188.svg",
+      "publishedAt": "2026-08-05T02:32:06.209Z"
+    },
+    {
       "id": "middlesbrough-secures-usmnt-midfielder-max-arfsten-from-columbus-crew-9ae96a947583",
       "headline": "Middlesbrough Secures USMNT Midfielder Max Arfsten from Columbus Crew",
       "league": "Transfer News",
@@ -893,22 +908,7 @@
       ],
       "image": "images/casemiro-joins-inter-miami-reuniting-with-messi-with-undiminished-drive-0d0b7dd8f724.png",
       "publishedAt": "2026-08-01T22:02:43.848Z"
-    },
-    {
-      "id": "real-madrid-completes-25-million-signing-of-promising-striker-carlos-esp-38478969bfa3",
-      "headline": "Real Madrid Completes €25 Million Signing of Promising Striker Carlos Espí",
-      "league": "Transfer News",
-      "summary": "Real Madrid has officially secured the services of young forward Carlos Espí from Levante in a reported €25 million transfer, adding significant attacking talent to their squad. The 21-year-old Spanish striker, recognized for his impressive La Liga performances last season, has committed to a five-year deal with the Bernabéu club.",
-      "body": "Spanish giants Real Madrid have officially announced the acquisition of promising young forward Carlos Espí from fellow La Liga side Levante UD. The transfer, reportedly valued at €25 million, sees the 21-year-old striker join Los Blancos on a five-year contract, extending until June 2031. This move is set to bolster Real Madrid's offensive options as they prepare for the new season, with Espí expected to integrate into the first-team setup.\n\nEspí made a notable impact in the previous La Liga campaign, finishing as Levante's leading scorer with 11 goals in 25 appearances. His standout performances earned him the prestigious Under-23 Player of the Season award in La Liga, underscoring his potential. This signing marks Real Madrid's fifth major acquisition of the summer window, as the club continues its squad overhaul under the guidance of returning coach Jose Mourinho.\n\nThe transfer represents a historic moment for Levante, as it stands as the largest sale of a player developed within their youth academy. Despite interest from several Premier League clubs, Real Madrid successfully moved to secure the highly-rated forward. Espí's arrival is anticipated to bring fresh energy and goal-scoring prowess to Real Madrid's attack as they pursue domestic and European honors.",
-      "tags": [
-        "Real Madrid",
-        "Carlos Espí",
-        "La Liga",
-        "Transfer News"
-      ],
-      "image": "images/real-madrid-completes-25-million-signing-of-promising-striker-carlos-esp-38478969bfa3.png",
-      "publishedAt": "2026-08-01T19:11:10.277Z"
     }
   ],
-  "lastRun": "2026-08-04T22:14:27.712Z"
+  "lastRun": "2026-08-05T02:32:10.586Z"
 }
