@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "aston-villa-secures-pre-season-win-but-injury-concerns-loom-962c453fe994",
+      "headline": "Aston Villa Secures Pre-Season Win, But Injury Concerns Loom",
+      "league": "Premier League",
+      "summary": "Aston Villa achieved a 3-1 victory over Thai side BG Pathum United in a recent pre-season friendly, showcasing promising attacking play. However, the win was overshadowed by injury worries for key players John McGinn and Alejandro Garnacho, who both exited the match prematurely.",
+      "body": "Aston Villa continued their pre-season preparations with a solid 3-1 win against BG Pathum United in Thailand. The match saw Emiliano Buendia open the scoring, followed by a header from Victor Lindelof, giving Villa a comfortable lead. A significant moment arrived when Boubacar Kamara, returning from a long-term knee injury, found the net shortly after coming on as a second-half substitute, marking a positive step in his recovery.\n\nDespite the positive result and Kamara's return, the victory was tinged with concern as two important players, John McGinn and Alejandro Garnacho, were forced off due to injuries. Garnacho left the field in the first half following a collision, while captain McGinn sustained a knee injury after an awkward landing in the second half.\n\nThe extent of McGinn and Garnacho's injuries is yet to be fully determined, leaving Villa's medical staff with work to do ahead of the new Premier League season. Fans will be eagerly awaiting updates on the fitness of these crucial players as the club aims to build momentum from their pre-season performances.",
+      "tags": [
+        "Aston Villa",
+        "Pre-Season",
+        "Injury Update",
+        "Match Result"
+      ],
+      "image": "images/aston-villa-secures-pre-season-win-but-injury-concerns-loom-962c453fe994.svg",
+      "publishedAt": "2026-08-06T02:34:37.897Z"
+    },
+    {
       "id": "real-madrid-seals-record-breaking-140m-deal-for-leipzig-star-yan-diomand-91ce77547c97",
       "headline": "Real Madrid Seals Record-Breaking €140m Deal for Leipzig Star Yan Diomandé",
       "league": "Transfer News",
@@ -892,22 +907,7 @@
       ],
       "image": "images/maresca-s-city-debut-ends-in-penalty-heartbreak-against-inter-in-hong-kong-14636d601e43.svg",
       "publishedAt": "2026-08-02T19:12:45.611Z"
-    },
-    {
-      "id": "wafcon-2026-set-to-determine-africa-s-road-to-women-s-world-cup-87c7d71b612f",
-      "headline": "WAFCON 2026 Set to Determine Africa's Road to Women's World Cup",
-      "league": "World Cup Qualifiers",
-      "summary": "The upcoming Women's Africa Cup of Nations in Morocco will serve as the crucial qualifying tournament for the 2027 FIFA Women's World Cup, offering multiple pathways for continental representation. African nations are now keenly focused on the WAFCON as the primary route to secure a coveted spot in the global showpiece.",
-      "body": "The 2026 Women's Africa Cup of Nations, hosted by Morocco from July 26 to August 16, has been officially designated as the qualification pathway for the 2027 FIFA Women's World Cup in Brazil. This vital tournament will feature 16 of Africa's top national teams, all vying for a chance to represent the continent on the biggest stage in women's football.\n\nUnder the new qualification structure, the four semi-finalists emerging from the WAFCON will automatically secure their places at the expanded 2027 World Cup. Additionally, two further African nations will earn berths in the inter-confederation play-offs, providing an opportunity for potentially six African teams to compete in Brazil.\n\nThe competition will unfold with a group stage featuring four groups of four teams, with the top two from each progressing to the quarter-finals. The stakes are incredibly high, as victory in the quarter-finals guarantees direct passage to the global tournament, setting the stage for intense competition and dramatic encounters throughout the championship.",
-      "tags": [
-        "WAFCON 2026",
-        "Women's World Cup Qualifiers",
-        "CAF",
-        "Morocco"
-      ],
-      "image": "images/wafcon-2026-set-to-determine-africa-s-road-to-women-s-world-cup-87c7d71b612f.svg",
-      "publishedAt": "2026-08-02T19:13:02.742Z"
     }
   ],
-  "lastRun": "2026-08-05T22:15:42.958Z"
+  "lastRun": "2026-08-06T02:34:50.639Z"
 }
