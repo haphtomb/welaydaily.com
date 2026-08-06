@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "kompany-declares-bayern-s-unwavering-champions-league-ambition-f57f28f06804",
+      "headline": "Kompany Declares Bayern's Unwavering Champions League Ambition",
+      "league": "Champions League",
+      "summary": "Bayern Munich's coach, Vincent Kompany, has unequivocally stated that the club's primary objective for the 2026-27 season is to claim the coveted Champions League title. Despite a dominant domestic campaign last season, European glory remains the ultimate target for the Bavarian giants.",
+      "body": "Vincent Kompany, at the helm of Bayern Munich, has set an ambitious target for the upcoming 2026-27 season, making it clear that winning the Champions League is the paramount goal. The manager, speaking ahead of a pre-season friendly against Aston Villa, emphasized the club's determination to succeed on the European stage. This declaration follows a highly successful domestic season where Bayern clinched both the Bundesliga title and the DFB-Pokal.\n\nLast season saw Bayern Munich achieve remarkable domestic success, securing their 35th Bundesliga title and setting a new league record with an astounding 122 goals in a single campaign. However, their Champions League journey ended in disappointment, with a 6-5 aggregate loss to Paris Saint-Germain in the semi-finals. Kompany acknowledged the difficulty of surpassing their previous domestic achievements but firmly believes European triumph is within reach.\n\nThe team will learn their Champions League league phase opponents on August 27, with their competitive season kicking off five days earlier in the DFL-Supercup against Borussia Dortmund. Kompany highlighted the importance of a fully fit squad and strategic squad improvements to achieve their ambitious goals, expressing confidence in the team's ability to challenge for Europe's most prestigious club trophy.",
+      "tags": [
+        "Bayern Munich",
+        "Vincent Kompany",
+        "Champions League",
+        "Football"
+      ],
+      "image": "images/kompany-declares-bayern-s-unwavering-champions-league-ambition-f57f28f06804.svg",
+      "publishedAt": "2026-08-06T14:11:32.557Z"
+    },
+    {
       "id": "messi-makes-history-as-inter-miami-dominate-leagues-cup-opener-718b2a86abb9",
       "headline": "Messi Makes History as Inter Miami Dominate Leagues Cup Opener",
       "league": "MLS",
@@ -891,22 +906,7 @@
       ],
       "image": "images/arsenal-dominates-girona-4-1-in-pre-season-display-dbb3642e7aa9.svg",
       "publishedAt": "2026-08-03T12:26:09.956Z"
-    },
-    {
-      "id": "sevilla-secures-promising-goalkeeper-fran-gonzalez-from-real-madrid-00c012e744ed",
-      "headline": "Sevilla Secures Promising Goalkeeper Fran Gonzalez from Real Madrid",
-      "league": "La Liga",
-      "summary": "Sevilla has officially finalized the transfer of 21-year-old goalkeeper Fran Gonzalez from Real Madrid, strengthening their squad with a long-term acquisition. The deal includes a significant buy-back clause, allowing Real Madrid to potentially re-sign the talent in the future.",
-      "body": "Sevilla has successfully completed the signing of highly-rated young goalkeeper Fran Gonzalez from La Liga rivals Real Madrid. The 21-year-old shot-stopper, who made his senior debut for Los Blancos during the 2024-25 season, joins Sevilla on a five-year contract, committing his future to the Andalusian club until 2031.\n\nThe transfer, reportedly valued at an initial €1 million for 50% of the player's economic rights, is a strategic move for Sevilla as they continue to rebuild their squad. The club narrowly avoided relegation last season and has focused on bringing in young talent, with Gonzalez fitting this new direction.\n\nReal Madrid, however, has ensured they retain a strong interest in Gonzalez's future development. The reigning European champions have negotiated a series of tiered buy-back clauses, which could see them re-acquire the Spanish Under-21 international for a fee between €3 million and €5 million over the next three transfer windows.",
-      "tags": [
-        "Sevilla",
-        "Real Madrid",
-        "Fran Gonzalez",
-        "Transfer News"
-      ],
-      "image": "images/sevilla-secures-promising-goalkeeper-fran-gonzalez-from-real-madrid-00c012e744ed.svg",
-      "publishedAt": "2026-08-03T12:26:27.403Z"
     }
   ],
-  "lastRun": "2026-08-06T11:26:40.321Z"
+  "lastRun": "2026-08-06T14:11:54.667Z"
 }
