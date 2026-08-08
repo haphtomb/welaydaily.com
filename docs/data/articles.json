@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "m-ller-makes-shock-mls-switch-joins-vancouver-whitecaps-77433e5e562b",
+      "headline": "Müller Makes Shock MLS Switch, Joins Vancouver Whitecaps",
+      "league": "MLS",
+      "summary": "German football icon Thomas Müller has completed a surprising move to Major League Soccer, signing a two-year deal with the Vancouver Whitecaps. The veteran forward's arrival marks a significant coup for the Canadian club as they bolster their attacking options.",
+      "body": "In a move that has sent ripples across the football world, legendary German forward Thomas Müller has officially joined the Vancouver Whitecaps of Major League Soccer. The transfer sees the long-serving Bayern Munich star embark on a new chapter in North America, committing to a two-year contract with the Western Conference outfit. This acquisition is expected to provide an immediate boost to the Whitecaps' offensive prowess and global profile.\n\nMüller, renowned for his exceptional intelligence, tireless work rate, and unique attacking style often dubbed 'Raumdeuter' (space interpreter), brings a wealth of experience and a winning mentality to the MLS. His decorated career includes numerous Bundesliga titles and a FIFA World Cup triumph with Germany in 2014, making him one of the most successful players of his generation.\n\nThe Whitecaps finalized the agreement, with Müller reportedly signing his deal on August 1st, though the news of the completed transfer broke within the last 24-48 hours. Supporters in Vancouver are eagerly anticipating the debut of their new marquee signing, hoping his presence will elevate the team's performance and help them contend for silverware in the upcoming seasons.",
+      "tags": [
+        "Thomas Müller",
+        "Vancouver Whitecaps",
+        "MLS Transfer",
+        "Bayern Munich"
+      ],
+      "image": "images/m-ller-makes-shock-mls-switch-joins-vancouver-whitecaps-77433e5e562b.svg",
+      "publishedAt": "2026-08-08T06:54:57.785Z"
+    },
+    {
       "id": "wafcon-quarter-finals-set-to-ignite-2027-women-s-world-cup-qualification-battle-4717b331d930",
       "headline": "WAFCON Quarter-Finals Set to Ignite 2027 Women's World Cup Qualification Battle",
       "league": "World Cup Qualifiers",
@@ -886,24 +901,7 @@
       ],
       "image": "images/banyana-banyana-secure-wafcon-quarterfinal-berth-with-kgatlana-strike-d8e842050188.svg",
       "publishedAt": "2026-08-05T02:32:06.209Z"
-    },
-    {
-      "id": "middlesbrough-secures-usmnt-midfielder-max-arfsten-from-columbus-crew-9ae96a947583",
-      "headline": "Middlesbrough Secures USMNT Midfielder Max Arfsten from Columbus Crew",
-      "league": "Transfer News",
-      "summary": "Middlesbrough has completed the acquisition of dynamic United States international Max Arfsten from MLS side Columbus Crew. The 25-year-old midfielder joins the English Championship club in a significant move for both player and teams.",
-      "body": "Columbus Crew confirmed today the transfer of their influential midfielder, Max Arfsten, to English Championship outfit Middlesbrough FC. The deal sees the two-time MLS All-Star depart for a reported $7.5 million fee, with Columbus also securing a sell-on clause for future transfers. This move marks a notable step in Arfsten's career, transitioning from Major League Soccer to the competitive English football league system.\n\nArfsten, who recently represented the US Men's National Team at the 2026 FIFA World Cup, leaves the Crew as a key player, having contributed significantly to their attack this season with eight goal contributions. His versatility and creative play have been consistently highlighted during his 114 appearances for Columbus, where he tallied 20 goals and 21 assists across all competitions.\n\nColumbus Crew General Manager Issa Tall expressed pride in Arfsten's development, noting the club's role in nurturing his talent since drafting him in 2023. Middlesbrough will be hoping Arfsten's proven ability to impact games positively will bolster their squad as they aim for a strong campaign in the Championship.",
-      "tags": [
-        "Max Arfsten",
-        "Middlesbrough",
-        "Columbus Crew",
-        "Transfer",
-        "EFL Championship",
-        "MLS"
-      ],
-      "image": "images/middlesbrough-secures-usmnt-midfielder-max-arfsten-from-columbus-crew-9ae96a947583.svg",
-      "publishedAt": "2026-08-04T19:40:16.792Z"
     }
   ],
-  "lastRun": "2026-08-08T04:14:11.766Z"
+  "lastRun": "2026-08-08T06:55:02.005Z"
 }
