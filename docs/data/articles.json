@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "dynamo-extend-dominant-run-with-clean-sheet-victory-over-revolution-929144f7ffac",
+      "headline": "Dynamo Extend Dominant Run with Clean Sheet Victory Over Revolution",
+      "league": "MLS",
+      "summary": "The Houston Dynamo continued their impressive form with a decisive 2-0 road win against the New England Revolution, marking their third consecutive shutout. Goals from Guilherme Santos and Agustin Resch propelled Houston to extend their unbeaten streak to six matches.",
+      "body": "Houston Dynamo secured a commanding 2-0 victory over the New England Revolution in Foxborough on Saturday, maintaining their strong run of performances. Guilherme Santos opened the scoring for the Dynamo in first-half stoppage time, finding the net with his eleventh goal of the season after a rebound inside the box.\n\nThe visitors then doubled their lead in the 63rd minute when rookie Agustin Resch netted his first career MLS goal, heading in a corner delivered by Jack McGlynn. Houston's defense, anchored by goalkeeper Jonathan Bond who made two crucial saves, held firm to secure their third consecutive clean sheet.\n\nThis win propels the Dynamo to within two points of the top spot in the MLS Western Conference, extending their undefeated streak to six games. For the Revolution, this defeat marks their first at home since May 13th, despite Matt Turner making six saves in goal.",
+      "tags": [
+        "Houston Dynamo",
+        "New England Revolution",
+        "MLS",
+        "Match Report"
+      ],
+      "image": "images/dynamo-extend-dominant-run-with-clean-sheet-victory-over-revolution-929144f7ffac.svg",
+      "publishedAt": "2026-08-09T01:43:38.023Z"
+    },
+    {
       "id": "galaxy-lands-barcelona-legend-sergi-roberto-in-marquee-free-agent-move-2b2196e6af4a",
       "headline": "Galaxy Lands Barcelona Legend Sergi Roberto in Marquee Free Agent Move",
       "league": "MLS",
@@ -887,22 +902,7 @@
       ],
       "image": "images/six-goal-thriller-sees-union-sg-and-bod-glimt-share-spoils-in-qualifier-fcac62ddbce7.svg",
       "publishedAt": "2026-08-05T22:15:38.566Z"
-    },
-    {
-      "id": "villarreal-strengthen-goalkeeping-ranks-with-experienced-p-ter-gul-csi-signing-a9fe4d892400",
-      "headline": "Villarreal Strengthen Goalkeeping Ranks with Experienced Péter Gulácsi Signing",
-      "league": "La Liga",
-      "summary": "Villarreal CF has officially announced the acquisition of veteran goalkeeper Péter Gulácsi, adding significant experience between the posts ahead of the new La Liga season. The Hungarian international expressed his eagerness for a fresh challenge with one of Spain's top clubs.",
-      "body": "Villarreal CF has made a strategic move in the transfer market, confirming the signing of Hungarian international goalkeeper Péter Gulácsi. The highly-regarded shot-stopper completed his medical examinations and officially joined the Yellow Submarine on August 4, 2026, marking a significant addition to their squad for the upcoming campaign.\n\nGulácsi arrives at the Estadio de la Cerámica looking for a new chapter in his distinguished career. He conveyed his enthusiasm, stating a desire for a fresh challenge and expressing confidence in joining one of Spain's premier football teams. His arrival is expected to bolster Villarreal's defensive solidity as they prepare for the demanding schedule of the 2026/27 season.\n\nThe club's management will be pleased to secure a player of Gulácsi's caliber, whose experience at the highest levels of European football will be invaluable. This transfer signals Villarreal's intent to compete strongly in La Liga and any continental competitions they may participate in, with the new goalkeeper ready to make an immediate impact.",
-      "tags": [
-        "Villarreal",
-        "Péter Gulácsi",
-        "Transfer News",
-        "La Liga"
-      ],
-      "image": "images/villarreal-strengthen-goalkeeping-ranks-with-experienced-p-ter-gul-csi-signing-a9fe4d892400.svg",
-      "publishedAt": "2026-08-05T19:32:10.412Z"
     }
   ],
-  "lastRun": "2026-08-08T21:32:01.785Z"
+  "lastRun": "2026-08-09T01:43:42.383Z"
 }
