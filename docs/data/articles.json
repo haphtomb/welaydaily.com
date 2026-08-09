@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "hammarby-s-european-dream-ends-in-extra-time-heartbreak-against-juventus-329eaf636e2c",
+      "headline": "Hammarby's European Dream Ends in Extra-Time Heartbreak Against Juventus",
+      "league": "Champions League",
+      "summary": "Hammarby's UEFA Women's Champions League journey concluded in the second qualifying round after a valiant extra-time effort against Italian giants Juventus, who secured a 3-1 victory. Despite an early lead, the Swedish side ultimately succumbed to a late surge from their opponents.",
+      "body": "Hammarby's aspirations in the UEFA Women's Champions League were cut short following a dramatic 3-1 extra-time defeat to Juventus in the second qualifying round. The Swedish club initially thrilled their supporters by taking the lead through Svea Rehnberg's header from a corner kick in the first half. However, their advantage was short-lived as Juventus quickly responded, with Alba Redondo leveling the score at 1-1 just ten minutes later. The match remained deadlocked through the remainder of normal time, setting the stage for a tense extra period.\n\nThe decisive moments unfolded in extra time when Juventus's Remina Chiba delivered a stunning goal, crashing the ball in off the crossbar to put her side ahead 2-1. Chiba wasn't finished, later adding another header to seal the victory for the Italian outfit with a 3-1 scoreline. This result means Hammarby's Champions League campaign is over for the season.\n\nHowever, the Swedish team still has a path to European competition. They will now transition into the second qualifying round of the Europa Cup, which is scheduled to commence in September. This offers a renewed opportunity for European football experience despite their Champions League exit.",
+      "tags": [
+        "Women's Champions League",
+        "Juventus",
+        "Hammarby",
+        "Qualifiers"
+      ],
+      "image": "images/hammarby-s-european-dream-ends-in-extra-time-heartbreak-against-juventus-329eaf636e2c.svg",
+      "publishedAt": "2026-08-09T04:19:34.124Z"
+    },
+    {
       "id": "dynamo-extend-dominant-run-with-clean-sheet-victory-over-revolution-929144f7ffac",
       "headline": "Dynamo Extend Dominant Run with Clean Sheet Victory Over Revolution",
       "league": "MLS",
@@ -887,22 +902,7 @@
       ],
       "image": "images/real-madrid-seals-record-breaking-140m-deal-for-leipzig-star-yan-diomand-91ce77547c97.svg",
       "publishedAt": "2026-08-05T22:15:20.710Z"
-    },
-    {
-      "id": "six-goal-thriller-sees-union-sg-and-bod-glimt-share-spoils-in-qualifier-fcac62ddbce7",
-      "headline": "Six-Goal Thriller Sees Union SG and Bodø/Glimt Share Spoils in Qualifier",
-      "league": "Champions League",
-      "summary": "Union Saint-Gilloise and Bodø/Glimt delivered a captivating 3-3 draw in their Champions League third qualifying round first leg, setting up a tantalizing return fixture. The match was a rollercoaster of emotions, featuring multiple lead changes and dramatic late goals.",
-      "body": "The UEFA Champions League third qualifying round kicked off with an exhilarating encounter as Belgium's Union Saint-Gilloise hosted Norwegian side Bodø/Glimt. The first leg unfolded into a six-goal spectacle, leaving both teams with everything to play for in the decisive return fixture. Bodø/Glimt twice surged ahead in the opening half, showcasing their attacking prowess on the road.\n\nHowever, Union Saint-Gilloise consistently fought back, refusing to let their opponents gain a significant advantage. Raul Florucz proved to be the home side's hero, twice finding the back of the net to level the score and keep Union firmly in the contest as the match progressed into its final stages.\n\nThe drama reached its peak in the dying minutes. Substitute Promise David appeared to have secured a late victory for Union Saint-Gilloise, firing them into the lead in the 88th minute. Yet, the celebrations were short-lived as Bodø/Glimt's Odin Luras Bjortuft stunned the home crowd by snatching an equalizer just three minutes later, ensuring the spoils were shared in a thrilling 3-3 stalemate.",
-      "tags": [
-        "Champions League Qualifiers",
-        "Union Saint-Gilloise",
-        "Bodø/Glimt",
-        "Football"
-      ],
-      "image": "images/six-goal-thriller-sees-union-sg-and-bod-glimt-share-spoils-in-qualifier-fcac62ddbce7.svg",
-      "publishedAt": "2026-08-05T22:15:38.566Z"
     }
   ],
-  "lastRun": "2026-08-09T01:43:42.383Z"
+  "lastRun": "2026-08-09T04:19:38.473Z"
 }
