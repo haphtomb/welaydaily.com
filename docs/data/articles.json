@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "salah-completes-shock-trabzonspor-switch-after-liverpool-exit-5f78e0673818",
+      "headline": "Salah Completes Shock Trabzonspor Switch After Liverpool Exit",
+      "league": "Transfer News",
+      "summary": "Egyptian superstar Mohamed Salah has officially joined Turkish club Trabzonspor, concluding his illustrious tenure at Liverpool with an unexpected move. The forward's departure from Anfield comes after an agreement to terminate his contract, paving the way for his new challenge in the Süper Lig.",
+      "body": "Mohamed Salah, one of the Premier League's most iconic figures, has finalized his transfer to Trabzonspor, marking a significant shift in his decorated career. The move sees the prolific attacker leave Liverpool, where he achieved immense success and cemented his status as a global footballing icon. Reports indicate that Salah's contract with the Reds was terminated by mutual consent, allowing him to pursue this fresh opportunity in Turkey.\n\nThe decision to join Trabzonspor represents a new chapter for the 34-year-old, who will now bring his extraordinary talent to the Turkish Süper Lig. This transfer has sent ripples across the football world, as few anticipated such a high-profile player making a switch to the Turkish top-flight at this stage of his career.\n\nFans of Trabzonspor are undoubtedly thrilled by the arrival of a player of Salah's caliber, hoping he can propel their club to new heights. His presence is expected to significantly boost the league's profile and provide a substantial attacking threat for his new team.",
+      "tags": [
+        "Mohamed Salah",
+        "Trabzonspor",
+        "Liverpool",
+        "Transfer News"
+      ],
+      "image": "images/salah-completes-shock-trabzonspor-switch-after-liverpool-exit-5f78e0673818.svg",
+      "publishedAt": "2026-08-09T06:57:19.825Z"
+    },
+    {
       "id": "hammarby-s-european-dream-ends-in-extra-time-heartbreak-against-juventus-329eaf636e2c",
       "headline": "Hammarby's European Dream Ends in Extra-Time Heartbreak Against Juventus",
       "league": "Champions League",
@@ -887,22 +902,7 @@
       ],
       "image": "images/aston-villa-secures-pre-season-win-but-injury-concerns-loom-962c453fe994.svg",
       "publishedAt": "2026-08-06T02:34:37.897Z"
-    },
-    {
-      "id": "real-madrid-seals-record-breaking-140m-deal-for-leipzig-star-yan-diomand-91ce77547c97",
-      "headline": "Real Madrid Seals Record-Breaking €140m Deal for Leipzig Star Yan Diomandé",
-      "league": "Transfer News",
-      "summary": "Real Madrid has officially secured the services of highly-rated RB Leipzig winger Yan Diomandé in a monumental transfer, with the fee potentially reaching €140 million. This record-breaking agreement makes the 19-year-old Ivorian a historic signing for both clubs.",
-      "body": "European giants Real Madrid have finalized a staggering deal to acquire teenage sensation Yan Diomandé from RB Leipzig. The agreement, confirmed today, sees the Spanish club commit an initial €125 million for the 19-year-old winger, with performance-related add-ons that could see the total transfer fee climb to €140 million.\n\nThis blockbuster move establishes a new record for RB Leipzig's most expensive player sale and positions Diomandé to become Real Madrid's priciest acquisition ever. Furthermore, the Ivory Coast international is set to become the highest-priced African footballer in history.\n\nThe transfer concludes extensive negotiations between the clubs regarding the player's valuation. Diomandé's contract with Leipzig extended until 2030 and crucially lacked a release clause, allowing the Bundesliga side to command a historic fee for their talent.",
-      "tags": [
-        "Real Madrid",
-        "RB Leipzig",
-        "Yan Diomandé",
-        "Transfer Record"
-      ],
-      "image": "images/real-madrid-seals-record-breaking-140m-deal-for-leipzig-star-yan-diomand-91ce77547c97.svg",
-      "publishedAt": "2026-08-05T22:15:20.710Z"
     }
   ],
-  "lastRun": "2026-08-09T04:19:38.473Z"
+  "lastRun": "2026-08-09T06:57:24.118Z"
 }
