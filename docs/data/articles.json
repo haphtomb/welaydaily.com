@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "lvarez-reports-back-to-atl-tico-amidst-transfer-window-speculation-5f9bee42f392",
+      "headline": "Álvarez Reports Back to Atlético Amidst Transfer Window Speculation",
+      "league": "La Liga",
+      "summary": "Argentine forward Julián Álvarez has rejoined Atlético Madrid for pre-season, undergoing medical tests as uncertainty surrounding his future at the club persists. His return to duty comes amidst strong interest from top European clubs, including Barcelona and Real Madrid.",
+      "body": "Julián Álvarez, the prolific Argentine striker, has reported back to Atlético Madrid for pre-season training, completing his medical examinations today. His presence at the club signals a return to routine amidst intense speculation regarding his potential departure from the Spanish capital. The forward is under contract with Atlético until 2030, with a substantial release clause of €500 million, a figure the club has consistently pointed to when fending off suitors.\n\nDespite Atlético's firm stance, both Barcelona and Real Madrid have reportedly maintained significant interest in Álvarez. Barcelona is said to have presented an offer of around €100 million, which Atlético swiftly rejected, reiterating their unwillingness to negotiate the striker's transfer. Real Madrid also reportedly made a €150 million offer in June, which was similarly rebuffed, with Atlético emphasizing his hefty release clause.\n\nÁlvarez's return to training is seen as a move to normalize the situation, though a crucial discussion with manager Diego Simeone is still anticipated. Simeone views Álvarez as a vital component of his team's strategy. While his return has temporarily eased immediate transfer tensions, the possibility of a move, particularly with Barcelona's continued interest, has not been entirely ruled out by observers.",
+      "tags": [
+        "Julián Álvarez",
+        "Atlético Madrid",
+        "Transfer News",
+        "La Liga"
+      ],
+      "image": "images/lvarez-reports-back-to-atl-tico-amidst-transfer-window-speculation-5f9bee42f392.svg",
+      "publishedAt": "2026-08-10T21:42:23.549Z"
+    },
+    {
       "id": "espinoza-double-powers-nashville-sc-to-decisive-leagues-cup-victory-7fd33174563d",
       "headline": "Espinoza Double Powers Nashville SC to Decisive Leagues Cup Victory",
       "league": "MLS",
@@ -887,22 +902,7 @@
       ],
       "image": "images/manchester-city-shatters-record-to-land-midfield-prodigy-anderson-f07c66a234c7.svg",
       "publishedAt": "2026-08-07T21:42:10.791Z"
-    },
-    {
-      "id": "caf-scraps-billion-dollar-deal-amidst-afcon-schedule-shift-bcad99eaedeb",
-      "headline": "CAF Scraps Billion-Dollar Deal Amidst AFCON Schedule Shift",
-      "league": "AFCON",
-      "summary": "The Confederation of African Football (CAF) has reportedly abandoned a significant commercial rights agreement, potentially worth over a billion dollars, due to its decision to transition the Africa Cup of Nations to a quadrennial event. This strategic shift in tournament frequency has necessitated a complete re-evaluation of its commercial partnerships and future revenue streams.",
-      "body": "The Confederation of African Football has reportedly foregone a substantial commercial deal, valued at a minimum of $1 billion over eight years, following its executive committee's decision in December 2025 to move the Africa Cup of Nations from a biennial to a four-year cycle. This change in the tournament's schedule fundamentally altered the scope and value of the commercial rights available, leading to the abandonment of the previously advanced bidding process.\n\nCAF President Patrice Motsepe had previously indicated positive progress on a lucrative long-term partnership in July 2025. However, CAF's Head of Communications, Luxolo September, confirmed that the shift in AFCON frequency was the direct cause for discontinuing the 2025 bidding round, which was nearing completion.\n\nConsequently, CAF initiated a new global tender on July 23, 2026, seeking marketing and commercial partners for the 2028, 2032, and 2036 AFCON tournaments. This marks a departure from the prior bundled approach and reflects the financial adjustments required by the reduced frequency of Africa's premier international competition, as financial experts suggest such changes inevitably diminish commercial value.",
-      "tags": [
-        "CAF",
-        "AFCON",
-        "Commercial Rights",
-        "Football Finance"
-      ],
-      "image": "images/caf-scraps-billion-dollar-deal-amidst-afcon-schedule-shift-bcad99eaedeb.svg",
-      "publishedAt": "2026-08-07T21:42:27.395Z"
     }
   ],
-  "lastRun": "2026-08-10T18:59:35.705Z"
+  "lastRun": "2026-08-10T21:42:28.018Z"
 }
