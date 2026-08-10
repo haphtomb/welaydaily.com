@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T07:40:13.568Z",
+  "updatedAt": "2026-08-10T10:16:23.642Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -775,7 +775,7 @@
       "fixtures": [
         {
           "id": 564992,
-          "utcDate": "2027-05-23T12:00:00Z",
+          "utcDate": "2027-05-23T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 37,
           "home": "Club Atlético de Madrid",
@@ -785,7 +785,7 @@
         },
         {
           "id": 564993,
-          "utcDate": "2027-05-23T12:00:00Z",
+          "utcDate": "2027-05-23T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 37,
           "home": "Deportivo Alavés",
@@ -795,7 +795,7 @@
         },
         {
           "id": 564994,
-          "utcDate": "2027-05-23T12:00:00Z",
+          "utcDate": "2027-05-23T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 37,
           "home": "Sevilla FC",
@@ -805,7 +805,7 @@
         },
         {
           "id": 564995,
-          "utcDate": "2027-05-23T12:00:00Z",
+          "utcDate": "2027-05-23T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 37,
           "home": "Villarreal CF",
@@ -815,7 +815,7 @@
         },
         {
           "id": 564996,
-          "utcDate": "2027-05-23T12:00:00Z",
+          "utcDate": "2027-05-23T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 37,
           "home": "Real Racing Club de Santander",
@@ -825,7 +825,7 @@
         },
         {
           "id": 564997,
-          "utcDate": "2027-05-23T12:00:00Z",
+          "utcDate": "2027-05-23T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 37,
           "home": "RC Deportivo La Coruña",
@@ -835,7 +835,7 @@
         },
         {
           "id": 564988,
-          "utcDate": "2027-05-23T12:00:00Z",
+          "utcDate": "2027-05-23T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 37,
           "home": "Rayo Vallecano de Madrid",
@@ -845,7 +845,7 @@
         },
         {
           "id": 564989,
-          "utcDate": "2027-05-23T12:00:00Z",
+          "utcDate": "2027-05-23T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 37,
           "home": "FC Barcelona",
@@ -855,7 +855,7 @@
         },
         {
           "id": 564990,
-          "utcDate": "2027-05-23T12:00:00Z",
+          "utcDate": "2027-05-23T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 37,
           "home": "Valencia CF",
@@ -865,7 +865,7 @@
         },
         {
           "id": 564991,
-          "utcDate": "2027-05-23T12:00:00Z",
+          "utcDate": "2027-05-23T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 37,
           "home": "RC Celta de Vigo",
@@ -875,7 +875,7 @@
         },
         {
           "id": 564998,
-          "utcDate": "2027-05-30T12:00:00Z",
+          "utcDate": "2027-05-30T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 38,
           "home": "Levante UD",
@@ -885,7 +885,7 @@
         },
         {
           "id": 564999,
-          "utcDate": "2027-05-30T12:00:00Z",
+          "utcDate": "2027-05-30T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 38,
           "home": "Real Madrid CF",
@@ -895,7 +895,7 @@
         },
         {
           "id": 565000,
-          "utcDate": "2027-05-30T12:00:00Z",
+          "utcDate": "2027-05-30T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 38,
           "home": "Real Betis Balompié",
@@ -905,7 +905,7 @@
         },
         {
           "id": 565001,
-          "utcDate": "2027-05-30T12:00:00Z",
+          "utcDate": "2027-05-30T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 38,
           "home": "Real Sociedad de Fútbol",
@@ -915,7 +915,7 @@
         },
         {
           "id": 565002,
-          "utcDate": "2027-05-30T12:00:00Z",
+          "utcDate": "2027-05-30T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 38,
           "home": "Málaga CF",
@@ -925,7 +925,7 @@
         },
         {
           "id": 565003,
-          "utcDate": "2027-05-30T12:00:00Z",
+          "utcDate": "2027-05-30T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 38,
           "home": "Elche CF",
@@ -935,7 +935,7 @@
         },
         {
           "id": 565004,
-          "utcDate": "2027-05-30T12:00:00Z",
+          "utcDate": "2027-05-30T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 38,
           "home": "Athletic Club",
@@ -945,7 +945,7 @@
         },
         {
           "id": 565005,
-          "utcDate": "2027-05-30T12:00:00Z",
+          "utcDate": "2027-05-30T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 38,
           "home": "RCD Espanyol de Barcelona",
@@ -955,7 +955,7 @@
         },
         {
           "id": 565006,
-          "utcDate": "2027-05-30T12:00:00Z",
+          "utcDate": "2027-05-30T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 38,
           "home": "Getafe CF",
@@ -965,7 +965,7 @@
         },
         {
           "id": 565007,
-          "utcDate": "2027-05-30T12:00:00Z",
+          "utcDate": "2027-05-30T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 38,
           "home": "CA Osasuna",
