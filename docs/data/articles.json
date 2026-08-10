@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "uefa-revives-cup-winners-cup-overhauls-super-cup-format-9ded9724960a",
+      "headline": "UEFA Revives Cup Winners' Cup, Overhauls Super Cup Format",
+      "league": "Champions League",
+      "summary": "UEFA has officially announced the reintroduction of the Cup Winners' Cup for the 2026/27 season, bringing back a cherished European club competition. This revival will also see a significant alteration to the UEFA Super Cup, transforming it into a three-team event.",
+      "body": "European football's governing body, UEFA, has confirmed the return of the Cup Winners' Cup, a tournament exclusively for domestic cup winners from the top 32 nations based on coefficient rankings. The competition, set to relaunch in the 2026/27 campaign, will feature a two-legged knockout format leading up to the final, with the eventual champion earning a coveted spot in the following season's Champions League.\n\nThis strategic move aims to elevate the prestige of national cup competitions across Europe, which UEFA President Aleksander Ceferin emphasized as a vital part of football history. The reintroduction marks a significant shift in UEFA's club competition landscape, adding another layer of European football for fans and clubs alike.\n\nFurthermore, the Cup Winners' Cup winner will participate in a newly designed three-team UEFA Super Cup. Under this revised format, the Champions League winner will face the victor of a play-off between the Europa League champion and the Cup Winners' Cup champion, creating an expanded battle for European supremacy.",
+      "tags": [
+        "UEFA",
+        "Cup Winners' Cup",
+        "Super Cup",
+        "European Football"
+      ],
+      "image": "images/uefa-revives-cup-winners-cup-overhauls-super-cup-format-9ded9724960a.svg",
+      "publishedAt": "2026-08-10T16:01:31.469Z"
+    },
+    {
       "id": "uzuni-s-rapid-hat-trick-propels-austin-fc-to-dominant-leagues-cup-victory-790bdfb37ee8",
       "headline": "Uzuni's Rapid Hat Trick Propels Austin FC to Dominant Leagues Cup Victory",
       "league": "MLS",
@@ -887,22 +902,7 @@
       ],
       "image": "images/tottenham-welcomes-wilson-odobert-in-significant-villa-transfer-c5b94443f337.svg",
       "publishedAt": "2026-08-07T18:59:45.689Z"
-    },
-    {
-      "id": "real-madrid-secures-140m-deal-for-ivorian-sensation-yan-diomande-e703a6567ff2",
-      "headline": "Real Madrid Secures €140M Deal for Ivorian Sensation Yan Diomande",
-      "league": "La Liga",
-      "summary": "Real Madrid has made a significant statement in the transfer market, officially confirming the acquisition of highly-rated Ivorian winger Yan Diomande from RB Leipzig. The blockbuster deal, reportedly valued at up to €140 million, brings one of Europe's most promising talents to the Santiago Bernabéu on a long-term contract.",
-      "body": "Spanish giants Real Madrid have successfully concluded the transfer of teenage sensation Yan Diomande, securing the 19-year-old from Bundesliga side RB Leipzig. The substantial fee, which could reach €140 million, underscores Real Madrid's commitment to bolstering their squad with elite young talent, potentially making Diomande one of the club's most expensive signings ever.\n\nDiomande, who plays as a winger, has penned a comprehensive seven-year contract with Los Blancos. His arrival marks the sixth major signing for Real Madrid this summer under head coach Jose Mourinho, following other notable additions like Bernardo Silva and Marc Cucurella. The Ivorian international arrives with a strong pedigree, having been named the Bundesliga Young Player of the Season after an impressive 2025-26 campaign where he tallied 12 goals and eight assists in the league.\n\nThe highly sought-after teenager had attracted interest from several top European clubs, including Paris Saint-Germain and Liverpool, before opting for the Spanish capital. Diomande also featured prominently for Ivory Coast in the recent FIFA World Cup, helping his nation reach the quarter-finals. His signing is expected to inject significant pace and skill into Real Madrid's attacking lineup as they prepare for the upcoming La Liga season.",
-      "tags": [
-        "Real Madrid",
-        "Yan Diomande",
-        "Transfer News",
-        "La Liga"
-      ],
-      "image": "images/real-madrid-secures-140m-deal-for-ivorian-sensation-yan-diomande-e703a6567ff2.svg",
-      "publishedAt": "2026-08-07T15:59:10.040Z"
     }
   ],
-  "lastRun": "2026-08-10T13:08:43.330Z"
+  "lastRun": "2026-08-10T16:01:40.606Z"
 }
