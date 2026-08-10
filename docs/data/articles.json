@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "morocco-algeria-seal-world-cup-berths-in-gripping-wafcon-quarterfinals-10d9aedaa92d",
+      "headline": "Morocco, Algeria Seal World Cup Berths in Gripping WAFCON Quarterfinals",
+      "league": "AFCON",
+      "summary": "North African powerhouses Morocco and Algeria have successfully booked their tickets to the 2027 FIFA Women's World Cup, following thrilling victories in the Women's Africa Cup of Nations quarterfinals. Both nations also progressed to the WAFCON semifinals, continuing their impressive continental campaigns.",
+      "body": "The 2026 Women's Africa Cup of Nations delivered intense quarterfinal drama as hosts Morocco and their regional counterparts Algeria secured coveted spots in the 2027 FIFA Women's World Cup. Morocco, playing before their home crowd in Rabat, overcame a resilient South Africa with a 2-1 triumph. Sakina Ouzraoui found the net for the Atlas Lionesses, and Hanane Ait El Haj converted a penalty, establishing a lead that held firm despite a late goal from South Africa's Thembi Kgatlana.\n\nIn a parallel fixture held in Casablanca, Algeria mounted a spirited comeback to defeat Ivory Coast 2-1. After conceding an early goal to Ines Konan, the Algerian side capitalized on their opponents being reduced to ten players. Timely second-half strikes from Ines Khiri and Amira Braham propelled Algeria to a hard-fought victory.\n\nThese pivotal wins not only ensure Morocco and Algeria's progression to the WAFCON semifinals but also confirm their historic qualification for the global tournament in Brazil. Morocco is now set to challenge either defending champions Nigeria or Cameroon, while Algeria will face the winner of the match between Ghana and Malawi in their respective semifinal encounters.",
+      "tags": [
+        "WAFCON",
+        "Women's World Cup",
+        "Morocco",
+        "Algeria"
+      ],
+      "image": "images/morocco-algeria-seal-world-cup-berths-in-gripping-wafcon-quarterfinals-10d9aedaa92d.svg",
+      "publishedAt": "2026-08-10T01:47:02.845Z"
+    },
+    {
       "id": "champions-league-draw-date-confirmed-european-elite-await-fate-3d8ac76dc8c3",
       "headline": "Champions League Draw Date Confirmed, European Elite Await Fate",
       "league": "Champions League",
@@ -888,22 +903,7 @@
       ],
       "image": "images/southeast-asian-nations-reflect-on-divergent-2026-world-cup-qualifier-journeys-25a17a36ef3b.svg",
       "publishedAt": "2026-08-07T03:12:20.275Z"
-    },
-    {
-      "id": "chicago-fire-ignite-leagues-cup-campaign-with-dominant-victory-be9ae9367e5a",
-      "headline": "Chicago Fire Ignite Leagues Cup Campaign with Dominant Victory",
-      "league": "MLS",
-      "summary": "Chicago Fire FC commenced their Leagues Cup journey with a decisive 2-0 triumph over Liga MX side Club Necaxa, showcasing a strong performance on their home turf. Goals from Jonathan Dean and Andrew Gutman secured the vital win, setting a positive tone for their tournament aspirations.",
-      "body": "Chicago Fire FC delivered an impressive performance in their Leagues Cup opener, clinching a comfortable 2-0 victory against Club Necaxa at SeatGeek Stadium. The home side asserted control early, with Jonathan Dean finding the back of the net to give the Fire a crucial lead.\n\nAndrew Gutman extended Chicago's advantage with a well-taken goal, solidifying their position and leaving Necaxa with a significant challenge to overcome. The Fire's defense held firm throughout the match, denying the Liga MX opponents any clear path back into the contest.\n\nThis convincing win marks an excellent start for Chicago in the highly competitive Leagues Cup, providing a significant boost in confidence as they navigate the inter-league tournament. The team will look to build on this momentum in their upcoming fixtures.",
-      "tags": [
-        "Chicago Fire",
-        "Leagues Cup",
-        "Club Necaxa",
-        "Jonathan Dean"
-      ],
-      "image": "images/chicago-fire-ignite-leagues-cup-campaign-with-dominant-victory-be9ae9367e5a.svg",
-      "publishedAt": "2026-08-07T03:12:36.089Z"
     }
   ],
-  "lastRun": "2026-08-09T21:34:25.318Z"
+  "lastRun": "2026-08-10T01:47:07.124Z"
 }
