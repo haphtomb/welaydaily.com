@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "lukaku-seals-fenerbah-e-switch-in-6-million-deal-6092dfff85bb",
+      "headline": "Lukaku Seals Fenerbahçe Switch in €6 Million Deal",
+      "league": "Transfer News",
+      "summary": "Romelu Lukaku has completed a transfer from Napoli to Turkish giants Fenerbahçe, with both clubs reaching a €6 million agreement. The Belgian international's move marks another significant chapter in his career, as he heads to Istanbul to join the Süper Lig outfit.",
+      "body": "Fenerbahçe has officially secured the services of striker Romelu Lukaku from Italian side Napoli, with a deal reportedly agreed upon for €6 million. The prolific forward's switch to Turkey was finalized today, adding a high-profile name to the Süper Lig ahead of the new season. This transfer comes after extensive discussions between the two clubs, culminating in a successful conclusion for the Istanbul-based team.\n\nLukaku, who has a storied career across various top European leagues, will bring considerable experience and goal-scoring prowess to Fenerbahçe's attacking line. His arrival is expected to bolster the squad significantly as they aim to compete for domestic honors and make an impact in European competitions.\n\nThe move sees the Belgian international depart Serie A, where he has previously enjoyed successful stints. Supporters of Fenerbahçe will undoubtedly be eager to see their new acquisition in action, hoping he can replicate his past scoring feats and lead the club to success.",
+      "tags": [
+        "Romelu Lukaku",
+        "Fenerbahçe",
+        "Napoli",
+        "Transfer News"
+      ],
+      "image": "images/lukaku-seals-fenerbah-e-switch-in-6-million-deal-6092dfff85bb.svg",
+      "publishedAt": "2026-08-11T10:02:25.681Z"
+    },
+    {
+      "id": "rfef-launches-investigation-into-barcelona-over-contentious-lvarez-pursuit-355499bb3d77",
+      "headline": "RFEF Launches Investigation into Barcelona Over Contentious Álvarez Pursuit",
+      "league": "La Liga",
+      "summary": "The Royal Spanish Football Federation has initiated a disciplinary inquiry into FC Barcelona following allegations from Atlético Madrid regarding their pursuit of star striker Julián Álvarez. This development escalates an already acrimonious transfer saga, with Álvarez's future remaining uncertain just days before the new La Liga season commences.",
+      "body": "The highly publicized transfer battle for Atlético Madrid's prolific forward Julián Álvarez has taken a new turn as the Royal Spanish Football Federation (RFEF) confirmed a disciplinary investigation into FC Barcelona. Atlético Madrid accused their Catalan rivals of illegally contacting the player during a protected period, prompting the RFEF to open a formal inquiry into the matter.\n\nThis contentious situation highlights the escalating tensions between the two Spanish giants. Barcelona has reportedly viewed Álvarez as an ideal replacement for Robert Lewandowski, who departed last season, and has been actively pursuing the Argentine international. Atlético, however, has maintained an unyielding stance, rejecting previous substantial offers, including a €150 million bid from Real Madrid earlier in the summer.\n\nWith the 2026/27 La Liga season set to kick off in a few days, Álvarez's position at the Metropolitano remains ambiguous. While the player has reported back for pre-season medicals, reports suggest he intends to convey his desire to join Barcelona to manager Diego Simeone. The outcome of this meeting and the RFEF investigation will significantly shape the final days of the transfer window.",
+      "tags": [
+        "Julián Álvarez",
+        "FC Barcelona",
+        "Atlético Madrid",
+        "RFEF Investigation"
+      ],
+      "image": "images/rfef-launches-investigation-into-barcelona-over-contentious-lvarez-pursuit-355499bb3d77.svg",
+      "publishedAt": "2026-08-11T10:02:50.423Z"
+    },
+    {
       "id": "romero-nears-atl-tico-madrid-switch-as-tottenham-captain-eyes-exit-95988411e2a2",
       "headline": "Romero Nears Atlético Madrid Switch as Tottenham Captain Eyes Exit",
       "league": "Transfer News",
@@ -873,37 +903,7 @@
       ],
       "image": "images/african-nations-league-details-remain-undecided-as-caf-consultations-continue-a771ab3c05b4.svg",
       "publishedAt": "2026-08-08T09:40:52.015Z"
-    },
-    {
-      "id": "champions-league-qualifiers-deliver-drama-as-first-legs-conclude-a06a00ae9f44",
-      "headline": "Champions League Qualifiers Deliver Drama as First Legs Conclude",
-      "league": "Champions League",
-      "summary": "The UEFA Champions League third qualifying round's initial matches unfolded with a mix of dominant performances, tense stalemates, and dramatic late goals across Europe. Teams are now poised for crucial return fixtures with coveted spots in the league phase on the line.",
-      "body": "The first legs of the UEFA Champions League third qualifying round concluded on August 6, 2026, setting the stage for an exhilarating set of return fixtures. Several teams secured significant advantages, while others will be battling to overturn narrow deficits or capitalize on hard-fought draws. The stakes are incredibly high, as these matches represent the penultimate step before the prestigious Champions League league phase.\n\nCroatian powerhouse GNK Dinamo Zagreb delivered the most commanding performance, dismantling Lithuania's Kauno Žalgiris with a resounding 5-0 victory, firmly placing one foot in the playoff round. In contrast, Belgian side Union Saint-Gilloise and Norwegian champions Bodø/Glimt played out an enthralling 3-3 draw, leaving their tie finely balanced. Elsewhere, Slovakian club Slovan Bratislava secured a vital 2-1 away win against Mjällby, thanks to a dramatic 94th-minute goal from Manasse Kianga.\n\nBulgarian giants Levski Sofia also celebrated a late winner, with Serginho finding the net in stoppage time to give them a narrow 1-0 lead over Kairat Almaty. Other notable results included Sparta Praha's 2-1 home victory against Lyon and Fenerbahçe's comfortable 2-0 win over Sturm Graz. These results underscore the intense competition as clubs vie for a place among Europe's elite.",
-      "tags": [
-        "Champions League Qualifiers",
-        "Football",
-        "European Football",
-        "Match Results"
-      ],
-      "image": "images/champions-league-qualifiers-deliver-drama-as-first-legs-conclude-a06a00ae9f44.svg",
-      "publishedAt": "2026-08-08T09:41:08.066Z"
-    },
-    {
-      "id": "m-ller-makes-shock-mls-switch-joins-vancouver-whitecaps-77433e5e562b",
-      "headline": "Müller Makes Shock MLS Switch, Joins Vancouver Whitecaps",
-      "league": "MLS",
-      "summary": "German football icon Thomas Müller has completed a surprising move to Major League Soccer, signing a two-year deal with the Vancouver Whitecaps. The veteran forward's arrival marks a significant coup for the Canadian club as they bolster their attacking options.",
-      "body": "In a move that has sent ripples across the football world, legendary German forward Thomas Müller has officially joined the Vancouver Whitecaps of Major League Soccer. The transfer sees the long-serving Bayern Munich star embark on a new chapter in North America, committing to a two-year contract with the Western Conference outfit. This acquisition is expected to provide an immediate boost to the Whitecaps' offensive prowess and global profile.\n\nMüller, renowned for his exceptional intelligence, tireless work rate, and unique attacking style often dubbed 'Raumdeuter' (space interpreter), brings a wealth of experience and a winning mentality to the MLS. His decorated career includes numerous Bundesliga titles and a FIFA World Cup triumph with Germany in 2014, making him one of the most successful players of his generation.\n\nThe Whitecaps finalized the agreement, with Müller reportedly signing his deal on August 1st, though the news of the completed transfer broke within the last 24-48 hours. Supporters in Vancouver are eagerly anticipating the debut of their new marquee signing, hoping his presence will elevate the team's performance and help them contend for silverware in the upcoming seasons.",
-      "tags": [
-        "Thomas Müller",
-        "Vancouver Whitecaps",
-        "MLS Transfer",
-        "Bayern Munich"
-      ],
-      "image": "images/m-ller-makes-shock-mls-switch-joins-vancouver-whitecaps-77433e5e562b.svg",
-      "publishedAt": "2026-08-08T06:54:57.785Z"
     }
   ],
-  "lastRun": "2026-08-11T07:08:35.625Z"
+  "lastRun": "2026-08-11T10:02:54.424Z"
 }
