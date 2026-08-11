@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "chalobah-departs-chelsea-for-como-in-significant-serie-a-switch-59db491b06ef",
+      "headline": "Chalobah Departs Chelsea for Como in Significant Serie A Switch",
+      "league": "Transfer News",
+      "summary": "Trevoh Chalobah has officially ended his long association with Chelsea, completing a permanent transfer to newly promoted Serie A side Como. The defender's move marks a new chapter in his career after spending two decades within the Blues' system.",
+      "body": "Chelsea confirmed the departure of Trevoh Chalobah, with the versatile defender joining Italian club Como in a deal reportedly worth €30 million. This transfer brings an end to Chalobah's extensive time at Stamford Bridge, having progressed through the club's academy ranks since the age of eight. His move to Serie A sees him join a side preparing for their return to Italy's top flight.\n\nThe 26-year-old had found himself increasingly on the fringes of the Chelsea squad, making this transfer a mutually beneficial arrangement for all parties. Chalobah will be looking for consistent playing time and a fresh challenge in Italy, where he can establish himself as a key figure in Como's defensive setup.\n\nThis sale represents a notable piece of business for Chelsea as they continue to reshape their squad under new management. The funds generated from Chalobah's transfer will likely provide further flexibility for the London club in their ongoing pursuit of new targets before the transfer window closes.",
+      "tags": [
+        "Chelsea",
+        "Como",
+        "Serie A",
+        "Trevoh Chalobah"
+      ],
+      "image": "images/chalobah-departs-chelsea-for-como-in-significant-serie-a-switch-59db491b06ef.svg",
+      "publishedAt": "2026-08-11T04:21:24.314Z"
+    },
+    {
       "id": "real-salt-lake-secures-attacker-lineker-rodrigues-on-permanent-mls-deal-df0050a8b98c",
       "headline": "Real Salt Lake Secures Attacker Lineker Rodrigues on Permanent MLS Deal",
       "league": "MLS",
@@ -887,22 +902,7 @@
       ],
       "image": "images/barcelona-lands-anthony-gordon-in-staggering-80-million-transfer-de422e170220.svg",
       "publishedAt": "2026-08-08T01:39:59.736Z"
-    },
-    {
-      "id": "galaxy-secures-chucky-lozano-in-blockbuster-loan-deal-51abcdba7834",
-      "headline": "Galaxy Secures Chucky Lozano in Blockbuster Loan Deal",
-      "league": "MLS",
-      "summary": "The LA Galaxy have significantly bolstered their attacking options by acquiring Mexican international Hirving “Chucky” Lozano from Western Conference rivals San Diego FC. This high-profile loan move sees Lozano join the Galaxy through December 2026, with an option for a permanent transfer.",
-      "body": "In a major move shaking up the Western Conference, the LA Galaxy announced yesterday the acquisition of star winger Hirving “Chucky” Lozano. The dynamic Mexican talent arrives on loan from San Diego FC, occupying a coveted Designated Player slot, with the potential for a permanent transfer at the end of the year. This deal injects significant firepower into the Galaxy's offense, which already features formidable players like Joseph Paintsil, Marco Reus, and João Klauss.\n\nLozano, a 31-year-old former Mexican national team forward, had a remarkable inaugural 2025 season with San Diego FC, where he was their first-ever Designated Player. He played a crucial role in leading the club to the Western Conference Final, contributing 11 goals and 11 assists across 31 appearances in the regular season and Audi MLS Cup Playoffs.\n\nDespite his impressive debut season, Lozano had been sidelined for much of the 2026 campaign by San Diego FC, with the club indicating he was not part of their future plans. His arrival in Los Angeles marks a fresh start for the experienced attacker, as the Galaxy aim to strengthen their squad for the latter part of the season and make a strong push.",
-      "tags": [
-        "MLS",
-        "LA Galaxy",
-        "Chucky Lozano",
-        "Transfer News"
-      ],
-      "image": "images/galaxy-secures-chucky-lozano-in-blockbuster-loan-deal-51abcdba7834.svg",
-      "publishedAt": "2026-08-08T01:40:12.711Z"
     }
   ],
-  "lastRun": "2026-08-11T01:44:22.088Z"
+  "lastRun": "2026-08-11T04:21:35.588Z"
 }
