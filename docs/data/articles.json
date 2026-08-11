@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "arsenal-secures-midfield-maestro-bruno-guimaraes-in-blockbuster-75m-deal-03012b45d6c8",
+      "headline": "Arsenal Secures Midfield Maestro Bruno Guimaraes in Blockbuster £75m Deal",
+      "league": "Transfer News",
+      "summary": "Arsenal has officially completed the signing of highly-rated midfielder Bruno Guimaraes from Newcastle United, solidifying their squad with a major acquisition. The Gunners reportedly shelled out a substantial £75 million to bring the Brazilian international to the Emirates, a move that signals serious intent for the upcoming season.",
+      "body": "In a significant statement of intent, Arsenal has confirmed the arrival of Bruno Guimaraes from Newcastle United, concluding one of the summer's most anticipated transfer sagas. The North London club has reportedly committed a hefty £75 million to secure the services of the commanding midfielder, who has consistently impressed since his move to St. James' Park. This high-profile transfer is expected to bolster Arsenal's midfield considerably as they aim for top honors in the new campaign.\n\nGuimaraes, 28, has penned a long-term contract at the Emirates Stadium, with reports suggesting he will remain with the club until 2030. His arrival comes after weeks of intense speculation, culminating in an official announcement that has sent ripples through the Premier League. The Brazilian's combative style, exceptional passing range, and leadership qualities are seen as crucial additions to Mikel Arteta's squad.\n\nNewcastle United will undoubtedly feel the loss of their influential midfielder, who became a fan favorite during his tenure. However, the substantial transfer fee received will provide the Magpies with significant funds to reinvest in their squad before the transfer window closes. For Arsenal, this signing represents a clear ambition to compete at the highest level, adding a proven talent to their ranks.",
+      "tags": [
+        "Arsenal",
+        "Bruno Guimaraes",
+        "Newcastle United",
+        "Premier League Transfers"
+      ],
+      "image": "images/arsenal-secures-midfield-maestro-bruno-guimaraes-in-blockbuster-75m-deal-03012b45d6c8.svg",
+      "publishedAt": "2026-08-11T13:05:26.961Z"
+    },
+    {
       "id": "lukaku-seals-fenerbah-e-switch-in-6-million-deal-6092dfff85bb",
       "headline": "Lukaku Seals Fenerbahçe Switch in €6 Million Deal",
       "league": "Transfer News",
@@ -888,22 +903,7 @@
       ],
       "image": "images/caf-s-quadrennial-afcon-shift-cost-continent-over-1-billion-deal-0c5fd75147aa.svg",
       "publishedAt": "2026-08-08T12:50:26.430Z"
-    },
-    {
-      "id": "african-nations-league-details-remain-undecided-as-caf-consultations-continue-a771ab3c05b4",
-      "headline": "African Nations League Details Remain Undecided as CAF Consultations Continue",
-      "league": "Other",
-      "summary": "The Confederation of African Football (CAF) has confirmed that discussions are still underway regarding the proposed African Nations League, with crucial elements of the competition yet to be finalized. Key aspects like the tournament's format and the nations slated to host the inaugural event are still under review as the continental body seeks stakeholder input.",
-      "body": "The Confederation of African Football (CAF) recently announced that the highly anticipated African Nations League is still in its developmental stages. While the concept of a new continental competition has generated considerable buzz, officials indicate that significant details remain unconfirmed as of today, August 8, 2026.\n\nAccording to CAF, the precise format for the league and the selection of host countries are among the critical points that require further deliberation. This proposed tournament is expected to integrate into CAF's updated international football calendar, aiming to enhance competitive opportunities across the continent.\n\nThe governing body stressed that extensive consultations with relevant stakeholders are essential before a definitive structure and hosting arrangements can be officially unveiled. Football enthusiasts await more information as CAF continues its efforts to shape the future of African club and national team competitions.",
-      "tags": [
-        "CAF",
-        "African Nations League",
-        "Football Development",
-        "Continental Football"
-      ],
-      "image": "images/african-nations-league-details-remain-undecided-as-caf-consultations-continue-a771ab3c05b4.svg",
-      "publishedAt": "2026-08-08T09:40:52.015Z"
     }
   ],
-  "lastRun": "2026-08-11T10:02:54.424Z"
+  "lastRun": "2026-08-11T13:06:21.610Z"
 }
