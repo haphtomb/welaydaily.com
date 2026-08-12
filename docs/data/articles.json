@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "caf-unveils-referee-appointments-for-wafcon-2026-semi-final-clashes-9e2abff0d7e6",
+      "headline": "CAF Unveils Referee Appointments for WAFCON 2026 Semi-Final Clashes",
+      "league": "AFCON",
+      "summary": "The Confederation of African Football has unveiled the refereeing teams selected to officiate the highly anticipated semi-final matches of the 2026 Women's Africa Cup of Nations, ensuring experienced officials preside over these crucial encounters. These appointments highlight CAF's commitment to fair play and high standards as the tournament reaches its decisive stages in Rabat.",
+      "body": "The Confederation of African Football (CAF) recently announced the officiating crews for the two semi-final clashes of the 2026 Women's Africa Cup of Nations, taking place in Rabat. For the match featuring Morocco and Cameroon, Togolese referee Vicentia Enyonam Amedome will take charge, supported by assistant referees Nafissatou Yekini Shitou from Benin and Sakina Hamidou Alfa of Niger. The fourth official for this encounter will be Shamirath Nabadda, with Diana Chikotesha designated as the reserve assistant referee.\n\nIn the second semi-final, which pits Algeria against Malawi, Nigerian official Eunice Akintoye has been entrusted with the whistle. She will be joined by Cameroonian Carine Atezambong and Mireille Kanjinga from DR Congo as her assistant referees. Josphine Wanjiku of Kenya will serve as the fourth official, while Alice Umutesi from Rwanda is the reserve assistant.\n\nFurthermore, the video assistant referee (VAR) team for the Algeria versus Malawi fixture has also been confirmed, with Salima Mukansanga from Rwanda overseeing the technology. She will be assisted by Issa Sy of Senegal and Peter Waweru from Kenya, ensuring all decisions are thoroughly reviewed in these critical knockout games. The careful selection of these experienced officials underscores the significance of these matches in the continental competition.",
+      "tags": [
+        "WAFCON 2026",
+        "Referee Appointments",
+        "African Football",
+        "CAF"
+      ],
+      "image": "images/caf-unveils-referee-appointments-for-wafcon-2026-semi-final-clashes-9e2abff0d7e6.svg",
+      "publishedAt": "2026-08-12T21:45:30.643Z"
+    },
+    {
       "id": "celta-vigo-season-opener-in-doubt-amidst-bala-dos-pitch-fungus-outbreak-19b408701bf1",
       "headline": "Celta Vigo Season Opener in Doubt Amidst Balaídos Pitch Fungus Outbreak",
       "league": "La Liga",
@@ -891,22 +906,7 @@
       ],
       "image": "images/ferran-torres-nears-psg-move-after-agreeing-personal-terms-3b1fd7079b9f.svg",
       "publishedAt": "2026-08-09T15:32:47.581Z"
-    },
-    {
-      "id": "romero-reportedly-open-to-shock-arsenal-switch-amidst-tottenham-s-firm-stance-912df69dec97",
-      "headline": "Romero Reportedly Open to Shock Arsenal Switch Amidst Tottenham's Firm Stance",
-      "league": "Transfer News",
-      "summary": "Reports emerging today indicate that Tottenham Hotspur's captain, Cristian Romero, might be receptive to a surprising move to North London rivals Arsenal. However, Spurs officials are reportedly resolute in their determination to prevent their star defender from making such a highly contentious transfer.",
-      "body": "The football world is abuzz with speculation surrounding Tottenham Hotspur's influential defender, Cristian Romero, following fresh reports linking him with a sensational switch across North London. Sources suggest that the Argentine international is reportedly open to the prospect of joining Arsenal, a development that would undoubtedly ignite a fierce rivalry.\n\nDespite the player's apparent interest, Tottenham's hierarchy has reportedly taken a firm stance, unequivocally stating their refusal to facilitate any move that would see their captain join their arch-nemesis. This defiant position sets the stage for a potential transfer saga as the summer window nears its conclusion, with other European giants like Atlético Madrid and Inter Milan also previously mentioned as interested parties.\n\nShould Romero push for the move, it would represent one of the most unexpected and controversial transfers in recent Premier League history, testing the resolve of both clubs. The coming days will reveal whether Arsenal can sway Tottenham or if the Lilywhites will successfully fend off their rivals' advances for their key defensive asset.",
-      "tags": [
-        "Cristian Romero",
-        "Arsenal",
-        "Tottenham Hotspur",
-        "Premier League"
-      ],
-      "image": "images/romero-reportedly-open-to-shock-arsenal-switch-amidst-tottenham-s-firm-stance-912df69dec97.svg",
-      "publishedAt": "2026-08-09T15:33:12.380Z"
     }
   ],
-  "lastRun": "2026-08-12T19:03:59.620Z"
+  "lastRun": "2026-08-12T21:45:35.316Z"
 }
