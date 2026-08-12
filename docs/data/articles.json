@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "late-heartbreak-for-charlotte-fc-as-pachuca-secures-leagues-cup-victory-4752fec6d59d",
+      "headline": "Late Heartbreak for Charlotte FC as Pachuca Secures Leagues Cup Victory",
+      "league": "MLS",
+      "summary": "Charlotte FC suffered a crushing 1-0 defeat to CF Pachuca in their Leagues Cup opener, conceding a decisive goal in stoppage time after a missed penalty opportunity. The loss at home leaves The Crown with work to do in the tournament's group stage.",
+      "body": "Charlotte FC's Leagues Cup campaign began with a bitter taste as they fell 1-0 to Mexican side CF Pachuca on Tuesday night. Despite an evenly contested match, the home side was unable to capitalize on key chances, ultimately leading to a late concession that sealed their fate. The result marks a disappointing start for Charlotte in the inter-league competition. \n\nThe game remained scoreless through much of the second half, but the intensity rose with several significant moments. Allan Saint-Maximin made his highly anticipated debut for Charlotte FC in the 72nd minute, injecting energy into the attack. Just nine minutes later, Saint-Maximin earned a penalty, presenting a golden opportunity for The Crown to take the lead. \n\nHowever, Archie Goodwin's subsequent spot-kick was bravely saved by the Pachuca goalkeeper, denying Charlotte the breakthrough. The missed chance proved costly, as Pachuca snatched a dramatic winner in stoppage time, leaving the home crowd at Bank of America Stadium stunned and securing all three points for the Liga MX visitors. Charlotte FC will now look to rebound in their next Leagues Cup fixture.",
+      "tags": [
+        "Charlotte FC",
+        "CF Pachuca",
+        "Leagues Cup",
+        "Match Report"
+      ],
+      "image": "images/late-heartbreak-for-charlotte-fc-as-pachuca-secures-leagues-cup-victory-4752fec6d59d.svg",
+      "publishedAt": "2026-08-12T04:48:27.603Z"
+    },
+    {
       "id": "chelsea-secures-villarreal-goalkeeper-jorgensen-in-25-million-deal-261f6d75f99e",
       "headline": "Chelsea Secures Villarreal Goalkeeper Jorgensen in €25 Million Deal",
       "league": "Transfer News",
@@ -888,22 +903,7 @@
       ],
       "image": "images/ipswich-town-bolsters-midfield-with-seasoned-serbian-international-sa-a-luki-157a311a0301.svg",
       "publishedAt": "2026-08-08T18:38:19.350Z"
-    },
-    {
-      "id": "uefa-tweaks-key-rules-for-upcoming-champions-league-season-8f30b3db16b0",
-      "headline": "UEFA Tweaks Key Rules for Upcoming Champions League Season",
-      "league": "Champions League",
-      "summary": "UEFA has implemented two significant rule adjustments for the 2026/27 Champions League, impacting player discipline and in-stadium match time displays. These changes aim to enhance fairness and the fan experience as the new European campaign approaches.",
-      "body": "European football's governing body, UEFA, has confirmed two notable changes to its competition regulations ahead of the 2026/27 Champions League season. One primary adjustment involves the yellow card accumulation threshold, which has been raised. Players will now require four yellow cards to trigger a one-match suspension, an increase from the previous limit of three cautions. This modification applies across all UEFA club competitions, including the Europa League and Conference League.\n\nAdditionally, UEFA is altering the long-standing practice of stadium clocks stopping at 45 and 90 minutes. Moving forward, stadium clocks will continue to display the elapsed time, indicating additional minutes (e.g., 45 + x, 90 + y) rather than halting at the end of regular time. This revision is intended to provide match-going supporters with clearer, real-time information regarding stoppage time, aligning with modern technological advancements and improving the overall stadium experience for fans.\n\nThese regulatory updates come as preparations intensify for the new Champions League campaign. The draw for the league phase is scheduled for Thursday, August 27th, with the competition proper set to commence on September 8th. Clubs across Europe are currently finalizing their squads and pre-season preparations, eager to contend for continental glory under these new competition guidelines.",
-      "tags": [
-        "UEFA",
-        "Rule Changes",
-        "Champions League",
-        "Football Regulations"
-      ],
-      "image": "images/uefa-tweaks-key-rules-for-upcoming-champions-league-season-8f30b3db16b0.svg",
-      "publishedAt": "2026-08-08T18:38:39.696Z"
     }
   ],
-  "lastRun": "2026-08-12T01:56:30.846Z"
+  "lastRun": "2026-08-12T04:48:31.958Z"
 }
