@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "cameroon-stuns-host-nation-morocco-in-wafcon-semi-final-shootout-c4003287550e",
+      "headline": "Cameroon Stuns Host Nation Morocco in WAFCON Semi-Final Shootout",
+      "league": "AFCON",
+      "summary": "The Indomitable Lionesses of Cameroon secured a dramatic victory against tournament hosts Morocco, triumphing in a penalty shootout to reach the TotalEnergies CAF Women's Africa Cup of Nations final. This hard-fought semi-final clash in Rabat saw both teams battle through 120 minutes without a goal, setting the stage for a tense decider from the spot.",
+      "body": "Cameroon's women's national team delivered a stunning performance on Wednesday night, overcoming a passionate home crowd and a resilient Moroccan side in the semi-finals of the TotalEnergies CAF Women's Africa Cup of Nations 2026. The match, held at the Moulay El Hassan Stadium in Rabat, remained goalless through regular and extra time, leading to a decisive penalty shootout.\n\nThe Atlas Lionesses had a golden opportunity to take the lead during extra time but failed to convert a penalty, a miss that ultimately proved costly. In the ensuing shootout, Cameroon displayed remarkable composure, successfully converting three of their four attempts through Marie Ngah, Rose Bella, and Myriam Nyadjou.\n\nMorocco, conversely, could only manage one successful penalty, scored by Hanane Aït El Haj, as Cameroon secured a 3-1 victory in the shootout. This momentous win sends Cameroon into their fourth WAFCON final, where they will face Malawi, who defeated Algeria in the other semi-final.",
+      "tags": [
+        "WAFCON 2026",
+        "Cameroon",
+        "Morocco",
+        "Penalty Shootout"
+      ],
+      "image": "images/cameroon-stuns-host-nation-morocco-in-wafcon-semi-final-shootout-c4003287550e.svg",
+      "publishedAt": "2026-08-13T16:00:18.659Z"
+    },
+    {
       "id": "chelsea-shatters-transfer-record-for-english-midfield-talent-c1abd1f2e832",
       "headline": "Chelsea Shatters Transfer Record for English Midfield Talent",
       "league": "Transfer News",
@@ -890,22 +905,7 @@
       ],
       "image": "images/gallagher-completes-40-million-move-to-atl-tico-madrid-from-chelsea-51a8e2ee2d7e.svg",
       "publishedAt": "2026-08-10T10:18:29.478Z"
-    },
-    {
-      "id": "barcelona-nears-blockbuster-deal-for-manchester-city-midfielder-rodri-efce2d04bda0",
-      "headline": "Barcelona Nears Blockbuster Deal for Manchester City Midfielder Rodri",
-      "league": "La Liga",
-      "summary": "Catalan giants Barcelona are reportedly on the verge of finalizing a significant transfer for Manchester City's highly-rated midfielder, Rodri. Negotiations between the two powerhouse clubs have reached their conclusive stages, with an agreement expected imminently.",
-      "body": "Barcelona is reportedly closing in on securing the services of Manchester City's midfield linchpin, Rodri. After an initial offer was rebuffed, the La Liga champions, led by Deco, returned with an enhanced proposal that appears to have been well-received by the English club. This development places Barcelona definitively ahead of rivals Real Madrid in the pursuit of the Spanish international.\n\nReports from the Spanish media indicate that a definitive agreement is closer than ever, with only minor details remaining before the necessary documents are exchanged. Manager Hansi Flick could potentially integrate Rodri into his squad as early as the upcoming week, significantly bolstering Barcelona's midfield options ahead of the new season.\n\nRodri has been a pivotal figure for Manchester City, making this a high-profile move that underscores Barcelona's ambition to strengthen their squad. His arrival would undoubtedly be a statement of intent as they aim to continue their dominance in La Liga and compete fiercely in European competitions.",
-      "tags": [
-        "Barcelona",
-        "Rodri",
-        "Transfer News",
-        "Manchester City"
-      ],
-      "image": "images/barcelona-nears-blockbuster-deal-for-manchester-city-midfielder-rodri-efce2d04bda0.svg",
-      "publishedAt": "2026-08-10T10:18:42.985Z"
     }
   ],
-  "lastRun": "2026-08-13T13:12:03.499Z"
+  "lastRun": "2026-08-13T16:01:04.641Z"
 }
