@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "emotional-messi-returns-to-pitch-as-inter-miami-bows-out-of-leagues-cup-d6c597bc7f61",
+      "headline": "Emotional Messi Returns to Pitch as Inter Miami Bows Out of Leagues Cup",
+      "league": "MLS",
+      "summary": "Lionel Messi made an emotional return to action for Inter Miami, just days after the passing of his father, though his comeback couldn't prevent the club's Leagues Cup elimination. The superstar entered as a substitute in a hard-fought 3-2 defeat to Club León, ending Miami's tournament journey.",
+      "body": "Inter Miami witnessed the return of their talisman, Lionel Messi, to the field on Wednesday night, a poignant moment coming only four days after he laid his father, Jorge Messi, to rest. The Argentine icon, who had previously shared a heartfelt tribute to his father on social media, joined the match as a second-half substitute, showcasing immense resolve amidst personal grief. His presence, however, was not enough to alter the outcome of a crucial Leagues Cup encounter.\n\nThe Herons faced a determined Club León side in their final Phase One match, ultimately falling to a narrow 3-2 defeat. This result sealed Inter Miami's exit from the Leagues Cup, a disappointing end to their campaign in the cross-league tournament. The team now shifts its focus back to Major League Soccer regular season play, with a significant clash against Eastern Conference leaders Nashville SC looming this weekend.\n\nHead coach Guillermo Hoyos acknowledged the profound impact of Messi's loss, emphasizing the team's collective support for their captain during this incredibly difficult period. Despite the somber circumstances surrounding his return and the team's elimination, Messi's commitment to his club was evident, underscoring his dedication even in personal adversity.",
+      "tags": [
+        "Lionel Messi",
+        "Inter Miami",
+        "Leagues Cup",
+        "Club León"
+      ],
+      "image": "images/emotional-messi-returns-to-pitch-as-inter-miami-bows-out-of-leagues-cup-d6c597bc7f61.svg",
+      "publishedAt": "2026-08-13T04:56:38.507Z"
+    },
+    {
       "id": "hull-city-lands-australian-prodigy-herrington-in-record-breaking-transfer-1502edf6ed04",
       "headline": "Hull City Lands Australian Prodigy Herrington in Record-Breaking Transfer",
       "league": "Transfer News",
@@ -891,22 +906,7 @@
       ],
       "image": "images/barcelona-shifts-strategy-in-pursuing-atl-tico-s-juli-n-lvarez-71594f9a2fc6.svg",
       "publishedAt": "2026-08-09T18:41:32.423Z"
-    },
-    {
-      "id": "paris-saint-germain-and-aston-villa-set-for-super-cup-showdown-in-austria-25f8257dbe09",
-      "headline": "Paris Saint-Germain and Aston Villa Set for Super Cup Showdown in Austria",
-      "league": "Champions League",
-      "summary": "Europe's club football season is poised to ignite as reigning Champions League victors Paris Saint-Germain prepare to face Europa League champions Aston Villa in the highly anticipated UEFA Super Cup. This clash for the continent's first piece of silverware will unfold in Austria, offering an early glimpse of European powerhouses.",
-      "body": "The 2026 UEFA Super Cup is just days away, with Paris Saint-Germain, fresh off their Champions League triumph, set to battle Aston Villa, the Europa League titleholders, on August 13. This prestigious encounter will take place at the Red Bull Arena in Austria, marking the traditional curtain-raiser for the new European club season. Football enthusiasts are eager to see which club will claim the initial continental honors of the campaign.\n\nParis Saint-Germain enters the match as the defending Champions League champions, aiming to continue their dominance in Europe. Aston Villa, having secured the Europa League, will be looking to make a statement against one of the continent's top clubs, demonstrating their intent for the upcoming season. The fixture promises an exciting contest as both teams vie for early bragging rights.\n\nBeyond the Super Cup, the broader Champions League picture is also taking shape. The expanded league phase of Europe's premier club competition is scheduled to commence shortly after, with Matchday 1 fixtures slated for September 8 through September 10, 2026.",
-      "tags": [
-        "Champions League",
-        "UEFA Super Cup",
-        "Paris Saint-Germain",
-        "Aston Villa"
-      ],
-      "image": "images/paris-saint-germain-and-aston-villa-set-for-super-cup-showdown-in-austria-25f8257dbe09.svg",
-      "publishedAt": "2026-08-09T18:41:43.082Z"
     }
   ],
-  "lastRun": "2026-08-13T01:57:48.058Z"
+  "lastRun": "2026-08-13T05:01:43.459Z"
 }
