@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "hull-city-lands-australian-prodigy-herrington-in-record-breaking-transfer-1502edf6ed04",
+      "headline": "Hull City Lands Australian Prodigy Herrington in Record-Breaking Transfer",
+      "league": "Transfer News",
+      "summary": "Premier League side Hull City has completed a landmark transfer, securing 18-year-old Australian international defender Lucas Herrington from the Colorado Rapids. The move shatters the Rapids' club record fee and establishes a new benchmark for a defender in Major League Soccer history.",
+      "body": "Hull City has officially announced the acquisition of highly-rated Australian defender Lucas Herrington from MLS outfit Colorado Rapids. The transfer, completed on August 12, 2026, represents a significant investment for the Premier League club, with the fee setting a new record for the Colorado Rapids and also becoming the highest ever paid for a defender originating from Major League Soccer.\n\nThe 18-year-old center-back enjoyed a breakout year with the Rapids, featuring in all 18 of their MLS matches this season and starting all but one. His impressive performances also saw him represent Australia at the recent 2026 FIFA World Cup, where he started two matches, including a full 120-minute display in the Socceroos' Round of 32 clash against Egypt.\n\nHerrington's arrival is expected to bolster Hull City's defensive options as they prepare for the demanding Premier League campaign. The Rapids will retain a percentage of any future sell-on fees for the promising young talent, highlighting the potential they see in his continued development at the highest level.",
+      "tags": [
+        "Premier League",
+        "MLS",
+        "Transfer",
+        "Hull City"
+      ],
+      "image": "images/hull-city-lands-australian-prodigy-herrington-in-record-breaking-transfer-1502edf6ed04.svg",
+      "publishedAt": "2026-08-13T01:57:43.791Z"
+    },
+    {
       "id": "caf-unveils-referee-appointments-for-wafcon-2026-semi-final-clashes-9e2abff0d7e6",
       "headline": "CAF Unveils Referee Appointments for WAFCON 2026 Semi-Final Clashes",
       "league": "AFCON",
@@ -891,22 +906,7 @@
       ],
       "image": "images/paris-saint-germain-and-aston-villa-set-for-super-cup-showdown-in-austria-25f8257dbe09.svg",
       "publishedAt": "2026-08-09T18:41:43.082Z"
-    },
-    {
-      "id": "ferran-torres-nears-psg-move-after-agreeing-personal-terms-3b1fd7079b9f",
-      "headline": "Ferran Torres Nears PSG Move After Agreeing Personal Terms",
-      "league": "Transfer News",
-      "summary": "Paris Saint-Germain is reportedly on the verge of securing Barcelona forward Ferran Torres, with personal terms between the player and the French champions now agreed. This potential €50 million transfer would see the Spanish international join the formidable attacking lineup at the Parc des Princes.",
-      "body": "Paris Saint-Germain has significantly advanced in their pursuit of Barcelona's Ferran Torres, as reports confirm the player has given his assent to personal terms with the Parisian club. This development paves the way for a major transfer in the current window, with negotiations now focusing on the fee between the two European giants.\n\nTorres, who has been a prominent figure for Barcelona, is understood to have informed his current club of his desire to make the switch. The reported transfer fee is around €50 million, a substantial investment that would further bolster PSG's already star-studded squad as they prepare for another Champions League campaign.\n\nThe potential move highlights PSG's continued ambition in the transfer market, seeking to strengthen their offensive options with a versatile and talented forward. For Barcelona, the sale would provide significant financial flexibility, allowing them to potentially reinvest in their squad as the new season approaches.",
-      "tags": [
-        "Ferran Torres",
-        "PSG",
-        "Barcelona",
-        "Transfer Rumors"
-      ],
-      "image": "images/ferran-torres-nears-psg-move-after-agreeing-personal-terms-3b1fd7079b9f.svg",
-      "publishedAt": "2026-08-09T15:32:47.581Z"
     }
   ],
-  "lastRun": "2026-08-12T21:45:35.316Z"
+  "lastRun": "2026-08-13T01:57:48.058Z"
 }
