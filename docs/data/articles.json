@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "banyana-banyana-edge-super-falcons-keep-world-cup-dreams-alive-7a366bfb9067",
+      "headline": "Banyana Banyana Edge Super Falcons, Keep World Cup Dreams Alive",
+      "league": "World Cup Qualifiers",
+      "summary": "South Africa's Banyana Banyana secured a vital 2-1 victory over rivals Nigeria, eliminating the Super Falcons from the 2027 FIFA Women's World Cup race. This thrilling play-off win means South Africa will now progress to the intercontinental qualification stage.",
+      "body": "Banyana Banyana delivered a significant blow to Nigeria's 2027 FIFA Women's World Cup aspirations with a hard-fought 2-1 triumph in their CAF play-off encounter held in Casablanca. The intense match saw South Africa take control after the half-time interval, ultimately securing their passage to the next stage of qualification.\n\nThe deadlock was broken in the 56th minute by Thembi Kgatlana, who found the back of the net to give South Africa the lead. Captain Refiloe Jane then extended Banyana Banyana's advantage in the 77th minute with a deflected strike, seemingly sealing the victory. However, the Super Falcons found a late lifeline when Christy Ucheibe converted a penalty, reducing the deficit.\n\nDespite a tense finish, South Africa held firm, ending Nigeria's campaign and marking a historic achievement as they had never before defeated Nigeria in a World Cup qualifying or play-off match. This pivotal win propels Banyana Banyana forward in their quest for a place at the global showpiece.",
+      "tags": [
+        "Women's World Cup",
+        "CAF",
+        "South Africa",
+        "Nigeria"
+      ],
+      "image": "images/banyana-banyana-edge-super-falcons-keep-world-cup-dreams-alive-7a366bfb9067.svg",
+      "publishedAt": "2026-08-14T01:56:08.502Z"
+    },
+    {
       "id": "lesotho-shocks-zimbabwe-with-dominant-world-cup-qualifying-victory-b506bde805ba",
       "headline": "Lesotho Shocks Zimbabwe with Dominant World Cup Qualifying Victory",
       "league": "World Cup Qualifiers",
@@ -891,22 +906,7 @@
       ],
       "image": "images/barcelona-s-defensive-dilemma-cort-s-weighs-future-amidst-offers-94afdbcd9686.svg",
       "publishedAt": "2026-08-10T18:59:20.740Z"
-    },
-    {
-      "id": "uefa-revives-cup-winners-cup-overhauls-super-cup-format-9ded9724960a",
-      "headline": "UEFA Revives Cup Winners' Cup, Overhauls Super Cup Format",
-      "league": "Champions League",
-      "summary": "UEFA has officially announced the reintroduction of the Cup Winners' Cup for the 2026/27 season, bringing back a cherished European club competition. This revival will also see a significant alteration to the UEFA Super Cup, transforming it into a three-team event.",
-      "body": "European football's governing body, UEFA, has confirmed the return of the Cup Winners' Cup, a tournament exclusively for domestic cup winners from the top 32 nations based on coefficient rankings. The competition, set to relaunch in the 2026/27 campaign, will feature a two-legged knockout format leading up to the final, with the eventual champion earning a coveted spot in the following season's Champions League.\n\nThis strategic move aims to elevate the prestige of national cup competitions across Europe, which UEFA President Aleksander Ceferin emphasized as a vital part of football history. The reintroduction marks a significant shift in UEFA's club competition landscape, adding another layer of European football for fans and clubs alike.\n\nFurthermore, the Cup Winners' Cup winner will participate in a newly designed three-team UEFA Super Cup. Under this revised format, the Champions League winner will face the victor of a play-off between the Europa League champion and the Cup Winners' Cup champion, creating an expanded battle for European supremacy.",
-      "tags": [
-        "UEFA",
-        "Cup Winners' Cup",
-        "Super Cup",
-        "European Football"
-      ],
-      "image": "images/uefa-revives-cup-winners-cup-overhauls-super-cup-format-9ded9724960a.svg",
-      "publishedAt": "2026-08-10T16:01:31.469Z"
     }
   ],
-  "lastRun": "2026-08-13T21:45:32.987Z"
+  "lastRun": "2026-08-14T01:56:12.871Z"
 }
