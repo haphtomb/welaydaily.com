@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "alvarez-s-atletico-future-clouded-by-persistent-transfer-saga-6b2134b0e47a",
+      "headline": "Alvarez's Atletico Future Clouded by Persistent Transfer Saga",
+      "league": "La Liga",
+      "summary": "Julian Alvarez's position at Atletico Madrid remains uncertain as the new La Liga season commences, with the forward reportedly keen on a move away from the club. Despite his return to training, the ongoing transfer speculation casts a shadow over his immediate future with the Rojiblancos.",
+      "body": "The start of the La Liga season sees Atletico Madrid grappling with the unresolved future of star forward Julian Alvarez. The Argentine international has reportedly expressed a desire to leave the club, creating a complex situation for manager Diego Simeone's squad as they prepare for their opening fixtures. Atletico, however, has maintained a firm stance, indicating no intention of selling the player, particularly to rivals like Barcelona.\n\nAlvarez recently rejoined his teammates for training sessions, having been granted an extended break following Argentina's deep run to the World Cup final. Despite his physical presence back at the club, the persistent rumors linking him with potential transfers to top European sides, including both Barcelona and Real Madrid, continue to swirl.\n\nThe ongoing saga presents a significant challenge for Atletico Madrid, who may face a mixed reception from their fanbase regarding Alvarez's situation. With the league campaign now underway, the club will be keen to resolve the forward's future swiftly to ensure full focus on their quest for domestic success.",
+      "tags": [
+        "Julian Alvarez",
+        "Atletico Madrid",
+        "La Liga",
+        "Transfer News"
+      ],
+      "image": "images/alvarez-s-atletico-future-clouded-by-persistent-transfer-saga-6b2134b0e47a.svg",
+      "publishedAt": "2026-08-15T06:38:42.875Z"
+    },
+    {
       "id": "morocco-s-futsal-lions-dominate-bosnia-in-afcon-warm-up-9808ab0f0f75",
       "headline": "Morocco's Futsal Lions Dominate Bosnia in AFCON Warm-Up",
       "league": "Other",
@@ -892,22 +907,7 @@
       ],
       "image": "images/houston-dynamo-bolster-defense-with-experienced-uruguayan-international-saracchi-442447427b25.svg",
       "publishedAt": "2026-08-11T19:03:57.454Z"
-    },
-    {
-      "id": "fulham-eyes-barcelona-talent-h-ctor-fort-linked-with-10m-move-b7520adc58ab",
-      "headline": "Fulham Eyes Barcelona Talent: Héctor Fort Linked with €10m Move",
-      "league": "La Liga",
-      "summary": "Fulham is reportedly exploring a potential €10 million transfer for Barcelona's promising young defender, Héctor Fort. The English club is keen on securing the full-back's services, with a permanent move being a distinct possibility.",
-      "body": "Reports emanating from Spain indicate that Premier League side Fulham has initiated discussions regarding a significant move for Barcelona's emerging full-back, Héctor Fort. The London-based club is said to be seriously considering an offer in the region of €10 million to bring the talented defender to England. This interest highlights Fort's growing reputation and the potential for a new chapter in his burgeoning career.\n\nBarcelona, known for nurturing young talent, may face a decision on Fort's future if Fulham's pursuit intensifies. While the Catalan giants often prefer to retain their academy graduates, a substantial offer could prompt a re-evaluation, especially given the club's ongoing financial considerations. Fort has shown flashes of his potential, making him an attractive prospect for clubs seeking defensive reinforcements.\n\nShould the transfer materialize, it would mark a notable acquisition for Fulham, bolstering their squad with a versatile defender who has experience within Barcelona's esteemed system. The coming days are expected to bring more clarity to this developing transfer saga as both clubs weigh their options and negotiations potentially progress.",
-      "tags": [
-        "Héctor Fort",
-        "Barcelona",
-        "Fulham",
-        "Transfer News"
-      ],
-      "image": "images/fulham-eyes-barcelona-talent-h-ctor-fort-linked-with-10m-move-b7520adc58ab.svg",
-      "publishedAt": "2026-08-11T16:02:34.543Z"
     }
   ],
-  "lastRun": "2026-08-15T03:40:28.990Z"
+  "lastRun": "2026-08-15T06:38:47.226Z"
 }
