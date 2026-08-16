@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T18:27:59.393Z",
+  "updatedAt": "2026-08-16T21:19:21.199Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -506,16 +506,16 @@
           "form": []
         },
         {
-          "position": 2,
+          "position": 1,
           "team": "RCD Espanyol de Barcelona",
           "crest": "https://crests.football-data.org/80.png",
           "played": 1,
           "won": 1,
           "draw": 0,
           "lost": 0,
-          "goalsFor": 2,
+          "goalsFor": 3,
           "goalsAgainst": 0,
-          "goalDifference": 2,
+          "goalDifference": 3,
           "points": 3,
           "form": []
         },
@@ -745,22 +745,22 @@
         },
         {
           "position": 19,
-          "team": "Levante UD",
-          "crest": "https://crests.football-data.org/88.png",
+          "team": "Getafe CF",
+          "crest": "https://crests.football-data.org/82.png",
           "played": 1,
           "won": 0,
           "draw": 0,
           "lost": 1,
           "goalsFor": 0,
-          "goalsAgainst": 2,
-          "goalDifference": -2,
+          "goalsAgainst": 3,
+          "goalDifference": -3,
           "points": 0,
           "form": []
         },
         {
-          "position": 20,
-          "team": "Getafe CF",
-          "crest": "https://crests.football-data.org/82.png",
+          "position": 19,
+          "team": "Levante UD",
+          "crest": "https://crests.football-data.org/88.png",
           "played": 1,
           "won": 0,
           "draw": 0,

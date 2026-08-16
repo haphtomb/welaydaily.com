@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "stones-marks-inter-debut-with-decisive-goal-eyes-champions-league-glory-dde870d6a627",
+      "headline": "Stones Marks Inter Debut with Decisive Goal, Eyes Champions League Glory",
+      "league": "Champions League",
+      "summary": "England international John Stones made an immediate impact for Inter Milan, scoring the winning goal in his debut friendly match against Real Betis. Following his spectacular strike, Stones articulated his strong ambition to lead the Nerazzurri to Champions League success.",
+      "body": "John Stones, the recent high-profile acquisition for Inter Milan, enjoyed a dream debut, netting a crucial 82nd-minute goal to secure a 1-0 friendly victory over Real Betis at San Nicola. The former Manchester City defender showcased his attacking prowess with a clinical right-footed flick that found the back of the net, instantly endearing himself to the Inter faithful.\n\nAfter the match, Stones reflected on his move to Italy, emphasizing his pride in joining a club with such a rich history. He conveyed a clear desire to replicate his past European triumphs with his new team, stating his intention to bring the Champions League trophy to the Inter supporters.\n\nThe 29-year-old reunites with former defensive partner Manuel Akanji at Inter, a pairing that previously shared a Champions League final experience. Stones' debut performance and ambitious statements signal his readiness to tackle the challenges of Serie A and pursue European glory with the three-time continental champions.",
+      "tags": [
+        "John Stones",
+        "Inter Milan",
+        "Champions League",
+        "Debut Goal"
+      ],
+      "image": "images/stones-marks-inter-debut-with-decisive-goal-eyes-champions-league-glory-dde870d6a627.svg",
+      "publishedAt": "2026-08-16T21:20:55.753Z"
+    },
+    {
+      "id": "barcelona-secures-rodri-from-manchester-city-in-51-million-deal-f20d415a5b6e",
+      "headline": "Barcelona Secures Rodri from Manchester City in £51 Million Deal",
+      "league": "Transfer News",
+      "summary": "Barcelona has successfully reached an agreement with Manchester City for the transfer of midfielder Rodri, with the Spanish international set to join the Catalan giants on a four-year contract. The move comes after City accepted an initial £51 million bid for the highly-rated defensive midfielder.",
+      "body": "Barcelona has finalized a significant transfer, securing Rodri from Manchester City in a deal worth an initial £51 million. The Spanish midfielder, who had entered the final year of his contract with the English champions, is expected to sign a four-year agreement with the La Liga powerhouse. This high-profile acquisition marks a major statement of intent from the Catalan club as they bolster their midfield options for the upcoming season.\n\nThe transfer was widely reported today, following Manchester City's acceptance of Barcelona's bid. Rodri was notably absent from City's squad for the Community Shield match, which fueled speculation about his imminent departure.\n\nHis move to Camp Nou is anticipated to bring a new dimension to Barcelona's midfield, providing a strong presence at the base of their engine room. Manchester City, meanwhile, are now reportedly targeting Chelsea's Enzo Fernández and Lille's Ayyoub Bouaddi as potential replacements for the departing Rodri.",
+      "tags": [
+        "Rodri",
+        "Barcelona",
+        "Manchester City",
+        "La Liga"
+      ],
+      "image": "images/barcelona-secures-rodri-from-manchester-city-in-51-million-deal-f20d415a5b6e.svg",
+      "publishedAt": "2026-08-16T21:21:08.807Z"
+    },
+    {
+      "id": "espanyol-dominates-levante-in-season-opener-with-three-goal-rout-fff9dc21cb1d",
+      "headline": "Espanyol Dominates Levante in Season Opener with Three-Goal Rout",
+      "league": "La Liga",
+      "summary": "Espanyol initiated their La Liga campaign with a commanding performance, securing a decisive three-goal victory over Levante. The impressive home win saw forward Roberto Fernández net twice, establishing a strong early statement for the Catalan club.",
+      "body": "Espanyol commenced their 2026/27 La Liga season in spectacular fashion on Sunday, delivering a convincing 3-0 triumph against Levante at their home ground. The Catalan squad demonstrated a formidable attacking prowess, much to the delight of their home supporters.\n\nKey to their success was forward Roberto Fernández, who netted two vital goals in the first half, decisively shaping the match's trajectory. His precise finishing provided Espanyol with a comfortable advantage before halftime. English attacker Tyrhys Dolan then added a late goal to solidify the victory, ensuring a perfect start to the new domestic league calendar.\n\nThis dominant opening day performance puts Espanyol on a high note, a significant improvement from their previous season which included a challenging winless streak. Conversely, Levante, who narrowly avoided relegation last term, will be aiming for a quick recovery following this initial defeat.",
+      "tags": [
+        "Espanyol",
+        "Levante",
+        "La Liga",
+        "Roberto Fernández"
+      ],
+      "image": "images/espanyol-dominates-levante-in-season-opener-with-three-goal-rout-fff9dc21cb1d.svg",
+      "publishedAt": "2026-08-16T21:21:25.672Z"
+    },
+    {
+      "id": "african-giants-consolidate-positions-with-key-world-cup-qualifier-victories-360e934f7152",
+      "headline": "African Giants Consolidate Positions with Key World Cup Qualifier Victories",
+      "league": "World Cup Qualifiers",
+      "summary": "Several prominent African footballing nations have strengthened their bids for a spot in the 2026 FIFA World Cup following a series of crucial victories in the latest qualification matches. Cameroon, Algeria, and Tunisia each secured vital points, significantly impacting their group standings as the qualification campaign advances.",
+      "body": "The 2026 FIFA World Cup qualification campaign in Africa continued to deliver thrilling encounters, with Round 7 witnessing decisive wins for some of the continent's top teams. Cameroon asserted their authority on the pitch, comfortably defeating Eswatini with a convincing 3-0 scoreline. This performance highlights their determination to secure a coveted spot in the expanded global tournament.\n\nAcross other fixtures, Algeria demonstrated their attacking strength by overcoming Botswana with a 3-1 victory. This result is particularly significant for Algeria, helping them maintain their competitive edge in Group G, where they are currently level on points with Mozambique. Similarly, Tunisia put on a dominant display against Liberia, securing a 3-0 win to solidify their leading position in Group H.\n\nThese pivotal results from the CAF qualifiers underscore the intensifying competition for the nine direct qualification slots available to African nations. As teams battle through their respective groups, every point becomes crucial in the journey towards the 2026 FIFA World Cup in Canada, Mexico, and the United States.",
+      "tags": [
+        "CAF Qualifiers",
+        "World Cup 2026",
+        "African Football",
+        "Match Results"
+      ],
+      "image": "images/african-giants-consolidate-positions-with-key-world-cup-qualifier-victories-360e934f7152.svg",
+      "publishedAt": "2026-08-16T21:21:41.522Z"
+    },
+    {
       "id": "nashville-thrashes-inter-miami-4-1-as-messi-misses-crucial-penalty-a545cbf2221d",
       "headline": "Nashville Thrashes Inter Miami 4-1 as Messi Misses Crucial Penalty",
       "league": "MLS",
@@ -849,68 +909,7 @@
       ],
       "image": "images/liverpool-bolsters-defense-with-barcelona-captain-ronald-araujo-loan-d634f137c1d1.svg",
       "publishedAt": "2026-08-13T21:45:28.766Z"
-    },
-    {
-      "id": "celje-stages-stunning-comeback-to-reach-champions-league-play-off-round-2245f658ece8",
-      "headline": "Celje Stages Stunning Comeback to Reach Champions League Play-Off Round",
-      "league": "Champions League",
-      "summary": "Slovenian club Celje delivered a remarkable late performance, overturning a first-leg deficit against Ararat-Armenia with two decisive goals in the dying minutes to secure their spot in the Champions League play-off round. The dramatic victory thrilled home supporters as the team advanced with a 3-2 aggregate score.",
-      "body": "NK Celje secured a dramatic progression in the UEFA Champions League third qualifying round, overcoming Ararat-Armenia in a thrilling encounter. Trailing 2-1 from the initial leg, the Slovenian champions faced an uphill battle at home but demonstrated incredible resilience to keep their European aspirations alive. The decisive moments arrived late in the second half, transforming the tie's complexion entirely.\n\nThe deadlock was finally broken in the 83rd minute when Yaya Dukuly found the back of the net, igniting hopes among the home crowd and leveling the aggregate score. With momentum on their side, Celje pushed relentlessly for a winner, and their persistence was rewarded with a crucial second goal just moments before the final whistle. This late surge completed a stunning 2-0 victory on the night.\n\nThe 3-2 aggregate triumph means Celje now advances to the play-off round, the final hurdle before potentially reaching the coveted Champions League league phase. This memorable comeback against their Armenian opponents highlights the unpredictable nature of European qualifiers and sets the stage for another challenging fixture as they aim for the ultimate club football competition.",
-      "tags": [
-        "Champions League",
-        "Qualifiers",
-        "Celje",
-        "Comeback"
-      ],
-      "image": "images/celje-stages-stunning-comeback-to-reach-champions-league-play-off-round-2245f658ece8.svg",
-      "publishedAt": "2026-08-13T19:04:05.044Z"
-    },
-    {
-      "id": "la-liga-kicks-off-quietly-as-giants-await-post-world-cup-returns-da0496f0c52c",
-      "headline": "La Liga Kicks Off Quietly as Giants Await Post-World Cup Returns",
-      "league": "La Liga",
-      "summary": "The 2026-27 La Liga season commences this weekend with a subdued opening, as several top clubs, including reigning champions Barcelona and Real Madrid, will not be participating in their initial fixtures. This staggered start allows key players who competed in the recent World Cup to receive extended rest before joining their club campaigns.",
-      "body": "Spain's top-flight football league, La Liga, begins its new campaign this weekend with a notable absence of its traditional powerhouses. Both FC Barcelona and Real Madrid, along with Athletic Club, Real Betis, and Real Sociedad, have seen their opening matches postponed. This decision grants their numerous World Cup participants additional recovery time following the recent international tournament.\n\nThe initial fixtures will instead feature other clubs, with Deportivo Alavés hosting Getafe to officially kick off the season. Atlético Madrid, another prominent club, is scheduled to begin their season a few days later, facing newly promoted Malaga on Wednesday, August 19th.\n\nFans eager to see Barcelona and Real Madrid in action will need to wait longer, as their first league appearances are set for later in August. Real Madrid is slated to play Espanyol on August 22nd, while Barcelona will visit Elche on August 23rd, with their original opening fixtures pushed back even further into the month.",
-      "tags": [
-        "La Liga",
-        "Season Start",
-        "Postponements",
-        "World Cup"
-      ],
-      "image": "images/la-liga-kicks-off-quietly-as-giants-await-post-world-cup-returns-da0496f0c52c.svg",
-      "publishedAt": "2026-08-13T19:04:24.874Z"
-    },
-    {
-      "id": "lammens-shines-as-manchester-united-edge-leeds-in-dublin-friendly-ede5e6ce118c",
-      "headline": "Lammens Shines as Manchester United Edge Leeds in Dublin Friendly",
-      "league": "Premier League",
-      "summary": "Manchester United secured a narrow victory over rivals Leeds United in a pre-season friendly held in Dublin, with goalkeeper Kjell Lammens delivering a standout performance. The young shot-stopper, recently handed the number one shirt, played a crucial role in the Red Devils' penalty shootout success.",
-      "body": "Manchester United emerged triumphant in a closely contested pre-season encounter against Leeds United, winning on penalties after the match concluded in a draw. The fixture, played in front of a passionate crowd in Dublin, provided both teams with valuable preparation ahead of the upcoming Premier League season.\n\nKey to United's success was the impressive display from goalkeeper Kjell Lammens. The 24-year-old, who has inherited the coveted number one jersey from Altay Bayindir, showcased his abilities with several vital saves during regular play and then again in the decisive shootout, underlining his growing importance to the squad. His performance earned praise and highlighted his readiness for the season ahead.\n\nThe result offers a confidence boost for Erik ten Hag's side as their pre-season schedule nears its end. While only a friendly, a victory over a rival, especially one secured through a penalty shootout, can foster a winning mentality within the team as they fine-tune their preparations for the competitive campaign.",
-      "tags": [
-        "Manchester United",
-        "Pre-Season",
-        "Kjell Lammens",
-        "Leeds United"
-      ],
-      "image": "images/lammens-shines-as-manchester-united-edge-leeds-in-dublin-friendly-ede5e6ce118c.svg",
-      "publishedAt": "2026-08-13T19:04:42.086Z"
-    },
-    {
-      "id": "enes-unal-completes-getafe-return-after-bournemouth-spell-dacf171a99c6",
-      "headline": "Enes Unal Completes Getafe Return After Bournemouth Spell",
-      "league": "Transfer News",
-      "summary": "Forward Enes Unal has officially finalized his move back to Getafe, marking the end of his time with AFC Bournemouth. This confirmed transfer sees the Turkish international return to familiar territory in La Liga.",
-      "body": "Enes Unal has completed a permanent transfer to Getafe, rejoining the Spanish club after a period with Premier League side Bournemouth. The deal, confirmed today, sees the striker make his way back to the Coliseum Alfonso Pérez, where he previously enjoyed a successful stint before his move to England. His return is expected to bolster Getafe's attacking options for the upcoming season.\n\nUnal initially joined Bournemouth from Getafe, where he was a key figure, showcasing his goal-scoring prowess in La Liga. His time in the Premier League, however, was impacted by various factors, leading to speculation about a potential departure. This transfer provides him with an opportunity to reignite his career in a league where he has consistently performed well.\n\nFor Bournemouth, Unal's departure opens up a squad spot and potentially frees up wages, allowing them to pursue other targets in the remaining transfer window. Getafe, meanwhile, will be hoping their returning forward can quickly re-adapt and contribute significantly to their offensive play, providing the clinical edge they need.",
-      "tags": [
-        "Enes Unal",
-        "Getafe",
-        "Bournemouth",
-        "La Liga",
-        "Transfer News"
-      ],
-      "image": "images/enes-unal-completes-getafe-return-after-bournemouth-spell-dacf171a99c6.svg",
-      "publishedAt": "2026-08-13T19:04:59.648Z"
     }
   ],
-  "lastRun": "2026-08-16T18:30:15.826Z"
+  "lastRun": "2026-08-16T21:21:45.522Z"
 }
