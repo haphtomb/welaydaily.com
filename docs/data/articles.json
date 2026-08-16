@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "tottenham-edges-closer-to-blockbuster-gakpo-and-savinho-double-deal-06373c155bff",
+      "headline": "Tottenham Edges Closer to Blockbuster Gakpo and Savinho Double Deal",
+      "league": "Transfer News",
+      "summary": "Tottenham Hotspur is reportedly nearing the completion of a significant double transfer, with attacking talents Cody Gakpo and Savinho set to join the North London club. This potential €180.5 million investment aims to dramatically reinforce Roberto De Zerbi's offensive options for the upcoming season.",
+      "body": "Tottenham Hotspur is on the brink of finalizing a sensational double transfer coup, with reports indicating that personal terms have been agreed with Liverpool's Cody Gakpo. The Dutch international's move is anticipated to be worth approximately €81.8 million, significantly strengthening the Spurs' attacking prowess.\n\nSimultaneously, the club is also understood to be close to securing a substantial €99.4 million deal for Manchester City's highly-rated winger, Savinho. These combined acquisitions represent a bold statement of intent from Tottenham, aiming to provide manager Roberto De Zerbi with a formidable array of attacking talent.\n\nSources in the Netherlands and Brazil suggest that both transfers are progressing rapidly, with official announcements potentially imminent. This aggressive approach in the market highlights Tottenham's ambition to compete at the highest level as the transfer window draws to a close.",
+      "tags": [
+        "Tottenham",
+        "Cody Gakpo",
+        "Savinho",
+        "Transfer News"
+      ],
+      "image": "images/tottenham-edges-closer-to-blockbuster-gakpo-and-savinho-double-deal-06373c155bff.svg",
+      "publishedAt": "2026-08-16T01:18:19.081Z"
+    },
+    {
       "id": "paris-saint-germain-claims-second-consecutive-uefa-super-cup-title-9f3969fffd19",
       "headline": "Paris Saint-Germain Claims Second Consecutive UEFA Super Cup Title",
       "league": "Champions League",
@@ -890,22 +905,7 @@
       ],
       "image": "images/celta-vigo-season-opener-in-doubt-amidst-bala-dos-pitch-fungus-outbreak-19b408701bf1.svg",
       "publishedAt": "2026-08-12T19:03:04.291Z"
-    },
-    {
-      "id": "inter-milan-agree-34m-deal-for-tottenham-captain-cristian-romero-f75f3588b15f",
-      "headline": "Inter Milan Agree £34m Deal for Tottenham Captain Cristian Romero",
-      "league": "Transfer News",
-      "summary": "Inter Milan have reportedly reached an agreement in principle with Tottenham Hotspur for the transfer of their captain, Cristian Romero, in a deal valued at approximately £34 million. The Argentine defender is now expected to discuss personal terms as he eyes a move to Serie A.",
-      "body": "Inter Milan are poised to bolster their defensive ranks significantly, having reportedly secured a verbal agreement with Tottenham Hotspur for the acquisition of Cristian Romero. The highly-rated Argentine international, who currently captains Spurs, is understood to be nearing an exit from North London, with a fee of around £34 million agreed between the clubs.\n\nThe 28-year-old centre-back, a prominent figure for Tottenham, is now set to enter discussions regarding his personal terms with the Italian giants. This development suggests a clear pathway for Romero to make a switch to Serie A, marking a new chapter in his career.\n\nThe potential transfer highlights Inter's ambition in the current window as they look to strengthen their squad ahead of the new season. Romero's departure would leave a significant void in Tottenham's defense, prompting speculation about their plans for a replacement.",
-      "tags": [
-        "Cristian Romero",
-        "Inter Milan",
-        "Tottenham Hotspur",
-        "Serie A"
-      ],
-      "image": "images/inter-milan-agree-34m-deal-for-tottenham-captain-cristian-romero-f75f3588b15f.svg",
-      "publishedAt": "2026-08-12T19:03:30.694Z"
     }
   ],
-  "lastRun": "2026-08-15T21:23:26.164Z"
+  "lastRun": "2026-08-16T01:18:23.177Z"
 }
