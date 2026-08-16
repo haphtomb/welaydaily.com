@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "id": "nashville-thrashes-inter-miami-4-1-as-messi-misses-crucial-penalty-a545cbf2221d",
+      "headline": "Nashville Thrashes Inter Miami 4-1 as Messi Misses Crucial Penalty",
+      "league": "MLS",
+      "summary": "Nashville SC delivered a commanding 4-1 defeat to Inter Miami CF, solidifying their top spot in the league standings. The match saw a rare penalty miss from Lionel Messi, a pivotal moment in Miami's comprehensive loss.",
+      "body": "Nashville SC asserted their dominance in Major League Soccer on Saturday night, securing a convincing 4-1 victory over Inter Miami CF at GEODIS Park. The result further entrenches Nashville at the summit of the league, while ending Miami's impressive seven-match unbeaten streak in MLS play.\n\nThe game's turning point arrived in the first half when Miami was awarded a penalty, but superstar Lionel Messi's effort from the spot was saved by Nashville goalkeeper Brian Schwake, preventing an equalizer. Nashville had initially taken the lead through Andy Najar in the 17th minute, only for Telasco Segovia to level for Miami in first-half stoppage time.\n\nHowever, the second half belonged entirely to the home side. Hany Mukhtar, a standout performer, netted twice in the 49th and 63rd minutes, with Sam Surridge also finding the back of the net in the 56th minute, sealing a resounding win for Nashville.",
+      "tags": [
+        "MLS",
+        "Nashville SC",
+        "Inter Miami CF",
+        "Lionel Messi",
+        "Penalty Miss"
+      ],
+      "image": "images/nashville-thrashes-inter-miami-4-1-as-messi-misses-crucial-penalty-a545cbf2221d.svg",
+      "publishedAt": "2026-08-16T18:29:36.447Z"
+    },
+    {
+      "id": "wafcon-final-set-for-historic-global-broadcast-as-captains-meet-83dcffe25208",
+      "headline": "WAFCON Final Set for Historic Global Broadcast as Captains Meet",
+      "league": "AFCON",
+      "summary": "The TotalEnergies CAF Women's Africa Cup of Nations (WAFCON) 2026 final is poised to make history with unprecedented global television coverage, bringing the continental showpiece to new audiences worldwide. On the eve of the highly anticipated match, the captains of finalists Cameroon and Malawi shared a symbolic moment with the coveted trophy, highlighting the significance of a new champion being crowned.",
+      "body": "The TotalEnergies CAF Women's Africa Cup of Nations 2026 final, featuring Cameroon and Malawi, is set to reach a wider international audience than ever before. For the first time, the decisive match, taking place on Sunday, August 16, will be broadcast live in territories including the United Kingdom, Germany, Switzerland, and several nations across South America. This expanded reach through major broadcasters like CANAL+, SuperSport, DAZN, Movistar, Sports TV, Sport Italia, and beIN Sports underscores the accelerating growth and increasing international appeal of African women's football.\n\nAhead of the historic encounter at the Moulay El Hassan Stadium in Rabat, a poignant scene unfolded as the captains of the competing nations, Gabrielle Aboudi Onguéné for Cameroon and Tabitha Chawinga for Malawi, stood together with the WAFCON trophy. This pre-match gathering, characterized by smiles and mutual respect, served as a powerful symbol of sportsmanship and the monumental aspirations each team holds for their first continental title.\n\nBoth Cameroon and tournament debutants Malawi are vying for their inaugural WAFCON crown, guaranteeing that a new champion will be etched into the competition's history. The expanded broadcast footprint and the respectful exchange between the captains highlight the growing stature of the tournament, celebrating African women's football on a global stage as the continent awaits a new victor.",
+      "tags": [
+        "WAFCON",
+        "Women's Football",
+        "CAF",
+        "Cameroon",
+        "Malawi"
+      ],
+      "image": "images/wafcon-final-set-for-historic-global-broadcast-as-captains-meet-83dcffe25208.svg",
+      "publishedAt": "2026-08-16T18:30:03.517Z"
+    },
+    {
       "id": "shakhtar-donetsk-seeks-stamford-bridge-as-champions-league-home-3a69ea1c91fc",
       "headline": "Shakhtar Donetsk Seeks Stamford Bridge as Champions League Home",
       "league": "Champions League",
@@ -878,37 +910,7 @@
       ],
       "image": "images/enes-unal-completes-getafe-return-after-bournemouth-spell-dacf171a99c6.svg",
       "publishedAt": "2026-08-13T19:04:59.648Z"
-    },
-    {
-      "id": "cameroon-stuns-host-nation-morocco-in-wafcon-semi-final-shootout-c4003287550e",
-      "headline": "Cameroon Stuns Host Nation Morocco in WAFCON Semi-Final Shootout",
-      "league": "AFCON",
-      "summary": "The Indomitable Lionesses of Cameroon secured a dramatic victory against tournament hosts Morocco, triumphing in a penalty shootout to reach the TotalEnergies CAF Women's Africa Cup of Nations final. This hard-fought semi-final clash in Rabat saw both teams battle through 120 minutes without a goal, setting the stage for a tense decider from the spot.",
-      "body": "Cameroon's women's national team delivered a stunning performance on Wednesday night, overcoming a passionate home crowd and a resilient Moroccan side in the semi-finals of the TotalEnergies CAF Women's Africa Cup of Nations 2026. The match, held at the Moulay El Hassan Stadium in Rabat, remained goalless through regular and extra time, leading to a decisive penalty shootout.\n\nThe Atlas Lionesses had a golden opportunity to take the lead during extra time but failed to convert a penalty, a miss that ultimately proved costly. In the ensuing shootout, Cameroon displayed remarkable composure, successfully converting three of their four attempts through Marie Ngah, Rose Bella, and Myriam Nyadjou.\n\nMorocco, conversely, could only manage one successful penalty, scored by Hanane Aït El Haj, as Cameroon secured a 3-1 victory in the shootout. This momentous win sends Cameroon into their fourth WAFCON final, where they will face Malawi, who defeated Algeria in the other semi-final.",
-      "tags": [
-        "WAFCON 2026",
-        "Cameroon",
-        "Morocco",
-        "Penalty Shootout"
-      ],
-      "image": "images/cameroon-stuns-host-nation-morocco-in-wafcon-semi-final-shootout-c4003287550e.svg",
-      "publishedAt": "2026-08-13T16:00:18.659Z"
-    },
-    {
-      "id": "chelsea-shatters-transfer-record-for-english-midfield-talent-c1abd1f2e832",
-      "headline": "Chelsea Shatters Transfer Record for English Midfield Talent",
-      "league": "Transfer News",
-      "summary": "Chelsea has finalized a groundbreaking deal, acquiring English midfielder Morgan Rogers from Nottingham Forest for a staggering €135 million, making him the most expensive British player in history. This monumental transfer underscores Chelsea's aggressive strategy in the current window, bringing their total summer spending to over €400 million.",
-      "body": "Chelsea has once again made headlines in the transfer market, confirming the acquisition of highly-rated English midfielder Morgan Rogers from Nottingham Forest. The deal, reported to be worth an astonishing €135 million, establishes Rogers as the most expensive British player ever, a testament to his burgeoning talent and Chelsea's unwavering ambition. This move significantly bolsters Enzo Maresca's squad as they prepare for the upcoming season.\n\nThe hefty fee paid for Rogers highlights Chelsea's relentless pursuit of top talent this summer. The London club has now reportedly surpassed €400 million in total expenditure during the current transfer window, making them the biggest spenders globally. This financial commitment signals a clear intent to compete at the highest level, bringing in both established names and promising young players.\n\nRogers' arrival is expected to inject fresh dynamism into Chelsea's midfield. His performances for Nottingham Forest had drawn widespread attention, and the 21-year-old now faces the challenge of living up to his record-breaking price tag at Stamford Bridge. Fans will be eager to see how the young England midfielder integrates into the squad and contributes to their objectives for the 2026-27 campaign.",
-      "tags": [
-        "Chelsea",
-        "Morgan Rogers",
-        "Transfer Record",
-        "Premier League"
-      ],
-      "image": "images/chelsea-shatters-transfer-record-for-english-midfield-talent-c1abd1f2e832.svg",
-      "publishedAt": "2026-08-13T13:11:02.525Z"
     }
   ],
-  "lastRun": "2026-08-16T15:23:09.947Z"
+  "lastRun": "2026-08-16T18:30:15.826Z"
 }
