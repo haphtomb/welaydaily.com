@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "whitecaps-top-western-conference-clinch-cascadia-cup-after-sounders-rout-06bacd043f13",
+      "headline": "Whitecaps Top Western Conference, Clinch Cascadia Cup After Sounders Rout",
+      "league": "MLS",
+      "summary": "The Vancouver Whitecaps secured a significant 2-0 victory over the Seattle Sounders on Sunday night, moving to the top of the Western Conference standings. This defeat marked a club-record seventh consecutive loss in MLS play for the struggling Sounders, while Vancouver also claimed the 2026 Cascadia Cup.",
+      "body": "The Vancouver Whitecaps asserted their dominance in the Western Conference on Sunday, defeating rivals Seattle Sounders FC by a score of 2-0. Goals from Rayan Elloumi and Thomas Müller in the second half sealed the win for the Canadian side, catapulting them to the summit of the conference table.\n\nThe result was particularly grim for the Seattle Sounders, as it extended their losing streak in MLS play to a club-record seven matches. Goalkeeper Yohei Takaoka was untroubled, securing his seventh clean sheet of the season for the Whitecaps. In addition to their league position, the victory also meant Vancouver clinched the 2026 Cascadia Cup, a regional trophy contested between the Whitecaps, Sounders, and Portland Timbers.\n\nThe Sounders, who last tasted victory in a league match on May 13th, will be looking for a swift turnaround as they prepare to host Austin FC next. Meanwhile, the high-flying Whitecaps are set to face the Houston Dynamo, aiming to solidify their lead at the top of the Western Conference.",
+      "tags": [
+        "MLS",
+        "Vancouver Whitecaps",
+        "Seattle Sounders",
+        "Cascadia Cup"
+      ],
+      "image": "images/whitecaps-top-western-conference-clinch-cascadia-cup-after-sounders-rout-06bacd043f13.svg",
+      "publishedAt": "2026-08-17T06:55:54.783Z"
+    },
+    {
       "id": "musa-s-league-leading-strike-propels-fc-dallas-past-austin-fc-in-texas-derby-0a16ee8c0a43",
       "headline": "Musa's League-Leading Strike Propels FC Dallas Past Austin FC in Texas Derby",
       "league": "MLS",
@@ -894,22 +909,7 @@
       ],
       "image": "images/barcelona-intensifies-pursuit-of-manchester-city-midfielder-rodri-amidst-rival-i-138013ddc8f6.svg",
       "publishedAt": "2026-08-14T10:03:44.800Z"
-    },
-    {
-      "id": "banyana-banyana-edge-super-falcons-keep-world-cup-dreams-alive-7a366bfb9067",
-      "headline": "Banyana Banyana Edge Super Falcons, Keep World Cup Dreams Alive",
-      "league": "World Cup Qualifiers",
-      "summary": "South Africa's Banyana Banyana secured a vital 2-1 victory over rivals Nigeria, eliminating the Super Falcons from the 2027 FIFA Women's World Cup race. This thrilling play-off win means South Africa will now progress to the intercontinental qualification stage.",
-      "body": "Banyana Banyana delivered a significant blow to Nigeria's 2027 FIFA Women's World Cup aspirations with a hard-fought 2-1 triumph in their CAF play-off encounter held in Casablanca. The intense match saw South Africa take control after the half-time interval, ultimately securing their passage to the next stage of qualification.\n\nThe deadlock was broken in the 56th minute by Thembi Kgatlana, who found the back of the net to give South Africa the lead. Captain Refiloe Jane then extended Banyana Banyana's advantage in the 77th minute with a deflected strike, seemingly sealing the victory. However, the Super Falcons found a late lifeline when Christy Ucheibe converted a penalty, reducing the deficit.\n\nDespite a tense finish, South Africa held firm, ending Nigeria's campaign and marking a historic achievement as they had never before defeated Nigeria in a World Cup qualifying or play-off match. This pivotal win propels Banyana Banyana forward in their quest for a place at the global showpiece.",
-      "tags": [
-        "Women's World Cup",
-        "CAF",
-        "South Africa",
-        "Nigeria"
-      ],
-      "image": "images/banyana-banyana-edge-super-falcons-keep-world-cup-dreams-alive-7a366bfb9067.svg",
-      "publishedAt": "2026-08-14T01:56:08.502Z"
     }
   ],
-  "lastRun": "2026-08-17T03:51:48.286Z"
+  "lastRun": "2026-08-17T06:55:59.129Z"
 }
