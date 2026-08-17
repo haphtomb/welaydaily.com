@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "musa-s-league-leading-strike-propels-fc-dallas-past-austin-fc-in-texas-derby-0a16ee8c0a43",
+      "headline": "Musa's League-Leading Strike Propels FC Dallas Past Austin FC in Texas Derby",
+      "league": "MLS",
+      "summary": "Petar Musa netted his MLS-best 14th goal of the season, securing a crucial 2-1 road victory for FC Dallas over rivals Austin FC. The impactful strike in the 73rd minute propelled Dallas higher in the Western Conference standings.",
+      "body": "FC Dallas secured an important 2-1 win against Austin FC on Sunday night, with star forward Petar Musa once again proving decisive. Musa’s emphatic left-footed shot from inside the 18-yard box found the net in the 73rd minute, marking his league-leading 14th goal of the current MLS campaign. This pivotal goal allowed Dallas to claim their first league victory since late May, ending a prolonged winless streak following the World Cup break.\n\nDallas initially took the lead earlier in the match through Lalas Abubakar, who scored in only his second appearance of the season. Austin FC responded in the second half with an equalizer from 18-year-old Ervin Torres, who registered his first career MLS goal, setting the stage for Musa's late heroics.\n\nThe victory moves FC Dallas into fifth place in the Western Conference standings, surpassing both St. Louis and Real Salt Lake. The win also gave Dallas bragging rights in the Copa Tejas rivalry.",
+      "tags": [
+        "MLS",
+        "FC Dallas",
+        "Petar Musa",
+        "Austin FC"
+      ],
+      "image": "images/musa-s-league-leading-strike-propels-fc-dallas-past-austin-fc-in-texas-derby-0a16ee8c0a43.svg",
+      "publishedAt": "2026-08-17T03:51:36.747Z"
+    },
+    {
       "id": "inter-bolsters-defense-with-official-signing-of-tottenham-s-djed-spence-8fb67e344332",
       "headline": "Inter Bolsters Defense with Official Signing of Tottenham's Djed Spence",
       "league": "Transfer News",
@@ -894,22 +909,7 @@
       ],
       "image": "images/banyana-banyana-edge-super-falcons-keep-world-cup-dreams-alive-7a366bfb9067.svg",
       "publishedAt": "2026-08-14T01:56:08.502Z"
-    },
-    {
-      "id": "lesotho-shocks-zimbabwe-with-dominant-world-cup-qualifying-victory-b506bde805ba",
-      "headline": "Lesotho Shocks Zimbabwe with Dominant World Cup Qualifying Victory",
-      "league": "World Cup Qualifiers",
-      "summary": "Lesotho delivered a surprising performance, securing a convincing 2-0 away win against Zimbabwe in their 2026 FIFA World Cup qualifying match. This unexpected result has sent ripples through the group, highlighting Lesotho's strong challenge in the qualification campaign.",
-      "body": "In a keenly anticipated 2026 FIFA World Cup qualifier played yesterday, Lesotho stunned host nation Zimbabwe with a decisive 2-0 victory. The visitors displayed exceptional tactical discipline and efficiency, netting two goals without concession to claim all three points on the road.\n\nThis outcome marks a significant upset in the qualification standings, as many pundits had favored Zimbabwe at home. Lesotho's resolute defense and clinical finishing proved too much for their opponents, who struggled to break down the well-organized visiting side throughout the ninety minutes.\n\nThe result will undoubtedly boost Lesotho's confidence as they continue their journey in the World Cup qualifiers, while Zimbabwe will need to regroup quickly to recover from this unexpected setback and reignite their hopes of reaching the prestigious tournament.",
-      "tags": [
-        "Lesotho",
-        "Zimbabwe",
-        "World Cup 2026",
-        "CAF Qualifiers"
-      ],
-      "image": "images/lesotho-shocks-zimbabwe-with-dominant-world-cup-qualifying-victory-b506bde805ba.svg",
-      "publishedAt": "2026-08-13T21:45:13.609Z"
     }
   ],
-  "lastRun": "2026-08-17T01:14:52.772Z"
+  "lastRun": "2026-08-17T03:51:48.286Z"
 }
