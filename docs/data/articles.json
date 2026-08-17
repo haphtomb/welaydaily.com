@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "inter-bolsters-defense-with-official-signing-of-tottenham-s-djed-spence-8fb67e344332",
+      "headline": "Inter Bolsters Defense with Official Signing of Tottenham's Djed Spence",
+      "league": "Transfer News",
+      "summary": "Inter Milan has officially announced the acquisition of defender Djed Spence from Tottenham Hotspur, significantly strengthening their defensive line ahead of the new season. The English right-back is expected to provide a crucial boost to the Nerazzurri's squad depth and tactical options.",
+      "body": "Inter Milan has confirmed the transfer of Djed Spence from Tottenham Hotspur, marking a significant move in the summer transfer window. The highly-rated right-back officially joins the Italian giants, with the club announcing the completion of the deal on August 16, 2026.\n\nSpence's arrival is anticipated to be a key addition for the Nerazzurri, providing manager with more defensive versatility and depth. His move signals Inter's intent to reinforce their squad as they prepare for upcoming domestic and European challenges.\n\nThe English defender had been with Tottenham but now embarks on a new chapter in Serie A, aiming to make an immediate impact for his new club. This transfer concludes a period of speculation, with Inter successfully securing their target.",
+      "tags": [
+        "Djed Spence",
+        "Inter Milan",
+        "Tottenham Hotspur",
+        "Serie A"
+      ],
+      "image": "images/inter-bolsters-defense-with-official-signing-of-tottenham-s-djed-spence-8fb67e344332.svg",
+      "publishedAt": "2026-08-17T01:14:48.521Z"
+    },
+    {
       "id": "stones-marks-inter-debut-with-decisive-goal-eyes-champions-league-glory-dde870d6a627",
       "headline": "Stones Marks Inter Debut with Decisive Goal, Eyes Champions League Glory",
       "league": "Champions League",
@@ -894,22 +909,7 @@
       ],
       "image": "images/lesotho-shocks-zimbabwe-with-dominant-world-cup-qualifying-victory-b506bde805ba.svg",
       "publishedAt": "2026-08-13T21:45:13.609Z"
-    },
-    {
-      "id": "liverpool-bolsters-defense-with-barcelona-captain-ronald-araujo-loan-d634f137c1d1",
-      "headline": "Liverpool Bolsters Defense with Barcelona Captain Ronald Araujo Loan",
-      "league": "Transfer News",
-      "summary": "Liverpool has secured a significant defensive reinforcement, bringing in Barcelona's highly-rated captain, Ronald Araujo, on a season-long loan deal. The move aims to solidify the Reds' backline as they prepare for the upcoming campaign.",
-      "body": "In a major coup for the Merseyside club, Liverpool has officially completed the season-long loan signing of Ronald Araujo from FC Barcelona today. The commanding Uruguayan defender, who also holds the captain's armband at Camp Nou, arrives at Anfield to provide a much-needed boost to Jurgen Klopp's defensive options. This strategic acquisition is expected to add considerable steel and leadership to the Reds' rear guard.\n\nAraujo's arrival is seen as a pivotal move for Liverpool, addressing concerns over defensive depth and stability ahead of a demanding season. His proven ability at the highest level, combined with his physical presence and tactical intelligence, makes him an ideal fit for the Premier League's rigorous demands. The 27-year-old's versatility, capable of playing both center-back and right-back, offers Klopp valuable flexibility.\n\nThe deal sees the Barcelona skipper make the temporary switch to Anfield, with both clubs having finalized the terms of the loan agreement. While the move is initially for one season, Liverpool fans will undoubtedly be excited by the prospect of such a high-caliber player joining their ranks, hoping he can make an immediate impact in their pursuit of silverware.",
-      "tags": [
-        "Liverpool",
-        "Ronald Araujo",
-        "Barcelona",
-        "Loan Transfer"
-      ],
-      "image": "images/liverpool-bolsters-defense-with-barcelona-captain-ronald-araujo-loan-d634f137c1d1.svg",
-      "publishedAt": "2026-08-13T21:45:28.766Z"
     }
   ],
-  "lastRun": "2026-08-16T21:21:45.522Z"
+  "lastRun": "2026-08-17T01:14:52.772Z"
 }
