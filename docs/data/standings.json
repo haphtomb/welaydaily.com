@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T12:43:54.676Z",
+  "updatedAt": "2026-08-18T15:32:42.984Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -2180,7 +2180,7 @@
       "fixtures": [
         {
           "id": 559439,
-          "utcDate": "2027-05-16T12:00:00Z",
+          "utcDate": "2027-05-16T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 32,
           "home": "AJ Auxerre",
@@ -2190,7 +2190,7 @@
         },
         {
           "id": 559440,
-          "utcDate": "2027-05-16T12:00:00Z",
+          "utcDate": "2027-05-16T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 32,
           "home": "RC Strasbourg Alsace",
@@ -2200,7 +2200,7 @@
         },
         {
           "id": 559423,
-          "utcDate": "2027-05-22T12:00:00Z",
+          "utcDate": "2027-05-22T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 33,
           "home": "OGC Nice",
@@ -2210,7 +2210,7 @@
         },
         {
           "id": 559424,
-          "utcDate": "2027-05-22T12:00:00Z",
+          "utcDate": "2027-05-22T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 33,
           "home": "Angers SCO",
@@ -2220,7 +2220,7 @@
         },
         {
           "id": 559425,
-          "utcDate": "2027-05-22T12:00:00Z",
+          "utcDate": "2027-05-22T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 33,
           "home": "FC Lorient",
@@ -2230,7 +2230,7 @@
         },
         {
           "id": 559426,
-          "utcDate": "2027-05-22T12:00:00Z",
+          "utcDate": "2027-05-22T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 33,
           "home": "ES Troyes AC",
@@ -2240,7 +2240,7 @@
         },
         {
           "id": 559427,
-          "utcDate": "2027-05-22T12:00:00Z",
+          "utcDate": "2027-05-22T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 33,
           "home": "Le Mans FC",
@@ -2250,7 +2250,7 @@
         },
         {
           "id": 559428,
-          "utcDate": "2027-05-22T12:00:00Z",
+          "utcDate": "2027-05-22T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 33,
           "home": "Toulouse FC",
@@ -2260,7 +2260,7 @@
         },
         {
           "id": 559429,
-          "utcDate": "2027-05-22T12:00:00Z",
+          "utcDate": "2027-05-22T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 33,
           "home": "Le Havre AC",
@@ -2270,7 +2270,7 @@
         },
         {
           "id": 559430,
-          "utcDate": "2027-05-22T12:00:00Z",
+          "utcDate": "2027-05-22T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 33,
           "home": "Paris FC",
@@ -2280,7 +2280,7 @@
         },
         {
           "id": 559431,
-          "utcDate": "2027-05-22T12:00:00Z",
+          "utcDate": "2027-05-22T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 33,
           "home": "Racing Club de Lens",
@@ -2290,7 +2290,7 @@
         },
         {
           "id": 559414,
-          "utcDate": "2027-05-29T12:00:00Z",
+          "utcDate": "2027-05-29T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 34,
           "home": "AS Monaco FC",
@@ -2300,7 +2300,7 @@
         },
         {
           "id": 559415,
-          "utcDate": "2027-05-29T12:00:00Z",
+          "utcDate": "2027-05-29T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 34,
           "home": "Paris Saint-Germain FC",
@@ -2310,7 +2310,7 @@
         },
         {
           "id": 559416,
-          "utcDate": "2027-05-29T12:00:00Z",
+          "utcDate": "2027-05-29T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 34,
           "home": "Lille OSC",
@@ -2320,7 +2320,7 @@
         },
         {
           "id": 559417,
-          "utcDate": "2027-05-29T12:00:00Z",
+          "utcDate": "2027-05-29T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 34,
           "home": "Stade Brestois 29",
@@ -2330,7 +2330,7 @@
         },
         {
           "id": 559418,
-          "utcDate": "2027-05-29T12:00:00Z",
+          "utcDate": "2027-05-29T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 34,
           "home": "Olympique de Marseille",
@@ -2340,7 +2340,7 @@
         },
         {
           "id": 559419,
-          "utcDate": "2027-05-29T12:00:00Z",
+          "utcDate": "2027-05-29T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 34,
           "home": "Stade Rennais FC 1901",
@@ -2350,7 +2350,7 @@
         },
         {
           "id": 559420,
-          "utcDate": "2027-05-29T12:00:00Z",
+          "utcDate": "2027-05-29T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 34,
           "home": "Olympique Lyonnais",
@@ -2360,7 +2360,7 @@
         },
         {
           "id": 559421,
-          "utcDate": "2027-05-29T12:00:00Z",
+          "utcDate": "2027-05-29T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 34,
           "home": "AJ Auxerre",
@@ -2370,7 +2370,7 @@
         },
         {
           "id": 559422,
-          "utcDate": "2027-05-29T12:00:00Z",
+          "utcDate": "2027-05-29T00:00:00Z",
           "status": "SCHEDULED",
           "matchday": 34,
           "home": "RC Strasbourg Alsace",

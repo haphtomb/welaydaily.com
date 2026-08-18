@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "sporting-kansas-city-shatters-transfer-record-for-brazilian-winger-andre-luiz-0a0bea1fba0a",
+      "headline": "Sporting Kansas City Shatters Transfer Record for Brazilian Winger Andre Luiz",
+      "league": "MLS",
+      "summary": "Sporting Kansas City has finalized a landmark deal, securing Brazilian winger Andre Luiz from Olympiacos in a club-record transfer fee. This significant acquisition sees the dynamic 24-year-old join on a five-year contract, signaling a major statement of intent for the club's future ambitions.",
+      "body": "Sporting Kansas City officially announced the acquisition of Andre Luiz, a highly-rated Brazilian winger, from Greek Super League powerhouse Olympiacos. The deal, confirmed today, represents a new club record, reportedly valued at $18 million plus additional performance-based incentives. Luiz has committed his long-term future to Sporting KC, signing a robust five-year contract that extends through the 2030-31 MLS season.\n\nThe 24-year-old talent will occupy both a Designated Player and an international roster slot, highlighting his expected impact on the squad. Sporting KC's President of Soccer Operations and General Manager, David Lee, expressed immense excitement about the signing, praising Luiz's pace, directness, and technical prowess. Lee emphasized that Luiz aligns perfectly with the club's strategy of bringing in top-tier players who are entering their prime years.\n\nLuiz boasts an impressive track record, having contributed 28 goals and 13 assists across 140 club appearances since his senior debut in 2021. His career journey includes stints with Brazilian giants Flamengo, Portuguese sides Estrela de Amadora and Rio Ave, and most recently, Olympiacos, where he notably featured in the 2025-26 UEFA Champions League. This blockbuster transfer positions Sporting Kansas City to significantly bolster their attacking options for the seasons ahead.",
+      "tags": [
+        "Sporting Kansas City",
+        "Andre Luiz",
+        "MLS Transfer",
+        "Olympiacos"
+      ],
+      "image": "images/sporting-kansas-city-shatters-transfer-record-for-brazilian-winger-andre-luiz-0a0bea1fba0a.svg",
+      "publishedAt": "2026-08-18T15:34:31.981Z"
+    },
+    {
       "id": "newcastle-secures-benfica-s-dedic-in-significant-29-5-million-deal-699545e8af97",
       "headline": "Newcastle Secures Benfica's Dedic in Significant £29.5 Million Deal",
       "league": "Transfer News",
@@ -894,22 +909,7 @@
       ],
       "image": "images/ghana-secures-inter-confederation-playoff-spot-for-women-s-world-cup-0d88b7f3caf5.svg",
       "publishedAt": "2026-08-15T15:21:40.591Z"
-    },
-    {
-      "id": "newcastle-united-finalizes-35-million-deal-for-defender-amar-dedic-58ac537fb795",
-      "headline": "Newcastle United Finalizes €35 Million Deal for Defender Amar Dedic",
-      "league": "Transfer News",
-      "summary": "Newcastle United has successfully secured the services of Bosnian right-back Amar Dedic from Benfica in a transfer valued at €35 million. The 23-year-old defender has reportedly agreed to a long-term contract with the Premier League club, reuniting with his former coach.",
-      "body": "Newcastle United has officially confirmed the acquisition of talented Bosnian international Amar Dedic from Portuguese club Benfica. The highly anticipated transfer, reportedly worth €35 million, brings the 23-year-old defender to St. James' Park. Dedic previously played under current Magpies manager Matthias Jaissle during their time together at Red Bull Salzburg, suggesting a familiar and strategic addition to the squad.\n\nThe right-back has reportedly committed his future to Newcastle by agreeing to personal terms on a contract set to run until 2031. This significant investment underscores Newcastle's intent to strengthen their defensive options and build a formidable team under Jaissle's leadership. His arrival is expected to inject both quality and competition into the defensive line.\n\nThis completed deal is a clear statement of intent from the Magpies as they continue to shape their roster for upcoming challenges. Supporters will be eager to see Dedic integrate into the team and contribute to Newcastle's ambitions in the Premier League and beyond.",
-      "tags": [
-        "Newcastle United",
-        "Amar Dedic",
-        "Transfer News",
-        "Premier League"
-      ],
-      "image": "images/newcastle-united-finalizes-35-million-deal-for-defender-amar-dedic-58ac537fb795.svg",
-      "publishedAt": "2026-08-15T15:22:11.056Z"
     }
   ],
-  "lastRun": "2026-08-18T12:46:34.279Z"
+  "lastRun": "2026-08-18T15:34:59.807Z"
 }
