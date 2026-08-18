@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "chelsea-shatters-british-transfer-record-with-117m-morgan-rogers-acquisition-c4445bca5991",
+      "headline": "Chelsea Shatters British Transfer Record with £117m Morgan Rogers Acquisition",
+      "league": "Transfer News",
+      "summary": "Chelsea has completed a monumental deal, securing Morgan Rogers from Aston Villa for a staggering £117 million, making him the most expensive British player in football history. This blockbuster transfer signals a clear intent from the Blues as the summer window nears its dramatic close.",
+      "body": "In a move that has sent shockwaves across the Premier League, Chelsea has officially announced the signing of versatile attacker Morgan Rogers from Aston Villa. The reported fee of £117 million establishes a new benchmark for British player transfers, underscoring Chelsea's ambitious recruitment drive to bolster their squad. The 24-year-old's arrival at Stamford Bridge is expected to provide a significant boost to the team's attacking options.\n\nRogers, who joined Aston Villa in February 2024, has rapidly ascended to prominence, showcasing his talent and earning this record-breaking transfer. His departure from Villa Park represents an extraordinary return on investment for Aston Villa, who initially acquired him for a reported £15 million, highlighting his impressive development.\n\nThis high-profile acquisition demonstrates Chelsea's commitment to competing at the highest level, even without European football this season. With the transfer window drawing to a close, the Blues have made a definitive statement, adding a player with immense potential and a proven track record in the English top flight.",
+      "tags": [
+        "Chelsea",
+        "Morgan Rogers",
+        "Transfer Record",
+        "Premier League"
+      ],
+      "image": "images/chelsea-shatters-british-transfer-record-with-117m-morgan-rogers-acquisition-c4445bca5991.svg",
+      "publishedAt": "2026-08-18T06:43:25.276Z"
+    },
+    {
       "id": "egypt-s-wafcon-collapse-ignites-player-fury-amid-coaching-controversy-9917b216a479",
       "headline": "Egypt's WAFCON Collapse Ignites Player Fury Amid Coaching Controversy",
       "league": "AFCON",
@@ -895,22 +910,7 @@
       ],
       "image": "images/la-liga-kicks-off-without-its-giants-real-madrid-and-barcelona-delay-start-56bf8b60f2c3.svg",
       "publishedAt": "2026-08-15T09:30:17.885Z"
-    },
-    {
-      "id": "dramatic-uefa-play-offs-conclude-bosnia-czechia-sweden-and-t-rkiye-secure-world--c235995f986c",
-      "headline": "Dramatic UEFA Play-offs Conclude: Bosnia, Czechia, Sweden, and Türkiye Secure World Cup Berths",
-      "league": "World Cup Qualifiers",
-      "summary": "The final European play-off rounds for the 2026 FIFA World Cup delivered intense drama, with four nations ultimately clinching their spots in the prestigious tournament. Bosnia and Herzegovina, Czechia, Sweden, and Türkiye navigated challenging encounters, including two thrilling penalty shootouts, to punch their tickets to the global showpiece.",
-      "body": "The UEFA World Cup 2026 qualification play-offs wrapped up with exhilarating contests, seeing Bosnia and Herzegovina and Czechia emerge victorious after nerve-wracking penalty shootouts. Bosnia and Herzegovina advanced past Italy following a 1-1 draw, triumphing 4-1 in the decisive shootout, while Czechia overcame Denmark after their match also ended 2-2, securing their qualification with a 3-1 penalty win.\n\nElsewhere, Sweden booked their place in the World Cup by defeating Poland in a hard-fought 3-2 encounter. Türkiye also celebrated qualification, overcoming Kosovo with a narrow 1-0 victory. These crucial results mean that powerhouse Italy will miss out on the 2026 tournament, a significant upset in the European qualifying landscape.\n\nThe conclusion of these play-off matches on August 14th solidifies the European contingent heading to Canada, Mexico, and the United States. The successful nations now look forward to the main event, while those who fell short will reflect on a challenging qualification campaign.",
-      "tags": [
-        "World Cup 2026",
-        "UEFA Qualifiers",
-        "Bosnia and Herzegovina",
-        "Czechia"
-      ],
-      "image": "images/dramatic-uefa-play-offs-conclude-bosnia-czechia-sweden-and-t-rkiye-secure-world--c235995f986c.svg",
-      "publishedAt": "2026-08-15T09:30:39.247Z"
     }
   ],
-  "lastRun": "2026-08-18T03:47:06.174Z"
+  "lastRun": "2026-08-18T06:43:29.726Z"
 }
