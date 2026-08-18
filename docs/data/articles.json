@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "damiani-s-heroics-propel-union-to-stunning-comeback-against-nycfc-d5288ed520be",
+      "headline": "Damiani's Heroics Propel Union to Stunning Comeback Against NYCFC",
+      "league": "MLS",
+      "summary": "Philadelphia Union staged a remarkable second-half turnaround, overcoming a two-goal deficit to defeat New York City FC 3-2 in a thrilling encounter. Bruno Damiani led the charge with a crucial brace, securing a vital victory for the Union.",
+      "body": "The Philadelphia Union once again demonstrated their resilience on Sunday, orchestrating a dramatic comeback to snatch a 3-2 victory against New York City FC at Yankee Stadium. After falling behind by two goals, the Union ignited their offense in the second half, mirroring a similar fightback from their previous MLS fixture.\n\nUruguayan striker Bruno Damiani proved to be the hero of the afternoon, netting two goals within a six-minute span. His first, an equalizer, was set up by the promising 16-year-old Cavan Sullivan, who delivered two assists on the day. Sullivan also provided the helper for Danley Jean Jacques' goal, which initiated Philadelphia's resurgence.\n\nThe late game-winner from Damiani, assisted by Quinn Sullivan, capped off an impressive performance that extended the Union's winning streak to four consecutive league matches. This crucial win keeps Philadelphia firmly in contention as they push for a playoff spot in the Eastern Conference.",
+      "tags": [
+        "MLS",
+        "Philadelphia Union",
+        "Bruno Damiani",
+        "Comeback Win"
+      ],
+      "image": "images/damiani-s-heroics-propel-union-to-stunning-comeback-against-nycfc-d5288ed520be.svg",
+      "publishedAt": "2026-08-18T21:25:29.277Z"
+    },
+    {
+      "id": "guinea-s-28-september-stadium-re-accredited-by-caf-for-home-matches-93aa4bd4e0a0",
+      "headline": "Guinea's 28-September Stadium Re-Accredited by CAF for Home Matches",
+      "league": "Other",
+      "summary": "The Confederation of African Football has provisionally accredited Conakry's 28-September Stadium, ending years of Guinean teams playing home international fixtures abroad. This decision allows local clubs and the national team, Syli National, to reconnect with their supporters on home soil.",
+      "body": "The Confederation of African Football (CAF) recently granted provisional Category 3 accreditation to the 28-September Stadium in Conakry, a significant development for Guinean football. For several years, Guinea's national teams and clubs have been compelled to host their international matches in other countries due to their domestic venues failing to meet required standards. This approval signals a welcome return to home soil for these fixtures.\n\nThe Guinean Football Federation (Feguifoot) confirmed CAF's authorization, which is temporarily valid until September 2026. This immediate impact will see local clubs like Hafia FC and Horoya AC utilizing the stadium for upcoming African club competitions in September. Hafia FC is scheduled to play AS Douanes from Mauritania on September 11, while Horoya AC will face JS Saoura from Algeria on September 13.\n\nFurthermore, Guinea's national team, the Syli National, is anticipated to play an international fixture against Kenya at the 28-September Stadium on October 1. While the CAF authorization specifically mentions validity until September, Feguifoot remains optimistic about hosting the October match, marking a crucial step in re-engaging with their passionate fanbase and bolstering local football.",
+      "tags": [
+        "Guinea Football",
+        "CAF Stadium Approval",
+        "28-September Stadium",
+        "African Football"
+      ],
+      "image": "images/guinea-s-28-september-stadium-re-accredited-by-caf-for-home-matches-93aa4bd4e0a0.svg",
+      "publishedAt": "2026-08-18T21:25:57.547Z"
+    },
+    {
       "id": "getafe-bolsters-midfield-with-zaragoza-s-promising-talent-francho-serrano-e9e04ce4d751",
       "headline": "Getafe Bolsters Midfield with Zaragoza's Promising Talent Francho Serrano",
       "league": "La Liga",
@@ -878,37 +908,7 @@
       ],
       "image": "images/ferran-torres-completes-blockbuster-move-to-paris-saint-germain-c867905cbf0b.svg",
       "publishedAt": "2026-08-15T18:29:44.299Z"
-    },
-    {
-      "id": "chelsea-dominates-real-sociedad-in-final-pre-season-tune-up-83d2205ad921",
-      "headline": "Chelsea Dominates Real Sociedad in Final Pre-Season Tune-Up",
-      "league": "Premier League",
-      "summary": "Chelsea concluded their pre-season schedule with a commanding 3-1 victory over Real Sociedad at Stamford Bridge, showcasing impressive attacking prowess ahead of the new Premier League campaign. New signing Morgan Rogers found the net on his debut, while Joao Pedro continued his prolific summer form with a brace.",
-      "body": "Under new manager Xabi Alonso, Chelsea delivered a strong performance in their last friendly before the Premier League season kicks off. The Blues opened the scoring early with debutant Morgan Rogers tapping in from close range after an initial effort from Joao Pedro was saved. Real Sociedad managed to equalize just before halftime through a well-struck volley by Jon Mikel Aramburu, sending the teams into the break level.\n\nHowever, Chelsea asserted their dominance in the second half. Joao Pedro restored the lead with a precise header from a Reece James cross shortly after the restart, demonstrating his sharp finishing. The Brazilian striker then sealed his brace, making a one-on-one opportunity look effortless to extend Chelsea's advantage.\n\nThe 3-1 win provides a significant confidence boost for Chelsea as they prepare for their Premier League opener. The team displayed effective attacking movements and a solid defensive shape, giving supporters optimism for the upcoming season under Alonso's guidance.",
-      "tags": [
-        "Chelsea",
-        "Pre-Season",
-        "Match Report",
-        "Joao Pedro"
-      ],
-      "image": "images/chelsea-dominates-real-sociedad-in-final-pre-season-tune-up-83d2205ad921.svg",
-      "publishedAt": "2026-08-15T18:29:59.716Z"
-    },
-    {
-      "id": "champions-league-play-offs-set-sabah-fc-makes-history-as-european-giants-clash-85784e8aabbe",
-      "headline": "Champions League Play-Offs Set: Sabah FC Makes History as European Giants Clash",
-      "league": "Champions League",
-      "summary": "The UEFA Champions League play-off round is poised to determine the final seven contenders for the upcoming league phase, with several compelling matchups on the horizon. Azerbaijani club Sabah FC has remarkably reached this crucial stage for the first time in their history, adding an exciting narrative to the competition.",
-      "body": "The final seven coveted places in the 2026/27 UEFA Champions League league phase are now within grasp as the play-off round fixtures have been confirmed. Anticipation builds for several high-stakes encounters, including a compelling clash between Turkish giants Fenerbahçe and French powerhouse Lyon, both eager to secure a spot in Europe's premier club competition. The first legs of these decisive ties are scheduled to kick off on August 18 and 19.\n\nAmong the teams making headlines, Azerbaijan's Sabah FC has achieved a significant milestone, advancing to the Champions League play-off round for the very first time. Their historic progression came after a dominant 4-0 victory in the second leg against Danish side Aarhus, securing a 5-2 aggregate win on August 11. Sabah FC is now preparing to face Israeli club Hapoel Be'er Sheva, with their initial encounter taking place in Bucharest.\n\nElsewhere in the draw, Bulgarian side Levski Sofia aims to break a long absence from the Champions League main stage as they prepare to take on Greek champions AEK Athens. The tie between Hapoel Be'er Sheva and Sabah guarantees at least one new team will feature in the Champions League league phase. Additionally, Scottish champions Celtic will host Austrian club LASK in another critical first leg as they vie for a place in the group stage.",
-      "tags": [
-        "Champions League",
-        "Qualifying",
-        "Play-offs",
-        "Sabah FC"
-      ],
-      "image": "images/champions-league-play-offs-set-sabah-fc-makes-history-as-european-giants-clash-85784e8aabbe.svg",
-      "publishedAt": "2026-08-15T18:30:15.082Z"
     }
   ],
-  "lastRun": "2026-08-18T18:39:44.806Z"
+  "lastRun": "2026-08-18T21:26:01.549Z"
 }
