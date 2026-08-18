@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "caf-initiates-committee-to-explore-new-african-nations-league-c285e0b927b9",
+      "headline": "CAF Initiates Committee to Explore New African Nations League",
+      "league": "Other",
+      "summary": "The Confederation of African Football has established a new committee tasked with examining the potential implementation of a groundbreaking African Nations League competition. This significant development aims to enrich the continent's football calendar and foster greater competitive opportunities for national teams.",
+      "body": "The Confederation of African Football (CAF) recently announced the formation of a dedicated committee to delve into the proposed African Nations League. This new body has already begun its work, holding virtual discussions as it progresses towards developing a comprehensive framework for the potential competition.\n\nKey figures appointed to this committee include CAF President Fouzi Lekjaa, Football Kenya Federation President Wallace Karia, and Eritrean football administrator Paulos Weldehaimanot. Their collective expertise will be crucial in shaping the detailed proposal for the league's structure and operational guidelines.\n\nThe initiative is seen as a strategic move to introduce more competitive fixtures for national teams across Africa, thereby creating additional opportunities for players and member federations. The committee's recommendations will ultimately be presented to the CAF Executive Committee for final consideration and approval.",
+      "tags": [
+        "CAF",
+        "African Nations League",
+        "Football Development",
+        "Committee"
+      ],
+      "image": "images/caf-initiates-committee-to-explore-new-african-nations-league-c285e0b927b9.svg",
+      "publishedAt": "2026-08-18T01:14:04.785Z"
+    },
+    {
       "id": "malawi-makes-history-with-first-ever-women-s-world-cup-qualification-10a19be85cd6",
       "headline": "Malawi Makes History with First-Ever Women's World Cup Qualification",
       "league": "World Cup Qualifiers",
@@ -895,22 +910,7 @@
       ],
       "image": "images/romero-bids-farewell-to-tottenham-joins-atletico-madrid-in-significant-deal-32eb25df499e.svg",
       "publishedAt": "2026-08-15T09:31:02.082Z"
-    },
-    {
-      "id": "alvarez-s-atletico-future-clouded-by-persistent-transfer-saga-6b2134b0e47a",
-      "headline": "Alvarez's Atletico Future Clouded by Persistent Transfer Saga",
-      "league": "La Liga",
-      "summary": "Julian Alvarez's position at Atletico Madrid remains uncertain as the new La Liga season commences, with the forward reportedly keen on a move away from the club. Despite his return to training, the ongoing transfer speculation casts a shadow over his immediate future with the Rojiblancos.",
-      "body": "The start of the La Liga season sees Atletico Madrid grappling with the unresolved future of star forward Julian Alvarez. The Argentine international has reportedly expressed a desire to leave the club, creating a complex situation for manager Diego Simeone's squad as they prepare for their opening fixtures. Atletico, however, has maintained a firm stance, indicating no intention of selling the player, particularly to rivals like Barcelona.\n\nAlvarez recently rejoined his teammates for training sessions, having been granted an extended break following Argentina's deep run to the World Cup final. Despite his physical presence back at the club, the persistent rumors linking him with potential transfers to top European sides, including both Barcelona and Real Madrid, continue to swirl.\n\nThe ongoing saga presents a significant challenge for Atletico Madrid, who may face a mixed reception from their fanbase regarding Alvarez's situation. With the league campaign now underway, the club will be keen to resolve the forward's future swiftly to ensure full focus on their quest for domestic success.",
-      "tags": [
-        "Julian Alvarez",
-        "Atletico Madrid",
-        "La Liga",
-        "Transfer News"
-      ],
-      "image": "images/alvarez-s-atletico-future-clouded-by-persistent-transfer-saga-6b2134b0e47a.svg",
-      "publishedAt": "2026-08-15T06:38:42.875Z"
     }
   ],
-  "lastRun": "2026-08-17T21:28:06.656Z"
+  "lastRun": "2026-08-18T01:14:08.871Z"
 }
