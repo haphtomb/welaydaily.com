@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "egypt-s-wafcon-collapse-ignites-player-fury-amid-coaching-controversy-9917b216a479",
+      "headline": "Egypt's WAFCON Collapse Ignites Player Fury Amid Coaching Controversy",
+      "league": "AFCON",
+      "summary": "Egypt's national women's team endured a disastrous Women's Africa Cup of Nations campaign, exiting the group stage with a dismal record that has sparked widespread criticism. Players are voicing significant concerns regarding coach Mohamed Kamal's leadership and selection choices.",
+      "body": "The Egyptian women's national football team, nicknamed the Cleopatras, experienced a profoundly disappointing Women's Africa Cup of Nations, culminating in a group stage exit marked by three heavy defeats. Their performance saw them concede fifteen goals while only managing to score three, a stark contrast to the nation's recent success in men's football.\n\nFollowing their early elimination, coach Mohamed Kamal is facing serious allegations from current and former players, who claim favoritism, unprofessional conduct, and the selection of unqualified individuals for the squad. Sarah Essam, a forward with professional experience in England and Spain, was among those publicly criticizing the coaching setup, highlighting a significant internal rift.\n\nThe severity of Egypt's underperformance is further underscored by the fact that tournament debutants Malawi, a nation ranked below Egypt, managed to defeat the Cleopatras and impressively reached the WAFCON final. This outcome highlights a widening gap between Egypt and other continental rivals like Morocco and Algeria, both of whom secured qualification for the 2027 Women's World Cup through their WAFCON campaigns.",
+      "tags": [
+        "Egypt Football",
+        "WAFCON 2026",
+        "CAF Women's Football",
+        "Coaching Controversy"
+      ],
+      "image": "images/egypt-s-wafcon-collapse-ignites-player-fury-amid-coaching-controversy-9917b216a479.svg",
+      "publishedAt": "2026-08-18T03:45:29.222Z"
+    },
+    {
       "id": "caf-initiates-committee-to-explore-new-african-nations-league-c285e0b927b9",
       "headline": "CAF Initiates Committee to Explore New African Nations League",
       "league": "Other",
@@ -895,22 +910,7 @@
       ],
       "image": "images/dramatic-uefa-play-offs-conclude-bosnia-czechia-sweden-and-t-rkiye-secure-world--c235995f986c.svg",
       "publishedAt": "2026-08-15T09:30:39.247Z"
-    },
-    {
-      "id": "romero-bids-farewell-to-tottenham-joins-atletico-madrid-in-significant-deal-32eb25df499e",
-      "headline": "Romero Bids Farewell to Tottenham, Joins Atletico Madrid in Significant Deal",
-      "league": "Transfer News",
-      "summary": "Cristian Romero has officially completed his transfer to Atlético Madrid from Tottenham Hotspur, with the Argentine defender reportedly moving for a fee of £34.1 million. The player has now shared an emotional message with Spurs supporters following his departure to the Spanish capital.",
-      "body": "Atlético Madrid has successfully secured the services of highly-rated defender Cristian Romero, finalizing a significant transfer from Tottenham Hotspur. The deal, reportedly valued at approximately £34.1 million, sees the World Cup winner embark on a new chapter in La Liga after a notable spell in North London.\n\nRomero’s move to the Spanish giants was reportedly agreed in the last 48 hours, culminating in his departure from the Premier League. The Argentine international has since taken to social media to express his gratitude and emotional farewell to the Tottenham faithful, acknowledging his time and experiences with the club.\n\nThis high-profile acquisition strengthens Atlético Madrid's defensive line as they prepare for the upcoming season, while Tottenham will now look to reinforce their squad in the remaining weeks of the transfer window following the exit of their key centre-back. The transfer marks one of the more significant movements in the current European market.",
-      "tags": [
-        "Cristian Romero",
-        "Atletico Madrid",
-        "Tottenham Hotspur",
-        "La Liga"
-      ],
-      "image": "images/romero-bids-farewell-to-tottenham-joins-atletico-madrid-in-significant-deal-32eb25df499e.svg",
-      "publishedAt": "2026-08-15T09:31:02.082Z"
     }
   ],
-  "lastRun": "2026-08-18T01:14:08.871Z"
+  "lastRun": "2026-08-18T03:47:06.174Z"
 }
