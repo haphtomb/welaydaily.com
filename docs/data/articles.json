@@ -1,6 +1,37 @@
 {
   "articles": [
     {
+      "id": "real-salt-lake-s-zavier-gozo-makes-blockbuster-move-to-premier-league-s-crystal--e653c893f005",
+      "headline": "Real Salt Lake's Zavier Gozo Makes Blockbuster Move to Premier League's Crystal Palace",
+      "league": "MLS",
+      "summary": "Real Salt Lake announced the transfer of homegrown attacking talent Zavier Gozo to English Premier League club Crystal Palace, marking a significant move for the promising American youth international. The reported club-record fee for the 19-year-old winger highlights his rapid ascent and the growing pipeline of MLS players heading to Europe.",
+      "body": "Real Salt Lake has confirmed the transfer of its highly-rated homegrown winger, Zavier Gozo, to Crystal Palace in England's Premier League. The move, announced on Tuesday, August 18, 2026, sees the 19-year-old United States youth international depart for a reported club-record fee of approximately $15 million, with RSL retaining a sell-on percentage. This landmark transfer underscores Gozo's exceptional development within the RSL academy system and his impressive performances in Major League Soccer.\n\nGozo, who hails from Utah, has been a standout player for Real Salt Lake, contributing significantly with 11 goal involvements (6 goals, 5 assists) in 16 appearances this season. His versatility as both a wingback and an attacker caught the attention of European scouts, culminating in this significant opportunity. The transfer represents a proud moment for RSL, showcasing their commitment to nurturing local talent and providing pathways to the highest levels of professional football.\n\nThe young American's trajectory has been steep, having also featured prominently for the United States at various youth levels, including the 2025 FIFA U-20 World Cup. While his strong start to the 2026 MLS season even placed him as a dark-horse contender for the senior USMNT World Cup squad, his immediate focus now shifts to establishing himself in the competitive English Premier League alongside fellow American international Chris Richards.",
+      "tags": [
+        "MLS",
+        "Transfer News",
+        "Real Salt Lake",
+        "Crystal Palace",
+        "Zavier Gozo"
+      ],
+      "image": "images/real-salt-lake-s-zavier-gozo-makes-blockbuster-move-to-premier-league-s-crystal--e653c893f005.svg",
+      "publishedAt": "2026-08-19T09:34:58.018Z"
+    },
+    {
+      "id": "barcelona-secures-world-cup-star-rodri-in-blockbuster-transfer-deal-bdb10fe158f1",
+      "headline": "Barcelona Secures World Cup Star Rodri in Blockbuster Transfer Deal",
+      "league": "La Liga",
+      "summary": "Barcelona has officially announced the acquisition of Spain's World Cup-winning captain, Rodri, from Manchester City, marking a significant strengthening of their midfield ahead of the new La Liga season. The highly-anticipated transfer concludes a protracted saga, with the midfielder expressing his excitement to join the Catalan giants.",
+      "body": "In a major statement of intent, reigning La Liga champions Barcelona have confirmed the signing of Rodri, with the commanding midfielder joining on a contract until 2030. The 30-year-old, who was instrumental in Spain's recent World Cup triumph and named the tournament's best player, arrived in Catalonia to finalize his move after an agreement was reached with Manchester City. Sources indicate the transfer fee could rise to approximately €76.5 million, including performance-related add-ons.\n\nRodri's arrival at Camp Nou is expected to provide the deep-lying midfield control that Barcelona has sought since the departure of Sergio Busquets. The former Atlético Madrid and Villarreal player had spent seven trophy-laden years at Manchester City, where he became a pivotal figure under Pep Guardiola. His signing is seen as a crucial step for Barcelona, who are aiming for a third consecutive La Liga title and a stronger challenge in European competitions.\n\nThe transfer concludes weeks of speculation, with Real Madrid also reportedly interested in the Spain international before he ultimately chose Barcelona. Rodri underwent a medical examination and was officially unveiled on Tuesday, expressing his eagerness for this new chapter and the opportunity to compete for major honors, including the Champions League. He joins other recent Barcelona additions like Anthony Gordon and Karim Adeyemi.",
+      "tags": [
+        "Barcelona",
+        "Rodri",
+        "Transfer News",
+        "La Liga"
+      ],
+      "image": "images/barcelona-secures-world-cup-star-rodri-in-blockbuster-transfer-deal-bdb10fe158f1.svg",
+      "publishedAt": "2026-08-19T09:37:16.468Z"
+    },
+    {
       "id": "greenwood-strike-secures-crucial-draw-for-fenerbah-e-against-lyon-3a15ed564843",
       "headline": "Greenwood Strike Secures Crucial Draw for Fenerbahçe Against Lyon",
       "league": "Champions League",
@@ -878,37 +909,7 @@
       ],
       "image": "images/tottenham-edges-closer-to-blockbuster-gakpo-and-savinho-double-deal-06373c155bff.svg",
       "publishedAt": "2026-08-16T01:18:19.081Z"
-    },
-    {
-      "id": "paris-saint-germain-claims-second-consecutive-uefa-super-cup-title-9f3969fffd19",
-      "headline": "Paris Saint-Germain Claims Second Consecutive UEFA Super Cup Title",
-      "league": "Champions League",
-      "summary": "Paris Saint-Germain successfully defended their UEFA Super Cup crown, overcoming Aston Villa in a hard-fought contest. The French champions demonstrated their European dominance with a narrow 2-1 victory.",
-      "body": "Paris Saint-Germain secured their second consecutive UEFA Super Cup, defeating Aston Villa by a score of 2-1 in a thrilling encounter. The reigning Champions League victors saw goals from Khvicha Kvaratskhelia and Désiré Doué, showcasing their offensive prowess early in the new season. This triumph reaffirms PSG's status as a formidable force in European club football.\n\nAston Villa mounted a spirited challenge, with teenager Brian Madjo netting a debut goal to keep the contest tight. The match also drew attention due to Somali referee Omar Artan, whose personal journey to officiate the high-profile European fixture garnered significant media interest.\n\nThis victory marks an excellent start for PSG, who featured nine players from their Champions League-winning squad against Arsenal earlier this year. The Parisians continue to build on their recent successes, signalling their intent for another dominant campaign across all competitions.",
-      "tags": [
-        "PSG",
-        "UEFA Super Cup",
-        "Aston Villa",
-        "European Football"
-      ],
-      "image": "images/paris-saint-germain-claims-second-consecutive-uefa-super-cup-title-9f3969fffd19.svg",
-      "publishedAt": "2026-08-15T21:22:32.715Z"
-    },
-    {
-      "id": "alav-s-dominates-ten-man-getafe-to-kick-off-la-liga-season-f11f5e64a7e3",
-      "headline": "Alavés Dominates Ten-Man Getafe to Kick Off La Liga Season",
-      "league": "La Liga",
-      "summary": "Deportivo Alavés began their La Liga campaign with a commanding 3-0 victory over Getafe, who were reduced to ten men early in the match. The win marks an impressive start for Alavés as the Spanish top flight officially gets underway.",
-      "body": "The 2026/27 La Liga season commenced today with Deportivo Alavés securing a convincing 3-0 win against Getafe at home. The match saw Alavés take control, particularly after Getafe's Kiko Femenía received a red card in the 42nd minute following a VAR review for a dangerous foul, leaving his team with a numerical disadvantage before halftime. \n\nMariano Díaz was instrumental for Alavés, contributing significantly to their attacking play. He first provided an assist for Nahuel Tenaglia's header in the 73rd minute, breaking the deadlock. Díaz then found the back of the net himself with a well-placed shot into the top corner in stoppage time, extending Alavés' lead. \n\nThe former Real Madrid forward wasn't done, setting up Mikel Rodríguez for the final goal in the dying minutes to seal a dominant performance. While the league has begun, giants Real Madrid and Barcelona have had their opening fixtures postponed until next week, allowing their World Cup-involved players additional recovery time.",
-      "tags": [
-        "La Liga",
-        "Alavés",
-        "Getafe",
-        "Mariano Díaz"
-      ],
-      "image": "images/alav-s-dominates-ten-man-getafe-to-kick-off-la-liga-season-f11f5e64a7e3.svg",
-      "publishedAt": "2026-08-15T21:22:47.057Z"
     }
   ],
-  "lastRun": "2026-08-19T06:43:35.258Z"
+  "lastRun": "2026-08-19T09:37:20.470Z"
 }
