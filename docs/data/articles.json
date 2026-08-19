@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "cameroon-secures-crucial-playoff-berth-in-caf-world-cup-qualifiers-fef3b08a979a",
+      "headline": "Cameroon Secures Crucial Playoff Berth in CAF World Cup Qualifiers",
+      "league": "World Cup Qualifiers",
+      "summary": "Cameroon's national team has officially clinched a coveted playoff spot in the African qualifiers for the 2026 FIFA World Cup, following a recent adjustment to the standings by CAF. This development sees the Indomitable Lions positioned among the top runners-up, maintaining their dream of reaching football's global showpiece.",
+      "body": "The Confederation of African Football (CAF) recently revised its standings for the 2026 FIFA World Cup qualifiers, a change that has significantly benefited Cameroon. The Indomitable Lions have now officially secured a place in the African playoffs, keeping their World Cup aspirations alive. This crucial update comes after Eritrea's withdrawal from the competition, which led CAF to nullify results against the lowest-ranked teams for fairness across all groups.\n\nUnder the updated table, Cameroon now holds second place in their group with 14 points and an impressive goal difference of +9, placing them just two points behind group leaders Gabon, who sit on 16 points. This strong performance positions them favourably among Africa's four best runners-up, granting them passage to the next stage of the qualification process.\n\nHeading into the African playoffs, Cameroon will now compete for a chance to advance to the intercontinental stage, with the ultimate goal of securing a spot in the 2026 FIFA World Cup. The team's qualification for these playoffs represents a significant step forward in their journey towards the tournament to be held in the United States, Canada, and Mexico.",
+      "tags": [
+        "CAF",
+        "Cameroon",
+        "World Cup 2026",
+        "Qualifiers"
+      ],
+      "image": "images/cameroon-secures-crucial-playoff-berth-in-caf-world-cup-qualifiers-fef3b08a979a.svg",
+      "publishedAt": "2026-08-19T01:13:36.289Z"
+    },
+    {
       "id": "damiani-s-heroics-propel-union-to-stunning-comeback-against-nycfc-d5288ed520be",
       "headline": "Damiani's Heroics Propel Union to Stunning Comeback Against NYCFC",
       "league": "MLS",
@@ -892,23 +907,7 @@
       ],
       "image": "images/dithejane-s-late-heroics-propel-chicago-fire-to-leagues-cup-quarterfinals-bceeaad40f03.svg",
       "publishedAt": "2026-08-15T21:23:22.163Z"
-    },
-    {
-      "id": "ferran-torres-completes-blockbuster-move-to-paris-saint-germain-c867905cbf0b",
-      "headline": "Ferran Torres Completes Blockbuster Move to Paris Saint-Germain",
-      "league": "Transfer News",
-      "summary": "Spanish forward Ferran Torres has officially joined Paris Saint-Germain from Barcelona in a significant transfer deal. The move sees the attacker commit his long-term future to the French champions.",
-      "body": "Paris Saint-Germain has finalized the acquisition of Ferran Torres from Barcelona, with the Spanish international signing a contract that extends until 2031. This high-profile transfer concludes weeks of speculation, bringing a dynamic attacking talent to the Parc des Princes.\n\nThe reported fee for the forward is approximately 50 to 55 million euros, a substantial investment by the Parisian club as they continue to strengthen their squad. Torres' arrival is expected to bolster PSG's offensive options as they prepare for the upcoming season across all competitions.\n\nTorres, who has previously showcased his abilities in both La Liga and the Premier League, will now embark on a new chapter in Ligue 1. The completion of this deal marks one of the most significant transfers in the current window, signaling PSG's ambitious intentions.",
-      "tags": [
-        "Ferran Torres",
-        "PSG",
-        "Barcelona",
-        "Ligue 1",
-        "Transfer"
-      ],
-      "image": "images/ferran-torres-completes-blockbuster-move-to-paris-saint-germain-c867905cbf0b.svg",
-      "publishedAt": "2026-08-15T18:29:44.299Z"
     }
   ],
-  "lastRun": "2026-08-18T21:26:01.549Z"
+  "lastRun": "2026-08-19T01:13:40.644Z"
 }
