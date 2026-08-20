@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "la-liga-introduces-key-rule-changes-for-exciting-2026-27-season-c7dcaa191654",
+      "headline": "La Liga Introduces Key Rule Changes for Exciting 2026/27 Season",
+      "league": "La Liga",
+      "summary": "Spain's top football division has implemented several significant rule adjustments for the 2026/27 campaign, aiming to enhance fairness and clarity on the pitch. These changes, some inspired by recent controversies, will impact everything from penalty kicks to VAR interventions, setting the stage for a compelling season.",
+      "body": "The upcoming La Liga season will see several notable modifications to the rulebook, designed to streamline gameplay and address contentious situations. Among the most prominent is the so-called 'Vinicius Jr. rule', which will now result in a yellow card for players who intentionally cover their mouths during on-field confrontations, a departure from previous interpretations. This aims to curb unsporting behavior and promote transparent communication.\n\nFurther clarity has been introduced regarding penalty kicks. If a player executes a 'double kick' and scores, the penalty will be retaken, but if the attempt is missed or saved, play will continue without a retake. VAR's role will also be expanded to review every corner kick, allowing officials to correct clear errors and award a goal kick if necessary. Additionally, the video assistant referee will be permitted to review player identity for card offenses, though not the foul itself.\n\nAnother specific alteration addresses goal kicks: a penalty will now be awarded if a goalkeeper passes the ball and an outfield player subsequently handles it within the six-yard box. These comprehensive updates reflect La Liga's commitment to adapting the game and ensuring a more consistent and equitable standard of officiating throughout the league.",
+      "tags": [
+        "La Liga Rules",
+        "VAR",
+        "Football Regulations",
+        "Spanish Football"
+      ],
+      "image": "images/la-liga-introduces-key-rule-changes-for-exciting-2026-27-season-c7dcaa191654.svg",
+      "publishedAt": "2026-08-20T03:47:46.500Z"
+    },
+    {
+      "id": "celtic-seize-commanding-lead-in-champions-league-play-off-opener-49a744cec76e",
+      "headline": "Celtic Seize Commanding Lead in Champions League Play-Off Opener",
+      "league": "Champions League",
+      "summary": "Celtic delivered a powerful performance at home, securing a decisive 3-0 victory against Austrian side LASK in the first leg of their Champions League play-off tie. This dominant display puts the Scottish champions in a strong position as they eye a spot in the competition's lucrative league phase.",
+      "body": "Celtic started their Champions League play-off campaign in emphatic fashion, dismantling LASK with a comfortable 3-0 win at a vibrant Celtic Park. The Scottish champions set the tone early, with Benjamin Nygren breaking the deadlock in the 26th minute, volleying home from outside the box after a defensive clearance, giving the home side a crucial lead.\n\nSummer signing Camilo Duran proved to be the star of the night, adding a stunning brace to Celtic's tally. His first goal came before halftime, and he sealed his double in the 67th minute with a beautifully curled strike into the top corner, further extending Celtic's advantage. Despite LASK creating several chances and having two goals disallowed for offside, Celtic's defense held firm, ensuring a clean sheet.\n\nThe comprehensive victory provides Celtic with a significant aggregate lead heading into the return leg in Austria next week. LASK will face a formidable challenge to overturn the three-goal deficit and keep their Champions League aspirations alive, while Celtic are now firmly on track for the league phase.",
+      "tags": [
+        "Celtic FC",
+        "Champions League",
+        "Play-offs",
+        "Camilo Duran"
+      ],
+      "image": "images/celtic-seize-commanding-lead-in-champions-league-play-off-opener-49a744cec76e.svg",
+      "publishedAt": "2026-08-20T03:47:59.610Z"
+    },
+    {
       "id": "alexis-s-nchez-joins-cf-montr-al-citing-mls-s-growing-appeal-8ea1f8440bda",
       "headline": "Alexis Sánchez Joins CF Montréal, Citing MLS's Growing Appeal",
       "league": "MLS",
@@ -878,39 +908,7 @@
       ],
       "image": "images/shakhtar-donetsk-seeks-stamford-bridge-as-champions-league-home-3a69ea1c91fc.svg",
       "publishedAt": "2026-08-16T15:22:30.443Z"
-    },
-    {
-      "id": "la-liga-kicks-off-without-giants-world-cup-delays-top-teams-start-bd8b292b5335",
-      "headline": "La Liga Kicks Off Without Giants: World Cup Delays Top Teams' Start",
-      "league": "La Liga",
-      "summary": "The 2026/27 La Liga season has commenced with an unusual air, as traditional powerhouses Real Madrid, Barcelona, and Atlético Madrid were conspicuously absent from the opening weekend fixtures. This unprecedented staggered start is a direct consequence of a Spanish Football Federation decision, allowing teams with significant World Cup representation to postpone their initial matches.",
-      "body": "The Spanish top flight began its new campaign this past Saturday, with several matches taking place across the country. However, the anticipated sight of Real Madrid, Barcelona, and Atlético Madrid battling it out on the pitch was missing, leaving fans to ponder the unfamiliar opening weekend lineup. While teams like Alavés and Sevilla secured victories, the absence of the league's titans dominated discussions surrounding the season's commencement.\n\nThe reason behind this delayed start for La Liga's biggest clubs stems from the 2026 FIFA World Cup. The Spanish Football Federation (RFEF) implemented a ruling that granted clubs with a substantial number of players who reached the World Cup semi-finals or final the option to defer their opening league fixtures. Both Real Madrid and Barcelona met this criterion, opting to push back their initial encounters to allow their international stars extended recovery and preparation time.\n\nConsequently, Real Madrid's first league game, originally against Real Sociedad, has been rescheduled for August 26. Barcelona's opening match against Athletic Club will now take place on August 27. Interestingly, both clubs are slated to play their second league fixtures—Real Madrid against Espanyol on August 22 and Barcelona against Elche on August 23—before their official matchday one encounters, creating a unique early-season schedule.",
-      "tags": [
-        "La Liga",
-        "Real Madrid",
-        "Barcelona",
-        "Atletico Madrid",
-        "World Cup",
-        "Season Start"
-      ],
-      "image": "images/la-liga-kicks-off-without-giants-world-cup-delays-top-teams-start-bd8b292b5335.svg",
-      "publishedAt": "2026-08-16T15:22:45.939Z"
-    },
-    {
-      "id": "arsenal-stun-city-with-early-goals-in-community-shield-opener-650ac4a71608",
-      "headline": "Arsenal Stun City with Early Goals in Community Shield Opener",
-      "league": "Premier League",
-      "summary": "Arsenal have started the new English football season with a dominant first-half performance against Manchester City in the Community Shield, scoring two quick goals. The reigning Premier League champions showcased their attacking prowess, leaving Pep Guardiola's successor, Enzo Maresca, with a significant challenge at halftime.",
-      "body": "The 2026-27 English football season kicked off with a bang at Cardiff's Principality Stadium as Arsenal took an early and commanding lead over FA Cup holders Manchester City in the Community Shield. Riccardo Calafiori etched his name into the fixture's history, finding the net just 25 seconds into the match with a superb finish that left City's defense reeling.\n\nThe Gunners continued their relentless pressure, and it wasn't long before Kai Havertz doubled their advantage, heading home from close range after a well-worked attack. This impressive first-half display has put Arsenal in a strong position to lift the season's traditional curtain-raiser, signaling their intent for the upcoming Premier League campaign.\n\nFor Manchester City and their new manager Enzo Maresca, who is overseeing his first competitive fixture since taking over from Pep Guardiola, the opening 45 minutes presented an unexpected challenge. Despite attempts from players like Erling Haaland to reduce the deficit, Arsenal's defense, even without key players, held firm to maintain their two-goal lead heading into the break.",
-      "tags": [
-        "Community Shield",
-        "Arsenal",
-        "Manchester City",
-        "Season Opener"
-      ],
-      "image": "images/arsenal-stun-city-with-early-goals-in-community-shield-opener-650ac4a71608.svg",
-      "publishedAt": "2026-08-16T15:23:05.946Z"
     }
   ],
-  "lastRun": "2026-08-20T01:13:18.204Z"
+  "lastRun": "2026-08-20T03:48:24.521Z"
 }
