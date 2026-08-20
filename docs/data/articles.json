@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "hapoel-beer-sheva-secures-crucial-first-leg-advantage-over-sabah-84c21a085522",
+      "headline": "Hapoel Beer-Sheva Secures Crucial First-Leg Advantage Over Sabah",
+      "league": "Champions League",
+      "summary": "Hapoel Beer-Sheva earned a vital 2-1 victory against Sabah in their Champions League play-off first leg, overcoming an early deficit at a neutral Romanian venue. The Israeli side now holds a narrow advantage as they look towards the decisive second leg.",
+      "body": "The UEFA Champions League play-off round commenced with a fiercely contested encounter between Hapoel Beer-Sheva and Azerbaijan's Sabah. Playing at a neutral location in Romania, Sabah made an immediate impact, with Shimic finding the net just six minutes into the match to give his side an early lead.\n\nDespite Sabah's promising start, which included the involvement of Uzbek midfielder Umarali Rakhmonaliyev, Hapoel Beer-Sheva demonstrated resilience. They managed to overturn the early setback, scoring twice to secure a 2-1 win by the final whistle.\n\nThis result provides Hapoel Beer-Sheva with a valuable lead heading into the return leg, though Sabah will be encouraged by their attacking display and the crucial away goal. The tie remains finely balanced as both teams vie for a coveted spot in the Champions League group stage.",
+      "tags": [
+        "Champions League",
+        "Play-off",
+        "Hapoel Beer-Sheva",
+        "Sabah"
+      ],
+      "image": "images/hapoel-beer-sheva-secures-crucial-first-leg-advantage-over-sabah-84c21a085522.svg",
+      "publishedAt": "2026-08-20T06:45:37.684Z"
+    },
+    {
       "id": "la-liga-introduces-key-rule-changes-for-exciting-2026-27-season-c7dcaa191654",
       "headline": "La Liga Introduces Key Rule Changes for Exciting 2026/27 Season",
       "league": "La Liga",
@@ -893,22 +908,7 @@
       ],
       "image": "images/wafcon-final-set-for-historic-global-broadcast-as-captains-meet-83dcffe25208.svg",
       "publishedAt": "2026-08-16T18:30:03.517Z"
-    },
-    {
-      "id": "shakhtar-donetsk-seeks-stamford-bridge-as-champions-league-home-3a69ea1c91fc",
-      "headline": "Shakhtar Donetsk Seeks Stamford Bridge as Champions League Home",
-      "league": "Champions League",
-      "summary": "Ukrainian club Shakhtar Donetsk is reportedly exploring the possibility of playing their upcoming UEFA Champions League home fixtures at Chelsea's Stamford Bridge. This potential move aims to provide a stable and safe venue for their European campaign amidst ongoing circumstances in Ukraine.",
-      "body": "Reports indicate that Shakhtar Donetsk, a prominent Ukrainian football club, is in discussions to utilize Stamford Bridge, the home ground of English giants Chelsea, for their 2026-27 UEFA Champions League matches. The club has been forced to seek alternative venues for their European fixtures in recent seasons due to the conflict in Ukraine, and London could offer a solution for the upcoming competition.\n\nThis potential arrangement would see the Ukrainian champions host Europe's elite clubs in West London, providing a familiar and high-profile stadium for their players and supporters. It highlights the continuing challenges faced by Ukrainian teams in securing suitable home venues for international competitions.\n\nWhile details are still emerging, such a move would underscore the solidarity within the European football community and offer Shakhtar a consistent base for their Champions League aspirations. The decision would allow them to focus on the football itself, rather than the logistical complexities of finding a temporary home ground for each fixture.",
-      "tags": [
-        "Shakhtar Donetsk",
-        "Stamford Bridge",
-        "Champions League",
-        "Ukraine"
-      ],
-      "image": "images/shakhtar-donetsk-seeks-stamford-bridge-as-champions-league-home-3a69ea1c91fc.svg",
-      "publishedAt": "2026-08-16T15:22:30.443Z"
     }
   ],
-  "lastRun": "2026-08-20T03:48:24.521Z"
+  "lastRun": "2026-08-20T06:45:49.049Z"
 }

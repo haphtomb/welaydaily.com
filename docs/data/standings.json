@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T03:46:05.745Z",
+  "updatedAt": "2026-08-20T06:43:57.818Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -287,202 +287,202 @@
       ],
       "fixtures": [
         {
-          "id": 560620,
-          "utcDate": "2026-10-23T19:00:00Z",
+          "id": 560902,
+          "utcDate": "2027-05-23T14:00:00Z",
           "status": "TIMED",
-          "matchday": 8,
-          "home": "Ipswich Town FC",
-          "away": "Nottingham Forest FC",
-          "homeScore": null,
-          "awayScore": null
-        },
-        {
-          "id": 560614,
-          "utcDate": "2026-10-24T11:30:00Z",
-          "status": "TIMED",
-          "matchday": 8,
-          "home": "Aston Villa FC",
-          "away": "Manchester City FC",
-          "homeScore": null,
-          "awayScore": null
-        },
-        {
-          "id": 560612,
-          "utcDate": "2026-10-24T14:00:00Z",
-          "status": "TIMED",
-          "matchday": 8,
-          "home": "Liverpool FC",
-          "away": "Brighton & Hove Albion FC",
-          "homeScore": null,
-          "awayScore": null
-        },
-        {
-          "id": 560616,
-          "utcDate": "2026-10-24T14:00:00Z",
-          "status": "TIMED",
-          "matchday": 8,
-          "home": "Arsenal FC",
-          "away": "Everton FC",
-          "homeScore": null,
-          "awayScore": null
-        },
-        {
-          "id": 560618,
-          "utcDate": "2026-10-24T14:00:00Z",
-          "status": "TIMED",
-          "matchday": 8,
-          "home": "Coventry City FC",
-          "away": "Fulham FC",
-          "homeScore": null,
-          "awayScore": null
-        },
-        {
-          "id": 560617,
-          "utcDate": "2026-10-24T16:30:00Z",
-          "status": "TIMED",
-          "matchday": 8,
-          "home": "Chelsea FC",
-          "away": "Tottenham Hotspur FC",
-          "homeScore": null,
-          "awayScore": null
-        },
-        {
-          "id": 560613,
-          "utcDate": "2026-10-25T14:00:00Z",
-          "status": "TIMED",
-          "matchday": 8,
-          "home": "Crystal Palace FC",
-          "away": "Newcastle United FC",
-          "homeScore": null,
-          "awayScore": null
-        },
-        {
-          "id": 560615,
-          "utcDate": "2026-10-25T14:00:00Z",
-          "status": "TIMED",
-          "matchday": 8,
-          "home": "Manchester United FC",
-          "away": "AFC Bournemouth",
-          "homeScore": null,
-          "awayScore": null
-        },
-        {
-          "id": 560619,
-          "utcDate": "2026-10-25T14:00:00Z",
-          "status": "TIMED",
-          "matchday": 8,
-          "home": "Hull City AFC",
-          "away": "Brentford FC",
-          "homeScore": null,
-          "awayScore": null
-        },
-        {
-          "id": 560621,
-          "utcDate": "2026-10-25T16:30:00Z",
-          "status": "TIMED",
-          "matchday": 8,
-          "home": "Sunderland AFC",
-          "away": "Leeds United FC",
-          "homeScore": null,
-          "awayScore": null
-        },
-        {
-          "id": 560626,
-          "utcDate": "2026-10-31T12:30:00Z",
-          "status": "TIMED",
-          "matchday": 9,
-          "home": "Chelsea FC",
-          "away": "Manchester United FC",
-          "homeScore": null,
-          "awayScore": null
-        },
-        {
-          "id": 560623,
-          "utcDate": "2026-10-31T15:00:00Z",
-          "status": "TIMED",
-          "matchday": 9,
-          "home": "Manchester City FC",
-          "away": "Brighton & Hove Albion FC",
-          "homeScore": null,
-          "awayScore": null
-        },
-        {
-          "id": 560624,
-          "utcDate": "2026-10-31T15:00:00Z",
-          "status": "TIMED",
-          "matchday": 9,
-          "home": "AFC Bournemouth",
-          "away": "Leeds United FC",
-          "homeScore": null,
-          "awayScore": null
-        },
-        {
-          "id": 560625,
-          "utcDate": "2026-10-31T15:00:00Z",
-          "status": "TIMED",
-          "matchday": 9,
-          "home": "Coventry City FC",
-          "away": "Sunderland AFC",
-          "homeScore": null,
-          "awayScore": null
-        },
-        {
-          "id": 560629,
-          "utcDate": "2026-10-31T15:00:00Z",
-          "status": "TIMED",
-          "matchday": 9,
-          "home": "Hull City AFC",
-          "away": "Ipswich Town FC",
-          "homeScore": null,
-          "awayScore": null
-        },
-        {
-          "id": 560630,
-          "utcDate": "2026-10-31T15:00:00Z",
-          "status": "TIMED",
-          "matchday": 9,
+          "matchday": 37,
           "home": "Brentford FC",
-          "away": "Nottingham Forest FC",
+          "away": "Hull City AFC",
           "homeScore": null,
           "awayScore": null
         },
         {
-          "id": 560627,
-          "utcDate": "2026-10-31T17:30:00Z",
+          "id": 560903,
+          "utcDate": "2027-05-23T14:00:00Z",
           "status": "TIMED",
-          "matchday": 9,
-          "home": "Tottenham Hotspur FC",
+          "matchday": 37,
+          "home": "Newcastle United FC",
           "away": "Crystal Palace FC",
           "homeScore": null,
           "awayScore": null
         },
         {
-          "id": 560628,
-          "utcDate": "2026-11-01T14:00:00Z",
+          "id": 560904,
+          "utcDate": "2027-05-23T14:00:00Z",
           "status": "TIMED",
-          "matchday": 9,
-          "home": "Aston Villa FC",
-          "away": "Fulham FC",
+          "matchday": 37,
+          "home": "Tottenham Hotspur FC",
+          "away": "Manchester United FC",
           "homeScore": null,
           "awayScore": null
         },
         {
-          "id": 560631,
-          "utcDate": "2026-11-01T16:30:00Z",
+          "id": 560905,
+          "utcDate": "2027-05-23T14:00:00Z",
           "status": "TIMED",
-          "matchday": 9,
-          "home": "Liverpool FC",
+          "matchday": 37,
+          "home": "Leeds United FC",
+          "away": "Sunderland AFC",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 560906,
+          "utcDate": "2027-05-23T14:00:00Z",
+          "status": "TIMED",
+          "matchday": 37,
+          "home": "Brighton & Hove Albion FC",
+          "away": "Liverpool FC",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 560907,
+          "utcDate": "2027-05-23T14:00:00Z",
+          "status": "TIMED",
+          "matchday": 37,
+          "home": "Nottingham Forest FC",
+          "away": "Ipswich Town FC",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 560908,
+          "utcDate": "2027-05-23T14:00:00Z",
+          "status": "TIMED",
+          "matchday": 37,
+          "home": "AFC Bournemouth",
+          "away": "Chelsea FC",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 560909,
+          "utcDate": "2027-05-23T14:00:00Z",
+          "status": "TIMED",
+          "matchday": 37,
+          "home": "Fulham FC",
+          "away": "Coventry City FC",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 560910,
+          "utcDate": "2027-05-23T14:00:00Z",
+          "status": "TIMED",
+          "matchday": 37,
+          "home": "Everton FC",
           "away": "Arsenal FC",
           "homeScore": null,
           "awayScore": null
         },
         {
-          "id": 560622,
-          "utcDate": "2026-11-02T20:00:00Z",
+          "id": 560911,
+          "utcDate": "2027-05-23T14:00:00Z",
           "status": "TIMED",
-          "matchday": 9,
-          "home": "Newcastle United FC",
+          "matchday": 37,
+          "home": "Manchester City FC",
+          "away": "Aston Villa FC",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 560912,
+          "utcDate": "2027-05-30T15:00:00Z",
+          "status": "TIMED",
+          "matchday": 38,
+          "home": "Ipswich Town FC",
           "away": "Everton FC",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 560913,
+          "utcDate": "2027-05-30T15:00:00Z",
+          "status": "TIMED",
+          "matchday": 38,
+          "home": "Arsenal FC",
+          "away": "Brighton & Hove Albion FC",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 560914,
+          "utcDate": "2027-05-30T15:00:00Z",
+          "status": "TIMED",
+          "matchday": 38,
+          "home": "Liverpool FC",
+          "away": "AFC Bournemouth",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 560915,
+          "utcDate": "2027-05-30T15:00:00Z",
+          "status": "TIMED",
+          "matchday": 38,
+          "home": "Coventry City FC",
+          "away": "Nottingham Forest FC",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 560916,
+          "utcDate": "2027-05-30T15:00:00Z",
+          "status": "TIMED",
+          "matchday": 38,
+          "home": "Aston Villa FC",
+          "away": "Tottenham Hotspur FC",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 560917,
+          "utcDate": "2027-05-30T15:00:00Z",
+          "status": "TIMED",
+          "matchday": 38,
+          "home": "Hull City AFC",
+          "away": "Newcastle United FC",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 560918,
+          "utcDate": "2027-05-30T15:00:00Z",
+          "status": "TIMED",
+          "matchday": 38,
+          "home": "Manchester United FC",
+          "away": "Fulham FC",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 560919,
+          "utcDate": "2027-05-30T15:00:00Z",
+          "status": "TIMED",
+          "matchday": 38,
+          "home": "Sunderland AFC",
+          "away": "Manchester City FC",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 560920,
+          "utcDate": "2027-05-30T15:00:00Z",
+          "status": "TIMED",
+          "matchday": 38,
+          "home": "Chelsea FC",
+          "away": "Brentford FC",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 560921,
+          "utcDate": "2027-05-30T15:00:00Z",
+          "status": "TIMED",
+          "matchday": 38,
+          "home": "Crystal Palace FC",
+          "away": "Leeds United FC",
           "homeScore": null,
           "awayScore": null
         }
