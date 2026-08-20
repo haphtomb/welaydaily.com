@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "barcelona-secures-world-cup-star-rodri-in-blockbuster-midfield-move-706a65e61ad4",
+      "headline": "Barcelona Secures World Cup Star Rodri in Blockbuster Midfield Move",
+      "league": "La Liga",
+      "summary": "Barcelona has officially completed the signing of Spain's World Cup-winning midfielder Rodri from Manchester City, securing a vital addition to their squad ahead of the new La Liga season. The highly-rated defensive midfielder joins the Catalan giants on a four-year contract, reportedly choosing Camp Nou over rivals Real Madrid.",
+      "body": "In a significant move shaking up the La Liga landscape, Barcelona has successfully acquired Rodri in a deal worth approximately €75 million from English champions Manchester City. The 30-year-old, who captained Spain to World Cup glory and was named the tournament's best player, committed to a contract extending until June 2030, a clear statement of intent from the reigning Spanish champions as they aim for continued domestic and European success.\n\nBarcelona coach Hansi Flick expressed immense satisfaction with the arrival, emphasizing Rodri's exceptional qualities and describing him as the world's premier defensive midfielder. Flick believes Rodri's passing range and tactical intelligence perfectly align with Barcelona's possession-based philosophy, making him a crucial asset for the upcoming campaign. This acquisition is seen as a strategic move to fortify the midfield following the departure of key figures.\n\nThe transfer saga also saw Real Madrid vying for Rodri's signature, with manager José Mourinho confirming a substantial offer was made. However, Rodri ultimately opted for Barcelona, a decision Mourinho suggested stemmed from the player's initial hesitation regarding a move to the Bernabéu. His arrival is expected to immediately bolster Barcelona's title defense as they prepare for their league opener.",
+      "tags": [
+        "Barcelona",
+        "Rodri",
+        "Transfer News",
+        "La Liga"
+      ],
+      "image": "images/barcelona-secures-world-cup-star-rodri-in-blockbuster-midfield-move-706a65e61ad4.svg",
+      "publishedAt": "2026-08-20T18:39:55.174Z"
+    },
+    {
       "id": "musa-brace-and-binyamin-winner-power-dallas-in-seven-goal-thriller-060fe99ac49a",
       "headline": "Musa Brace and Binyamin Winner Power Dallas in Seven-Goal Thriller",
       "league": "MLS",
@@ -892,23 +907,7 @@
       ],
       "image": "images/union-stage-stunning-comeback-to-down-nycfc-in-dramatic-bronx-battle-5f87fc6d33f4.svg",
       "publishedAt": "2026-08-17T09:42:47.069Z"
-    },
-    {
-      "id": "racing-santander-s-la-liga-return-sees-dramatic-comeback-draw-against-villarreal-e91fb9d1adbc",
-      "headline": "Racing Santander's La Liga Return Sees Dramatic Comeback Draw Against Villarreal",
-      "league": "La Liga",
-      "summary": "Newly promoted Racing Santander experienced a whirlwind return to Spain's top flight, squandering a two-goal advantage in a thrilling 2-2 draw against Villarreal. The visitors mounted a rapid comeback with two strikes in quick succession just before halftime, denying Racing a dream start to their first La Liga campaign in 14 years.",
-      "body": "El Sardinero erupted as Racing Santander, celebrating their long-awaited return to La Liga after a 14-year absence, surged into a commanding two-goal lead against last season's third-place finishers, Villarreal. The home side's early dominance set the stage for what looked to be a fairytale beginning to their top-flight campaign on Sunday.\n\nHowever, the excitement quickly turned to tension as Villarreal, under new manager Iñigo Pérez, responded with remarkable speed. Pape Gueye initiated the comeback with a stunning long-range effort from 31 yards just before the break, followed almost immediately by Nicolas Pepe's equally impressive strike from 23 yards.\n\nThe two rapid-fire goals, scored within a minute of each other, leveled the scoreline at 2-2 by halftime, completely shifting the momentum of the match. Despite a goalless second half, the dramatic turnaround meant both teams shared the points in a captivating opening fixture for Racing.",
-      "tags": [
-        "Racing Santander",
-        "Villarreal",
-        "La Liga",
-        "Match Report",
-        "Comeback"
-      ],
-      "image": "images/racing-santander-s-la-liga-return-sees-dramatic-comeback-draw-against-villarreal-e91fb9d1adbc.svg",
-      "publishedAt": "2026-08-17T09:43:01.542Z"
     }
   ],
-  "lastRun": "2026-08-20T15:35:38.629Z"
+  "lastRun": "2026-08-20T18:40:14.392Z"
 }
