@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "nec-s-champions-league-dreams-dented-by-clinical-bod-glimt-8dc00a455deb",
+      "headline": "NEC's Champions League Dreams Dented by Clinical Bodø/Glimt",
+      "league": "Champions League",
+      "summary": "Dutch side NEC Nijmegen face an uphill battle in their Champions League play-off after suffering a 3-1 home defeat to Norway's Bodø/Glimt. A late goal offered a glimmer of hope, but the Eredivisie club now needs a monumental effort in the return leg.",
+      "body": "NEC Nijmegen's aspirations of reaching the Champions League group stage took a significant hit yesterday as they fell 3-1 to Bodø/Glimt in the first leg of their play-off tie. Playing at home, the Dutch team struggled to break down their experienced Norwegian opponents, who efficiently converted their opportunities.\n\nBodø/Glimt displayed their tactical prowess, weathering periods of pressure from NEC before capitalizing on mistakes. Although NEC's Clement Bischoff managed to pull a goal back late in the game, it was not enough to significantly alter the daunting deficit facing them.\n\nThe result leaves NEC needing a remarkable performance in next week's away leg in the Arctic Circle to overturn the two-goal disadvantage and keep their European dream alive. Club captain Tjaronn Chery acknowledged the tough task ahead, stating the team will give their utmost.",
+      "tags": [
+        "Champions League",
+        "NEC Nijmegen",
+        "Bodø/Glimt",
+        "Play-offs"
+      ],
+      "image": "images/nec-s-champions-league-dreams-dented-by-clinical-bod-glimt-8dc00a455deb.svg",
+      "publishedAt": "2026-08-21T15:34:07.083Z"
+    },
+    {
+      "id": "d-c-united-forward-jacob-murrell-moves-to-scottish-premiership-s-falkirk-fc-7a1a0438f96f",
+      "headline": "D.C. United Forward Jacob Murrell Moves to Scottish Premiership's Falkirk FC",
+      "league": "MLS",
+      "summary": "D.C. United announced today the permanent transfer of young striker Jacob Murrell to Scottish Premiership club Falkirk FC, marking a significant move for the 22-year-old talent. The departure comes after Murrell spent three seasons developing within the MLS side, having originally been a top draft pick.",
+      "body": "D.C. United has confirmed the transfer of forward Jacob Murrell to Falkirk FC, a club competing in the Scottish Premiership. The 22-year-old, who was the seventh overall selection in the 2024 MLS SuperDraft, departs the capital after making 65 appearances across all competitions for United, where he registered four goals and four assists during his tenure. This move signals a new chapter for the promising attacker as he heads to European football. \n\nDr. Erkut Sogut, D.C. United's managing director of soccer operations, commented on Murrell's development, acknowledging his growth into a professional during his three seasons with the club. Sogut emphasized that Murrell's hard work earned him every opportunity and created memorable moments for the fanbase, highlighting his journey from a local talent to a professional footballer. \n\nMurrell's transfer, announced on Friday, August 21, 2026, reflects the ongoing dynamic nature of MLS rosters as players seek new challenges and opportunities abroad. His departure opens a slot for D.C. United as they continue their campaign, while Murrell aims to make an immediate impact with his new Scottish club.",
+      "tags": [
+        "D.C. United",
+        "Jacob Murrell",
+        "Transfer News",
+        "Scottish Premiership"
+      ],
+      "image": "images/d-c-united-forward-jacob-murrell-moves-to-scottish-premiership-s-falkirk-fc-7a1a0438f96f.svg",
+      "publishedAt": "2026-08-21T15:34:35.276Z"
+    },
+    {
       "id": "bernabeu-stands-alone-as-la-liga-unveils-referee-transparency-protocol-06acf9f97a8c",
       "headline": "Bernabeu Stands Alone as La Liga Unveils Referee Transparency Protocol",
       "league": "La Liga",
@@ -876,37 +906,7 @@
       ],
       "image": "images/sevilla-mounts-dramatic-late-comeback-to-edge-rayo-vallecano-in-season-opener-b6b06fec4f22.svg",
       "publishedAt": "2026-08-17T21:27:46.785Z"
-    },
-    {
-      "id": "liverpool-finalizes-blockbuster-deal-for-psg-star-bradley-barcola-6f04a992b847",
-      "headline": "Liverpool Finalizes Blockbuster Deal for PSG Star Bradley Barcola",
-      "league": "Transfer News",
-      "summary": "Liverpool has reportedly completed the highly anticipated signing of French winger Bradley Barcola from Paris Saint-Germain. This significant acquisition signals the Reds' intent to bolster their attacking options as the transfer window nears its close.",
-      "body": "After weeks of speculation, Anfield is abuzz with reports that Liverpool has successfully secured the services of Bradley Barcola from French champions Paris Saint-Germain. The young attacker's move to Merseyside appears to be a done deal, with sources indicating that the transfer was finalized in the last 24-48 hours. This signing marks a considerable investment by the English club, signaling their ambition to strengthen their squad for the upcoming season's challenges.\n\nBarcola's absence from PSG's recent Trophee des Champions squad further fueled speculation of an imminent departure, and it now seems Liverpool has won the race for his signature. The Reds have been actively pursuing attacking reinforcements, and the 23-year-old's arrival is expected to inject pace and creativity into their forward line. This move could potentially be part of a larger double swoop, with reports also linking PSG's Ibrahim Mbaye to a switch to Liverpool, with a combined fee for both players potentially reaching £155 million.\n\nThe French winger's transfer is one of the most significant deals as the summer window draws to a close, with many anticipating the immediate impact he could have. Liverpool supporters will undoubtedly be eager to see Barcola don the famous red jersey and contribute to their campaign for silverware.",
-      "tags": [
-        "Liverpool",
-        "Bradley Barcola",
-        "Transfer News",
-        "PSG"
-      ],
-      "image": "images/liverpool-finalizes-blockbuster-deal-for-psg-star-bradley-barcola-6f04a992b847.svg",
-      "publishedAt": "2026-08-17T21:28:02.656Z"
-    },
-    {
-      "id": "arsenal-secures-bruno-guimaraes-in-staggering-75-million-deal-d8aab6d40f98",
-      "headline": "Arsenal Secures Bruno Guimaraes in Staggering £75 Million Deal",
-      "league": "Transfer News",
-      "summary": "Arsenal has officially confirmed the monumental acquisition of Brazilian midfielder Bruno Guimaraes from Newcastle United, solidifying their midfield options for the foreseeable future. This high-profile move sees the talented player commit to the North London club until 2030, marking a significant statement in the summer transfer window.",
-      "body": "In a major coup for the Gunners, Arsenal finalized the transfer of Bruno Guimaraes from Newcastle United for a reported fee of £75 million. The deal, announced today, August 17, 2026, brings a dynamic and combative presence to Arsenal's midfield, with the Brazilian international signing a long-term contract that extends until 2030.\n\nGuimaraes's arrival is expected to bolster Arsenal's aspirations across all competitions, adding depth and quality to their squad. His consistent performances for Newcastle, coupled with his international experience, made him a sought-after talent, and Arsenal's willingness to meet the substantial asking price underscores their ambition heading into the new season.\n\nThe transfer represents one of the most significant outlays in the current window, signaling Arsenal's intent to compete at the highest level. Fans are eagerly anticipating seeing Guimaraes integrate with the team and contribute to their pursuit of silverware in the coming campaigns.",
-      "tags": [
-        "Arsenal",
-        "Bruno Guimaraes",
-        "Transfer News",
-        "Premier League"
-      ],
-      "image": "images/arsenal-secures-bruno-guimaraes-in-staggering-75-million-deal-d8aab6d40f98.svg",
-      "publishedAt": "2026-08-17T18:40:04.154Z"
     }
   ],
-  "lastRun": "2026-08-21T12:48:03.209Z"
+  "lastRun": "2026-08-21T15:34:47.314Z"
 }
