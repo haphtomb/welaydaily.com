@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "arsenal-finalize-blockbuster-60m-deal-for-crystal-palace-star-eze-f8634af18378",
+      "headline": "Arsenal Finalize Blockbuster £60m Deal for Crystal Palace Star Eze",
+      "league": "Premier League",
+      "summary": "Arsenal has reached a full agreement with Crystal Palace for the high-profile transfer of attacking midfielder Eberechi Eze, with the deal reportedly valued at £60 million. This significant acquisition marks a major statement of intent from the Gunners as the transfer window approaches its close.",
+      "body": "North London giants Arsenal have successfully concluded negotiations with Crystal Palace, securing a total agreement for the transfer of Eberechi Eze. The dynamic attacking midfielder will make the switch to the Emirates in a deal reportedly worth a substantial £60 million, signaling a bold move in the summer market.\n\nEze, a standout performer for Crystal Palace, has been a long-term target for several top clubs due to his impressive dribbling, creativity, and goal-scoring ability. His arrival is expected to significantly bolster Arsenal's midfield options and provide additional attacking flair as they prepare for the upcoming season.\n\nThe formal agreement, reported on August 20th, leaves just the final formalities before the England international officially becomes an Arsenal player. This transfer represents one of the most significant domestic moves of the current window, with both clubs now working to finalize the paperwork swiftly.",
+      "tags": [
+        "Arsenal",
+        "Crystal Palace",
+        "Eberechi Eze",
+        "Premier League",
+        "Transfer News"
+      ],
+      "image": "images/arsenal-finalize-blockbuster-60m-deal-for-crystal-palace-star-eze-f8634af18378.svg",
+      "publishedAt": "2026-08-21T06:46:19.188Z"
+    },
+    {
       "id": "cameroon-dominates-wafcon-best-xi-super-falcons-absent-f0bd95c15bfd",
       "headline": "Cameroon Dominates WAFCON Best XI, Super Falcons Absent",
       "league": "AFCON",
@@ -891,22 +907,7 @@
       ],
       "image": "images/arsenal-dominates-city-in-community-shield-lays-down-title-marker-89563ac55de6.svg",
       "publishedAt": "2026-08-17T15:26:52.214Z"
-    },
-    {
-      "id": "real-madrid-sells-youth-talent-jacobo-ortega-in-record-academy-deal-155fdd354241",
-      "headline": "Real Madrid Sells Youth Talent Jacobo Ortega in Record Academy Deal",
-      "league": "Transfer News",
-      "summary": "Real Madrid has finalized the transfer of 19-year-old academy product Jacobo Ortega to French club Strasbourg for a reported €10 million fee. This move marks a historic moment for the club, representing their most lucrative sale for a youth player who never featured for the senior squad.",
-      "body": "Jacobo Ortega, a promising forward who spent eight seasons developing within Real Madrid's esteemed academy, has officially joined Ligue 1 side Strasbourg. The agreement, announced on Monday, sees the Spanish giants retaining a significant 30% of the player's future economic rights, indicating their belief in his long-term potential.\n\nOrtega, a key figure in Real Madrid's UEFA Youth League triumph in the 2025-2026 season, departs without making a first-team appearance for Los Blancos. His €10 million transfer fee sets a new benchmark for academy sales at the club, highlighting the financial success of their youth development program.\n\nThis strategic sale allows Real Madrid to capitalize on its youth assets while Ortega seeks senior football experience in France. The deal underscores a growing trend of top clubs monetizing their academy talents, even those yet to break into the senior ranks.",
-      "tags": [
-        "Real Madrid",
-        "Transfer News",
-        "Jacobo Ortega",
-        "Strasbourg"
-      ],
-      "image": "images/real-madrid-sells-youth-talent-jacobo-ortega-in-record-academy-deal-155fdd354241.svg",
-      "publishedAt": "2026-08-17T12:43:49.772Z"
     }
   ],
-  "lastRun": "2026-08-21T03:51:53.814Z"
+  "lastRun": "2026-08-21T06:46:34.041Z"
 }
