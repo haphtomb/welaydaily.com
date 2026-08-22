@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "riquelme-s-stunning-volley-secures-opening-day-triumph-for-real-betis-b029f71c661a",
+      "headline": "Riquelme's Stunning Volley Secures Opening Day Triumph for Real Betis",
+      "league": "La Liga",
+      "summary": "Real Betis began their La Liga season with a hard-fought 1-0 victory over Real Sociedad, thanks to a superb second-half strike. The decisive goal came from Rodrigo Riquelme, ensuring Manuel Pellegrini's side collected all three points in their home opener.",
+      "body": "Real Betis got their 2026/27 La Liga campaign off to a winning start on Friday, overcoming Copa del Rey holders Real Sociedad with a narrow 1-0 triumph. The match, a tightly contested affair throughout, saw both teams battling for control in the midfield.\n\nThe breakthrough arrived in the 63rd minute when Rodrigo Riquelme netted the only goal of the game. The midfielder connected with a cross from Cucho Hernandez at the back post, expertly volleying the ball home to ignite celebrations among the home supporters at the Benito Villamarín.\n\nThis crucial win sees Betis commence the season strongly, extending their impressive unbeaten run in Friday night home fixtures to eighteen matches. The result places them among the early frontrunners in the league standings, setting a positive tone for the challenges ahead.",
+      "tags": [
+        "Real Betis",
+        "La Liga",
+        "Rodrigo Riquelme",
+        "Match Report"
+      ],
+      "image": "images/riquelme-s-stunning-volley-secures-opening-day-triumph-for-real-betis-b029f71c661a.svg",
+      "publishedAt": "2026-08-22T03:42:45.589Z"
+    },
+    {
       "id": "ac-milan-seals-blockbuster-74-million-deal-for-striker-goncalo-ramos-bd14a68b2cfc",
       "headline": "AC Milan Seals Blockbuster €74 Million Deal for Striker Goncalo Ramos",
       "league": "Transfer News",
@@ -891,22 +906,7 @@
       ],
       "image": "images/west-ham-fortifies-midfield-with-22-million-celtic-star-arne-engels-eee2a605c96b.svg",
       "publishedAt": "2026-08-18T09:34:27.819Z"
-    },
-    {
-      "id": "fenerbah-e-bolstered-by-star-signings-kicks-off-crucial-lyon-play-off-fdc659ab59b8",
-      "headline": "Fenerbahçe, Bolstered by Star Signings, Kicks Off Crucial Lyon Play-Off",
-      "league": "Champions League",
-      "summary": "The UEFA Champions League play-off round commences this evening, with a highly anticipated clash between Turkish giants Fenerbahçe and French club Lyon headlining the fixtures. Fenerbahçe enters the crucial tie having significantly strengthened their squad with prominent attacking talent during the summer transfer window.",
-      "body": "The race for a coveted spot in the UEFA Champions League group stage intensifies tonight as the play-off round first legs get underway across Europe. Among the most compelling matchups is the encounter between Fenerbahçe and Olympique Lyon, a fixture drawing significant attention as both clubs vie for progression to Europe's premier club competition.\n\nFenerbahçe has made headlines with their ambitious transfer strategy this summer, notably securing the services of Romelu Lukaku from Napoli in a reported €6 million deal, alongside the arrival of Mason Greenwood from Marseille for €39 million. These high-profile acquisitions signal a clear intent from the Turkish side to make a strong impact on the European stage.\n\nLyon, having navigated a challenging qualifying path, will present a formidable test for their Turkish opponents. This league path fixture is particularly vital, as the winners will join the 29 already qualified teams in the Champions League league phase, while the losing side will enter the UEFA Europa League.",
-      "tags": [
-        "Champions League",
-        "Fenerbahçe",
-        "Lyon",
-        "Transfers"
-      ],
-      "image": "images/fenerbah-e-bolstered-by-star-signings-kicks-off-crucial-lyon-play-off-fdc659ab59b8.svg",
-      "publishedAt": "2026-08-18T09:34:43.182Z"
     }
   ],
-  "lastRun": "2026-08-22T01:13:09.542Z"
+  "lastRun": "2026-08-22T03:42:49.921Z"
 }
