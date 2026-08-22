@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "arsenal-begin-title-defense-with-dominant-victory-over-spirited-coventry-18408d4fd189",
+      "headline": "Arsenal Begin Title Defense with Dominant Victory Over Spirited Coventry",
+      "league": "Premier League",
+      "summary": "Reigning champions Arsenal commenced their Premier League campaign with a commanding 3-0 home win against newly promoted Coventry City, showcasing their intent to retain the title. Goals from Kai Havertz, Bukayo Saka, and Martin Ødegaard sealed a comfortable opening day for the Gunners at the Emirates.",
+      "body": "Arsenal kicked off their 2026/27 Premier League title defense in emphatic fashion on Friday, securing a comprehensive 3-0 victory over a returning Coventry City side at the Emirates Stadium. The Gunners, keen to set an early precedent, saw goals from Kai Havertz, Bukayo Saka, and captain Martin Ødegaard, demonstrating a strong start to their campaign.\n\nNew summer signing Christos Tzolis made an immediate impact, playing a crucial role in setting up two of Arsenal's goals, particularly impressing on the left flank with his dynamic play. Coventry, managed by Frank Lampard, found their return to the top flight after a 25-year absence a challenging affair against the reigning champions, despite some moments of resilience, especially in the second half.\n\nMikel Arteta's squad exhibited control and attacking prowess, asserting their dominance throughout the match. While it was a stark welcome back to the Premier League for the Sky Blues, Arsenal's performance underscored their ambition to challenge for the title once more, leaving fans optimistic after a perfect opening fixture.",
+      "tags": [
+        "Arsenal",
+        "Coventry City",
+        "Premier League",
+        "Match Report"
+      ],
+      "image": "images/arsenal-begin-title-defense-with-dominant-victory-over-spirited-coventry-18408d4fd189.svg",
+      "publishedAt": "2026-08-22T06:41:50.701Z"
+    },
+    {
       "id": "riquelme-s-stunning-volley-secures-opening-day-triumph-for-real-betis-b029f71c661a",
       "headline": "Riquelme's Stunning Volley Secures Opening Day Triumph for Real Betis",
       "league": "La Liga",
@@ -891,22 +906,7 @@
       ],
       "image": "images/zimbabwe-s-national-stadium-fails-caf-approval-threatening-home-qualifiers-c027e9487e6b.svg",
       "publishedAt": "2026-08-18T12:46:30.278Z"
-    },
-    {
-      "id": "west-ham-fortifies-midfield-with-22-million-celtic-star-arne-engels-eee2a605c96b",
-      "headline": "West Ham Fortifies Midfield with £22 Million Celtic Star Arne Engels",
-      "league": "Premier League",
-      "summary": "West Ham United has officially secured the services of Celtic's dynamic midfielder Arne Engels in a substantial £22 million transfer, bolstering their squad ahead of the new season. The Belgian talent has penned a five-year deal with the Hammers, with an option for an additional year, marking a significant investment in their midfield.",
-      "body": "West Ham United has successfully finalized a major acquisition, bringing Celtic's highly-rated midfielder Arne Engels to the London Stadium in a deal valued at £22 million. The 20-year-old Belgian underwent a medical in London before committing his future to the Hammers with a five-year contract, which includes a club option for a sixth year. This move sees Engels depart the Scottish champions after an impressive stint, where his performances caught the eye of several top European clubs.\n\nThe substantial transfer fee underscores West Ham's ambition to strengthen their squad, particularly in the midfield department. Engels' arrival is expected to provide a significant boost to manager David Moyes' options as the team prepares for the demanding Premier League campaign. Celtic will also benefit from a sell-on clause, receiving approximately £2.2 million from Augsburg, who held a 10% stake in the player.\n\nEngels' move represents a new chapter in his promising career, transitioning from the Scottish Premiership to the highly competitive English top flight. Fans will be eager to see the energetic midfielder integrate into the squad and make an immediate impact, as West Ham looks to build on its recent successes and compete on multiple fronts this season.",
-      "tags": [
-        "West Ham",
-        "Arne Engels",
-        "Transfer News",
-        "Premier League"
-      ],
-      "image": "images/west-ham-fortifies-midfield-with-22-million-celtic-star-arne-engels-eee2a605c96b.svg",
-      "publishedAt": "2026-08-18T09:34:27.819Z"
     }
   ],
-  "lastRun": "2026-08-22T03:42:49.921Z"
+  "lastRun": "2026-08-22T06:41:54.788Z"
 }
