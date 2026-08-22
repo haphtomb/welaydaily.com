@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "ac-milan-seals-blockbuster-74-million-deal-for-striker-goncalo-ramos-bd14a68b2cfc",
+      "headline": "AC Milan Seals Blockbuster €74 Million Deal for Striker Goncalo Ramos",
+      "league": "Transfer News",
+      "summary": "AC Milan has officially completed a significant move in the transfer market, securing Portuguese international striker Goncalo Ramos from Paris Saint-Germain for a reported fee of €74 million. This high-profile acquisition marks a major statement of intent from the Rossoneri as they prepare for the upcoming season.",
+      "body": "AC Milan has made a substantial addition to their attacking arsenal, confirming the arrival of highly-rated forward Goncalo Ramos. The Portuguese international joins the Serie A giants from French champions Paris Saint-Germain in a deal valued at a hefty €74 million, signaling Milan's ambition to compete at the highest level.\n\nThe 25-year-old striker arrives at the San Siro after a productive stint in France, where he showcased his keen eye for goal and impressive link-up play. His signing is expected to inject considerable firepower into Milan's front line, providing a dynamic presence capable of leading the attack and converting crucial chances.\n\nRossoneri supporters will be eagerly anticipating Ramos's debut, hoping his arrival will propel the club towards domestic and European success. The significant investment underscores Milan's commitment to building a formidable squad, with Ramos poised to become a central figure in their pursuit of silverware.",
+      "tags": [
+        "AC Milan",
+        "Goncalo Ramos",
+        "Serie A",
+        "Transfer News"
+      ],
+      "image": "images/ac-milan-seals-blockbuster-74-million-deal-for-striker-goncalo-ramos-bd14a68b2cfc.svg",
+      "publishedAt": "2026-08-22T01:13:05.240Z"
+    },
+    {
       "id": "atl-tico-madrid-ceo-vows-to-protect-juli-n-lvarez-amidst-transfer-speculation-a4ce462892ca",
       "headline": "Atlético Madrid CEO Vows to Protect Julián Álvarez Amidst Transfer Speculation",
       "league": "La Liga",
@@ -891,22 +906,7 @@
       ],
       "image": "images/fenerbah-e-bolstered-by-star-signings-kicks-off-crucial-lyon-play-off-fdc659ab59b8.svg",
       "publishedAt": "2026-08-18T09:34:43.182Z"
-    },
-    {
-      "id": "columbus-crew-midfielder-hugo-picard-heads-to-troyes-on-loan-6072dc7c86b8",
-      "headline": "Columbus Crew Midfielder Hugo Picard Heads to Troyes on Loan",
-      "league": "MLS",
-      "summary": "The Columbus Crew have finalized a loan agreement for midfielder Hugo Picard, sending the 23-year-old Frenchman to French Ligue 1 side Troyes until the conclusion of the 2027 MLS Sprint Season. This move includes an option for Troyes to make the transfer permanent, marking another active period for the Crew in the transfer market.",
-      "body": "Columbus, OH – The Columbus Crew today announced a significant roster adjustment, confirming the loan of midfielder Hugo Picard to French Ligue 1 club Troyes. The agreement sees Picard depart the MLS side for European football through the 2027 MLS Sprint Season, with Troyes holding a purchase option should they wish to secure his services permanently.\n\nPicard, who joined Columbus last summer as a U22 Initiative signing from Ligue 2's EA Guingamp, has registered six goals and two assists across 33 appearances in all competitions for the Crew. Before his move to MLS, the French midfielder contributed 10 goals and 15 assists in 104 matches during his tenure with Guingamp.\n\nThis transfer continues a busy summer for the Crew, who have been actively reshaping their squad. The club recently saw the departures of former Designated Player Diego Rossi and USMNT wingback Max Arfsten, while simultaneously bolstering their ranks with new Designated Player Brais Méndez, Chilean forward Gonzalo Tapia, and veteran striker Josef Martínez. Columbus currently sits 11th in the Eastern Conference standings with 20 points, holding a record of five wins, nine losses, and five draws under interim head coach Laurent Courtois.",
-      "tags": [
-        "Columbus Crew",
-        "Hugo Picard",
-        "Transfer News",
-        "Ligue 1"
-      ],
-      "image": "images/columbus-crew-midfielder-hugo-picard-heads-to-troyes-on-loan-6072dc7c86b8.svg",
-      "publishedAt": "2026-08-18T09:35:01.649Z"
     }
   ],
-  "lastRun": "2026-08-21T21:26:10.725Z"
+  "lastRun": "2026-08-22T01:13:09.542Z"
 }
