@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T09:26:19.518Z",
+  "updatedAt": "2026-08-22T12:37:25.048Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -20,6 +20,20 @@
         },
         {
           "position": 2,
+          "team": "Hull City AFC",
+          "crest": "https://crests.football-data.org/322.png",
+          "played": 1,
+          "won": 1,
+          "draw": 0,
+          "lost": 0,
+          "goalsFor": 2,
+          "goalsAgainst": 0,
+          "goalDifference": 2,
+          "points": 3,
+          "form": []
+        },
+        {
+          "position": 3,
           "team": "AFC Bournemouth",
           "crest": "https://crests.football-data.org/bournemouth.png",
           "played": 0,
@@ -33,7 +47,7 @@
           "form": []
         },
         {
-          "position": 2,
+          "position": 3,
           "team": "Aston Villa FC",
           "crest": "https://crests.football-data.org/58.png",
           "played": 0,
@@ -47,7 +61,7 @@
           "form": []
         },
         {
-          "position": 2,
+          "position": 3,
           "team": "Brentford FC",
           "crest": "https://crests.football-data.org/402.png",
           "played": 0,
@@ -61,7 +75,7 @@
           "form": []
         },
         {
-          "position": 2,
+          "position": 3,
           "team": "Brighton & Hove Albion FC",
           "crest": "https://crests.football-data.org/397.png",
           "played": 0,
@@ -75,7 +89,7 @@
           "form": []
         },
         {
-          "position": 2,
+          "position": 3,
           "team": "Chelsea FC",
           "crest": "https://crests.football-data.org/61.png",
           "played": 0,
@@ -89,7 +103,7 @@
           "form": []
         },
         {
-          "position": 2,
+          "position": 3,
           "team": "Crystal Palace FC",
           "crest": "https://crests.football-data.org/354.png",
           "played": 0,
@@ -103,7 +117,7 @@
           "form": []
         },
         {
-          "position": 2,
+          "position": 3,
           "team": "Everton FC",
           "crest": "https://crests.football-data.org/62.png",
           "played": 0,
@@ -117,7 +131,7 @@
           "form": []
         },
         {
-          "position": 2,
+          "position": 3,
           "team": "Fulham FC",
           "crest": "https://crests.football-data.org/63.png",
           "played": 0,
@@ -131,21 +145,7 @@
           "form": []
         },
         {
-          "position": 2,
-          "team": "Hull City AFC",
-          "crest": "https://crests.football-data.org/322.png",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0,
-          "points": 0,
-          "form": []
-        },
-        {
-          "position": 2,
+          "position": 3,
           "team": "Ipswich Town FC",
           "crest": "https://crests.football-data.org/349.png",
           "played": 0,
@@ -159,7 +159,7 @@
           "form": []
         },
         {
-          "position": 2,
+          "position": 3,
           "team": "Leeds United FC",
           "crest": "https://crests.football-data.org/341.png",
           "played": 0,
@@ -173,7 +173,7 @@
           "form": []
         },
         {
-          "position": 2,
+          "position": 3,
           "team": "Liverpool FC",
           "crest": "https://crests.football-data.org/64.png",
           "played": 0,
@@ -187,7 +187,7 @@
           "form": []
         },
         {
-          "position": 2,
+          "position": 3,
           "team": "Manchester City FC",
           "crest": "https://crests.football-data.org/65.png",
           "played": 0,
@@ -201,21 +201,7 @@
           "form": []
         },
         {
-          "position": 2,
-          "team": "Manchester United FC",
-          "crest": "https://crests.football-data.org/66.png",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0,
-          "points": 0,
-          "form": []
-        },
-        {
-          "position": 2,
+          "position": 3,
           "team": "Newcastle United FC",
           "crest": "https://crests.football-data.org/67.png",
           "played": 0,
@@ -229,7 +215,7 @@
           "form": []
         },
         {
-          "position": 2,
+          "position": 3,
           "team": "Nottingham Forest FC",
           "crest": "https://crests.football-data.org/351.png",
           "played": 0,
@@ -243,7 +229,7 @@
           "form": []
         },
         {
-          "position": 2,
+          "position": 3,
           "team": "Sunderland AFC",
           "crest": "https://crests.football-data.org/71.png",
           "played": 0,
@@ -257,7 +243,7 @@
           "form": []
         },
         {
-          "position": 2,
+          "position": 3,
           "team": "Tottenham Hotspur FC",
           "crest": "https://crests.football-data.org/73.png",
           "played": 0,
@@ -267,6 +253,20 @@
           "goalsFor": 0,
           "goalsAgainst": 0,
           "goalDifference": 0,
+          "points": 0,
+          "form": []
+        },
+        {
+          "position": 19,
+          "team": "Manchester United FC",
+          "crest": "https://crests.football-data.org/66.png",
+          "played": 1,
+          "won": 0,
+          "draw": 0,
+          "lost": 1,
+          "goalsFor": 0,
+          "goalsAgainst": 2,
+          "goalDifference": -2,
           "points": 0,
           "form": []
         },
