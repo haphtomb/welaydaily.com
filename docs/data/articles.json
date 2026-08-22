@@ -1,6 +1,37 @@
 {
   "articles": [
     {
+      "id": "mourinho-begins-second-real-madrid-reign-against-espanyol-tonight-e98d95f95e3d",
+      "headline": "Mourinho Begins Second Real Madrid Reign Against Espanyol Tonight",
+      "league": "La Liga",
+      "summary": "Real Madrid kicks off their La Liga campaign tonight under the renewed leadership of Jose Mourinho, who returns for his second spell as head coach. The highly anticipated season opener sees Los Blancos travel to Barcelona to face Espanyol at the RCDE Stadium.",
+      "body": "The 2026/27 La Liga season officially gets underway for Real Madrid this evening as they visit Espanyol, marking the start of Jose Mourinho's much-discussed second tenure at the helm. After a period away, the Portuguese tactician is back in the dugout, aiming to steer the club back to domestic glory. This fixture is more than just an opening match; it's a statement of intent from a Real Madrid side eager to reclaim their dominance in Spanish football.\n\nFans will be keen to see several new faces potentially make their official debuts for the capital club. Record signing Yan Diomande, along with Bernardo Silva, Marc Cucurella, and Carlos Espí, have all been included in the squad and could feature in Mourinho's first competitive lineup. However, Real Madrid faces some early season challenges with key players Éder Militão, Rodrygo, Raúl Asencio, and Ferland Mendy sidelined due to injury, while Endrick and Aurélien Tchouaméni were not included in the matchday squad.\n\nTheir opponents, Espanyol, enter the match with some competitive rhythm, having already secured a convincing 3-0 victory over Levante in their opening league fixture. Playing at home in the RCDE Stadium, Espanyol will undoubtedly look to capitalize on their early form and deliver a strong performance against a Real Madrid team still finding its footing under new leadership. The stage is set for an intriguing start to the La Liga season.",
+      "tags": [
+        "Real Madrid",
+        "Jose Mourinho",
+        "La Liga",
+        "Espanyol"
+      ],
+      "image": "images/mourinho-begins-second-real-madrid-reign-against-espanyol-tonight-e98d95f95e3d.svg",
+      "publishedAt": "2026-08-22T09:27:56.565Z"
+    },
+    {
+      "id": "historic-shutout-streak-propels-dynamo-to-western-conference-summit-e8e889d9eafd",
+      "headline": "Historic Shutout Streak Propels Dynamo to Western Conference Summit",
+      "league": "MLS",
+      "summary": "Houston Dynamo FC ascended to the top of the MLS Western Conference after securing a remarkable fifth consecutive shutout victory against Vancouver Whitecaps FC. This historic defensive feat places them among an elite group of only three teams in league history to achieve such a streak.",
+      "body": "Houston Dynamo FC celebrated a monumental achievement on Wednesday night, defeating Vancouver Whitecaps FC by a single goal to claim sole possession of first place in the Western Conference. The crucial 1-0 win also marked an astonishing fifth consecutive shutout for the Texas club, an accomplishment only two other teams in Major League Soccer history have managed.\n\nDefender Franco Negri emerged as the hero of the evening, unleashing a powerful long-range strike in the 34th minute that ultimately proved to be the decisive goal. His stellar performance, alongside that of head coach Ben Olsen, earned both recognition on the MLSSoccer.com Team of the Matchday.\n\nThis formidable defensive run has seen the Dynamo keep opponents scoreless for an impressive 462 minutes, highlighting their impenetrable backline. With this victory, Houston continues their exceptional form, firmly establishing themselves as a dominant force in the league.",
+      "tags": [
+        "Houston Dynamo",
+        "MLS",
+        "Western Conference",
+        "Shutout",
+        "Franco Negri"
+      ],
+      "image": "images/historic-shutout-streak-propels-dynamo-to-western-conference-summit-e8e889d9eafd.svg",
+      "publishedAt": "2026-08-22T09:35:46.965Z"
+    },
+    {
       "id": "arsenal-begin-title-defense-with-dominant-victory-over-spirited-coventry-18408d4fd189",
       "headline": "Arsenal Begin Title Defense with Dominant Victory Over Spirited Coventry",
       "league": "Premier League",
@@ -876,37 +907,7 @@
       ],
       "image": "images/arsenal-delivers-dominant-performance-securing-community-shield-against-manchest-400a4269ad1d.svg",
       "publishedAt": "2026-08-18T12:45:50.001Z"
-    },
-    {
-      "id": "champions-league-play-offs-kick-off-levski-sofia-hosts-aek-athens-in-crucial-tie-501036f09ff2",
-      "headline": "Champions League Play-Offs Kick Off: Levski Sofia Hosts AEK Athens in Crucial Tie",
-      "league": "Champions League",
-      "summary": "The highly anticipated UEFA Champions League play-off round has officially begun, with clubs across Europe vying for the final seven spots in the prestigious league phase. Tonight's fixtures mark the start of intense battles to secure a place among the continent's elite.",
-      "body": "The decisive play-off round for the 2026/27 UEFA Champions League commenced this evening, with the initial first-leg matches setting the stage for who will advance to the coveted league phase. Fourteen teams are currently locked in a battle for the remaining seven positions in Europe's premier club competition, with the consolation of a Europa League league phase spot guaranteed for those who do not progress.\n\nAmong the key encounters kicking off tonight, Levski Sofia of Bulgaria is hosting Greek powerhouse AEK Athens in a pivotal showdown. Levski Sofia earned their place by overcoming Kairat Almaty in an earlier round, while AEK Athens will be looking to establish an advantage away from home. Elsewhere, Croatian side GNK Dinamo, fresh off a dominant 7-1 aggregate win in their last qualifier, is facing Norwegian club Viking.\n\nThe excitement continues tomorrow, August 19th, with four additional first-leg ties completing the play-off round's opening fixtures. These include Scottish champions Celtic taking on Austria's LASK, N.E.C. from the Netherlands challenging Bodø/Glimt, Slovan Bratislava clashing with Celje, and Hapoel Beer-Sheva going head-to-head with Sabah of Azerbaijan. These results will shape the narratives for the return legs later this month, as teams push for their Champions League dreams.",
-      "tags": [
-        "Champions League",
-        "Play-offs",
-        "Levski Sofia",
-        "AEK Athens"
-      ],
-      "image": "images/champions-league-play-offs-kick-off-levski-sofia-hosts-aek-athens-in-crucial-tie-501036f09ff2.svg",
-      "publishedAt": "2026-08-18T12:46:06.536Z"
-    },
-    {
-      "id": "zimbabwe-s-national-stadium-fails-caf-approval-threatening-home-qualifiers-c027e9487e6b",
-      "headline": "Zimbabwe's National Stadium Fails CAF Approval, Threatening Home Qualifiers",
-      "league": "AFCON Qualifiers",
-      "summary": "Zimbabwe's national team faces the prospect of playing its crucial 2027 Africa Cup of Nations qualifiers away from home after the National Sports Stadium once again failed to meet Confederation of African Football standards. This recurring issue highlights ongoing infrastructure challenges for the Warriors as September's qualification matches loom.",
-      "body": "Zimbabwean football is reeling from another significant blow as the country's primary venue, the National Sports Stadium, has not received the necessary approval from the Confederation of African Football to host international fixtures. This latest decision, communicated following a recent review of approved facilities, means the Warriors could be forced to seek neutral venues for their upcoming 2027 Africa Cup of Nations qualifying campaign. The inability to play on home soil presents a considerable disadvantage for the national side.\n\nThe setback isn't limited to the national team, as local club Scottland is also affected. They will now have to travel to Botswana, utilizing the Obed Itani Chilume Stadium in Francistown, for their CAF Champions League preliminary round fixture against Nsingisini next month. This situation underscores the urgent need for infrastructure improvements within Zimbabwean football to align with continental requirements.\n\nThis recurring problem with stadium homologation has plagued Zimbabwean football for some time, impacting both national team morale and club competition. As the September international window approaches, the focus will now shift to securing suitable alternative venues to ensure the Warriors can fulfill their AFCON qualifying commitments.",
-      "tags": [
-        "Zimbabwe Football",
-        "CAF",
-        "AFCON Qualifiers",
-        "Stadium Infrastructure"
-      ],
-      "image": "images/zimbabwe-s-national-stadium-fails-caf-approval-threatening-home-qualifiers-c027e9487e6b.svg",
-      "publishedAt": "2026-08-18T12:46:30.278Z"
     }
   ],
-  "lastRun": "2026-08-22T06:41:54.788Z"
+  "lastRun": "2026-08-22T09:35:50.965Z"
 }
