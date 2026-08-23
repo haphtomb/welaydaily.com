@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "cameroon-s-indomitable-lionesses-secure-historic-first-wafcon-title-0ba51ca08577",
+      "headline": "Cameroon's Indomitable Lionesses Secure Historic First WAFCON Title",
+      "league": "AFCON",
+      "summary": "Cameroon's national women's team, the Indomitable Lionesses, have made history by clinching their inaugural Women's Africa Cup of Nations (WAFCON) title. They defeated tournament debutants Malawi with a convincing 3-0 victory in the final held in Rabat, Morocco.",
+      "body": "The highly anticipated Women's Africa Cup of Nations final saw Cameroon dominate Malawi in a memorable encounter. Marie Ngah Manga opened the scoring for the Indomitable Lionesses in the 20th minute, followed by a spectacular volley from Naomi Eto just ten minutes later to double their advantage. Ngah Manga then secured her brace and the team's third goal just before halftime, effectively sealing the historic win.\n\nThis triumph marks a significant milestone for Cameroonian women's football, as the nation celebrates its first-ever WAFCON championship. The victory comes after years of near-misses and previous final defeats, finally solidifying their place atop African women's football.\n\nFollowing their impressive performance, CAF also unveiled the Team of the Tournament, featuring several standout players from the newly crowned champions. This victory has sparked renewed calls for increased investment in the women's game across Africa, with hopes that Cameroon's success will inspire further growth and development.",
+      "tags": [
+        "Cameroon",
+        "WAFCON",
+        "Women's Football",
+        "CAF"
+      ],
+      "image": "images/cameroon-s-indomitable-lionesses-secure-historic-first-wafcon-title-0ba51ca08577.svg",
+      "publishedAt": "2026-08-23T01:18:58.551Z"
+    },
+    {
       "id": "bees-sting-spurs-brentford-dominate-de-zerbi-s-new-look-tottenham-in-season-open-426caf3b503e",
       "headline": "Bees Sting Spurs: Brentford Dominate De Zerbi's New-Look Tottenham in Season Opener",
       "league": "Premier League",
@@ -894,22 +909,7 @@
       ],
       "image": "images/o-neill-returns-to-champions-league-stage-as-celtic-face-lask-885123359ad7.svg",
       "publishedAt": "2026-08-19T12:46:26.129Z"
-    },
-    {
-      "id": "congo-dr-clinches-world-cup-spot-with-tuanzebe-s-extra-time-winner-37268ef217c6",
-      "headline": "Congo DR Clinches World Cup Spot with Tuanzebe's Extra-Time Winner",
-      "league": "World Cup Qualifiers",
-      "summary": "The Democratic Republic of Congo has secured a historic berth in the 2026 FIFA World Cup, thanks to an extra-time goal from Axel Tuanzebe. Their dramatic victory against Jamaica sealed their qualification for the global tournament.",
-      "body": "Congo DR has officially punched their ticket to the FIFA World Cup 2026, following a nail-biting encounter that saw them emerge victorious. The decisive moment arrived in extra time when defender Axel Tuanzebe found the back of the net, securing the crucial win against Jamaica. This monumental achievement marks a significant milestone for the Congolese national team, igniting widespread celebrations across the nation.\n\nTheir journey through the qualification stages has been a testament to the team's unwavering spirit and dedication. The Leopards' performance captivated fans, culminating in this unforgettable match that guaranteed their participation in football's most prestigious event. The qualification is a source of immense pride and excitement for Congolese football.\n\nAttention will now shift towards preparing for the challenges that await them on the world stage. As one of the qualified nations, Congo DR will aim to make a strong impression at the 2026 World Cup, building on the momentum of their successful qualification campaign.",
-      "tags": [
-        "Congo DR",
-        "World Cup 2026",
-        "Axel Tuanzebe",
-        "CAF Qualifiers"
-      ],
-      "image": "images/congo-dr-clinches-world-cup-spot-with-tuanzebe-s-extra-time-winner-37268ef217c6.svg",
-      "publishedAt": "2026-08-19T12:46:53.634Z"
     }
   ],
-  "lastRun": "2026-08-22T21:23:26.707Z"
+  "lastRun": "2026-08-23T01:19:02.844Z"
 }
