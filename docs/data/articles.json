@@ -1,6 +1,67 @@
 {
   "articles": [
     {
+      "id": "nottingham-forest-bolsters-midfield-with-40m-diomande-acquisition-17e26cb9030e",
+      "headline": "Nottingham Forest Bolsters Midfield with €40M Diomande Acquisition",
+      "league": "Transfer News",
+      "summary": "Nottingham Forest has officially secured the services of highly-rated midfielder Ousmane Diomande from Sporting CP in a significant summer transfer. The Ivorian talent joins the Premier League club on a long-term deal, marking a substantial investment in their squad.",
+      "body": "Nottingham Forest has made a major statement in the transfer market, confirming the signing of Ousmane Diomande from Portuguese giants Sporting CP. The deal, reportedly worth a substantial €40 million, sees the promising midfielder commit his future to the East Midlands club with a four-plus-one-year contract.\n\nDiomande's arrival is expected to inject considerable quality and steel into Forest's midfield ahead of a demanding Premier League campaign. The 22-year-old has garnered significant attention for his performances in Portugal, making him a prime target for several top European clubs before Forest ultimately secured his signature.\n\nThis high-profile transfer underscores Forest's ambition to compete at the highest level and strengthen their squad with top-tier talent. Fans will be eager to see Diomande integrate into the team and make an immediate impact as the new season progresses.",
+      "tags": [
+        "Nottingham Forest",
+        "Ousmane Diomande",
+        "Sporting CP",
+        "Premier League",
+        "Transfer"
+      ],
+      "image": "images/nottingham-forest-bolsters-midfield-with-40m-diomande-acquisition-17e26cb9030e.svg",
+      "publishedAt": "2026-08-23T09:28:36.817Z"
+    },
+    {
+      "id": "everton-secure-comfortable-opening-day-victory-prime-minister-witnesses-toffees--9c77d2635f82",
+      "headline": "Everton Secure Comfortable Opening Day Victory, Prime Minister Witnesses Toffees Triumph",
+      "league": "Premier League",
+      "summary": "Everton commenced their Premier League campaign with a convincing two-nil home win against Crystal Palace, much to the delight of their supporters and a notable attendee. The victory provided a much-needed boost for the Toffees, who had endured a challenging end to the previous season.",
+      "body": "Everton began their Premier League season on a high note, defeating Crystal Palace by two goals to nil at Goodison Park. The home side's performance was a welcome sight for their fans, especially after a disappointing run of seven matches without a win to conclude the last campaign.\n\nMidfielder Kiernan Dewsbury-Hall broke the deadlock for Everton just before halftime, giving the Toffees a crucial lead. In the second half, Thierno Barry extended their advantage, securing a comfortable victory for the Merseyside club.\n\nThe match gained additional attention with British Prime Minister Andy Burnham, a fervent Everton supporter, present in the stands to witness his team's opening day success. Manager David Moyes reportedly spoke with the Prime Minister after the game, celebrating the morale-boosting result.",
+      "tags": [
+        "Everton",
+        "Crystal Palace",
+        "Premier League",
+        "Match Report"
+      ],
+      "image": "images/everton-secure-comfortable-opening-day-victory-prime-minister-witnesses-toffees--9c77d2635f82.svg",
+      "publishedAt": "2026-08-23T09:28:48.772Z"
+    },
+    {
+      "id": "european-playoff-drama-sees-bosnia-czechia-sweden-t-rkiye-seal-world-cup-berths-7364af6b5673",
+      "headline": "European Playoff Drama Sees Bosnia, Czechia, Sweden, Türkiye Seal World Cup Berths",
+      "league": "World Cup Qualifiers",
+      "summary": "Intense European playoff action has concluded, with Bosnia and Herzegovina, Czechia, Sweden, and Türkiye successfully navigating their paths to the 2026 FIFA World Cup. Meanwhile, footballing giants Italy faced a disappointing exit from the qualification process.",
+      "body": "The final rounds of European qualification for the 2026 FIFA World Cup delivered high drama, as several nations secured their spots in the prestigious tournament. Bosnia and Herzegovina clinched their place after a tense penalty shootout victory, showcasing their resilience under immense pressure. Similarly, Czechia emerged triumphant from a nail-biting encounter, defeating the Republic of Ireland 4-3 on penalties to book their ticket to the global showpiece.\n\nSweden and Türkiye also celebrated hard-fought qualifications, both securing their berths with narrow victories in their respective playoff clashes. These results highlight the competitive nature of the European qualifiers, where every goal and every save proved critical in determining who would advance.\n\nHowever, the qualification journey ended in heartbreak for Italy, who will not feature in the 2026 World Cup. Their absence marks a significant upset, underscoring the unforgiving landscape of international football where even traditionally strong nations can fall short in the quest for World Cup glory.",
+      "tags": [
+        "World Cup 2026",
+        "European Qualifiers",
+        "Czechia",
+        "Bosnia and Herzegovina"
+      ],
+      "image": "images/european-playoff-drama-sees-bosnia-czechia-sweden-t-rkiye-seal-world-cup-berths-7364af6b5673.svg",
+      "publishedAt": "2026-08-23T09:29:11.092Z"
+    },
+    {
+      "id": "bod-glimt-stun-nec-away-in-champions-league-play-off-first-leg-e5723797b58a",
+      "headline": "Bodø/Glimt Stun NEC Away in Champions League Play-Off First Leg",
+      "league": "Champions League",
+      "summary": "Norwegian champions Bodø/Glimt secured a commanding 3-1 victory over Dutch side NEC in the first leg of their Champions League play-off tie, taking a significant step towards the league phase. The impressive away performance puts the Eliteserien contenders in a strong position ahead of the return fixture.",
+      "body": "Bodø/Glimt demonstrated their European credentials once again with a decisive 3-1 win against NEC in the Champions League play-off first leg. Playing away in Nijmegen, the Norwegian side, who were a surprise package in last season's competition, established a crucial two-goal advantage, signaling their intent to reach the coveted league phase.\n\nThe visitors showcased clinical finishing and tactical discipline to overcome their Dutch opponents on their home turf. This result provides a considerable cushion for Bodø/Glimt, giving them confidence as they prepare to host the second leg in Norway.\n\nWith this strong performance, Bodø/Glimt are now well-placed to continue their European journey, building on their recent success and aiming for another appearance among the continent's elite clubs in the Champions League league phase.",
+      "tags": [
+        "Champions League",
+        "Bodø/Glimt",
+        "NEC",
+        "Play-offs"
+      ],
+      "image": "images/bod-glimt-stun-nec-away-in-champions-league-play-off-first-leg-e5723797b58a.svg",
+      "publishedAt": "2026-08-23T09:29:28.261Z"
+    },
+    {
       "id": "levante-fortifies-squad-with-loan-signing-of-liverpool-s-ndukwe-70c8476e25d7",
       "headline": "Levante Fortifies Squad with Loan Signing of Liverpool's Ndukwe",
       "league": "Transfer News",
@@ -847,68 +908,7 @@
       ],
       "image": "images/aubameyang-marks-deportivo-s-la-liga-return-with-debut-goal-in-draw-f693784e2e48.svg",
       "publishedAt": "2026-08-19T21:26:34.224Z"
-    },
-    {
-      "id": "real-madrid-accelerates-pursuit-of-racing-santander-s-teenage-sensation-martinez-d1fc7c4bc4ea",
-      "headline": "Real Madrid Accelerates Pursuit of Racing Santander's Teenage Sensation Martinez",
-      "league": "La Liga",
-      "summary": "Real Madrid is reportedly stepping up efforts to secure the promising 19-year-old midfielder Sergio Martinez from Racing Santander. The young talent recently made a significant impact with a debut goal in La Liga, drawing major attention from top clubs.",
-      "body": "Spanish giants Real Madrid have intensified their pursuit of Racing Santander's highly-rated midfielder, Sergio Martinez. The 19-year-old has quickly become one of the most sought-after young prospects in Spanish football, prompting Los Blancos to move decisively.\n\nMartinez recently announced his arrival on the top-flight stage with a memorable performance against Villarreal, where he scored a crucial goal in Racing Santander's 2-2 draw. This impressive La Liga debut has only fueled interest, accelerating Real Madrid's plans to bring him to Valdebebas.\n\nWhile several clubs are reportedly keen on the young midfielder, Real Madrid aims to negotiate an agreement with Racing rather than simply triggering his modest €3 million release clause. The club is keen to integrate the promising talent into their future plans.",
-      "tags": [
-        "Real Madrid",
-        "Racing Santander",
-        "Sergio Martinez",
-        "Transfer News"
-      ],
-      "image": "images/real-madrid-accelerates-pursuit-of-racing-santander-s-teenage-sensation-martinez-d1fc7c4bc4ea.svg",
-      "publishedAt": "2026-08-19T18:36:27.463Z"
-    },
-    {
-      "id": "lozano-set-for-anticipated-home-debut-in-pivotal-california-clasico-33351e371a5d",
-      "headline": "Lozano Set for Anticipated Home Debut in Pivotal California Clasico",
-      "league": "MLS",
-      "summary": "The iconic California Clasico reignites tonight as the LA Galaxy prepare to host long-time rivals San Jose Earthquakes, with all eyes on Hirving 'Chucky' Lozano's expected first appearance at Dignity Health Sports Park. This crucial midweek fixture sees the Galaxy aiming to reverse their recent struggles and inject new energy into their campaign.",
-      "body": "Los Angeles is buzzing as the LA Galaxy welcome the San Jose Earthquakes to Dignity Health Sports Park for the 106th edition of the storied California Clasico this Wednesday. The highly anticipated match is expected to mark the home debut of Mexican international Hirving \"Chucky\" Lozano, a significant moment for the club and its fanbase. Lozano, a Designated Player, made his initial appearance off the bench last week, and his integration into the squad is seen as vital for the Galaxy's prospects.\n\nUndergoing a challenging period since the World Cup break, the Galaxy recently suffered a 1-0 defeat to the Houston Dynamo. Despite this dip in form, the team has been actively strengthening its roster, with summer acquisition Kyōgo Furuhashi making his first start and former FC Barcelona captain Sergi Roberto also expected to join the squad soon. These additions highlight the club's determination to climb the Western Conference standings.\n\nThe rivalry fixture promises intensity, recalling their last encounter where Marco Reus assisted Joseph Paintsil's opening goal, and a dramatic stoppage-time penalty save from JT Marcinkowski secured a point for the Galaxy. As the teams prepare, the focus remains on how Lozano's attacking prowess will influence the Galaxy's performance and if the club can leverage the Clasico atmosphere to ignite a turnaround.",
-      "tags": [
-        "LA Galaxy",
-        "San Jose Earthquakes",
-        "Hirving Lozano",
-        "California Clasico"
-      ],
-      "image": "images/lozano-set-for-anticipated-home-debut-in-pivotal-california-clasico-33351e371a5d.svg",
-      "publishedAt": "2026-08-19T18:36:44.580Z"
-    },
-    {
-      "id": "inter-milan-finalizes-30m-deal-for-liverpool-midfielder-curtis-jones-1da1e3fc3549",
-      "headline": "Inter Milan Finalizes £30m Deal for Liverpool Midfielder Curtis Jones",
-      "league": "Transfer News",
-      "summary": "Inter Milan has successfully secured a verbal agreement for the transfer of Liverpool's 25-year-old midfielder, Curtis Jones, in a deal reportedly worth up to £30 million. The move sees the highly-rated academy graduate depart Anfield for a new challenge in Serie A, with a medical now being arranged.",
-      "body": "Inter Milan has reached a full verbal agreement with Liverpool to bring midfielder Curtis Jones to the San Siro. The deal, confirmed on Wednesday, August 19, is reported to be an initial £30 million package, potentially rising with add-ons. Jones, a product of Liverpool's renowned academy, has been a long-standing target for the Serie A champions throughout the summer transfer window.\n\nThe 25-year-old expressed a clear desire for the move to Italy, a factor that likely played a significant role in accelerating negotiations between the two clubs. While Liverpool initially sought a higher fee, a revised valuation paved the way for the breakthrough agreement.\n\nWith personal terms also agreed upon, Jones is now scheduled for a medical examination, marking the final step before his official unveiling as an Inter Milan player. His departure represents a notable exit from Anfield as the transfer window approaches its close.",
-      "tags": [
-        "Curtis Jones",
-        "Inter Milan",
-        "Liverpool",
-        "Serie A",
-        "Transfer"
-      ],
-      "image": "images/inter-milan-finalizes-30m-deal-for-liverpool-midfielder-curtis-jones-1da1e3fc3549.svg",
-      "publishedAt": "2026-08-19T18:37:02.385Z"
-    },
-    {
-      "id": "guilherme-powers-dynamo-to-club-record-shutout-streak-eyes-top-spot-b64011e3555d",
-      "headline": "Guilherme Powers Dynamo to Club-Record Shutout Streak, Eyes Top Spot",
-      "league": "MLS",
-      "summary": "Houston Dynamo FC has achieved a historic milestone, securing four consecutive shutout victories for the first time in club history, fueled by the exceptional form of Designated Player Guilherme. The team's recent 1-0 win over the LA Galaxy propelled them into contention for the Western Conference lead.",
-      "body": "Houston Dynamo FC has made club history by recording four straight clean sheets, a defensive feat never before accomplished by the franchise. This impressive run has seen the Dynamo climb the Western Conference standings, demonstrating their serious intent as contenders this season. Their latest triumph, a narrow 1-0 victory against the LA Galaxy on Saturday, showcased both defensive solidity and individual brilliance.\n\nBrazilian Designated Player Guilherme proved decisive in the recent match against the Galaxy, converting a penalty kick in the 21st minute to secure the winning goal. This strike marked his 12th goal of the season, contributing to his tally of 19 goal contributions overall. His impactful performances, including four goals and two assists in the last four games since the World Cup break, have been pivotal to Houston's resurgence.\n\nThe Dynamo are now set to face Vancouver Whitecaps FC in a crucial encounter, with the winner claiming the top position in the Western Conference. Head coach Ben Olsen has praised Guilherme, stating that his high-level play is essential for maximizing the team's potential and achieving success in the league. Houston's formidable defense, which has not conceded a goal in 372 minutes, will be severely tested as they aim for a fifth consecutive shutout.",
-      "tags": [
-        "Houston Dynamo",
-        "Guilherme",
-        "MLS",
-        "Shutout Streak"
-      ],
-      "image": "images/guilherme-powers-dynamo-to-club-record-shutout-streak-eyes-top-spot-b64011e3555d.svg",
-      "publishedAt": "2026-08-19T15:32:41.925Z"
     }
   ],
-  "lastRun": "2026-08-23T06:41:29.196Z"
+  "lastRun": "2026-08-23T09:29:32.260Z"
 }
