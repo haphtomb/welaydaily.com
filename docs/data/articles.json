@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "levante-fortifies-squad-with-loan-signing-of-liverpool-s-ndukwe-70c8476e25d7",
+      "headline": "Levante Fortifies Squad with Loan Signing of Liverpool's Ndukwe",
+      "league": "Transfer News",
+      "summary": "La Liga side Levante has bolstered their ranks with the acquisition of promising Liverpool talent Ifeanyi Ndukwe on a temporary basis. The young midfielder will spend the upcoming season gaining valuable experience in Spain's top flight.",
+      "body": "Levante officially announced the loan signing of Ifeanyi Ndukwe from Premier League giants Liverpool on August 22, 2026. The move sees the highly-rated prospect embark on a new challenge in La Liga, aiming to contribute to Levante's campaign. This strategic loan provides Ndukwe an excellent opportunity for consistent first-team football and further development.\n\nThe Spanish club will benefit from Ndukwe's skills and potential as they navigate the demanding La Liga schedule. This temporary switch is expected to provide both the player and Levante with significant advantages for the duration of the upcoming season, offering a fresh dynamic to their midfield options.\n\nThe agreement underscores Levante's intent to strengthen their squad with emerging talent, while Liverpool hopes Ndukwe's time in Spain will accelerate his growth and prepare him for a future role at Anfield. This loan arrangement serves as a crucial step in the young player's professional journey.",
+      "tags": [
+        "Levante",
+        "Liverpool",
+        "Transfer News",
+        "La Liga"
+      ],
+      "image": "images/levante-fortifies-squad-with-loan-signing-of-liverpool-s-ndukwe-70c8476e25d7.svg",
+      "publishedAt": "2026-08-23T06:41:25.067Z"
+    },
+    {
       "id": "fifa-slams-argentina-with-bans-after-world-cup-final-melee-67fd635f7ad7",
       "headline": "FIFA Slams Argentina with Bans After World Cup Final Melee",
       "league": "World Cup Qualifiers",
@@ -893,23 +908,7 @@
       ],
       "image": "images/guilherme-powers-dynamo-to-club-record-shutout-streak-eyes-top-spot-b64011e3555d.svg",
       "publishedAt": "2026-08-19T15:32:41.925Z"
-    },
-    {
-      "id": "maresca-under-early-scrutiny-as-city-stumble-in-community-shield-aftermath-c54b3ed46175",
-      "headline": "Maresca Under Early Scrutiny as City Stumble in Community Shield Aftermath",
-      "league": "Premier League",
-      "summary": "Manchester City's highly anticipated post-Guardiola era has commenced with immediate pressure on new manager Enzo Maresca, following a comprehensive defeat in the Community Shield. The 3-0 loss to Arsenal has ignited early questions about City's readiness for the upcoming Premier League campaign.",
-      "body": "The atmosphere around the Etihad Stadium is already thick with anticipation and a hint of concern as Manchester City navigate the initial stages of life without Pep Guardiola. New boss Enzo Maresca, tasked with the monumental challenge of succeeding the legendary manager, faced an immediate setback with a decisive 3-0 defeat to Arsenal in the Community Shield on August 16th. This result, while not a league fixture, has cast an early shadow over City's preparations for the Premier League season, which kicks off this weekend.\n\nFootball pundits are already weighing in, with some suggesting Arsenal are now clear favourites for the Premier League title after their dominant performance against the reigning champions. This sentiment only intensifies the spotlight on Maresca, whose squad appeared outplayed by their London rivals. The early stumble has prompted discussions among supporters and analysts alike about how quickly the Citizens can adapt to the new managerial philosophy and respond to this initial disappointment.\n\nWith the Premier League season on the horizon, City finds themselves under unexpected pressure to deliver a strong opening performance. The Community Shield result serves as a stark reminder that the transition period could be more challenging than initially anticipated, and all eyes will be on Maresca to demonstrate his ability to guide the team through this crucial phase.",
-      "tags": [
-        "Manchester City",
-        "Enzo Maresca",
-        "Community Shield",
-        "Premier League",
-        "Arsenal"
-      ],
-      "image": "images/maresca-under-early-scrutiny-as-city-stumble-in-community-shield-aftermath-c54b3ed46175.svg",
-      "publishedAt": "2026-08-19T15:33:00.026Z"
     }
   ],
-  "lastRun": "2026-08-23T03:52:48.197Z"
+  "lastRun": "2026-08-23T06:41:29.196Z"
 }
