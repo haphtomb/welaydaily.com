@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T15:38:35.829Z",
+  "updatedAt": "2026-08-24T18:39:14.195Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -633,6 +633,20 @@
         },
         {
           "position": 11,
+          "team": "CA Osasuna",
+          "crest": "https://crests.football-data.org/79.png",
+          "played": 1,
+          "won": 0,
+          "draw": 1,
+          "lost": 0,
+          "goalsFor": 0,
+          "goalsAgainst": 0,
+          "goalDifference": 0,
+          "points": 1,
+          "form": []
+        },
+        {
+          "position": 11,
           "team": "RC Celta de Vigo",
           "crest": "https://crests.football-data.org/558.png",
           "played": 1,
@@ -660,7 +674,7 @@
           "form": []
         },
         {
-          "position": 13,
+          "position": 14,
           "team": "Real Racing Club de Santander",
           "crest": "https://crests.football-data.org/5335.png",
           "played": 2,
@@ -674,7 +688,7 @@
           "form": []
         },
         {
-          "position": 13,
+          "position": 14,
           "team": "Rayo Vallecano de Madrid",
           "crest": "https://crests.football-data.org/87.png",
           "played": 2,
@@ -688,7 +702,21 @@
           "form": []
         },
         {
-          "position": 15,
+          "position": 16,
+          "team": "Levante UD",
+          "crest": "https://crests.football-data.org/88.png",
+          "played": 2,
+          "won": 0,
+          "draw": 1,
+          "lost": 1,
+          "goalsFor": 0,
+          "goalsAgainst": 3,
+          "goalDifference": -3,
+          "points": 1,
+          "form": []
+        },
+        {
+          "position": 17,
           "team": "Elche CF",
           "crest": "https://crests.football-data.org/285.png",
           "played": 2,
@@ -702,21 +730,7 @@
           "form": []
         },
         {
-          "position": 16,
-          "team": "CA Osasuna",
-          "crest": "https://crests.football-data.org/79.png",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0,
-          "points": 0,
-          "form": []
-        },
-        {
-          "position": 17,
+          "position": 18,
           "team": "Real Sociedad de Fútbol",
           "crest": "https://crests.football-data.org/92.png",
           "played": 1,
@@ -730,7 +744,7 @@
           "form": []
         },
         {
-          "position": 18,
+          "position": 19,
           "team": "Athletic Club",
           "crest": "https://crests.football-data.org/77.png",
           "played": 1,
@@ -744,7 +758,7 @@
           "form": []
         },
         {
-          "position": 19,
+          "position": 20,
           "team": "Málaga CF",
           "crest": "https://crests.football-data.org/84.png",
           "played": 1,
@@ -754,20 +768,6 @@
           "goalsFor": 0,
           "goalsAgainst": 2,
           "goalDifference": -2,
-          "points": 0,
-          "form": []
-        },
-        {
-          "position": 20,
-          "team": "Levante UD",
-          "crest": "https://crests.football-data.org/88.png",
-          "played": 1,
-          "won": 0,
-          "draw": 0,
-          "lost": 1,
-          "goalsFor": 0,
-          "goalsAgainst": 3,
-          "goalDifference": -3,
           "points": 0,
           "form": []
         }
@@ -1536,7 +1536,21 @@
           "form": []
         },
         {
-          "position": 8,
+          "position": 6,
+          "team": "SS Lazio",
+          "crest": "https://crests.football-data.org/110.png",
+          "played": 1,
+          "won": 1,
+          "draw": 0,
+          "lost": 0,
+          "goalsFor": 1,
+          "goalsAgainst": 0,
+          "goalDifference": 1,
+          "points": 3,
+          "form": []
+        },
+        {
+          "position": 9,
           "team": "Como 1907",
           "crest": "https://crests.football-data.org/7397.png",
           "played": 1,
@@ -1550,7 +1564,7 @@
           "form": []
         },
         {
-          "position": 8,
+          "position": 9,
           "team": "Udinese Calcio",
           "crest": "https://crests.football-data.org/115.png",
           "played": 1,
@@ -1564,7 +1578,7 @@
           "form": []
         },
         {
-          "position": 10,
+          "position": 11,
           "team": "ACF Fiorentina",
           "crest": "https://crests.football-data.org/99.png",
           "played": 0,
@@ -1578,7 +1592,7 @@
           "form": []
         },
         {
-          "position": 10,
+          "position": 11,
           "team": "AS Roma",
           "crest": "https://crests.football-data.org/100.png",
           "played": 0,
@@ -1592,35 +1606,7 @@
           "form": []
         },
         {
-          "position": 10,
-          "team": "Bologna FC 1909",
-          "crest": "https://crests.football-data.org/103.png",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0,
-          "points": 0,
-          "form": []
-        },
-        {
-          "position": 10,
-          "team": "SS Lazio",
-          "crest": "https://crests.football-data.org/110.png",
-          "played": 0,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0,
-          "points": 0,
-          "form": []
-        },
-        {
-          "position": 14,
+          "position": 13,
           "team": "US Sassuolo Calcio",
           "crest": "https://crests.football-data.org/471.png",
           "played": 1,
@@ -1634,7 +1620,7 @@
           "form": []
         },
         {
-          "position": 14,
+          "position": 13,
           "team": "Torino FC",
           "crest": "https://crests.football-data.org/586.png",
           "played": 1,
@@ -1648,7 +1634,21 @@
           "form": []
         },
         {
-          "position": 16,
+          "position": 15,
+          "team": "Bologna FC 1909",
+          "crest": "https://crests.football-data.org/103.png",
+          "played": 1,
+          "won": 0,
+          "draw": 0,
+          "lost": 1,
+          "goalsFor": 0,
+          "goalsAgainst": 1,
+          "goalDifference": -1,
+          "points": 0,
+          "form": []
+        },
+        {
+          "position": 15,
           "team": "Frosinone Calcio",
           "crest": "https://crests.football-data.org/470.png",
           "played": 1,
@@ -1662,7 +1662,7 @@
           "form": []
         },
         {
-          "position": 16,
+          "position": 15,
           "team": "Parma Calcio 1913",
           "crest": "https://crests.football-data.org/112.png",
           "played": 1,
