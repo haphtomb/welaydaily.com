@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "champions-league-play-offs-reach-climax-as-teams-fight-for-league-phase-spots-390a3c2130d9",
+      "headline": "Champions League Play-Offs Reach Climax as Teams Fight for League Phase Spots",
+      "league": "Champions League",
+      "summary": "The UEFA Champions League play-off stage culminates this week with decisive second-leg fixtures determining the final seven entrants into the competition's new league phase. Clubs across Europe are locked in intense battles, eager to secure their spot among the continent's elite ahead of Thursday's crucial draw.",
+      "body": "The tension is palpable as the UEFA Champions League play-off round enters its final moments, with teams across the continent battling for the remaining coveted spots in the league phase. Twenty-nine clubs have already confirmed their place in the expanded 36-team format, leaving just seven highly sought-after berths to be decided by these crucial two-legged encounters. Tonight's schedule features several pivotal matches that will shape the final lineup for Europe's premier club competition.\n\nAmong the teams in action today, Scottish champions Celtic appear to be in a commanding position, holding a significant three-goal advantage as they travel to face Austrian side LASK. Meanwhile, the tie between Azerbaijan's Sabah and Israeli club Hapoel Be'er Sheva remains finely balanced, with the Israeli team carrying a narrow one-goal lead into the second leg in Baku. Norwegian outfit Bodø/Glimt also looks set to progress after securing a strong away victory in their first leg against NEC Nijmegen.\n\nWith the play-off victors set to join the already qualified teams, all eyes will soon turn to Monaco for the official league phase draw scheduled for Thursday, August 27th. These final qualification matches are not only about advancing but also about the prestige and financial rewards that come with participating in the Champions League proper, as the losing sides will transition to the UEFA Europa League league phase.",
+      "tags": [
+        "Champions League",
+        "Play-offs",
+        "Celtic",
+        "European Football"
+      ],
+      "image": "images/champions-league-play-offs-reach-climax-as-teams-fight-for-league-phase-spots-390a3c2130d9.svg",
+      "publishedAt": "2026-08-25T09:36:27.613Z"
+    },
+    {
+      "id": "atlanta-united-secures-swiss-striker-breel-embolo-as-designated-player-c54c0e1797d5",
+      "headline": "Atlanta United Secures Swiss Striker Breel Embolo as Designated Player",
+      "league": "MLS",
+      "summary": "Atlanta United has announced the significant acquisition of Swiss international forward Breel Embolo, bringing his formidable talent to the Major League Soccer club. The 29-year-old joins as a Designated Player, signing a long-term contract that extends through the 2029-30 season.",
+      "body": "Atlanta United has bolstered its attacking options with the high-profile signing of Breel Embolo from Stade Rennais, confirming the move on August 23, 2026. The Swiss national team striker arrives as a Designated Player, with his contract set to run until the conclusion of the 2029-30 MLS season. This strategic acquisition is expected to significantly enhance Atlanta's offensive prowess.\n\nEmbolo, aged 29, brings a wealth of experience from top-tier European football, including stints in the Swiss, German, and French leagues. His impressive career statistics boast 100 goals and 66 assists across 380 professional appearances, along with considerable experience in both the UEFA Champions League and Europa League. Atlanta's Chief Soccer Officer, Chris Henderson, expressed strong confidence in Embolo's ability to contribute immediately.\n\nHenderson highlighted Embolo's recent strong showing for Switzerland in the World Cup and his consistent goal-scoring record in competitive leagues. The club anticipates Embolo's goal-scoring ability, his skill in linking play with teammates, and his relentless work rate will make him a pivotal figure in the team's central forward position for years to come.",
+      "tags": [
+        "Atlanta United",
+        "Breel Embolo",
+        "MLS Transfer",
+        "Designated Player"
+      ],
+      "image": "images/atlanta-united-secures-swiss-striker-breel-embolo-as-designated-player-c54c0e1797d5.svg",
+      "publishedAt": "2026-08-25T09:36:53.897Z"
+    },
+    {
+      "id": "villarreal-bolsters-squad-with-canadian-midfielder-nathan-saliba-2cd151be5a73",
+      "headline": "Villarreal Bolsters Squad with Canadian Midfielder Nathan Saliba",
+      "league": "La Liga",
+      "summary": "Villarreal has reportedly finalized a €15 million deal to acquire Canadian international midfielder Nathan Saliba from Anderlecht, significantly strengthening their midfield ahead of the current La Liga season. The 22-year-old talent becomes the third Canadian player to join the Yellow Submarine this summer, linking up with national teammates Tajon Buchanan and Tani Oluwaseyi.",
+      "body": "Villarreal has reportedly secured the services of Canadian midfielder Nathan Saliba in a transfer valued at €15 million from Belgian club Anderlecht. The agreement, widely reported today, sees the promising 22-year-old move to Spain, adding depth and quality to the La Liga side's midfield. Saliba's arrival marks a notable acquisition for Villarreal, bringing a player who has already made a name for himself in European football and on the international stage.\n\nSaliba joins his compatriots Tajon Buchanan and Tani Oluwaseyi at the Estadio de la Cerámica, forming a growing Canadian contingent within the squad. This move follows a successful spell at Anderlecht, where the midfielder made 50 appearances since June 2025, contributing five goals. His experience also extends to the Canadian men's national team, for whom he has scored three goals in 18 matches.\n\nThe transfer comes as Villarreal navigates the early stages of the new La Liga season, having drawn their initial two league fixtures. The addition of Saliba is expected to provide a dynamic presence in the center of the park, offering a boost as the team aims for a strong campaign.",
+      "tags": [
+        "Villarreal",
+        "Nathan Saliba",
+        "Transfer News",
+        "La Liga"
+      ],
+      "image": "images/villarreal-bolsters-squad-with-canadian-midfielder-nathan-saliba-2cd151be5a73.svg",
+      "publishedAt": "2026-08-25T09:37:11.654Z"
+    },
+    {
       "id": "griezmann-s-brace-earns-player-of-the-matchday-igniting-orlando-city-s-playoff-p-48f7b1e1eeaa",
       "headline": "Griezmann's Brace Earns Player of the Matchday, Igniting Orlando City's Playoff Push",
       "league": "MLS",
@@ -865,53 +910,7 @@
       ],
       "image": "images/mourinho-begins-second-real-madrid-reign-against-espanyol-tonight-e98d95f95e3d.svg",
       "publishedAt": "2026-08-22T09:27:56.565Z"
-    },
-    {
-      "id": "historic-shutout-streak-propels-dynamo-to-western-conference-summit-e8e889d9eafd",
-      "headline": "Historic Shutout Streak Propels Dynamo to Western Conference Summit",
-      "league": "MLS",
-      "summary": "Houston Dynamo FC ascended to the top of the MLS Western Conference after securing a remarkable fifth consecutive shutout victory against Vancouver Whitecaps FC. This historic defensive feat places them among an elite group of only three teams in league history to achieve such a streak.",
-      "body": "Houston Dynamo FC celebrated a monumental achievement on Wednesday night, defeating Vancouver Whitecaps FC by a single goal to claim sole possession of first place in the Western Conference. The crucial 1-0 win also marked an astonishing fifth consecutive shutout for the Texas club, an accomplishment only two other teams in Major League Soccer history have managed.\n\nDefender Franco Negri emerged as the hero of the evening, unleashing a powerful long-range strike in the 34th minute that ultimately proved to be the decisive goal. His stellar performance, alongside that of head coach Ben Olsen, earned both recognition on the MLSSoccer.com Team of the Matchday.\n\nThis formidable defensive run has seen the Dynamo keep opponents scoreless for an impressive 462 minutes, highlighting their impenetrable backline. With this victory, Houston continues their exceptional form, firmly establishing themselves as a dominant force in the league.",
-      "tags": [
-        "Houston Dynamo",
-        "MLS",
-        "Western Conference",
-        "Shutout",
-        "Franco Negri"
-      ],
-      "image": "images/historic-shutout-streak-propels-dynamo-to-western-conference-summit-e8e889d9eafd.svg",
-      "publishedAt": "2026-08-22T09:35:46.965Z"
-    },
-    {
-      "id": "arsenal-begin-title-defense-with-dominant-victory-over-spirited-coventry-18408d4fd189",
-      "headline": "Arsenal Begin Title Defense with Dominant Victory Over Spirited Coventry",
-      "league": "Premier League",
-      "summary": "Reigning champions Arsenal commenced their Premier League campaign with a commanding 3-0 home win against newly promoted Coventry City, showcasing their intent to retain the title. Goals from Kai Havertz, Bukayo Saka, and Martin Ødegaard sealed a comfortable opening day for the Gunners at the Emirates.",
-      "body": "Arsenal kicked off their 2026/27 Premier League title defense in emphatic fashion on Friday, securing a comprehensive 3-0 victory over a returning Coventry City side at the Emirates Stadium. The Gunners, keen to set an early precedent, saw goals from Kai Havertz, Bukayo Saka, and captain Martin Ødegaard, demonstrating a strong start to their campaign.\n\nNew summer signing Christos Tzolis made an immediate impact, playing a crucial role in setting up two of Arsenal's goals, particularly impressing on the left flank with his dynamic play. Coventry, managed by Frank Lampard, found their return to the top flight after a 25-year absence a challenging affair against the reigning champions, despite some moments of resilience, especially in the second half.\n\nMikel Arteta's squad exhibited control and attacking prowess, asserting their dominance throughout the match. While it was a stark welcome back to the Premier League for the Sky Blues, Arsenal's performance underscored their ambition to challenge for the title once more, leaving fans optimistic after a perfect opening fixture.",
-      "tags": [
-        "Arsenal",
-        "Coventry City",
-        "Premier League",
-        "Match Report"
-      ],
-      "image": "images/arsenal-begin-title-defense-with-dominant-victory-over-spirited-coventry-18408d4fd189.svg",
-      "publishedAt": "2026-08-22T06:41:50.701Z"
-    },
-    {
-      "id": "riquelme-s-stunning-volley-secures-opening-day-triumph-for-real-betis-b029f71c661a",
-      "headline": "Riquelme's Stunning Volley Secures Opening Day Triumph for Real Betis",
-      "league": "La Liga",
-      "summary": "Real Betis began their La Liga season with a hard-fought 1-0 victory over Real Sociedad, thanks to a superb second-half strike. The decisive goal came from Rodrigo Riquelme, ensuring Manuel Pellegrini's side collected all three points in their home opener.",
-      "body": "Real Betis got their 2026/27 La Liga campaign off to a winning start on Friday, overcoming Copa del Rey holders Real Sociedad with a narrow 1-0 triumph. The match, a tightly contested affair throughout, saw both teams battling for control in the midfield.\n\nThe breakthrough arrived in the 63rd minute when Rodrigo Riquelme netted the only goal of the game. The midfielder connected with a cross from Cucho Hernandez at the back post, expertly volleying the ball home to ignite celebrations among the home supporters at the Benito Villamarín.\n\nThis crucial win sees Betis commence the season strongly, extending their impressive unbeaten run in Friday night home fixtures to eighteen matches. The result places them among the early frontrunners in the league standings, setting a positive tone for the challenges ahead.",
-      "tags": [
-        "Real Betis",
-        "La Liga",
-        "Rodrigo Riquelme",
-        "Match Report"
-      ],
-      "image": "images/riquelme-s-stunning-volley-secures-opening-day-triumph-for-real-betis-b029f71c661a.svg",
-      "publishedAt": "2026-08-22T03:42:45.589Z"
     }
   ],
-  "lastRun": "2026-08-25T06:52:55.955Z"
+  "lastRun": "2026-08-25T09:37:15.656Z"
 }
