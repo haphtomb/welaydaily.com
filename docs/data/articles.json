@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "griezmann-s-brace-earns-player-of-the-matchday-igniting-orlando-city-s-playoff-p-48f7b1e1eeaa",
+      "headline": "Griezmann's Brace Earns Player of the Matchday, Igniting Orlando City's Playoff Push",
+      "league": "MLS",
+      "summary": "Orlando City forward Antoine Griezmann has been honored as the MLS Player of the Matchday for his two-goal performance in a crucial victory over Real Salt Lake. His impactful contributions have propelled the Lions into a playoff position for the first time this season.",
+      "body": "French sensation Antoine Griezmann was named MLS Player of the Matchday following his decisive brace in Orlando City SC's 2-1 triumph against Real Salt Lake. The former FIFA World Cup winner showcased his attacking prowess, netting both goals to secure a vital three points for the Florida club. This marks Griezmann's first multi-goal effort in Major League Soccer, highlighting his growing influence since joining the team.\n\nThe influential forward's performance on Saturday proved instrumental in turning the tide for Orlando. After falling behind in the first half, Griezmann equalized early in the second, tapping in a close-range finish. He then secured the win with a composed curler past multiple defenders, sending the home crowd into a frenzy.\n\nSince his arrival from Atlético Madrid, Griezmann has started all six of Orlando City's regular-season matches, contributing three goals and two assists. His consistent play has coincided with a significant upturn in the team's fortunes, as Orlando City has climbed from 12th to ninth in the Eastern Conference, now occupying an Audi MLS Cup Playoffs spot.",
+      "tags": [
+        "MLS",
+        "Antoine Griezmann",
+        "Orlando City SC",
+        "Player of the Matchday"
+      ],
+      "image": "images/griezmann-s-brace-earns-player-of-the-matchday-igniting-orlando-city-s-playoff-p-48f7b1e1eeaa.svg",
+      "publishedAt": "2026-08-25T06:52:15.872Z"
+    },
+    {
       "id": "manchester-city-finalize-deal-for-brazilian-winger-allan-elias-196472350412",
       "headline": "Manchester City Finalize Deal for Brazilian Winger Allan Elias",
       "league": "Transfer News",
@@ -896,22 +911,7 @@
       ],
       "image": "images/riquelme-s-stunning-volley-secures-opening-day-triumph-for-real-betis-b029f71c661a.svg",
       "publishedAt": "2026-08-22T03:42:45.589Z"
-    },
-    {
-      "id": "ac-milan-seals-blockbuster-74-million-deal-for-striker-goncalo-ramos-bd14a68b2cfc",
-      "headline": "AC Milan Seals Blockbuster €74 Million Deal for Striker Goncalo Ramos",
-      "league": "Transfer News",
-      "summary": "AC Milan has officially completed a significant move in the transfer market, securing Portuguese international striker Goncalo Ramos from Paris Saint-Germain for a reported fee of €74 million. This high-profile acquisition marks a major statement of intent from the Rossoneri as they prepare for the upcoming season.",
-      "body": "AC Milan has made a substantial addition to their attacking arsenal, confirming the arrival of highly-rated forward Goncalo Ramos. The Portuguese international joins the Serie A giants from French champions Paris Saint-Germain in a deal valued at a hefty €74 million, signaling Milan's ambition to compete at the highest level.\n\nThe 25-year-old striker arrives at the San Siro after a productive stint in France, where he showcased his keen eye for goal and impressive link-up play. His signing is expected to inject considerable firepower into Milan's front line, providing a dynamic presence capable of leading the attack and converting crucial chances.\n\nRossoneri supporters will be eagerly anticipating Ramos's debut, hoping his arrival will propel the club towards domestic and European success. The significant investment underscores Milan's commitment to building a formidable squad, with Ramos poised to become a central figure in their pursuit of silverware.",
-      "tags": [
-        "AC Milan",
-        "Goncalo Ramos",
-        "Serie A",
-        "Transfer News"
-      ],
-      "image": "images/ac-milan-seals-blockbuster-74-million-deal-for-striker-goncalo-ramos-bd14a68b2cfc.svg",
-      "publishedAt": "2026-08-22T01:13:05.240Z"
     }
   ],
-  "lastRun": "2026-08-25T03:49:27.181Z"
+  "lastRun": "2026-08-25T06:52:55.955Z"
 }
