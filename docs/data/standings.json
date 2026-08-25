@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T18:41:43.552Z",
+  "updatedAt": "2026-08-25T21:29:19.513Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -507,6 +507,20 @@
         },
         {
           "position": 2,
+          "team": "Real Betis Balompié",
+          "crest": "https://crests.football-data.org/90.png",
+          "played": 2,
+          "won": 2,
+          "draw": 0,
+          "lost": 0,
+          "goalsFor": 2,
+          "goalsAgainst": 0,
+          "goalDifference": 2,
+          "points": 6,
+          "form": []
+        },
+        {
+          "position": 3,
           "team": "Deportivo Alavés",
           "crest": "https://crests.football-data.org/263.png",
           "played": 2,
@@ -520,7 +534,7 @@
           "form": []
         },
         {
-          "position": 3,
+          "position": 4,
           "team": "Club Atlético de Madrid",
           "crest": "https://crests.football-data.org/78.png",
           "played": 2,
@@ -534,7 +548,7 @@
           "form": []
         },
         {
-          "position": 4,
+          "position": 5,
           "team": "FC Barcelona",
           "crest": "https://crests.football-data.org/81.png",
           "played": 1,
@@ -548,7 +562,7 @@
           "form": []
         },
         {
-          "position": 5,
+          "position": 6,
           "team": "RCD Espanyol de Barcelona",
           "crest": "https://crests.football-data.org/80.png",
           "played": 2,
@@ -562,7 +576,7 @@
           "form": []
         },
         {
-          "position": 6,
+          "position": 7,
           "team": "Real Madrid CF",
           "crest": "https://crests.football-data.org/86.png",
           "played": 1,
@@ -571,20 +585,6 @@
           "lost": 0,
           "goalsFor": 2,
           "goalsAgainst": 1,
-          "goalDifference": 1,
-          "points": 3,
-          "form": []
-        },
-        {
-          "position": 7,
-          "team": "Real Betis Balompié",
-          "crest": "https://crests.football-data.org/90.png",
-          "played": 1,
-          "won": 1,
-          "draw": 0,
-          "lost": 0,
-          "goalsFor": 1,
-          "goalsAgainst": 0,
           "goalDifference": 1,
           "points": 3,
           "form": []
@@ -660,21 +660,7 @@
           "form": []
         },
         {
-          "position": 11,
-          "team": "Valencia CF",
-          "crest": "https://crests.football-data.org/95.png",
-          "played": 1,
-          "won": 0,
-          "draw": 1,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0,
-          "points": 1,
-          "form": []
-        },
-        {
-          "position": 14,
+          "position": 13,
           "team": "Real Racing Club de Santander",
           "crest": "https://crests.football-data.org/5335.png",
           "played": 2,
@@ -688,7 +674,7 @@
           "form": []
         },
         {
-          "position": 14,
+          "position": 13,
           "team": "Rayo Vallecano de Madrid",
           "crest": "https://crests.football-data.org/87.png",
           "played": 2,
@@ -697,6 +683,20 @@
           "lost": 1,
           "goalsFor": 2,
           "goalsAgainst": 3,
+          "goalDifference": -1,
+          "points": 1,
+          "form": []
+        },
+        {
+          "position": 15,
+          "team": "Valencia CF",
+          "crest": "https://crests.football-data.org/95.png",
+          "played": 2,
+          "won": 0,
+          "draw": 1,
+          "lost": 1,
+          "goalsFor": 0,
+          "goalsAgainst": 1,
           "goalDifference": -1,
           "points": 1,
           "form": []
