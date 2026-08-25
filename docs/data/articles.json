@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "manchester-city-finalize-deal-for-brazilian-winger-allan-elias-196472350412",
+      "headline": "Manchester City Finalize Deal for Brazilian Winger Allan Elias",
+      "league": "Transfer News",
+      "summary": "Manchester City have reportedly reached a comprehensive agreement to secure the services of Palmeiras' talented winger Allan Elias, a move that will see the young Brazilian join the Premier League champions. This significant transfer also paves the way for City's Savinho to depart for Tottenham Hotspur.",
+      "body": "Manchester City has reportedly finalized a deal worth up to £34 million for Palmeiras' promising 22-year-old winger, Allan Elias. The agreement, valued at €37.5 million plus an additional €2.5 million in add-ons, marks a substantial investment by the reigning Premier League champions. Elias, who has made 96 appearances for Palmeiras since his senior debut last year, has contributed nine goals and 12 assists, showcasing his potential on the Brazilian stage.\n\nThe arrival of Allan Elias at the Etihad Stadium is expected to trigger further movement in the transfer market for City. Reports indicate that this acquisition will facilitate the departure of fellow Brazilian winger Savinho. Tottenham Hotspur are understood to be the likely destination for Savinho, with a substantial £75 million fee plus £10 million in add-ons reportedly agreed upon for his transfer.\n\nThis strategic move by Manchester City highlights their ongoing commitment to refreshing their squad with young, dynamic talent while also managing their player assets effectively. The double transfer, if completed, will undoubtedly generate considerable discussion as the Premier League season gets underway and the transfer window approaches its conclusion.",
+      "tags": [
+        "Manchester City",
+        "Allan Elias",
+        "Palmeiras",
+        "Premier League"
+      ],
+      "image": "images/manchester-city-finalize-deal-for-brazilian-winger-allan-elias-196472350412.svg",
+      "publishedAt": "2026-08-25T01:14:56.871Z"
+    },
+    {
       "id": "simeone-s-late-strike-rescues-point-for-ten-man-atl-tico-against-villarreal-7bb4e300e3dc",
       "headline": "Simeone's Late Strike Rescues Point for Ten-Man Atlético Against Villarreal",
       "league": "La Liga",
@@ -896,22 +911,7 @@
       ],
       "image": "images/ac-milan-seals-blockbuster-74-million-deal-for-striker-goncalo-ramos-bd14a68b2cfc.svg",
       "publishedAt": "2026-08-22T01:13:05.240Z"
-    },
-    {
-      "id": "atl-tico-madrid-ceo-vows-to-protect-juli-n-lvarez-amidst-transfer-speculation-a4ce462892ca",
-      "headline": "Atlético Madrid CEO Vows to Protect Julián Álvarez Amidst Transfer Speculation",
-      "league": "La Liga",
-      "summary": "Atlético Madrid's Chief Executive Officer, Miguel Ángel Gil Marín, has publicly addressed the ongoing transfer rumors surrounding star forward Julián Álvarez, affirming the club's dedication to his development. Gil Marín emphasized the club's intention to support and safeguard the Argentine international, ensuring he reaches his full potential in European football.",
-      "body": "In a recent statement, Atlético Madrid's CEO Miguel Ángel Gil Marín firmly outlined the club's position regarding Julián Álvarez, amidst swirling speculation about his future. Gil Marín expressed disapproval of external advice influencing Álvarez's career choices, reiterating Atlético's unwavering commitment to the player. He stressed the importance of nurturing Álvarez's talent to maintain the club's competitive edge among Europe's elite.\n\nThe Argentine forward has been a subject of significant transfer interest, with clubs reportedly monitoring his situation. However, Atlético Madrid appears determined to retain Álvarez, viewing him as a crucial component for their ambitions. The CEO's comments underscore a clear message that the club intends to resist any attempts to lure away their prized asset.\n\nThis declaration comes as the new La Liga season gets underway, highlighting the club's focus on stability and performance. Atlético's firm stance on Álvarez signals their resolve to build a strong squad, free from unsettling transfer sagas, as they aim for success in the demanding Spanish league.",
-      "tags": [
-        "Atlético Madrid",
-        "Julián Álvarez",
-        "Transfer Rumors",
-        "La Liga"
-      ],
-      "image": "images/atl-tico-madrid-ceo-vows-to-protect-juli-n-lvarez-amidst-transfer-speculation-a4ce462892ca.svg",
-      "publishedAt": "2026-08-21T21:25:17.564Z"
     }
   ],
-  "lastRun": "2026-08-24T21:30:36.293Z"
+  "lastRun": "2026-08-25T01:15:01.274Z"
 }
