@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "ethiopia-submits-formal-bid-to-host-2028-africa-cup-of-nations-7c87415e51a1",
+      "headline": "Ethiopia Submits Formal Bid to Host 2028 Africa Cup of Nations",
+      "league": "AFCON",
+      "summary": "Ethiopia has officially entered the race to host the 2028 Africa Cup of Nations, signaling a potential return of the continent's premier tournament after more than five decades. The Ethiopian Football Federation formally submitted its comprehensive bid to the Confederation of African Football this week.",
+      "body": "The Confederation of African Football (CAF) has received a formal bid from Ethiopia to host the prestigious Africa Cup of Nations in 2028. This significant development marks Ethiopia's determined effort to bring the continental showpiece back to its soil for the first time since 1976, a considerable 52-year hiatus.\n\nThe Ethiopian Football Federation expressed confidence in the nation's readiness to stage Africa's biggest football event. With the Africa Cup of Nations transitioning to a four-year cycle starting in 2028, Ethiopia aims for a historic and impactful return to the continental hosting stage.\n\nThis bid underscores Ethiopia's ambition to play a more prominent role in African football, not just as participants but as hosts. The formal submission to CAF initiates a crucial phase where the country's infrastructure and logistical capabilities will be thoroughly assessed in the coming months.",
+      "tags": [
+        "Ethiopia",
+        "AFCON 2028",
+        "CAF",
+        "Bid"
+      ],
+      "image": "images/ethiopia-submits-formal-bid-to-host-2028-africa-cup-of-nations-7c87415e51a1.svg",
+      "publishedAt": "2026-08-26T06:49:48.691Z"
+    },
+    {
       "id": "c-te-d-ivoire-s-six-state-of-the-art-stadiums-receive-caf-approval-1047a9b84586",
       "headline": "Côte d'Ivoire's Six State-of-the-Art Stadiums Receive CAF Approval",
       "league": "AFCON",
@@ -893,22 +908,7 @@
       ],
       "image": "images/european-playoff-drama-sees-bosnia-czechia-sweden-t-rkiye-seal-world-cup-berths-7364af6b5673.svg",
       "publishedAt": "2026-08-23T09:29:11.092Z"
-    },
-    {
-      "id": "bod-glimt-stun-nec-away-in-champions-league-play-off-first-leg-e5723797b58a",
-      "headline": "Bodø/Glimt Stun NEC Away in Champions League Play-Off First Leg",
-      "league": "Champions League",
-      "summary": "Norwegian champions Bodø/Glimt secured a commanding 3-1 victory over Dutch side NEC in the first leg of their Champions League play-off tie, taking a significant step towards the league phase. The impressive away performance puts the Eliteserien contenders in a strong position ahead of the return fixture.",
-      "body": "Bodø/Glimt demonstrated their European credentials once again with a decisive 3-1 win against NEC in the Champions League play-off first leg. Playing away in Nijmegen, the Norwegian side, who were a surprise package in last season's competition, established a crucial two-goal advantage, signaling their intent to reach the coveted league phase.\n\nThe visitors showcased clinical finishing and tactical discipline to overcome their Dutch opponents on their home turf. This result provides a considerable cushion for Bodø/Glimt, giving them confidence as they prepare to host the second leg in Norway.\n\nWith this strong performance, Bodø/Glimt are now well-placed to continue their European journey, building on their recent success and aiming for another appearance among the continent's elite clubs in the Champions League league phase.",
-      "tags": [
-        "Champions League",
-        "Bodø/Glimt",
-        "NEC",
-        "Play-offs"
-      ],
-      "image": "images/bod-glimt-stun-nec-away-in-champions-league-play-off-first-leg-e5723797b58a.svg",
-      "publishedAt": "2026-08-23T09:29:28.261Z"
     }
   ],
-  "lastRun": "2026-08-26T03:55:13.547Z"
+  "lastRun": "2026-08-26T06:50:00.887Z"
 }
