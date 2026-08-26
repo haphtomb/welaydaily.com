@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "late-garcia-strike-seals-victory-for-perfect-betis-against-valencia-dc966cde513e",
+      "headline": "Late Garcia Strike Seals Victory for Perfect Betis Against Valencia",
+      "league": "La Liga",
+      "summary": "Real Betis secured a dramatic 1-0 away victory over Valencia at the Mestalla, maintaining their flawless start to the new La Liga campaign. The decisive goal arrived late in the second half, extending Valencia's struggles in August fixtures.",
+      "body": "Real Betis continued their impressive beginning to the La Liga season, clinching a narrow 1-0 win against Valencia in a hard-fought encounter at the Mestalla Stadium. The decisive moment came in the 83rd minute when Pablo Garcia found the back of the net, after receiving a well-placed cross from Fran Garcia down the left flank. This victory marks a significant milestone for Manuel Pellegrini's side, as it is the first time since 2022 that Betis has started a La Liga season with consecutive wins.\n\nValencia, on the other hand, endured a frustrating evening, failing to convert their dominance into goals and extending a poor run of form in August matches, having secured only one victory in their last ten games during this month. The home side's attacking efforts were thwarted, leaving them without a goal in their opening two home fixtures of the campaign. Manager Carlos Corberan will be looking for improvements in his team's offensive output in the coming weeks.\n\nThe match also saw a notable debut for Irish forward Troy Parrott, who entered the fray for Real Betis in the 71st minute. Parrott's introduction added a fresh dynamic to the Betis attack, contributing to the late pressure that ultimately led to the winning goal. Real Betis successfully held onto their lead despite late pressure from Valencia, securing three crucial points on the road.",
+      "tags": [
+        "Real Betis",
+        "Valencia",
+        "La Liga",
+        "Match Report"
+      ],
+      "image": "images/late-garcia-strike-seals-victory-for-perfect-betis-against-valencia-dc966cde513e.svg",
+      "publishedAt": "2026-08-26T01:17:22.703Z"
+    },
+    {
+      "id": "late-szoboszlai-penalty-rescues-point-for-liverpool-at-st-james-park-758f5bea236e",
+      "headline": "Late Szoboszlai Penalty Rescues Point for Liverpool at St. James' Park",
+      "league": "Premier League",
+      "summary": "Liverpool secured a dramatic draw against Newcastle United on Monday night thanks to a last-gasp penalty from Dominik Szoboszlai, preventing an opening weekend defeat for the Reds. The thrilling encounter saw both teams share the spoils after a hard-fought battle at St. James' Park.",
+      "body": "Newcastle United and Liverpool commenced their Premier League campaigns with an exciting 2-2 draw at St. James' Park on Monday. The home side initially took the lead through Anthony Elanga's early goal in the fifth minute, setting a challenging tone for the visiting Reds. Joe Willock extended Newcastle's advantage in the 57th minute, putting Liverpool under significant pressure.\n\nHowever, Liverpool mounted a spirited comeback, with Cody Gakpo narrowing the deficit in the 55th minute to reignite their hopes. The match culminated in a tense finish, with Liverpool earning a crucial penalty deep into stoppage time.\n\nDominik Szoboszlai calmly converted the penalty in the ninth minute of added time, ensuring that Liverpool salvaged a valuable point on the road. This late equalizer denied Newcastle a full three points and highlighted the resilience within Jürgen Klopp's squad in their opening fixture of the season.",
+      "tags": [
+        "Liverpool",
+        "Newcastle United",
+        "Premier League",
+        "Match Report"
+      ],
+      "image": "images/late-szoboszlai-penalty-rescues-point-for-liverpool-at-st-james-park-758f5bea236e.svg",
+      "publishedAt": "2026-08-26T01:18:51.364Z"
+    },
+    {
       "id": "forest-shatters-transfer-record-with-50m-delap-acquisition-from-chelsea-73bed65b404b",
       "headline": "Forest Shatters Transfer Record with £50m Delap Acquisition from Chelsea",
       "league": "Premier League",
@@ -878,37 +908,7 @@
       ],
       "image": "images/fifa-slams-argentina-with-bans-after-world-cup-final-melee-67fd635f7ad7.svg",
       "publishedAt": "2026-08-23T03:52:28.014Z"
-    },
-    {
-      "id": "espi-s-debut-heroics-seal-dramatic-late-win-for-mourinho-s-real-madrid-38a8306e1663",
-      "headline": "Espi's Debut Heroics Seal Dramatic Late Win for Mourinho's Real Madrid",
-      "league": "La Liga",
-      "summary": "Real Madrid kicked off their new La Liga campaign under returning manager José Mourinho with a dramatic 2-1 victory over Espanyol, secured by a last-gasp debut goal. Substitute Carlos Espi emerged as the hero, striking in the 90th minute to snatch all three points for Los Blancos.",
-      "body": "José Mourinho's highly anticipated return to the Real Madrid dugout began with a thrilling encounter as his side faced Espanyol in their La Liga opener on Saturday. The visitors initially took the lead through Jude Bellingham, who found the net with a header in the ninth minute from an Arda Guler cross.\n\nEspanyol, however, refused to be subdued on their home turf. Alex Calatrava leveled the score on the half-hour mark, converting after Javi Hernandez set him up, beating Thibaut Courtois. The match appeared destined for a draw as both teams pushed for a winner in the second half, with Mourinho making tactical adjustments including new signings Marc Cucurella and Yan Diomande.\n\nThe decisive moment arrived in the 90th minute when 21-year-old debutant Carlos Espi, brought on just ten minutes earlier, pounced on a loose ball after Kylian Mbappé was dispossessed. Espi unleashed a powerful strike past Espanyol goalkeeper Marko Dmitrovic, securing a dramatic 2-1 victory for Real Madrid and a winning start to Mourinho's second reign.",
-      "tags": [
-        "Real Madrid",
-        "La Liga",
-        "José Mourinho",
-        "Carlos Espi"
-      ],
-      "image": "images/espi-s-debut-heroics-seal-dramatic-late-win-for-mourinho-s-real-madrid-38a8306e1663.svg",
-      "publishedAt": "2026-08-23T03:52:43.863Z"
-    },
-    {
-      "id": "cameroon-s-indomitable-lionesses-secure-historic-first-wafcon-title-0ba51ca08577",
-      "headline": "Cameroon's Indomitable Lionesses Secure Historic First WAFCON Title",
-      "league": "AFCON",
-      "summary": "Cameroon's national women's team, the Indomitable Lionesses, have made history by clinching their inaugural Women's Africa Cup of Nations (WAFCON) title. They defeated tournament debutants Malawi with a convincing 3-0 victory in the final held in Rabat, Morocco.",
-      "body": "The highly anticipated Women's Africa Cup of Nations final saw Cameroon dominate Malawi in a memorable encounter. Marie Ngah Manga opened the scoring for the Indomitable Lionesses in the 20th minute, followed by a spectacular volley from Naomi Eto just ten minutes later to double their advantage. Ngah Manga then secured her brace and the team's third goal just before halftime, effectively sealing the historic win.\n\nThis triumph marks a significant milestone for Cameroonian women's football, as the nation celebrates its first-ever WAFCON championship. The victory comes after years of near-misses and previous final defeats, finally solidifying their place atop African women's football.\n\nFollowing their impressive performance, CAF also unveiled the Team of the Tournament, featuring several standout players from the newly crowned champions. This victory has sparked renewed calls for increased investment in the women's game across Africa, with hopes that Cameroon's success will inspire further growth and development.",
-      "tags": [
-        "Cameroon",
-        "WAFCON",
-        "Women's Football",
-        "CAF"
-      ],
-      "image": "images/cameroon-s-indomitable-lionesses-secure-historic-first-wafcon-title-0ba51ca08577.svg",
-      "publishedAt": "2026-08-23T01:18:58.551Z"
     }
   ],
-  "lastRun": "2026-08-25T21:32:00.723Z"
+  "lastRun": "2026-08-26T01:18:55.515Z"
 }
