@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T05:50:32.127Z",
+  "updatedAt": "2026-08-29T12:22:24.063Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -132,20 +132,20 @@
         },
         {
           "position": 10,
-          "team": "Liverpool FC",
-          "crest": "https://crests.football-data.org/64.png",
-          "played": 1,
-          "won": 0,
-          "draw": 1,
-          "lost": 0,
-          "goalsFor": 2,
-          "goalsAgainst": 2,
+          "team": "Nottingham Forest FC",
+          "crest": "https://crests.football-data.org/351.png",
+          "played": 2,
+          "won": 1,
+          "draw": 0,
+          "lost": 1,
+          "goalsFor": 1,
+          "goalsAgainst": 1,
           "goalDifference": 0,
-          "points": 1,
+          "points": 3,
           "form": []
         },
         {
-          "position": 10,
+          "position": 11,
           "team": "Newcastle United FC",
           "crest": "https://crests.football-data.org/67.png",
           "played": 1,
@@ -160,6 +160,20 @@
         },
         {
           "position": 12,
+          "team": "Liverpool FC",
+          "crest": "https://crests.football-data.org/64.png",
+          "played": 2,
+          "won": 0,
+          "draw": 1,
+          "lost": 1,
+          "goalsFor": 2,
+          "goalsAgainst": 3,
+          "goalDifference": -1,
+          "points": 1,
+          "form": []
+        },
+        {
+          "position": 13,
           "team": "Fulham FC",
           "crest": "https://crests.football-data.org/63.png",
           "played": 1,
@@ -173,7 +187,7 @@
           "form": []
         },
         {
-          "position": 13,
+          "position": 14,
           "team": "AFC Bournemouth",
           "crest": "https://crests.football-data.org/bournemouth.png",
           "played": 1,
@@ -187,7 +201,7 @@
           "form": []
         },
         {
-          "position": 13,
+          "position": 14,
           "team": "Sunderland AFC",
           "crest": "https://crests.football-data.org/71.png",
           "played": 1,
@@ -196,20 +210,6 @@
           "lost": 1,
           "goalsFor": 1,
           "goalsAgainst": 2,
-          "goalDifference": -1,
-          "points": 0,
-          "form": []
-        },
-        {
-          "position": 15,
-          "team": "Nottingham Forest FC",
-          "crest": "https://crests.football-data.org/351.png",
-          "played": 1,
-          "won": 0,
-          "draw": 0,
-          "lost": 1,
-          "goalsFor": 0,
-          "goalsAgainst": 1,
           "goalDifference": -1,
           "points": 0,
           "form": []
