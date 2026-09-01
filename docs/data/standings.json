@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T20:40:29.843Z",
+  "updatedAt": "2026-09-01T00:24:10.052Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -493,6 +493,20 @@
       "standings": [
         {
           "position": 1,
+          "team": "FC Barcelona",
+          "crest": "https://crests.football-data.org/81.png",
+          "played": 3,
+          "won": 3,
+          "draw": 0,
+          "lost": 0,
+          "goalsFor": 12,
+          "goalsAgainst": 2,
+          "goalDifference": 10,
+          "points": 9,
+          "form": []
+        },
+        {
+          "position": 2,
           "team": "Real Madrid CF",
           "crest": "https://crests.football-data.org/86.png",
           "played": 3,
@@ -501,20 +515,6 @@
           "lost": 0,
           "goalsFor": 10,
           "goalsAgainst": 2,
-          "goalDifference": 8,
-          "points": 9,
-          "form": []
-        },
-        {
-          "position": 2,
-          "team": "FC Barcelona",
-          "crest": "https://crests.football-data.org/81.png",
-          "played": 3,
-          "won": 3,
-          "draw": 0,
-          "lost": 0,
-          "goalsFor": 9,
-          "goalsAgainst": 1,
           "goalDifference": 8,
           "points": 9,
           "form": []
@@ -703,20 +703,6 @@
         },
         {
           "position": 16,
-          "team": "Rayo Vallecano de Madrid",
-          "crest": "https://crests.football-data.org/87.png",
-          "played": 3,
-          "won": 0,
-          "draw": 1,
-          "lost": 2,
-          "goalsFor": 3,
-          "goalsAgainst": 5,
-          "goalDifference": -2,
-          "points": 1,
-          "form": []
-        },
-        {
-          "position": 17,
           "team": "RC Celta de Vigo",
           "crest": "https://crests.football-data.org/558.png",
           "played": 3,
@@ -730,7 +716,7 @@
           "form": []
         },
         {
-          "position": 17,
+          "position": 16,
           "team": "Valencia CF",
           "crest": "https://crests.football-data.org/95.png",
           "played": 3,
@@ -740,6 +726,20 @@
           "goalsFor": 1,
           "goalsAgainst": 4,
           "goalDifference": -3,
+          "points": 1,
+          "form": []
+        },
+        {
+          "position": 18,
+          "team": "Rayo Vallecano de Madrid",
+          "crest": "https://crests.football-data.org/87.png",
+          "played": 3,
+          "won": 0,
+          "draw": 1,
+          "lost": 2,
+          "goalsFor": 4,
+          "goalsAgainst": 8,
+          "goalDifference": -4,
           "points": 1,
           "form": []
         },
