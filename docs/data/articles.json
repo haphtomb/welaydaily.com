@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "forest-stuns-anfield-in-shock-victory-over-struggling-liverpool-3e6a65dee3f0",
+      "headline": "Forest Stuns Anfield in Shock Victory Over Struggling Liverpool",
+      "league": "Premier League",
+      "summary": "Nottingham Forest secured an unexpected triumph at Anfield today, defeating Liverpool by a solitary goal. The result sends shockwaves through the early Premier League season, leaving Reds supporters bewildered by their team's performance.",
+      "body": "Anfield witnessed a stunning upset as Nottingham Forest clinched a hard-fought 1-0 victory over Liverpool in a match that defied expectations. The Reds, usually dominant on their home turf, struggled to break down a resilient Forest defense throughout the ninety minutes, much to the dismay of the home crowd. This unexpected defeat marks a significant early setback for Liverpool's aspirations this season. \n\nForest's disciplined approach and clinical finishing proved to be the difference, as they capitalized on their opportunity to secure all three points. The visitors' players celebrated a monumental win, a testament to their tactical execution and determination against one of the league's giants. \n\nFor Liverpool, questions will undoubtedly arise regarding their attacking impetus and defensive solidity after failing to find the back of the net. The reaction from manager Andoni Iraola and the squad will be closely scrutinized as they look to recover from this surprising home loss and regain momentum in the coming fixtures.",
+      "tags": [
+        "Premier League",
+        "Liverpool",
+        "Nottingham Forest",
+        "Upset"
+      ],
+      "image": "images/forest-stuns-anfield-in-shock-victory-over-struggling-liverpool-3e6a65dee3f0.svg",
+      "publishedAt": "2026-09-01T08:21:52.041Z"
+    },
+    {
+      "id": "kawempe-muslim-ladies-secure-historic-cecafa-women-s-champions-league-title-5392ac189aa8",
+      "headline": "Kawempe Muslim Ladies Secure Historic CECAFA Women's Champions League Title",
+      "league": "CAF Champions League",
+      "summary": "Uganda's Kawempe Muslim Ladies have clinched the CECAFA Women's Champions League Zonal Qualifiers, triumphing over Kenya Police Bullets in a dramatic final. This victory earns them a coveted spot in the upcoming continental CAF Women's Champions League tournament.",
+      "body": "Kawempe Muslim Ladies FC demonstrated remarkable resilience, securing a hard-fought 1-0 victory against Kenya Police Bullets FC in the CECAFA Women's Champions League Zonal Qualifiers final. The decisive goal arrived deep into extra time, with captain Agnes Nabukenya capitalizing on a defensive error in the 100th minute at the Kigali Pele Stadium. This triumph marks a significant achievement for the Ugandan club, highlighting their dominant performance throughout the zonal competition, where they maintained a perfect record with four consecutive wins.\n\nThroughout the fiercely contested match on Monday, Kawempe Muslim Ladies exerted considerable pressure, creating numerous scoring opportunities. Despite a strong defensive showing from Kenya Police Bullets and an early save by their goalkeeper, Saidah Namwanje, the Ugandan champions consistently threatened their opponents' goal.\n\nThe victory not only crowns Kawempe Muslim Ladies as regional champions but also secures their progression to the TotalEnergies CAF Women's Champions League. This continental berth offers a significant platform for the club to showcase their talent and compete against Africa's elite.",
+      "tags": [
+        "CAF Women's Champions League",
+        "Kawempe Muslim Ladies",
+        "CECAFA",
+        "African Football"
+      ],
+      "image": "images/kawempe-muslim-ladies-secure-historic-cecafa-women-s-champions-league-title-5392ac189aa8.svg",
+      "publishedAt": "2026-09-01T08:22:13.227Z"
+    },
+    {
+      "id": "messi-s-four-goal-masterclass-propels-inter-miami-in-dominant-victory-e130f47963f9",
+      "headline": "Messi's Four-Goal Masterclass Propels Inter Miami in Dominant Victory",
+      "league": "MLS",
+      "summary": "Lionel Messi delivered a sensational performance, scoring four goals and assisting another, as Inter Miami secured a resounding 7-1 win over CF Montréal. His extraordinary display earned him the MLS Player of the Matchday award for Matchday 23.",
+      "body": "Inter Miami’s Lionel Messi demonstrated his unparalleled brilliance on Saturday, netting four goals and contributing an assist in a commanding 7-1 triumph against CF Montréal. This marked the first occasion in his Major League Soccer career that the Argentine maestro scored four times in a single regular-season fixture. His goal contributions were pivotal in Miami's largest victory margin in club history.\n\nThe former two-time Landon Donovan MLS MVP opened his account with a deflected free-kick late in the first half, giving Miami a crucial lead. He then added a solo effort in the 52nd minute before setting up Luis Suárez for Miami's fourth goal. Messi completed his hat-trick with a clever chip and added a fourth from another free-kick in stoppage time, showcasing his comprehensive attacking prowess.\n\nThis outstanding individual effort saw Messi recognized as the MLS Player of the Matchday for the third time in 2026, bringing his career total to 15 such honors. His remarkable form continues to drive Inter Miami's campaign, as they prepare to host Atlanta United in their next fixture.",
+      "tags": [
+        "Lionel Messi",
+        "Inter Miami",
+        "MLS",
+        "CF Montréal"
+      ],
+      "image": "images/messi-s-four-goal-masterclass-propels-inter-miami-in-dominant-victory-e130f47963f9.svg",
+      "publishedAt": "2026-09-01T08:22:27.516Z"
+    },
+    {
       "id": "saka-s-decisive-strike-secures-arsenal-s-hard-fought-victory-at-villa-park-61a36ef66d78",
       "headline": "Saka's Decisive Strike Secures Arsenal's Hard-Fought Victory at Villa Park",
       "league": "Premier League",
@@ -856,53 +901,7 @@
       ],
       "image": "images/mbapp-s-hat-trick-propels-real-madrid-to-dominant-victory-over-real-sociedad-741f2fe04569.svg",
       "publishedAt": "2026-08-27T00:31:17.418Z"
-    },
-    {
-      "id": "yei-joint-stars-break-jinx-reach-caf-women-s-champions-league-semis-1ed822dbd33e",
-      "headline": "Yei Joint Stars Break Jinx, Reach CAF Women's Champions League Semis",
-      "league": "CAF Women's Champions League",
-      "summary": "The CAF Women's Champions League CECAFA qualifiers have reached the semi-final stage in Kigali, with South Sudan's Yei Joint Stars WFC making history by advancing to the knockout rounds for the first time. Ugandan giants Kawempe Muslim Ladies also secured their spot, demonstrating strong form in the group stage.",
-      "body": "The vibrant city of Kigali, Rwanda, is abuzz as the CAF Women's Champions League CECAFA qualifiers progress to the highly anticipated semi-finals. A significant storyline emerging from the group stage is the historic qualification of Yei Joint Stars WFC from South Sudan, who topped Group A after years of attempting to break through. Their journey included a decisive 3-0 victory over Eritrea's Denden FC and a narrow 1-0 win against Mafunzo Women WFC, alongside a 1-1 draw with host club Rayon Sports WFC.\n\nCoach Sony Harriet expressed immense pride in her team's achievement, highlighting their perseverance after five previous attempts to reach this stage. Meanwhile, Uganda's Kawempe Muslim Ladies showcased their championship aspirations by dominating Group B, securing maximum points. They notably defeated 2024 winners Commercial Bank of Ethiopia 1-0 and delivered an emphatic 8-0 thrashing of Djibouti's FC Ujeco.\n\nAs the tournament intensifies, Kawempe Muslim Ladies captain Shakira Nyinagahirwa has vocalized her squad's firm resolve to claim the title, aiming to improve upon their third-place finish in the 2024 edition. One of the confirmed semi-final clashes will see Kawempe Muslim Ladies go head-to-head with the Commercial Bank of Ethiopia, promising an exciting encounter as teams vie for a coveted spot in the final.",
-      "tags": [
-        "CAF Women's Champions League",
-        "CECAFA Qualifiers",
-        "Yei Joint Stars",
-        "Kawempe Muslim Ladies"
-      ],
-      "image": "images/yei-joint-stars-break-jinx-reach-caf-women-s-champions-league-semis-1ed822dbd33e.svg",
-      "publishedAt": "2026-08-27T00:31:33.745Z"
-    },
-    {
-      "id": "caf-inspection-team-touches-down-in-nairobi-for-afcon-2027-preparations-72cc4c2a2b9d",
-      "headline": "CAF Inspection Team Touches Down in Nairobi for AFCON 2027 Preparations",
-      "league": "AFCON",
-      "summary": "A Confederation of African Football technical delegation has arrived in Nairobi to assess Kenya's readiness for the upcoming 2027 Africa Cup of Nations. This crucial visit marks a significant step in the tripartite hosting efforts by Kenya, Uganda, and Tanzania for the continental showpiece.",
-      "body": "The Confederation of African Football (CAF) has dispatched a technical inspection team to Nairobi, Kenya, as the East African nation ramps up its preparations for the 2027 Africa Cup of Nations. This inspection is a vital part of the comprehensive evaluation process for the tournament, which Kenya will co-host alongside Uganda and Tanzania, marking the first time three nations have jointly staged the prestigious event. The delegation's arrival signifies a key moment, with the tournament scheduled to run from June 19 to July 17, 2027.\n\nThe inspection team's primary focus in Kenya will be on critical infrastructure, particularly the proposed stadium projects. Facilities such as Talanta Stadium and Kipchoge Keino Stadium in Eldoret are under scrutiny, alongside the country's broadcasting capabilities. These assessments are integral to ensuring that all venues meet CAF's stringent requirements for hosting a tournament of this magnitude.\n\nCAF had previously identified August 2026 as a pivotal period for evaluating the progress of the joint hosting initiative, dubbed the 'PAMOJA project'. The ongoing visit underscores CAF's commitment to supporting the co-hosts in delivering a successful and memorable Africa Cup of Nations, ensuring all necessary developments are on track for the continental football spectacle.",
-      "tags": [
-        "CAF",
-        "AFCON 2027",
-        "Kenya",
-        "Uganda",
-        "Tanzania"
-      ],
-      "image": "images/caf-inspection-team-touches-down-in-nairobi-for-afcon-2027-preparations-72cc4c2a2b9d.svg",
-      "publishedAt": "2026-08-26T19:49:00.716Z"
-    },
-    {
-      "id": "bees-buzz-past-spurs-brentford-dominates-tottenham-in-opening-fixture-0adac68618f1",
-      "headline": "Bees Buzz Past Spurs: Brentford Dominates Tottenham in Opening Fixture",
-      "league": "Premier League",
-      "summary": "Brentford made a resounding start to their Premier League campaign, securing a convincing three-goal victory over Tottenham Hotspur. The performance delighted home fans and set an early marker for the Bees in the new season.",
-      "body": "Brentford delivered a commanding performance on Saturday, defeating Tottenham Hotspur by three goals to nil in their opening Premier League encounter. The home side asserted control early, with goals from Lewis-Potter, Janelt, and Kayode sealing a memorable victory. This emphatic win immediately positions Brentford as a team to watch in the early stages of the competition.\n\nThe result left Tottenham fans contemplating a challenging start to their season, as they struggled to contain Brentford's attacking prowess. The comprehensive nature of the defeat will undoubtedly prompt questions regarding their readiness for the demanding Premier League schedule.\n\nMeanwhile, the atmosphere at the Gtech Community Stadium was electric, with supporters celebrating a perfect start for their team. This impressive display against a traditional top-six opponent provides a significant boost for Brentford as they look ahead to the upcoming fixtures.",
-      "tags": [
-        "Brentford",
-        "Tottenham Hotspur",
-        "Premier League",
-        "Matchweek 1"
-      ],
-      "image": "images/bees-buzz-past-spurs-brentford-dominates-tottenham-in-opening-fixture-0adac68618f1.svg",
-      "publishedAt": "2026-08-26T19:49:15.458Z"
     }
   ],
-  "lastRun": "2026-09-01T00:26:25.901Z"
+  "lastRun": "2026-09-01T08:22:31.518Z"
 }
