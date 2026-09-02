@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T03:07:54.331Z",
+  "updatedAt": "2026-09-02T10:44:18.193Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -1134,8 +1134,8 @@
         },
         {
           "position": 12,
-          "team": "TSG 1899 Hoffenheim",
-          "crest": "https://crests.football-data.org/2.png",
+          "team": "Bayer 04 Leverkusen",
+          "crest": "https://crests.football-data.org/3.png",
           "played": 1,
           "won": 0,
           "draw": 0,
@@ -1148,8 +1148,8 @@
         },
         {
           "position": 12,
-          "team": "Bayer 04 Leverkusen",
-          "crest": "https://crests.football-data.org/3.png",
+          "team": "TSG 1899 Hoffenheim",
+          "crest": "https://crests.football-data.org/2.png",
           "played": 1,
           "won": 0,
           "draw": 0,
