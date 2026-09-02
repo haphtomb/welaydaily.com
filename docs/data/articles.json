@@ -1,6 +1,37 @@
 {
   "articles": [
     {
+      "id": "city-snatch-ndiaye-from-spurs-grasp-in-65-million-deadline-day-coup-bbd3567a52e5",
+      "headline": "City Snatch Ndiaye from Spurs' Grasp in £65 Million Deadline Day Coup",
+      "league": "Transfer News",
+      "summary": "Manchester City dramatically secured the services of Iliman Ndiaye from Everton in a £65 million deal, leaving Tottenham Hotspur scrambling for alternatives on transfer deadline day. The Senegal international's move to the Etihad represents a significant coup for the reigning champions, bolstering their attacking options.",
+      "body": "Manchester City successfully completed a high-profile transfer for Iliman Ndiaye, acquiring the forward from Everton in a deal reportedly worth £65 million. The move, finalized on the summer window's deadline day, saw City outmaneuver Tottenham Hotspur, who had been heavily linked with the Senegal international.\n\nNdiaye's decision to join the Etihad Stadium outfit over North London rivals has been a talking point, with reports indicating he was swayed by City's project and the opportunity to play under manager Enzo Maresca. This late-window acquisition adds further depth and quality to City's already formidable attacking line-up.\n\nThe transfer saga concluded with Tottenham left to hastily pursue other targets in the final hours, highlighting City's decisive action in securing a player they clearly valued highly. Ndiaye's arrival marks one of the most significant domestic transfers as the transfer window drew to a close.",
+      "tags": [
+        "Iliman Ndiaye",
+        "Manchester City",
+        "Everton",
+        "Tottenham Hotspur",
+        "Transfer Deadline Day"
+      ],
+      "image": "images/city-snatch-ndiaye-from-spurs-grasp-in-65-million-deadline-day-coup-bbd3567a52e5.svg",
+      "publishedAt": "2026-09-02T20:35:56.201Z"
+    },
+    {
+      "id": "african-giants-commence-caf-champions-league-journey-this-weekend-e54202308785",
+      "headline": "African Giants Commence CAF Champions League Journey This Weekend",
+      "league": "CAF Champions League",
+      "summary": "The 2026/27 TotalEnergies CAF Champions League season is poised to get underway this weekend with its initial preliminary round fixtures. Clubs from across the continent are set to begin their pursuit of continental glory, aiming to secure a coveted spot in the group stages.",
+      "body": "The highly anticipated first preliminary round of the TotalEnergies CAF Champions League 2026/27 season is scheduled to commence from September 4th to 6th, signaling the start of another exciting campaign for Africa's elite club teams. Reigning champions Mamelodi Sundowns, alongside Tunisian titans Espérance Sportive de Tunis and Morocco's formidable RS Berkane, have all secured byes directly into the Second Preliminary Round, allowing them to bypass the opening matches.\n\nThis early stage of the competition features several intriguing matchups across the continent. Five-time African champions TP Mazembe face a potentially difficult away fixture against Ghanaian side Medeama SC, promising an immediate test of their continental ambitions. Elsewhere, Egyptian powerhouse Zamalek will journey to confront AS Port of Djibouti, while Pyramids FC, who lifted the CAF Champions League trophy last season, face a challenging trip to Nairobi to battle Kenyan club Gor Mahia.\n\nIn a move to bolster club participation, the Confederation of African Football has pledged substantial financial assistance for teams eliminated during these preliminary rounds, offering USD 100,000 to help cover travel and logistical costs. This initiative highlights CAF's dedication to strengthening club football throughout Africa and easing the financial burdens associated with competing on the continental stage as teams strive to advance to the lucrative group stages.",
+      "tags": [
+        "CAF Champions League",
+        "African Football",
+        "Season Kickoff",
+        "Preliminary Rounds"
+      ],
+      "image": "images/african-giants-commence-caf-champions-league-journey-this-weekend-e54202308785.svg",
+      "publishedAt": "2026-09-02T20:36:15.192Z"
+    },
+    {
       "id": "celtic-secures-highly-rated-chelsea-prodigy-shim-mheuka-on-season-long-loan-5f85cbba1b49",
       "headline": "Celtic Secures Highly-Rated Chelsea Prodigy Shim Mheuka on Season-Long Loan",
       "league": "Transfer News",
@@ -872,37 +903,7 @@
       ],
       "image": "images/forest-holds-liverpool-to-stalemate-at-anfield-halftime-0e2022b54478.svg",
       "publishedAt": "2026-08-29T12:24:00.988Z"
-    },
-    {
-      "id": "real-madrid-grapples-with-injury-crisis-ahead-of-malaga-clash-214dbc36cf0f",
-      "headline": "Real Madrid Grapples with Injury Crisis Ahead of Malaga Clash",
-      "league": "La Liga",
-      "summary": "Real Madrid is managing a significant injury list as they prepare for their upcoming La Liga fixture against Malaga, with seven key players currently sidelined. Several stars are progressing in their recovery, but their availability for Sunday's match remains uncertain.",
-      "body": "Real Madrid's preparations for their third La Liga match of the season against Malaga on Sunday have been complicated by a lengthy injury roster. Seven first-team players missed Saturday's training session, including prominent figures like Eder Militao, Ferland Mendy, Aurelien Tchouameni, Rodrygo, and Endrick, as the squad focused on their upcoming challenge at the Santiago Bernabéu.\n\nEncouragingly, both Eder Militao and Endrick demonstrated positive steps in their rehabilitation, engaging in individual physical conditioning and ball work on a separate pitch during Saturday's session. While Endrick might potentially return to action as early as next week, Militao's comeback is anticipated after the international break.\n\nMeanwhile, Ferland Mendy and Raul Asencio are also reportedly nearing a return to full team training, with Mendy already undertaking running drills. Midfielder Aurelien Tchouameni continues his recovery, with the club's medical staff prioritizing his complete fitness despite the player's eagerness to rejoin the squad.",
-      "tags": [
-        "Real Madrid",
-        "La Liga",
-        "Injuries",
-        "Malaga"
-      ],
-      "image": "images/real-madrid-grapples-with-injury-crisis-ahead-of-malaga-clash-214dbc36cf0f.svg",
-      "publishedAt": "2026-08-29T12:24:14.956Z"
-    },
-    {
-      "id": "aston-villa-poised-to-seal-47m-deal-for-psg-starlet-mbaye-02e86a4ad95d",
-      "headline": "Aston Villa Poised to Seal £47m Deal for PSG Starlet Mbaye",
-      "league": "Transfer News",
-      "summary": "Aston Villa are on the verge of securing a significant signing with Paris Saint-Germain's promising young winger, Ibrahim Mbaye. The West Midlands club is reportedly finalising a substantial £47 million transfer for the 18-year-old, with a medical examination expected this weekend.",
-      "body": "Aston Villa is reportedly on the brink of completing a significant acquisition, with Paris Saint-Germain's highly-rated 18-year-old winger, Ibrahim Mbaye, set to join the Premier League club. A comprehensive deal, valued at £47 million, is understood to be in its final stages of negotiation, with all parties working towards a swift conclusion.\n\nThe young French talent is expected to undergo his medical assessment this weekend, paving the way for his official unveiling at Villa Park. This substantial investment highlights Villa's ambition to bolster their squad with promising youth, adding flair and potential to their attacking options for the upcoming season.\n\nFor PSG, Mbaye's departure, alongside other high-profile transfers, contributes to a substantial influx of funds, reportedly totalling around £170 million from both deals. This strategic move allows the Parisian giants to rebalance their squad while Aston Villa secures a player with considerable future prospects.",
-      "tags": [
-        "Ibrahim Mbaye",
-        "Aston Villa",
-        "PSG",
-        "Transfer News"
-      ],
-      "image": "images/aston-villa-poised-to-seal-47m-deal-for-psg-starlet-mbaye-02e86a4ad95d.svg",
-      "publishedAt": "2026-08-29T12:24:32.583Z"
     }
   ],
-  "lastRun": "2026-09-02T16:05:12.440Z"
+  "lastRun": "2026-09-02T20:36:26.722Z"
 }
