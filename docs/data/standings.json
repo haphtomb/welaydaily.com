@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T15:52:45.940Z",
+  "updatedAt": "2026-09-03T20:34:22.562Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -633,6 +633,20 @@
         },
         {
           "position": 11,
+          "team": "Real Sociedad de Fútbol",
+          "crest": "https://crests.football-data.org/92.png",
+          "played": 4,
+          "won": 1,
+          "draw": 1,
+          "lost": 2,
+          "goalsFor": 3,
+          "goalsAgainst": 6,
+          "goalDifference": -3,
+          "points": 4,
+          "form": []
+        },
+        {
+          "position": 12,
           "team": "RCD Espanyol de Barcelona",
           "crest": "https://crests.football-data.org/80.png",
           "played": 3,
@@ -646,7 +660,7 @@
           "form": []
         },
         {
-          "position": 12,
+          "position": 13,
           "team": "Athletic Club",
           "crest": "https://crests.football-data.org/77.png",
           "played": 3,
@@ -656,20 +670,6 @@
           "goalsFor": 3,
           "goalsAgainst": 5,
           "goalDifference": -2,
-          "points": 3,
-          "form": []
-        },
-        {
-          "position": 13,
-          "team": "Real Sociedad de Fútbol",
-          "crest": "https://crests.football-data.org/92.png",
-          "played": 3,
-          "won": 1,
-          "draw": 0,
-          "lost": 2,
-          "goalsFor": 3,
-          "goalsAgainst": 6,
-          "goalDifference": -3,
           "points": 3,
           "form": []
         },
@@ -705,18 +705,18 @@
           "position": 16,
           "team": "RC Celta de Vigo",
           "crest": "https://crests.football-data.org/558.png",
-          "played": 3,
+          "played": 4,
           "won": 0,
-          "draw": 1,
+          "draw": 2,
           "lost": 2,
           "goalsFor": 1,
           "goalsAgainst": 4,
           "goalDifference": -3,
-          "points": 1,
+          "points": 2,
           "form": []
         },
         {
-          "position": 16,
+          "position": 17,
           "team": "Valencia CF",
           "crest": "https://crests.football-data.org/95.png",
           "played": 3,
@@ -1926,6 +1926,20 @@
       "standings": [
         {
           "position": 1,
+          "team": "Lille OSC",
+          "crest": "https://crests.football-data.org/521.png",
+          "played": 3,
+          "won": 2,
+          "draw": 1,
+          "lost": 0,
+          "goalsFor": 5,
+          "goalsAgainst": 2,
+          "goalDifference": 3,
+          "points": 7,
+          "form": []
+        },
+        {
+          "position": 2,
           "team": "AS Monaco FC",
           "crest": "https://crests.football-data.org/548.png",
           "played": 2,
@@ -1939,7 +1953,7 @@
           "form": []
         },
         {
-          "position": 2,
+          "position": 3,
           "team": "Paris FC",
           "crest": "https://crests.football-data.org/1045.png",
           "played": 2,
@@ -1949,20 +1963,6 @@
           "goalsFor": 3,
           "goalsAgainst": 0,
           "goalDifference": 3,
-          "points": 4,
-          "form": []
-        },
-        {
-          "position": 3,
-          "team": "Lille OSC",
-          "crest": "https://crests.football-data.org/521.png",
-          "played": 2,
-          "won": 1,
-          "draw": 1,
-          "lost": 0,
-          "goalsFor": 4,
-          "goalsAgainst": 2,
-          "goalDifference": 2,
           "points": 4,
           "form": []
         },
@@ -2138,13 +2138,13 @@
           "position": 16,
           "team": "Toulouse FC",
           "crest": "https://crests.football-data.org/511.png",
-          "played": 2,
+          "played": 3,
           "won": 0,
           "draw": 1,
-          "lost": 1,
+          "lost": 2,
           "goalsFor": 2,
-          "goalsAgainst": 4,
-          "goalDifference": -2,
+          "goalsAgainst": 5,
+          "goalDifference": -3,
           "points": 1,
           "form": []
         },
