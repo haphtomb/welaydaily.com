@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "nashville-continues-historic-run-with-stalemate-against-nycfc-5c638d9d1b01",
+      "headline": "Nashville Continues Historic Run with Stalemate Against NYCFC",
+      "league": "MLS",
+      "summary": "Nashville SC extended their impressive start to the Major League Soccer season, securing a hard-fought scoreless draw against New York City FC at Yankee Stadium. This result further solidifies their record-breaking campaign as they maintain a commanding lead in the Supporters' Shield race.",
+      "body": "Nashville Soccer Club continued their dominant form, playing to a 0-0 draw with New York City FC on Friday night, a result that nonetheless cemented their place in MLS history. The visitors, known as the Boys in Gold, outshot the Pigeons 13 to 6, demonstrating their offensive intent despite being unable to find the back of the net. The draw in the Bronx pushes Nashville's outstanding start to the 2026 season to a new league record, boasting 16 wins, 2 losses, and 5 draws through 23 matches, accumulating 53 points.\n\nGoalkeeper Brian Schwake was a standout performer for Nashville, earning his league-leading eleventh regular-season clean sheet of the 2026 campaign. This impressive defensive record underscores the team's resilience and tactical discipline, particularly on the road, where they have conceded the fewest away goals in the league this season. The team remains unbeaten in 16 of their last 17 MLS fixtures, a testament to their consistency and title aspirations.\n\nWith this latest result, Nashville now holds a significant ten-point advantage over the Vancouver Whitecaps in the Supporters' Shield standings and an eleven-point lead over Inter Miami CF in the Eastern Conference, with eleven regular season matches remaining. The club will look to continue their formidable run as they embark on a demanding schedule of three road matches within eight days, with their next challenge set against Toronto FC.",
+      "tags": [
+        "Nashville SC",
+        "New York City FC",
+        "MLS",
+        "Match Report"
+      ],
+      "image": "images/nashville-continues-historic-run-with-stalemate-against-nycfc-5c638d9d1b01.svg",
+      "publishedAt": "2026-09-05T10:03:21.532Z"
+    },
+    {
       "id": "real-betis-stuns-real-madrid-ends-perfect-start-with-late-winner-11b7e4389e13",
       "headline": "Real Betis Stuns Real Madrid, Ends Perfect Start with Late Winner",
       "league": "La Liga",
@@ -892,22 +907,7 @@
       ],
       "image": "images/liverpool-shatters-bank-for-barcola-in-blockbuster-psg-transfer-74a0ca9738de.svg",
       "publishedAt": "2026-09-01T00:26:07.258Z"
-    },
-    {
-      "id": "lafc-strengthen-midfield-with-loan-signing-of-swansea-city-s-leo-walta-5efa84bd1a0c",
-      "headline": "LAFC Strengthen Midfield with Loan Signing of Swansea City's Leo Walta",
-      "league": "Transfer News",
-      "summary": "Los Angeles FC has moved to bolster their midfield options, securing the services of Leo Walta on a loan agreement from English Championship side Swansea City. This acquisition adds a new dimension to the Black & Gold's squad as the secondary transfer window concludes.",
-      "body": "Los Angeles FC announced a key acquisition on August 31, bringing midfielder Leo Walta to the club on a loan from Swansea City. The move sees the promising talent join the Western Conference powerhouse, providing additional depth and versatility in the central areas of the pitch. Walta arrives from the English Championship, where he has been developing his craft.\n\nThis signing comes at a crucial time for LAFC, as clubs across Major League Soccer finalize their rosters with the secondary transfer window drawing to a close. The addition of Walta signifies the club's intent to reinforce their squad for the remainder of the season, aiming to maintain their competitive edge.\n\nFans will be keen to see Walta integrate with his new teammates and contribute to LAFC's ongoing campaign. His arrival is expected to inject fresh energy and tactical options into the midfield, potentially playing a significant role in the upcoming fixtures.",
-      "tags": [
-        "LAFC",
-        "Leo Walta",
-        "Transfer News",
-        "MLS"
-      ],
-      "image": "images/lafc-strengthen-midfield-with-loan-signing-of-swansea-city-s-leo-walta-5efa84bd1a0c.svg",
-      "publishedAt": "2026-09-01T00:26:21.900Z"
     }
   ],
-  "lastRun": "2026-09-05T03:12:45.602Z"
+  "lastRun": "2026-09-05T10:03:25.533Z"
 }
