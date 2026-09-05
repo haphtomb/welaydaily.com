@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T19:59:10.703Z",
+  "updatedAt": "2026-09-05T22:39:34.925Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -535,6 +535,20 @@
         },
         {
           "position": 4,
+          "team": "RC Deportivo La Coruña",
+          "crest": "https://crests.football-data.org/560.png",
+          "played": 4,
+          "won": 2,
+          "draw": 2,
+          "lost": 0,
+          "goalsFor": 8,
+          "goalsAgainst": 5,
+          "goalDifference": 3,
+          "points": 8,
+          "form": []
+        },
+        {
+          "position": 5,
           "team": "Deportivo Alavés",
           "crest": "https://crests.football-data.org/263.png",
           "played": 3,
@@ -548,7 +562,7 @@
           "form": []
         },
         {
-          "position": 5,
+          "position": 6,
           "team": "CA Osasuna",
           "crest": "https://crests.football-data.org/79.png",
           "played": 3,
@@ -562,7 +576,7 @@
           "form": []
         },
         {
-          "position": 6,
+          "position": 7,
           "team": "Club Atlético de Madrid",
           "crest": "https://crests.football-data.org/78.png",
           "played": 4,
@@ -573,20 +587,6 @@
           "goalsAgainst": 6,
           "goalDifference": 1,
           "points": 7,
-          "form": []
-        },
-        {
-          "position": 7,
-          "team": "RC Deportivo La Coruña",
-          "crest": "https://crests.football-data.org/560.png",
-          "played": 4,
-          "won": 1,
-          "draw": 3,
-          "lost": 0,
-          "goalsFor": 6,
-          "goalsAgainst": 4,
-          "goalDifference": 2,
-          "points": 6,
           "form": []
         },
         {
@@ -689,20 +689,6 @@
         },
         {
           "position": 15,
-          "team": "Villarreal CF",
-          "crest": "https://crests.football-data.org/94.png",
-          "played": 4,
-          "won": 0,
-          "draw": 3,
-          "lost": 1,
-          "goalsFor": 5,
-          "goalsAgainst": 6,
-          "goalDifference": -1,
-          "points": 3,
-          "form": []
-        },
-        {
-          "position": 16,
           "team": "Getafe CF",
           "crest": "https://crests.football-data.org/82.png",
           "played": 3,
@@ -713,6 +699,20 @@
           "goalsAgainst": 4,
           "goalDifference": -3,
           "points": 3,
+          "form": []
+        },
+        {
+          "position": 16,
+          "team": "Villarreal CF",
+          "crest": "https://crests.football-data.org/94.png",
+          "played": 4,
+          "won": 0,
+          "draw": 2,
+          "lost": 2,
+          "goalsFor": 6,
+          "goalsAgainst": 8,
+          "goalDifference": -2,
+          "points": 2,
           "form": []
         },
         {
@@ -1439,6 +1439,20 @@
       "standings": [
         {
           "position": 1,
+          "team": "AS Roma",
+          "crest": "https://crests.football-data.org/100.png",
+          "played": 3,
+          "won": 3,
+          "draw": 0,
+          "lost": 0,
+          "goalsFor": 10,
+          "goalsAgainst": 1,
+          "goalDifference": 9,
+          "points": 9,
+          "form": []
+        },
+        {
+          "position": 2,
           "team": "FC Internazionale Milano",
           "crest": "https://crests.football-data.org/108.png",
           "played": 3,
@@ -1449,20 +1463,6 @@
           "goalsAgainst": 3,
           "goalDifference": 5,
           "points": 9,
-          "form": []
-        },
-        {
-          "position": 2,
-          "team": "AS Roma",
-          "crest": "https://crests.football-data.org/100.png",
-          "played": 3,
-          "won": 2,
-          "draw": 1,
-          "lost": 0,
-          "goalsFor": 8,
-          "goalsAgainst": 0,
-          "goalDifference": 8,
-          "points": 7,
           "form": []
         },
         {
@@ -1481,20 +1481,6 @@
         },
         {
           "position": 4,
-          "team": "Atalanta BC",
-          "crest": "https://crests.football-data.org/102.png",
-          "played": 3,
-          "won": 2,
-          "draw": 1,
-          "lost": 0,
-          "goalsFor": 3,
-          "goalsAgainst": 1,
-          "goalDifference": 2,
-          "points": 7,
-          "form": []
-        },
-        {
-          "position": 5,
           "team": "AC Milan",
           "crest": "https://crests.football-data.org/98.png",
           "played": 2,
@@ -1508,7 +1494,7 @@
           "form": []
         },
         {
-          "position": 6,
+          "position": 5,
           "team": "Juventus FC",
           "crest": "https://crests.football-data.org/109.png",
           "played": 2,
@@ -1522,7 +1508,7 @@
           "form": []
         },
         {
-          "position": 7,
+          "position": 6,
           "team": "SS Lazio",
           "crest": "https://crests.football-data.org/110.png",
           "played": 2,
@@ -1532,6 +1518,20 @@
           "goalsFor": 2,
           "goalsAgainst": 0,
           "goalDifference": 2,
+          "points": 6,
+          "form": []
+        },
+        {
+          "position": 7,
+          "team": "Atalanta BC",
+          "crest": "https://crests.football-data.org/102.png",
+          "played": 3,
+          "won": 2,
+          "draw": 0,
+          "lost": 1,
+          "goalsFor": 4,
+          "goalsAgainst": 3,
+          "goalDifference": 1,
           "points": 6,
           "form": []
         },
@@ -1975,8 +1975,8 @@
           "draw": 2,
           "lost": 0,
           "goalsFor": 6,
-          "goalsAgainst": 4,
-          "goalDifference": 2,
+          "goalsAgainst": 5,
+          "goalDifference": 1,
           "points": 5,
           "form": []
         },
@@ -2136,6 +2136,20 @@
         },
         {
           "position": 16,
+          "team": "Le Havre AC",
+          "crest": "https://crests.football-data.org/533.png",
+          "played": 3,
+          "won": 0,
+          "draw": 1,
+          "lost": 2,
+          "goalsFor": 2,
+          "goalsAgainst": 4,
+          "goalDifference": -2,
+          "points": 1,
+          "form": []
+        },
+        {
+          "position": 17,
           "team": "Toulouse FC",
           "crest": "https://crests.football-data.org/511.png",
           "played": 3,
@@ -2144,20 +2158,6 @@
           "lost": 2,
           "goalsFor": 2,
           "goalsAgainst": 5,
-          "goalDifference": -3,
-          "points": 1,
-          "form": []
-        },
-        {
-          "position": 17,
-          "team": "Le Havre AC",
-          "crest": "https://crests.football-data.org/533.png",
-          "played": 3,
-          "won": 0,
-          "draw": 1,
-          "lost": 2,
-          "goalsFor": 1,
-          "goalsAgainst": 4,
           "goalDifference": -3,
           "points": 1,
           "form": []
