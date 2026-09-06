@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "richarlison-edges-closer-to-trabzonspor-switch-as-tottenham-push-for-exit-3cf94b3db993",
+      "headline": "Richarlison Edges Closer to Trabzonspor Switch as Tottenham Push for Exit",
+      "league": "Transfer News",
+      "summary": "Tottenham Hotspur forward Richarlison is reportedly on the verge of a move to Turkish club Trabzonspor, with Spurs actively seeking to offload the Brazilian international. The potential transfer comes after Richarlison was excluded from Tottenham's Premier League squad for the current season.",
+      "body": "Brazilian attacker Richarlison finds himself at a crossroads in his Tottenham Hotspur career, with reports indicating a strong possibility of a transfer to Trabzonspor in Turkey. The North London club is understood to be keen on facilitating the forward's departure, especially after he was not included in their official Premier League squad for the ongoing campaign. \n\nThe situation has intensified with a reported deadline for the former Everton man to agree to terms with the Turkish Süper Lig outfit, pushing for a resolution to his Tottenham tenure. This development follows Richarlison's decision to decline a previous move to Everton, despite ongoing discussions.\n\nShould the deal materialize, it would mark a significant shift for the player who has struggled to consistently secure a starting spot since his arrival at Tottenham. His potential move to Trabzonspor would offer a fresh start and the opportunity for more regular first-team football.",
+      "tags": [
+        "Richarlison",
+        "Tottenham",
+        "Trabzonspor",
+        "Transfer Rumour"
+      ],
+      "image": "images/richarlison-edges-closer-to-trabzonspor-switch-as-tottenham-push-for-exit-3cf94b3db993.svg",
+      "publishedAt": "2026-09-06T03:12:06.377Z"
+    },
+    {
       "id": "bosnia-and-herzegovina-stuns-italy-in-world-cup-playoff-penalty-thriller-e619d941468d",
       "headline": "Bosnia and Herzegovina Stuns Italy in World Cup Playoff Penalty Thriller",
       "league": "World Cup Qualifiers",
@@ -892,22 +907,7 @@
       ],
       "image": "images/manchester-city-shatters-record-for-chelsea-s-midfield-maestro-enzo-fernandez-401c76644d0c.svg",
       "publishedAt": "2026-09-01T23:05:02.398Z"
-    },
-    {
-      "id": "efl-blasts-uefa-over-champions-league-fixture-clash-forces-reshuffle-27ed836f062c",
-      "headline": "EFL Blasts UEFA Over Champions League Fixture Clash, Forces Reshuffle",
-      "league": "Champions League",
-      "summary": "The English Football League has voiced strong dissatisfaction with UEFA after a Champions League fixture involving Liverpool created an unavoidable clash with a Carabao Cup tie. This scheduling conflict necessitated a swift rearrangement of domestic cup matches for multiple clubs.",
-      "body": "The English Football League (EFL) has expressed considerable disappointment with UEFA following a scheduling conflict that forced the alteration of Carabao Cup fixtures. European football's governing body slated Liverpool's Champions League encounter against Atletico Madrid for September 9th, a date already allocated for Everton's home Carabao Cup third-round match versus Wolverhampton Wanderers.\n\nLogistical issues, particularly concerning local policing, rendered it impossible for both Merseyside clubs to host home games on the same evening. The EFL stated that the Everton versus Wolves fixture had been confirmed with local authorities prior to UEFA's Champions League announcement.\n\nAs a direct consequence of the clash, Everton's Carabao Cup tie against Wolves has now been postponed to September 16th. Additionally, Liverpool's own League Cup fixture against Tottenham Hotspur, originally scheduled for September 16th, has been brought forward by 24 hours to accommodate the changes.",
-      "tags": [
-        "EFL",
-        "UEFA",
-        "Fixture Clash",
-        "Liverpool"
-      ],
-      "image": "images/efl-blasts-uefa-over-champions-league-fixture-clash-forces-reshuffle-27ed836f062c.svg",
-      "publishedAt": "2026-09-01T23:05:17.105Z"
     }
   ],
-  "lastRun": "2026-09-05T22:41:48.463Z"
+  "lastRun": "2026-09-06T03:14:26.539Z"
 }
