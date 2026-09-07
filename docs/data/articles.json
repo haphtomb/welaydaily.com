@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "galaxy-secure-crucial-home-victory-reigniting-playoff-ambitions-ed0f196c6cc9",
+      "headline": "Galaxy Secure Crucial Home Victory, Reigniting Playoff Ambitions",
+      "league": "MLS",
+      "summary": "The LA Galaxy battled to a hard-fought 2-1 win over the New England Revolution on Saturday, with goalkeeper JT Marcinkowski delivering a standout performance to preserve the points. This vital victory marks a significant step for the Galaxy as they push for a playoff spot in a competitive Western Conference.",
+      "body": "The LA Galaxy claimed a much-needed 2-1 home victory against the New England Revolution at Dignity Health Sports Park on Saturday, showcasing resilience despite being outshot significantly. Robert Taylor found the back of the net for the Galaxy, putting them on the path to their second win since the World Cup break.\n\nGalaxy goalkeeper JT Marcinkowski was instrumental, making six crucial saves throughout the match to deny the Revolution multiple scoring opportunities. While New England's Carles Gil converted a late penalty, Marcinkowski's heroics ensured the hosts held on for the full three points.\n\nCoach Greg Vanney emphasized the tightness of the Western Conference standings, highlighting the importance of building momentum. This win provides a timely boost for the Galaxy as they aim to string together a run of positive results to climb into a playoff position.",
+      "tags": [
+        "LA Galaxy",
+        "New England Revolution",
+        "MLS",
+        "Match Report"
+      ],
+      "image": "images/galaxy-secure-crucial-home-victory-reigniting-playoff-ambitions-ed0f196c6cc9.svg",
+      "publishedAt": "2026-09-07T03:09:47.519Z"
+    },
+    {
       "id": "musa-s-late-penalty-seals-dramatic-4-3-victory-for-fc-dallas-over-skc-826435bc257e",
       "headline": "Musa's Late Penalty Seals Dramatic 4-3 Victory for FC Dallas Over SKC",
       "league": "MLS",
@@ -893,22 +908,7 @@
       ],
       "image": "images/manchester-united-secures-historic-signing-of-mexican-defender-rebeca-bernal-45f4f9c20749.svg",
       "publishedAt": "2026-09-02T23:02:05.317Z"
-    },
-    {
-      "id": "revolution-bolster-midfield-with-marquee-free-agent-gazdag-signing-18d255d100dc",
-      "headline": "Revolution Bolster Midfield with Marquee Free Agent Gazdag Signing",
-      "league": "MLS",
-      "summary": "The New England Revolution have significantly strengthened their squad by securing veteran midfielder Dániel Gazdag as a free agent, adding a proven goalscorer to their attacking options. This move brings one of the league's most prolific attacking talents to Foxborough, promising an immediate impact for the club.",
-      "body": "The New England Revolution officially announced the acquisition of Dániel Gazdag, a highly-regarded attacking midfielder, as a free agent. The Hungary international has committed to the Revolution through December 2027, with the club holding options for the 2028-29 MLS season. Gazdag's arrival is expected to inject significant offensive prowess into the Revolution's lineup, given his impressive scoring record in the league.\n\nGazdag, who previously distinguished himself as the all-time leading scorer for the Philadelphia Union before a stint with the Columbus Crew, will not occupy an international roster spot due to his U.S. Green Card status. His career statistics highlight his impact, including a remarkable 22 goals in 2022, followed by 14 goals and 12 assists in 2023, and another 17-goal campaign in 2024 during his time with the Union. He has also demonstrated exceptional proficiency from the penalty spot, with 27 successful conversions, ranking him among the league's all-time best.\n\nRevolution General Manager and Chief Soccer Officer Chris Tierney expressed his enthusiasm for the signing, noting Gazdag's consistent performance as a premier goal-scoring midfielder. Tierney emphasized the player's versatility and quality on the ball, anticipating that he will become a crucial component of the team's offensive strategy. This strategic acquisition signals the Revolution's intent to compete at the highest level, leveraging Gazdag's experience and scoring ability.",
-      "tags": [
-        "MLS",
-        "New England Revolution",
-        "Dániel Gazdag",
-        "Transfer News"
-      ],
-      "image": "images/revolution-bolster-midfield-with-marquee-free-agent-gazdag-signing-18d255d100dc.svg",
-      "publishedAt": "2026-09-02T23:02:22.786Z"
     }
   ],
-  "lastRun": "2026-09-06T22:45:50.143Z"
+  "lastRun": "2026-09-07T03:09:51.892Z"
 }
