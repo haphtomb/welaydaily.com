@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "sargent-s-sensational-hat-trick-secures-thrilling-draw-for-toronto-fc-650dac0dd3d5",
+      "headline": "Sargent's Sensational Hat-Trick Secures Thrilling Draw for Toronto FC",
+      "league": "MLS",
+      "summary": "Josh Sargent delivered a remarkable performance, netting his first professional hat-trick to help Toronto FC salvage a dramatic 4-4 draw against Chicago Fire FC. His individual brilliance ensured a crucial point for the Reds in a high-scoring encounter.",
+      "body": "Toronto FC forward Josh Sargent was the standout performer in a captivating 4-4 stalemate against Chicago Fire FC on Saturday, securing a vital point for his side. The American international showcased his prolific scoring ability by registering a sensational hat-trick, marking a significant milestone in his professional career.\n\nSargent's impactful display included a magnificent long-range effort that ultimately leveled the score, capping off a back-and-forth contest. This exceptional outing continues a strong run of form for the 26-year-old, who has now contributed to five goals in his last four matches, demonstrating the quality Toronto FC had anticipated when acquiring him.\n\nThe thrilling eight-goal affair at BMO Field saw both teams exchange blows, but Sargent's clutch finishing proved instrumental in preventing a defeat for Toronto. His ability to find the net under pressure underscores his growing influence and importance to the squad as the season progresses.",
+      "tags": [
+        "Josh Sargent",
+        "Toronto FC",
+        "Chicago Fire FC",
+        "MLS",
+        "Hat-trick"
+      ],
+      "image": "images/sargent-s-sensational-hat-trick-secures-thrilling-draw-for-toronto-fc-650dac0dd3d5.svg",
+      "publishedAt": "2026-09-07T21:14:37.404Z"
+    },
+    {
       "id": "sancho-nears-shock-dortmund-return-amid-manchester-united-exit-rumours-47448e4f6c4b",
       "headline": "Sancho Nears Shock Dortmund Return Amid Manchester United Exit Rumours",
       "league": "Transfer News",
@@ -893,22 +909,7 @@
       ],
       "image": "images/african-club-football-season-ignites-newcomers-and-giants-join-confederation-cup-a4981ab5d072.svg",
       "publishedAt": "2026-09-03T15:54:31.510Z"
-    },
-    {
-      "id": "real-madrid-squad-revealed-for-crucial-betis-la-liga-showdown-0ce3bfd2c98b",
-      "headline": "Real Madrid Squad Revealed for Crucial Betis La Liga Showdown",
-      "league": "La Liga",
-      "summary": "Real Madrid has unveiled its official squad list for the impending La Liga fixture against Real Betis, with manager José Mourinho finalizing his selections. The highly anticipated match is scheduled to kick off on Friday at the Estadio de La Cartuja.",
-      "body": "Real Madrid has released the roster of players who will travel for their fourth La Liga match of the current campaign, facing off against Real Betis. The squad, personally chosen by head coach José Mourinho, boasts a formidable array of talent as the club seeks to maintain its strong start to the season. Key midfielders such as Bellingham, Camavinga, and Valverde are included, alongside the potent attacking threat of Vini Jr., Mbappé, and recent acquisition Yan Diomande.\n\nThe team is preparing to head to Seville for the encounter, which will unfold at the historic Estadio de La Cartuja. This upcoming fixture presents a significant chance for Real Madrid to collect crucial points as the Spanish top flight season continues to unfold. Supporters will be keenly observing Mourinho's tactical deployment against a determined Real Betis side.\n\nThis squad announcement follows recent commendations from football icon Luis Figo, who expressed admiration for Real Madrid's summer transfer strategy. Figo emphasized the vital role of new arrivals, including Diomande, in reinforcing essential positions after a couple of seasons without major trophies. The depth and quality of the chosen players for this away game will be instrumental in securing a favorable outcome.",
-      "tags": [
-        "Real Madrid",
-        "La Liga",
-        "Squad Announcement",
-        "Real Betis"
-      ],
-      "image": "images/real-madrid-squad-revealed-for-crucial-betis-la-liga-showdown-0ce3bfd2c98b.svg",
-      "publishedAt": "2026-09-03T15:54:47.783Z"
     }
   ],
-  "lastRun": "2026-09-07T17:22:29.925Z"
+  "lastRun": "2026-09-07T21:19:02.456Z"
 }
