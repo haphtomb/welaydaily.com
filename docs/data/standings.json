@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T21:10:05.112Z",
+  "updatedAt": "2026-09-08T03:18:35.299Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -605,6 +605,20 @@
         },
         {
           "position": 9,
+          "team": "Real Sociedad de Fútbol",
+          "crest": "https://crests.football-data.org/92.png",
+          "played": 5,
+          "won": 2,
+          "draw": 1,
+          "lost": 2,
+          "goalsFor": 6,
+          "goalsAgainst": 8,
+          "goalDifference": -2,
+          "points": 7,
+          "form": []
+        },
+        {
+          "position": 10,
           "team": "Athletic Club",
           "crest": "https://crests.football-data.org/77.png",
           "played": 4,
@@ -618,7 +632,7 @@
           "form": []
         },
         {
-          "position": 10,
+          "position": 11,
           "team": "Levante UD",
           "crest": "https://crests.football-data.org/88.png",
           "played": 4,
@@ -628,20 +642,6 @@
           "goalsFor": 5,
           "goalsAgainst": 5,
           "goalDifference": 0,
-          "points": 5,
-          "form": []
-        },
-        {
-          "position": 11,
-          "team": "Real Sociedad de Fútbol",
-          "crest": "https://crests.football-data.org/92.png",
-          "played": 5,
-          "won": 1,
-          "draw": 2,
-          "lost": 2,
-          "goalsFor": 5,
-          "goalsAgainst": 8,
-          "goalDifference": -3,
           "points": 5,
           "form": []
         },
@@ -731,20 +731,6 @@
         },
         {
           "position": 18,
-          "team": "Elche CF",
-          "crest": "https://crests.football-data.org/285.png",
-          "played": 4,
-          "won": 0,
-          "draw": 2,
-          "lost": 2,
-          "goalsFor": 5,
-          "goalsAgainst": 11,
-          "goalDifference": -6,
-          "points": 2,
-          "form": []
-        },
-        {
-          "position": 19,
           "team": "Málaga CF",
           "crest": "https://crests.football-data.org/84.png",
           "played": 4,
@@ -755,6 +741,20 @@
           "goalsAgainst": 7,
           "goalDifference": -6,
           "points": 2,
+          "form": []
+        },
+        {
+          "position": 19,
+          "team": "Elche CF",
+          "crest": "https://crests.football-data.org/285.png",
+          "played": 4,
+          "won": 0,
+          "draw": 1,
+          "lost": 3,
+          "goalsFor": 5,
+          "goalsAgainst": 12,
+          "goalDifference": -7,
+          "points": 1,
           "form": []
         },
         {
