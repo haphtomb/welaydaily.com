@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "late-ramsey-strike-rescues-point-for-newcastle-in-four-goal-thriller-8b6c42d6de03",
+      "headline": "Late Ramsey Strike Rescues Point for Newcastle in Four-Goal Thriller",
+      "league": "Premier League",
+      "summary": "Newcastle United mounted a spirited comeback at St. James' Park, securing a 2-2 draw against AFC Bournemouth thanks to a late equalizer from Jacob Ramsey. The Magpies twice found themselves trailing, with an own goal contributing to Bournemouth's advantage before halftime.",
+      "body": "Newcastle United fought back to earn a valuable point in a dramatic 2-2 draw against AFC Bournemouth at St. James' Park on Saturday. The visitors took an early lead through Marcus Tavernier in the ninth minute, setting the stage for a challenging afternoon for the Magpies. Bournemouth then doubled their advantage in the 35th minute following an unfortunate own goal by Thiaw, leaving Newcastle with a significant deficit to overcome before the break.\n\nHowever, Eddie Howe's side showed resilience, with Harvey Barnes halving the deficit in the 37th minute to keep Newcastle in contention. As the second half progressed, Newcastle pressed for an equalizer, eventually finding it late in the game through Jacob Ramsey, who struck in the 88th minute to draw his team level and ensure a share of the spoils.\n\nThe result sees Newcastle salvage a point from a difficult encounter, demonstrating their fighting spirit to avoid defeat on home turf. Bournemouth will undoubtedly be disappointed not to have held on for all three points after twice leading, but the thrilling draw provided plenty of talking points for both sets of supporters.",
+      "tags": [
+        "Newcastle United",
+        "AFC Bournemouth",
+        "Premier League",
+        "Match Result"
+      ],
+      "image": "images/late-ramsey-strike-rescues-point-for-newcastle-in-four-goal-thriller-8b6c42d6de03.svg",
+      "publishedAt": "2026-09-08T10:42:54.610Z"
+    },
+    {
       "id": "sargent-s-sensational-hat-trick-secures-thrilling-draw-for-toronto-fc-650dac0dd3d5",
       "headline": "Sargent's Sensational Hat-Trick Secures Thrilling Draw for Toronto FC",
       "league": "MLS",
@@ -894,22 +909,7 @@
       ],
       "image": "images/inter-miami-homegrown-talent-david-ru-z-joins-new-york-red-bulls-on-loan-616f99f79ec1.svg",
       "publishedAt": "2026-09-03T15:54:14.462Z"
-    },
-    {
-      "id": "african-club-football-season-ignites-newcomers-and-giants-join-confederation-cup-a4981ab5d072",
-      "headline": "African Club Football Season Ignites: Newcomers and Giants Join Confederation Cup Battle",
-      "league": "CAF Confederation Cup",
-      "summary": "The TotalEnergies CAF Confederation Cup commences this weekend, featuring a captivating blend of debutant clubs and established powerhouses. Anticipation builds as seventeen teams embark on their inaugural continental journeys alongside the return of record-holders Al Ahly.",
-      "body": "The 2026/27 TotalEnergies CAF Confederation Cup is set to kick off its preliminary round matches across the continent this weekend, from September 4th to 6th. This edition promises an exciting mix, with seventeen clubs making their debut in the competition, spanning from Egypt to the Seychelles and Nigeria to Madagascar. These fresh faces will aim to make an immediate impact on the continental stage.\n\nAdding significant intrigue to the tournament is the return of Egyptian giants Al Ahly, who are participating in the Confederation Cup for the first time in over a decade. While primarily known for their dominance in the Champions League, their presence adds a layer of formidable experience to the field. Other notable newcomers include ZED FC from Egypt, Ghana's Nations FC, and South Africa's Durban City FC, all eager to write their own continental history.\n\nThe preliminary round will feature first-leg encounters this weekend, with return matches scheduled for the following week. This initial stage will set the tone for the journey towards the group phase, offering both seasoned campaigners and ambitious debutants the chance to progress in Africa's secondary club competition.",
-      "tags": [
-        "CAF Confederation Cup",
-        "African Football",
-        "Al Ahly",
-        "Club Football"
-      ],
-      "image": "images/african-club-football-season-ignites-newcomers-and-giants-join-confederation-cup-a4981ab5d072.svg",
-      "publishedAt": "2026-09-03T15:54:31.510Z"
     }
   ],
-  "lastRun": "2026-09-08T03:34:50.135Z"
+  "lastRun": "2026-09-08T10:43:21.725Z"
 }
