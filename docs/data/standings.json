@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T20:30:15.673Z",
+  "updatedAt": "2026-09-09T22:57:29.072Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -2385,22 +2385,22 @@
       "standings": [
         {
           "position": 1,
-          "team": "FC Barcelona",
-          "crest": "https://crests.football-data.org/81.png",
+          "team": "Paris Saint-Germain FC",
+          "crest": "https://crests.football-data.org/524.png",
           "played": 1,
           "won": 1,
           "draw": 0,
           "lost": 0,
-          "goalsFor": 5,
+          "goalsFor": 6,
           "goalsAgainst": 1,
-          "goalDifference": 4,
+          "goalDifference": 5,
           "points": 3,
           "form": []
         },
         {
-          "position": 1,
-          "team": "Paris Saint-Germain FC",
-          "crest": "https://crests.football-data.org/524.png",
+          "position": 2,
+          "team": "FC Barcelona",
+          "crest": "https://crests.football-data.org/81.png",
           "played": 1,
           "won": 1,
           "draw": 0,
@@ -2525,6 +2525,20 @@
         },
         {
           "position": 11,
+          "team": "Arsenal FC",
+          "crest": "https://crests.football-data.org/57.png",
+          "played": 1,
+          "won": 1,
+          "draw": 0,
+          "lost": 0,
+          "goalsFor": 1,
+          "goalsAgainst": 0,
+          "goalDifference": 1,
+          "points": 3,
+          "form": []
+        },
+        {
+          "position": 12,
           "team": "PAE AEK",
           "crest": "https://crests.football-data.org/1899.png",
           "played": 1,
@@ -2538,35 +2552,7 @@
           "form": []
         },
         {
-          "position": 12,
-          "team": "Arsenal FC",
-          "crest": "https://crests.football-data.org/57.png",
-          "played": 1,
-          "won": 0,
-          "draw": 1,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0,
-          "points": 1,
-          "form": []
-        },
-        {
-          "position": 12,
-          "team": "SSC Napoli",
-          "crest": "https://crests.football-data.org/113.png",
-          "played": 1,
-          "won": 0,
-          "draw": 1,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0,
-          "points": 1,
-          "form": []
-        },
-        {
-          "position": 14,
+          "position": 13,
           "team": "AS Roma",
           "crest": "https://crests.football-data.org/100.png",
           "played": 0,
@@ -2580,7 +2566,7 @@
           "form": []
         },
         {
-          "position": 14,
+          "position": 13,
           "team": "FC Bayern München",
           "crest": "https://crests.football-data.org/5.png",
           "played": 0,
@@ -2594,7 +2580,7 @@
           "form": []
         },
         {
-          "position": 14,
+          "position": 13,
           "team": "Como 1907",
           "crest": "https://crests.football-data.org/7397.png",
           "played": 0,
@@ -2608,7 +2594,7 @@
           "form": []
         },
         {
-          "position": 14,
+          "position": 13,
           "team": "Fenerbahçe SK",
           "crest": "https://crests.football-data.org/613.png",
           "played": 0,
@@ -2622,7 +2608,7 @@
           "form": []
         },
         {
-          "position": 14,
+          "position": 13,
           "team": "FK Bodø/Glimt",
           "crest": "https://crests.football-data.org/5721.png",
           "played": 0,
@@ -2636,7 +2622,7 @@
           "form": []
         },
         {
-          "position": 14,
+          "position": 13,
           "team": "Manchester United FC",
           "crest": "https://crests.football-data.org/66.png",
           "played": 0,
@@ -2650,7 +2636,7 @@
           "form": []
         },
         {
-          "position": 14,
+          "position": 13,
           "team": "PSV",
           "crest": "https://crests.football-data.org/674.png",
           "played": 0,
@@ -2664,7 +2650,7 @@
           "form": []
         },
         {
-          "position": 14,
+          "position": 13,
           "team": "RB Leipzig",
           "crest": "https://crests.football-data.org/721.png",
           "played": 0,
@@ -2678,7 +2664,7 @@
           "form": []
         },
         {
-          "position": 14,
+          "position": 13,
           "team": "Racing Club de Lens",
           "crest": "https://crests.football-data.org/546.png",
           "played": 0,
@@ -2692,7 +2678,7 @@
           "form": []
         },
         {
-          "position": 14,
+          "position": 13,
           "team": "Sabah FK",
           "crest": "https://crests.football-data.org/10233.png",
           "played": 0,
@@ -2706,7 +2692,7 @@
           "form": []
         },
         {
-          "position": 14,
+          "position": 13,
           "team": "FK Shakhtar Donetsk",
           "crest": "https://crests.football-data.org/1887.png",
           "played": 0,
@@ -2720,7 +2706,7 @@
           "form": []
         },
         {
-          "position": 14,
+          "position": 13,
           "team": "SK Slavia Praha",
           "crest": "https://crests.football-data.org/930.png",
           "played": 0,
@@ -2734,7 +2720,7 @@
           "form": []
         },
         {
-          "position": 26,
+          "position": 25,
           "team": "Villarreal CF",
           "crest": "https://crests.football-data.org/94.png",
           "played": 1,
@@ -2748,7 +2734,7 @@
           "form": []
         },
         {
-          "position": 27,
+          "position": 26,
           "team": "Club Brugge KV",
           "crest": "https://crests.football-data.org/851.png",
           "played": 1,
@@ -2762,7 +2748,7 @@
           "form": []
         },
         {
-          "position": 27,
+          "position": 26,
           "team": "Lille OSC",
           "crest": "https://crests.football-data.org/521.png",
           "played": 1,
@@ -2776,7 +2762,7 @@
           "form": []
         },
         {
-          "position": 29,
+          "position": 28,
           "team": "Club Atlético de Madrid",
           "crest": "https://crests.football-data.org/78.png",
           "played": 1,
@@ -2790,7 +2776,7 @@
           "form": []
         },
         {
-          "position": 29,
+          "position": 28,
           "team": "FC Internazionale Milano",
           "crest": "https://crests.football-data.org/108.png",
           "played": 1,
@@ -2804,9 +2790,23 @@
           "form": []
         },
         {
-          "position": 31,
+          "position": 30,
           "team": "LASK Linz",
           "crest": "https://crests.football-data.org/2016.png",
+          "played": 1,
+          "won": 0,
+          "draw": 0,
+          "lost": 1,
+          "goalsFor": 0,
+          "goalsAgainst": 1,
+          "goalDifference": -1,
+          "points": 0,
+          "form": []
+        },
+        {
+          "position": 30,
+          "team": "SSC Napoli",
+          "crest": "https://crests.football-data.org/113.png",
           "played": 1,
           "won": 0,
           "draw": 0,
@@ -2874,7 +2874,7 @@
           "form": []
         },
         {
-          "position": 35,
+          "position": 36,
           "team": "ŠK Slovan Bratislava",
           "crest": "https://crests.football-data.org/7509.png",
           "played": 1,
@@ -2882,8 +2882,8 @@
           "draw": 0,
           "lost": 1,
           "goalsFor": 1,
-          "goalsAgainst": 5,
-          "goalDifference": -4,
+          "goalsAgainst": 6,
+          "goalDifference": -5,
           "points": 0,
           "form": []
         }
