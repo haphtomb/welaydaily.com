@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "aubameyang-s-late-winner-seals-thrilling-la-liga-return-for-deportivo-40e94b23d9ec",
+      "headline": "Aubameyang's Late Winner Seals Thrilling La Liga Return for Deportivo",
+      "league": "La Liga",
+      "summary": "Deportivo La Coruña made a dramatic return to Spain's top flight with a 3-2 victory over Villarreal, propelled by a standout performance from veteran striker Pierre-Emerick Aubameyang. The Gabonese forward secured the winning goal in the 89th minute, adding to his two assists earlier in the match.",
+      "body": "Deportivo La Coruña marked their highly anticipated re-entry into La Liga with a captivating 3-2 win against Villarreal on Saturday evening. The newly promoted club, affectionately known as \"Super Dépor,\" displayed remarkable resilience and ambition in a closely contested fixture. This crucial victory signals a strong statement of intent from Deportivo as they aim to solidify their position back among Spain's elite teams.\n\nVeteran striker Pierre-Emerick Aubameyang was the undisputed star of the show, delivering a match-winning performance. The 37-year-old forward not only netted the decisive goal in the final moments but also provided two key assists, showcasing his enduring quality and influence. His exceptional form has already seen him set a new club record for scoring in consecutive league matches.\n\nThe hard-fought triumph at the Estadio de la Cerámica is a monumental moment for Deportivo, who are back in La Liga after an eight-year absence. Despite an opening goal from Villarreal's Nicolas Pépé, Deportivo's tenacity and Aubameyang's clinical contribution ultimately secured a memorable three points, igniting optimism for their season ahead.",
+      "tags": [
+        "Deportivo La Coruña",
+        "Aubameyang",
+        "La Liga",
+        "Villarreal"
+      ],
+      "image": "images/aubameyang-s-late-winner-seals-thrilling-la-liga-return-for-deportivo-40e94b23d9ec.svg",
+      "publishedAt": "2026-09-09T03:21:54.709Z"
+    },
+    {
+      "id": "portland-s-janssen-makes-history-with-debut-hat-trick-in-nine-goal-thriller-0821d6ae0398",
+      "headline": "Portland's Janssen Makes History with Debut Hat-Trick in Nine-Goal Thriller",
+      "league": "MLS",
+      "summary": "Vincent Janssen made an unforgettable impact in his first Major League Soccer start, netting a historic hat-trick to lead the Portland Timbers to a dramatic 5-4 victory over Minnesota United FC. His sensational performance earned him the prestigious MLS Player of the Matchday award for Matchday 24.",
+      "body": "Portland Timbers striker Vincent Janssen etched his name into club history on Saturday evening, becoming the first player for the Timbers to score a hat-trick in an MLS match during their thrilling 5-4 home win against Minnesota United FC. The Dutch international's three-goal outburst was instrumental in securing a crucial victory for his side.\n\nJanssen's remarkable feat also saw him become only the third player in MLS history to score three or more goals in their very first start for a club. His heroics ended Portland's long wait for an MLS hat-trick, breaking a streak of 522 regular-season matches and 29 playoff games without such an achievement.\n\nFollowing his extraordinary contribution to the nine-goal spectacle at Providence Park, Janssen was deservedly voted the Major League Soccer Player of the Matchday for Matchday 24. This recognition highlights a standout individual display in a fiercely contested encounter.",
+      "tags": [
+        "Portland Timbers",
+        "Vincent Janssen",
+        "MLS",
+        "Hat-trick"
+      ],
+      "image": "images/portland-s-janssen-makes-history-with-debut-hat-trick-in-nine-goal-thriller-0821d6ae0398.svg",
+      "publishedAt": "2026-09-09T03:22:11.206Z"
+    },
+    {
+      "id": "guirassy-s-late-double-secures-thrilling-champions-league-win-for-dortmund-78230b304c11",
+      "headline": "Guirassy's Late Double Secures Thrilling Champions League Win for Dortmund",
+      "league": "Champions League",
+      "summary": "Borussia Dortmund kicked off their Champions League campaign with a dramatic 3-2 victory over Villarreal, thanks to a late scoring surge from Serhou Guirassy. The German side battled through a goalless first half before a five-goal explosion in the second period sealed their opening night success.",
+      "body": "Borussia Dortmund secured a hard-fought 3-2 win against Spanish side Villarreal in their opening Champions League fixture at Signal Iduna Park. The match, which remained deadlocked at nil-nil at halftime, burst into life in the second half, delivering a thrilling spectacle for the home crowd.\n\nDortmund initially took the lead through an own goal from Villarreal's Veiga in the 53rd minute, but the visitors responded with an equalizer from Mourino in the 66th minute. The pivotal moments arrived late in the game, with Serhou Guirassy netting twice in quick succession, first in the 80th minute from a Fabio Silva assist and then converting a penalty in the 85th minute, putting Dortmund seemingly in control.\n\nVillarreal managed to pull one back deep into stoppage time with an unfortunate own goal from Guirassy himself, making for a tense final few moments. However, Dortmund held on to claim all three points, marking a winning start to their European journey after a strong domestic beginning to the season.",
+      "tags": [
+        "Borussia Dortmund",
+        "Villarreal",
+        "Champions League",
+        "Serhou Guirassy"
+      ],
+      "image": "images/guirassy-s-late-double-secures-thrilling-champions-league-win-for-dortmund-78230b304c11.svg",
+      "publishedAt": "2026-09-09T03:22:25.149Z"
+    },
+    {
+      "id": "frustration-mounts-for-goal-shy-aston-villa-after-hull-stalemate-01184dfe5863",
+      "headline": "Frustration Mounts for Goal-Shy Aston Villa After Hull Stalemate",
+      "league": "Premier League",
+      "summary": "Aston Villa's domestic struggles continued over the weekend as they were held to a goalless draw by newly promoted Hull City, extending their winless start in the Premier League. The result leaves Villa fans concerned about the team's attacking output early in the 2026/27 season.",
+      "body": "Aston Villa's challenging start to their Premier League campaign hit another snag on Saturday, September 5th, as they played out a drab 0-0 draw against Hull City. Despite facing a newly promoted side, Unai Emery's team failed to find the back of the net, marking another match without a goal in the league. This result has intensified scrutiny on the team's offensive capabilities, especially following significant player departures over the summer.\n\nThe stalemate at Hull comes amidst a difficult period for Villa in domestic competition, where they have found goals particularly hard to come by. The performance highlighted a lingering issue for the squad, which has struggled to generate consistent attacking threats and convert chances in the opening fixtures of the new season.\n\nWhile Villa recently found some relief with a victory in the Champions League, their Premier League form remains a pressing concern for both the management and the supporters. The goalless draw against Hull City underscores the need for a rapid improvement in front of goal if they are to climb the table and meet expectations this season.",
+      "tags": [
+        "Aston Villa",
+        "Hull City",
+        "Premier League",
+        "Match Report"
+      ],
+      "image": "images/frustration-mounts-for-goal-shy-aston-villa-after-hull-stalemate-01184dfe5863.svg",
+      "publishedAt": "2026-09-09T03:22:42.407Z"
+    },
+    {
       "id": "villa-overcome-domestic-woes-with-thrilling-champions-league-start-c4eb728b74ec",
       "headline": "Villa Overcome Domestic Woes with Thrilling Champions League Start",
       "league": "Champions League",
@@ -850,67 +910,7 @@
       ],
       "image": "images/red-bull-new-york-strengthens-backline-with-devin-padelford-loan-deal-a3af7af6e8b1.svg",
       "publishedAt": "2026-09-04T15:51:50.816Z"
-    },
-    {
-      "id": "fernandes-hat-trick-propels-manchester-united-to-dominant-victory-over-ipswich-4f6c955d5490",
-      "headline": "Fernandes' Hat-Trick Propels Manchester United to Dominant Victory Over Ipswich",
-      "league": "Premier League",
-      "summary": "Bruno Fernandes delivered a sensational hat-trick, guiding Manchester United to a convincing 5-2 win against newly promoted Ipswich Town at Old Trafford. This commanding performance marked a strong response from the Red Devils following their earlier season setback.",
-      "body": "Manchester United secured their first home victory of the new Premier League campaign with a resounding 5-2 triumph over Ipswich Town. The standout individual performance came from captain Bruno Fernandes, who netted three goals to delight the Old Trafford faithful. This result provided a much-needed boost for United, who were looking to bounce back after a disappointing start to their season.\n\nFernandes, fresh from receiving his PFA Players' Player of the Year award, showcased his scoring prowess with a clinical display. His second career Premier League hat-trick was the highlight of an attacking masterclass from Erik ten Hag's side, who demonstrated their offensive capabilities throughout the match.\n\nFor Ipswich Town, the trip to Old Trafford proved to be a harsh reality check after their opening-day victory against Sunderland. The newly promoted Tractor Boys, while showing flashes, ultimately struggled to contain United's firepower and will now look to regroup as they face a challenging fixture list ahead.",
-      "tags": [
-        "Manchester United",
-        "Bruno Fernandes",
-        "Premier League",
-        "Ipswich Town"
-      ],
-      "image": "images/fernandes-hat-trick-propels-manchester-united-to-dominant-victory-over-ipswich-4f6c955d5490.svg",
-      "publishedAt": "2026-09-04T15:52:08.500Z"
-    },
-    {
-      "id": "uganda-s-young-talents-shine-in-caf-schools-qualifiers-in-kigali-76ce9e04dca1",
-      "headline": "Uganda's Young Talents Shine in CAF Schools Qualifiers in Kigali",
-      "league": "Other",
-      "summary": "Uganda's Under-15 boys' and girls' teams have made an impressive start to the 2026 CAF African Schools Football Championship CECAFA qualifiers, securing dominant victories on the opening day in Kigali. The young Cranes showcased their prowess, positioning themselves strongly in their respective groups for the continental youth tournament.",
-      "body": "The 2026 CAF African Schools Football Championship CECAFA qualifiers commenced yesterday in Kigali, Rwanda, with Uganda's Under-15 squads immediately making their mark. The boys' team, guided by former Uganda Cranes international Richard Malinga, secured two convincing wins in Group B. They first overcame South Sudan with a 1-0 victory, followed by a commanding 3-0 triumph against Burundi, with Kennedy Okwi netting a brace and Andrew Sseguya and Vincent Kizza Mawada also finding the back of the net.\n\nIn the girls' competition, Uganda mirrored their male counterparts' success in Group A, starting with a 3-0 win over Burundi before clinching a 1-0 victory against hosts Rwanda. These results place both Ugandan teams at the top of their groups after the initial matches. Elsewhere, Rwanda's boys began their campaign in Group A with a resounding 6-0 win against Sudan but were held to a goalless draw by Tanzania.\n\nThe tournament, featuring Under-15 teams for both boys and girls, is set to conclude on September 5th. Other notable results from the opening day included Somalia's boys surprising Burundi with a 2-1 win, while Tanzania's girls, the defending champions, secured a 5-0 victory over Somalia after an earlier draw against Kenya, leading their Group B.",
-      "tags": [
-        "CAF",
-        "Youth Football",
-        "Uganda",
-        "CECAFA Qualifiers"
-      ],
-      "image": "images/uganda-s-young-talents-shine-in-caf-schools-qualifiers-in-kigali-76ce9e04dca1.svg",
-      "publishedAt": "2026-09-04T15:52:38.254Z"
-    },
-    {
-      "id": "cecafa-clubs-face-mixed-fortunes-in-caf-confederation-cup-b33dba03e234",
-      "headline": "CECAFA Clubs Face Mixed Fortunes in CAF Confederation Cup",
-      "league": "CAF Confederation Cup",
-      "summary": "East African clubs experienced varied outcomes as the TotalEnergies CAF Confederation Cup continued, with Azam FC securing a vital victory while Nairobi United and Singida Black Stars faced defeats in their respective group stage encounters. Rwanda's Rayon Sports is set to kick off its continental journey in the preliminary round against Cameroonian opposition later today.",
-      "body": "Azam FC from Tanzania boosted their hopes of advancing in the TotalEnergies CAF Confederation Cup, clinching a narrow 1-0 triumph over Maniema Union. A solitary goal from Sadio Kanoute propelled the Tanzanian side to nine points in Group B, setting up a crucial away fixture against Wydad AC to determine their knockout stage fate. This significant win keeps their continental aspirations alive.\n\nHowever, it was a challenging weekend for other CECAFA region representatives. Nairobi United suffered a home loss, leaving them at the bottom of Group B without any points. Similarly, Tanzania's Singida Black Stars FC could not capitalize on their home advantage, falling 1-0 to Algeria's CK Belouizdad, with Abdennour Iheb Beihocini scoring an early decisive goal in their Group C clash. This defeat severely hampered Singida Black Stars' chances of progressing, as they remain on four points with fewer matches remaining.\n\nMeanwhile, Rwandan champions Rayon Sports are preparing to embark on their 2026/2027 CAF Confederation Cup journey. They are scheduled to face Panthere Sportive du Nde'e of Cameroon in the first preliminary round at the Ahmadou Ahidjo Stadium in Yaounde this evening. The Rwandan club will host the return leg on September 12th in Kigali, aiming for a strong start to their continental campaign.",
-      "tags": [
-        "CAF Confederation Cup",
-        "African Football",
-        "Azam FC",
-        "Rayon Sports"
-      ],
-      "image": "images/cecafa-clubs-face-mixed-fortunes-in-caf-confederation-cup-b33dba03e234.svg",
-      "publishedAt": "2026-09-04T10:43:53.037Z"
-    },
-    {
-      "id": "bellingham-and-mbapp-shine-as-real-madrid-dominates-m-laga-in-la-liga-f0e644affcc9",
-      "headline": "Bellingham and Mbappé Shine as Real Madrid Dominates Málaga in La Liga",
-      "league": "La Liga",
-      "summary": "Real Madrid secured a commanding 4-0 victory over Málaga, maintaining their perfect start to the La Liga season. Stellar performances from key attackers Jude Bellingham and Kylian Mbappé propelled the team to another impressive win.",
-      "body": "Real Madrid continued their formidable start to the 2026/27 La Liga campaign with a resounding 4-0 triumph against Málaga. The comprehensive victory further solidified Los Blancos' position near the top of the table, showcasing their attacking prowess and defensive solidity early in the season. Manager José Mourinho expressed satisfaction with his squad's collective effort following the match.\n\nMidfield sensation Jude Bellingham once again proved instrumental, contributing a crucial goal that helped establish Real Madrid's early dominance. Alongside him, star forward Kylian Mbappé continued his prolific scoring run, adding to his impressive tally of four goals in the last three league fixtures. Their combined impact has been central to Real Madrid's strong start, with both players demonstrating exceptional form.\n\nThe comfortable win allowed Mourinho the opportunity to rotate his squad, making several changes to the lineup that had featured in the opening two league matches. This strategic flexibility highlights the depth within the Real Madrid roster as they navigate a demanding schedule, looking to sustain their perfect record in the Spanish top flight.",
-      "tags": [
-        "Real Madrid",
-        "La Liga",
-        "Jude Bellingham",
-        "Kylian Mbappé"
-      ],
-      "image": "images/bellingham-and-mbapp-shine-as-real-madrid-dominates-m-laga-in-la-liga-f0e644affcc9.svg",
-      "publishedAt": "2026-09-04T10:44:08.534Z"
     }
   ],
-  "lastRun": "2026-09-08T23:15:24.105Z"
+  "lastRun": "2026-09-09T03:22:46.408Z"
 }
