@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "manchester-united-initiates-talks-for-barcelona-s-alejandro-balde-cb680ba83c28",
+      "headline": "Manchester United Initiates Talks for Barcelona's Alejandro Balde",
+      "league": "Transfer News",
+      "summary": "Manchester United has reportedly commenced negotiations with Barcelona over securing the services of promising left-back Alejandro Balde, intensifying their search for defensive reinforcements. The potential move could see the young defender heading to the Premier League, though Barcelona's willingness to sell remains uncertain.",
+      "body": "Reports indicate that Manchester United has made the first move in a bid to sign Barcelona's highly-rated left-back, Alejandro Balde. ESPN sources suggest that direct communication between United and Balde's agent, Jorge Mendes, is expected to begin imminently. While no formal offer or agreement on personal terms has been reached, the Premier League club is keen to strengthen its defensive options.\n\nThe transfer window officially closed on September 1st, but discussions for future moves or pre-contract agreements are ongoing. Balde, a product of Barcelona's renowned La Masia academy, has been a key figure for the Catalan giants. However, it is yet to be seen if Barcelona will entertain offers for one of their valuable young talents, especially with the Premier League window drawing to a close.\n\nManchester United will need to act swiftly if they intend to translate these initial talks into a concrete proposal. Meanwhile, separate reports clarify that Manchester City's transfer focus is on Chelsea midfielder Enzo Fernández, ensuring there is no confusion regarding the two Manchester clubs' respective targets.",
+      "tags": [
+        "Alejandro Balde",
+        "Barcelona",
+        "Manchester United",
+        "Transfer News"
+      ],
+      "image": "images/manchester-united-initiates-talks-for-barcelona-s-alejandro-balde-cb680ba83c28.svg",
+      "publishedAt": "2026-09-10T15:56:01.215Z"
+    },
+    {
       "id": "ghana-s-black-princesses-triumph-over-korea-republic-boost-world-cup-hopes-413219eac111",
       "headline": "Ghana's Black Princesses Triumph Over Korea Republic, Boost World Cup Hopes",
       "league": "Other",
@@ -894,22 +909,7 @@
       ],
       "image": "images/ramsey-s-late-strike-seals-dramatic-comeback-for-unbeaten-newcastle-dd3c7f624597.svg",
       "publishedAt": "2026-09-05T17:11:46.209Z"
-    },
-    {
-      "id": "dortmund-unveil-champions-league-squad-veteran-can-misses-out-c8a77e849840",
-      "headline": "Dortmund Unveil Champions League Squad, Veteran Can Misses Out",
-      "league": "Champions League",
-      "summary": "Borussia Dortmund has confirmed its roster for the upcoming UEFA Champions League campaign, notably omitting experienced midfielder Emre Can due to an ongoing injury. Meanwhile, recent acquisition Ethan Nwaneri has been included, signaling his immediate integration into the squad.",
-      "body": "Borussia Dortmund has officially submitted their player list for the highly anticipated UEFA Champions League season, commencing next week. A significant surprise emerged with the absence of 32-year-old German international Emre Can, who continues his recovery from an ACL tear sustained last spring. Despite earlier hopes for his return to action in the first half of the season, Can was ultimately not named in the European squad.\n\nHowever, the Black and Yellows have included new signing Ethan Nwaneri, who joined the club from Arsenal on deadline day, showcasing the club's confidence in the young talent. Center-back Nico Schlotterbeck, who recently resumed training, also secured a spot on the roster for Europe's elite club competition.\n\nDortmund is set to kick off their Champions League journey at home against Villarreal on Tuesday. The two clubs previously met in last season's competition, where Niko Kovac's side secured a commanding 4-0 victory.",
-      "tags": [
-        "Borussia Dortmund",
-        "Champions League",
-        "Squad Announcement",
-        "Emre Can"
-      ],
-      "image": "images/dortmund-unveil-champions-league-squad-veteran-can-misses-out-c8a77e849840.svg",
-      "publishedAt": "2026-09-05T17:12:02.051Z"
     }
   ],
-  "lastRun": "2026-09-10T10:49:30.666Z"
+  "lastRun": "2026-09-10T15:57:21.932Z"
 }
