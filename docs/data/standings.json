@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T20:31:45.398Z",
+  "updatedAt": "2026-09-11T23:00:19.121Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -521,6 +521,20 @@
         },
         {
           "position": 3,
+          "team": "Sevilla FC",
+          "crest": "https://crests.football-data.org/559.png",
+          "played": 5,
+          "won": 3,
+          "draw": 1,
+          "lost": 1,
+          "goalsFor": 8,
+          "goalsAgainst": 6,
+          "goalDifference": 2,
+          "points": 10,
+          "form": []
+        },
+        {
+          "position": 4,
           "team": "Real Madrid CF",
           "crest": "https://crests.football-data.org/86.png",
           "played": 4,
@@ -534,7 +548,7 @@
           "form": []
         },
         {
-          "position": 4,
+          "position": 5,
           "team": "Real Betis Balompié",
           "crest": "https://crests.football-data.org/90.png",
           "played": 4,
@@ -548,7 +562,7 @@
           "form": []
         },
         {
-          "position": 5,
+          "position": 6,
           "team": "RC Deportivo La Coruña",
           "crest": "https://crests.football-data.org/560.png",
           "played": 4,
@@ -558,20 +572,6 @@
           "goalsFor": 8,
           "goalsAgainst": 5,
           "goalDifference": 3,
-          "points": 8,
-          "form": []
-        },
-        {
-          "position": 6,
-          "team": "Sevilla FC",
-          "crest": "https://crests.football-data.org/559.png",
-          "played": 5,
-          "won": 2,
-          "draw": 2,
-          "lost": 1,
-          "goalsFor": 7,
-          "goalsAgainst": 6,
-          "goalDifference": 1,
           "points": 8,
           "form": []
         },
@@ -745,20 +745,6 @@
         },
         {
           "position": 19,
-          "team": "Valencia CF",
-          "crest": "https://crests.football-data.org/95.png",
-          "played": 5,
-          "won": 0,
-          "draw": 2,
-          "lost": 3,
-          "goalsFor": 1,
-          "goalsAgainst": 9,
-          "goalDifference": -8,
-          "points": 2,
-          "form": []
-        },
-        {
-          "position": 20,
           "team": "Elche CF",
           "crest": "https://crests.football-data.org/285.png",
           "played": 4,
@@ -768,6 +754,20 @@
           "goalsFor": 5,
           "goalsAgainst": 12,
           "goalDifference": -7,
+          "points": 1,
+          "form": []
+        },
+        {
+          "position": 20,
+          "team": "Valencia CF",
+          "crest": "https://crests.football-data.org/95.png",
+          "played": 5,
+          "won": 0,
+          "draw": 1,
+          "lost": 4,
+          "goalsFor": 1,
+          "goalsAgainst": 10,
+          "goalDifference": -9,
           "points": 1,
           "form": []
         }
@@ -1070,9 +1070,9 @@
           "won": 1,
           "draw": 1,
           "lost": 1,
-          "goalsFor": 2,
+          "goalsFor": 3,
           "goalsAgainst": 4,
-          "goalDifference": -2,
+          "goalDifference": -1,
           "points": 4,
           "form": []
         },
@@ -1183,8 +1183,8 @@
           "draw": 1,
           "lost": 2,
           "goalsFor": 4,
-          "goalsAgainst": 9,
-          "goalDifference": -5,
+          "goalsAgainst": 10,
+          "goalDifference": -6,
           "points": 1,
           "form": []
         },
@@ -1641,8 +1641,8 @@
           "won": 1,
           "draw": 0,
           "lost": 3,
-          "goalsFor": 4,
-          "goalsAgainst": 10,
+          "goalsFor": 5,
+          "goalsAgainst": 11,
           "goalDifference": -6,
           "points": 3,
           "form": []
@@ -1711,8 +1711,8 @@
           "won": 0,
           "draw": 0,
           "lost": 4,
-          "goalsFor": 3,
-          "goalsAgainst": 10,
+          "goalsFor": 4,
+          "goalsAgainst": 11,
           "goalDifference": -7,
           "points": 0,
           "form": []
