@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "washington-spirit-makes-history-with-luvanga-signing-from-al-nassr-f386173012eb",
+      "headline": "Washington Spirit Makes History with Luvanga Signing from Al-Nassr",
+      "league": "Transfer News",
+      "summary": "The Washington Spirit has officially announced the acquisition of Tanzanian international forward Clara Luvanga, marking a significant moment for both the club and the NWSL. Luvanga joins the American top flight from Saudi Arabian side Al-Nassr FC, signing a four-year deal.",
+      "body": "The Washington Spirit secured a landmark transfer yesterday, confirming the signing of highly-rated Tanzanian national team striker Clara Luvanga. This move is particularly historic as Luvanga becomes the first player from Tanzania to compete in the National Women's Soccer League, opening a new chapter for African talent in the prominent American league.\n\nThe 23-year-old forward arrives on a four-year contract, committing her future to the Spirit through the 2029 season. The club completed the transfer by paying a fee to her former team, Al-Nassr FC, where she had been a standout performer in the Saudi Women's Premier League.\n\nLuvanga's arrival is expected to bolster the Spirit's attacking options and bring an exciting new dimension to their squad. Her trailblazing transfer highlights the NWSL's growing global reach and its appeal to promising international players seeking to compete at the highest level.",
+      "tags": [
+        "NWSL",
+        "Washington Spirit",
+        "Clara Luvanga",
+        "Transfer News"
+      ],
+      "image": "images/washington-spirit-makes-history-with-luvanga-signing-from-al-nassr-f386173012eb.svg",
+      "publishedAt": "2026-09-16T16:15:57.184Z"
+    },
+    {
       "id": "new-era-dawns-for-inter-miami-with-kily-gonz-lez-s-trophy-debut-66b0ebf6fc8e",
       "headline": "New Era Dawns for Inter Miami with Kily González's Trophy Debut",
       "league": "MLS",
@@ -892,22 +907,7 @@
       ],
       "image": "images/djibouti-concludes-elite-referee-training-bolstering-african-football-standards-4725ac0c4624.svg",
       "publishedAt": "2026-09-12T10:12:32.110Z"
-    },
-    {
-      "id": "shakhtar-donetsk-to-host-champions-league-games-in-london-2ee8dc12f2e4",
-      "headline": "Shakhtar Donetsk to Host Champions League Games in London",
-      "league": "Champions League",
-      "summary": "Ukrainian club Shakhtar Donetsk will play their Champions League 'home' matches at Stamford Bridge in London this season, continuing their displacement due to the ongoing conflict in their homeland. This arrangement follows their recent 1-1 draw against PSV Eindhoven, marking the start of a challenging but financially vital European campaign.",
-      "body": "Shakhtar Donetsk, the Ukrainian football giants, have confirmed that Chelsea's Stamford Bridge will serve as their adopted home ground for the upcoming Champions League fixtures. This decision underscores the continuing impact of the war in Ukraine, forcing the club to seek a neutral venue for its European encounters. The team recently commenced their group stage campaign with a 1-1 draw away to PSV Eindhoven, a result achieved despite the logistical complexities they face.\n\nThe move to London for their 'home' matches, beginning with a clash against AEK Athens in October, presents significant travel challenges for the squad. Reports indicate journeys of up to 19-20 hours from Ukraine to the English capital for these games, highlighting the extraordinary circumstances under which the club operates. Despite these hurdles, participation in Europe's premier club competition is crucial for Shakhtar's financial stability, offering millions in potential UEFA prize money.\n\nBeyond the immediate financial benefits, playing in the Champions League on such a prominent stage also allows Shakhtar to continue its long-standing strategy of identifying and developing young Brazilian talent. This vital business model, disrupted by the conflict, can once again be showcased to a global audience, ensuring the club's long-term sustainability amidst ongoing adversity.",
-      "tags": [
-        "Shakhtar Donetsk",
-        "Champions League",
-        "Stamford Bridge",
-        "Ukraine War"
-      ],
-      "image": "images/shakhtar-donetsk-to-host-champions-league-games-in-london-2ee8dc12f2e4.svg",
-      "publishedAt": "2026-09-12T10:12:47.249Z"
     }
   ],
-  "lastRun": "2026-09-16T10:59:32.242Z"
+  "lastRun": "2026-09-16T16:16:31.525Z"
 }
