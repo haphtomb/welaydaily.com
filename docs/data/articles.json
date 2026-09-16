@@ -1,6 +1,52 @@
 {
   "articles": [
     {
+      "id": "alonso-s-frustration-mounts-as-chelsea-stumble-to-another-draw-2844ccbca119",
+      "headline": "Alonso's Frustration Mounts as Chelsea Stumble to Another Draw",
+      "league": "Premier League",
+      "summary": "Chelsea's struggles continued this weekend as they were held to a frustrating 2-2 draw by Hull City, leaving manager Xabi Alonso reportedly exasperated with his squad's recurring issues. The result marks a second consecutive Premier League match where the Blues have failed to secure maximum points.",
+      "body": "Chelsea's recent form has become a growing concern for manager Xabi Alonso, whose frustration is reportedly escalating after his team's 2-2 draw against Hull City on Saturday. The Blues, playing at home, dropped points for the second Premier League fixture in a row, highlighting persistent problems that Alonso has been unable to resolve.\n\nHull City put up a spirited fight, with Belloumi notably securing a brace against the London giants. Despite Chelsea's efforts, they could not find a decisive winner, leaving the Stamford Bridge faithful with little to cheer about and raising questions about the team's consistency and defensive solidity early in the season.\n\nThe draw means Chelsea continues to lag in the league standings, and the pressure on Alonso to rectify the team's performance, particularly their inability to close out games, will undoubtedly intensify. The international break might offer a chance for reflection, but the issues at Stamford Bridge remain a pressing concern.",
+      "tags": [
+        "Chelsea",
+        "Hull City",
+        "Xabi Alonso",
+        "Premier League"
+      ],
+      "image": "images/alonso-s-frustration-mounts-as-chelsea-stumble-to-another-draw-2844ccbca119.svg",
+      "publishedAt": "2026-09-16T03:36:03.470Z"
+    },
+    {
+      "id": "late-esp-strike-seals-dramatic-real-madrid-victory-over-elche-08853c0b33a7",
+      "headline": "Late Espí Strike Seals Dramatic Real Madrid Victory Over Elche",
+      "league": "La Liga",
+      "summary": "Real Madrid snatched a dramatic 3-2 away win against Elche on Tuesday, with Carlos Espí netting a stoppage-time winner after the visitors had relinquished a two-goal advantage. The hard-fought victory sees Real Madrid draw level on points with league leaders Barcelona in the early La Liga standings.",
+      "body": "Real Madrid secured a crucial 3-2 triumph over Elche in a thrilling La Liga encounter this week, a result that keeps them firmly in the title race. The match, played on Tuesday, saw Los Blancos initially take a commanding lead through an own goal from Elche goalkeeper Matías Dituro, followed by a close-range finish from star forward Kylian Mbappé, his seventh league goal of the season.\n\nHowever, the home side mounted a spirited comeback in the second half, with Abiel Osorio pulling one back before Fer Niño found an equalizer for Elche, setting the stage for a tense finale. Just when it appeared Real Madrid might drop valuable points, a moment of brilliance from Jude Bellingham unlocked the defense, feeding Mbappé, who then set up Carlos Espí for the decisive goal in stoppage time.\n\nReal Madrid coach José Mourinho acknowledged the team's loss of control during the match but praised their resilience in securing the win. The victory ensures Real Madrid remains hot on the heels of Barcelona at the top of the table, demonstrating their championship credentials even when facing adversity.",
+      "tags": [
+        "Real Madrid",
+        "Elche",
+        "La Liga",
+        "Carlos Espí",
+        "Kylian Mbappé"
+      ],
+      "image": "images/late-esp-strike-seals-dramatic-real-madrid-victory-over-elche-08853c0b33a7.svg",
+      "publishedAt": "2026-09-16T03:36:30.148Z"
+    },
+    {
+      "id": "timo-werner-reflects-on-mls-move-embracing-new-chapter-with-earthquakes-85b355d39061",
+      "headline": "Timo Werner Reflects on MLS Move, Embracing New Chapter with Earthquakes",
+      "league": "MLS",
+      "summary": "German international Timo Werner has shared insights into his decision to join MLS side San Jose Earthquakes, emphasizing his desire for a fresh challenge and a different life experience away from European football's intense scrutiny. The 30-year-old striker highlighted the growing competitiveness of Major League Soccer as a key factor in his transfer, dismissing notions of it being solely a retirement league.",
+      "body": "Timo Werner, the prolific German forward, recently opened up about his transition to Major League Soccer, a move that saw him join the San Jose Earthquakes on a free transfer from RB Leipzig earlier this year. Werner, still only 30, conveyed his eagerness for a new phase in his career, driven by a wish for something distinct from his previous stints in London and Leipzig. He revealed that the evolving landscape of MLS, increasingly attracting top-tier talent, played a significant role in his decision to choose the American league over other European opportunities.\n\nThe former Chelsea and Tottenham attacker pointed to the league's rising competitiveness, noting that players like Robert Lewandowski and Antoine Griezmann have also made the switch, demonstrating that MLS is no longer just a destination for players nearing the end of their careers. Werner expressed a desire to step outside the traditional \"football bubble\" he experienced from a young age, seeking broader life experiences in America.\n\nHis choice of San Jose, situated in California, was influenced by the overall appeal of the region, offering an attractive package beyond just football. Werner's candid reflections underline a growing trend of established European players viewing MLS as a legitimate and appealing option for both professional growth and personal enrichment.",
+      "tags": [
+        "Timo Werner",
+        "San Jose Earthquakes",
+        "MLS Transfer",
+        "Player Interview"
+      ],
+      "image": "images/timo-werner-reflects-on-mls-move-embracing-new-chapter-with-earthquakes-85b355d39061.svg",
+      "publishedAt": "2026-09-16T03:36:45.065Z"
+    },
+    {
       "id": "liverpool-officially-confirms-signing-of-hungarian-midfielder-patrik-farkas-f84820775e72",
       "headline": "Liverpool Officially Confirms Signing of Hungarian Midfielder Patrik Farkas",
       "league": "Transfer News",
@@ -862,53 +908,7 @@
       ],
       "image": "images/la-liga-unveils-record-salary-caps-boosting-madrid-and-barcelona-s-financial-mig-c63fe20a0313.svg",
       "publishedAt": "2026-09-12T03:22:40.831Z"
-    },
-    {
-      "id": "olise-brace-fuels-bayern-s-dominant-champions-league-start-3398c842c0c3",
-      "headline": "Olise Brace Fuels Bayern's Dominant Champions League Start",
-      "league": "Champions League",
-      "summary": "Bayern Munich commenced their Champions League campaign with a commanding 5-0 victory over Norwegian side Bodo/Glimt, as Michael Olise delivered a stellar performance, netting two goals. The German giants overcame a resilient first-half defense to unleash a flurry of goals after the break.",
-      "body": "Bayern Munich kicked off their Champions League journey with a convincing 5-0 triumph against Bodo/Glimt on Thursday, September 10, 2026. Despite a goalless initial half where the Norwegian visitors displayed a well-organized defense, the Bavarian powerhouse found their rhythm to dominate the proceedings after the interval.\n\nMichael Olise was the standout performer, scoring a superb brace that showcased his attacking prowess. Additional goals from Jamal Musiala, Harry Kane, and Alphonso Davies further extended Bayern's lead, ensuring a comfortable start to their European campaign.\n\nThe comprehensive win at the Allianz Arena underlines Bayern's intent to continue their strong form this season, leaving Bodo/Glimt with a challenging opening result in the competition.",
-      "tags": [
-        "Bayern Munich",
-        "Michael Olise",
-        "Champions League",
-        "Bodo/Glimt"
-      ],
-      "image": "images/olise-brace-fuels-bayern-s-dominant-champions-league-start-3398c842c0c3.svg",
-      "publishedAt": "2026-09-12T03:22:54.226Z"
-    },
-    {
-      "id": "rangers-international-advance-in-caf-champions-league-after-penalty-drama-4763e3796342",
-      "headline": "Rangers International Advance in CAF Champions League After Penalty Drama",
-      "league": "CAF Champions League",
-      "summary": "Nigerian champions Rangers International have progressed to the next stage of the TotalEnergies CAF Champions League following a nail-biting penalty shootout. They overcame Beninese opponents Sobemap FC in a closely contested preliminary round tie.",
-      "body": "Rangers International secured their spot in the second preliminary round of the TotalEnergies CAF Champions League after a dramatic victory over Sobemap FC. The Nigerian club found themselves in a tense situation when the second leg, played in Lomé, concluded with a 1-1 draw, mirroring the scoreline from their initial encounter. This aggregate deadlock forced the tie into a decisive penalty shootout.\n\nThe \"Flying Antelopes\" displayed remarkable composure during the penalty decider, converting five spot-kicks to Sobemap's four, ultimately sealing a hard-fought 5-4 triumph. Chidozie Iwundu initially gave Rangers the lead in the 32nd minute, but Emmanuel Ali quickly leveled the score for the Beninese side early in the second half, ensuring the match remained finely balanced.\n\nThis progression marks a significant step for Rangers International as they continue their continental ambitions. Successfully navigating such a challenging preliminary fixture, especially away from home and under immense pressure, will undoubtedly boost their confidence for upcoming clashes in Africa's premier club competition.",
-      "tags": [
-        "CAF Champions League",
-        "Rangers International",
-        "Penalty Shootout",
-        "African Football"
-      ],
-      "image": "images/rangers-international-advance-in-caf-champions-league-after-penalty-drama-4763e3796342.svg",
-      "publishedAt": "2026-09-11T23:01:58.693Z"
-    },
-    {
-      "id": "iglesias-late-header-propels-sevilla-past-valencia-in-tense-encounter-082efee565f3",
-      "headline": "Iglesias' Late Header Propels Sevilla Past Valencia in Tense Encounter",
-      "league": "La Liga",
-      "summary": "Sevilla secured a crucial 1-0 victory over Valencia at the Ramón Sánchez Pizjuán, with Juan Iglesias heading home a late winner. The result sees Sevilla climb into the top three of La Liga, while Valencia remains rooted to the bottom of the table.",
-      "body": "Sevilla edged past a resilient Valencia side with a narrow 1-0 win in a hard-fought La Liga fixture at the Ramón Sánchez Pizjuán. The match, largely devoid of clear-cut opportunities for an hour, was ultimately decided by a late header from Juan Iglesias. This victory marks a significant moment for Sevilla, as they had previously struggled to secure a win against Valencia in their last seven head-to-head encounters.\n\nThe early stages of the game saw limited attacking threat from both teams, with a congested midfield leading to few genuine chances. Valencia's misfortune was compounded by an early injury, as Cesar Tarrega was forced off due to a hamstring issue. Despite Sevilla's growing ascendancy in the second half, with efforts from Kike Salas and Lucas Stassin hitting the woodwork, the breakthrough remained elusive until the dying minutes.\n\nWith the clock winding down, Iglesias rose to meet a free-kick with a looping header, finally breaking the deadlock and securing all three points for the Andalusian club. This vital win propels Sevilla into third place in the La Liga standings, while Valencia's struggles continue, leaving them winless after five league matches and at the foot of the table.",
-      "tags": [
-        "La Liga",
-        "Sevilla",
-        "Valencia",
-        "Match Report",
-        "Juan Iglesias"
-      ],
-      "image": "images/iglesias-late-header-propels-sevilla-past-valencia-in-tense-encounter-082efee565f3.svg",
-      "publishedAt": "2026-09-11T23:02:10.634Z"
     }
   ],
-  "lastRun": "2026-09-15T23:31:50.720Z"
+  "lastRun": "2026-09-16T03:36:49.066Z"
 }
