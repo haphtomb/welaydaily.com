@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T16:20:30.461Z",
+  "updatedAt": "2026-09-17T20:59:22.728Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -521,6 +521,20 @@
         },
         {
           "position": 3,
+          "team": "Real Betis Balompié",
+          "crest": "https://crests.football-data.org/90.png",
+          "played": 6,
+          "won": 5,
+          "draw": 0,
+          "lost": 1,
+          "goalsFor": 8,
+          "goalsAgainst": 6,
+          "goalDifference": 2,
+          "points": 15,
+          "form": []
+        },
+        {
+          "position": 4,
           "team": "Club Atlético de Madrid",
           "crest": "https://crests.football-data.org/78.png",
           "played": 6,
@@ -534,7 +548,7 @@
           "form": []
         },
         {
-          "position": 4,
+          "position": 5,
           "team": "Sevilla FC",
           "crest": "https://crests.football-data.org/559.png",
           "played": 6,
@@ -545,20 +559,6 @@
           "goalsAgainst": 6,
           "goalDifference": 3,
           "points": 13,
-          "form": []
-        },
-        {
-          "position": 5,
-          "team": "Real Betis Balompié",
-          "crest": "https://crests.football-data.org/90.png",
-          "played": 5,
-          "won": 4,
-          "draw": 0,
-          "lost": 1,
-          "goalsFor": 7,
-          "goalsAgainst": 6,
-          "goalDifference": 1,
-          "points": 12,
           "form": []
         },
         {
@@ -675,6 +675,20 @@
         },
         {
           "position": 14,
+          "team": "Villarreal CF",
+          "crest": "https://crests.football-data.org/94.png",
+          "played": 6,
+          "won": 1,
+          "draw": 2,
+          "lost": 3,
+          "goalsFor": 9,
+          "goalsAgainst": 11,
+          "goalDifference": -2,
+          "points": 5,
+          "form": []
+        },
+        {
+          "position": 15,
           "team": "Levante UD",
           "crest": "https://crests.football-data.org/88.png",
           "played": 5,
@@ -688,21 +702,21 @@
           "form": []
         },
         {
-          "position": 15,
+          "position": 16,
           "team": "Getafe CF",
           "crest": "https://crests.football-data.org/82.png",
-          "played": 5,
+          "played": 6,
           "won": 1,
           "draw": 2,
-          "lost": 2,
+          "lost": 3,
           "goalsFor": 3,
-          "goalsAgainst": 6,
-          "goalDifference": -3,
+          "goalsAgainst": 7,
+          "goalDifference": -4,
           "points": 5,
           "form": []
         },
         {
-          "position": 16,
+          "position": 17,
           "team": "RC Celta de Vigo",
           "crest": "https://crests.football-data.org/558.png",
           "played": 6,
@@ -716,7 +730,7 @@
           "form": []
         },
         {
-          "position": 17,
+          "position": 18,
           "team": "Valencia CF",
           "crest": "https://crests.football-data.org/95.png",
           "played": 6,
@@ -730,31 +744,17 @@
           "form": []
         },
         {
-          "position": 18,
+          "position": 19,
           "team": "Málaga CF",
           "crest": "https://crests.football-data.org/84.png",
-          "played": 5,
+          "played": 6,
           "won": 0,
           "draw": 3,
-          "lost": 2,
-          "goalsFor": 2,
-          "goalsAgainst": 8,
-          "goalDifference": -6,
-          "points": 3,
-          "form": []
-        },
-        {
-          "position": 19,
-          "team": "Villarreal CF",
-          "crest": "https://crests.football-data.org/94.png",
-          "played": 5,
-          "won": 0,
-          "draw": 2,
           "lost": 3,
-          "goalsFor": 7,
+          "goalsFor": 3,
           "goalsAgainst": 10,
-          "goalDifference": -3,
-          "points": 2,
+          "goalDifference": -7,
+          "points": 3,
           "form": []
         },
         {
