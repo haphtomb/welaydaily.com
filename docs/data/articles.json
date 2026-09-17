@@ -1,6 +1,68 @@
 {
   "articles": [
     {
+      "id": "st-louis-city-sc-dominates-rapids-secures-historic-u-s-open-cup-final-berth-cdaac1d44e4e",
+      "headline": "St. Louis CITY SC Dominates Rapids, Secures Historic U.S. Open Cup Final Berth",
+      "league": "MLS",
+      "summary": "St. Louis CITY SC emphatically defeated the Colorado Rapids with a commanding three-goal performance, earning their first-ever spot in the U.S. Open Cup final. This victory extends their impressive unbeaten streak across all competitions, highlighting their strong form heading into a championship clash.",
+      "body": "St. Louis CITY SC made history on Wednesday night, securing their inaugural berth in the Lamar Hunt U.S. Open Cup final with a decisive 3-0 victory over the Colorado Rapids. The visitors showcased clinical finishing and a solid defensive display at Dick's Sporting Goods Park to advance in the prestigious tournament.\n\nSang Bin Jeong opened the scoring for CITY SC in the 32nd minute, capitalizing on a goalkeeping error to give his side a crucial lead before halftime. The momentum continued into the second half as Simon Becher doubled the advantage in the 52nd minute, followed swiftly by Alexandru Mățan, who sealed the 3-0 triumph just seven minutes later.\n\nThis dominant semifinal performance sets up an exciting final showdown for St. Louis against the Columbus Crew, who also advanced in their respective semifinal match. CITY SC's journey to the final underscores their remarkable season, as they continue to build on a club-record 17-match unbeaten run across all competitions.",
+      "tags": [
+        "St. Louis CITY SC",
+        "Colorado Rapids",
+        "US Open Cup",
+        "Semifinal",
+        "Football"
+      ],
+      "image": "images/st-louis-city-sc-dominates-rapids-secures-historic-u-s-open-cup-final-berth-cdaac1d44e4e.svg",
+      "publishedAt": "2026-09-17T11:05:26.347Z"
+    },
+    {
+      "id": "sevilla-climbs-into-top-four-after-grinding-out-victory-against-deportivo-26d2d6f4d345",
+      "headline": "Sevilla Climbs into Top Four After Grinding Out Victory Against Deportivo",
+      "league": "La Liga",
+      "summary": "Sevilla FC secured a hard-fought 1-0 away win against Deportivo de La Coruña on Wednesday, propelling them into La Liga's coveted top four positions. The narrow victory at Riazor Stadium also marked Deportivo's inaugural defeat of the current season.",
+      "body": "Sevilla FC demonstrated resilience and tactical discipline to overcome Deportivo de La Coruña with a 1-0 scoreline in a tightly contested La Liga encounter yesterday. The decisive moment arrived in the second half when Moroccan international Youssef En-Nesyri capitalized on a defensive error, netting the solitary goal of the match for the visitors. This crucial strike proved enough to break the deadlock and ultimately secure all three points for Sevilla.\n\nDespite numerous attempts from Deportivo to find an equalizer, Sevilla's defense remained resolute, thwarting every attacking effort from the home side. The result is a significant boost for Sevilla, who are now firmly positioned among the league's elite, bolstering their aspirations for a Champions League qualification spot. Meanwhile, Deportivo will need to regroup after experiencing their first loss of the season.\n\nThe match, held at the Riazor Stadium, highlighted Sevilla's strategic approach and Deportivo's fighting spirit. The outcome has ignited discussions among football analysts regarding the potential trajectories for both clubs as the La Liga season progresses, with Sevilla looking to consolidate their top-four standing and Deportivo aiming to bounce back from this setback.",
+      "tags": [
+        "Sevilla",
+        "Deportivo",
+        "La Liga",
+        "En-Nesyri"
+      ],
+      "image": "images/sevilla-climbs-into-top-four-after-grinding-out-victory-against-deportivo-26d2d6f4d345.svg",
+      "publishedAt": "2026-09-17T11:05:40.831Z"
+    },
+    {
+      "id": "benfica-stuns-milan-with-dominant-away-performance-in-champions-league-opener-64847fd49431",
+      "headline": "Benfica Stuns Milan with Dominant Away Performance in Champions League Opener",
+      "league": "Champions League",
+      "summary": "Portuguese giants Benfica delivered a surprising blow to AC Milan, securing a convincing two-goal victory at San Siro in their UEFA Champions League group stage debut. The result marked a challenging start for the Italian side in the competition's new league phase format.",
+      "body": "The UEFA Champions League's new league phase kicked off with a notable upset on September 16, as Portugal's Benfica traveled to Italy and defeated AC Milan by a score of two goals to nil. The encounter, held at Milan's iconic San Siro stadium, saw the visitors assert their authority, leaving the Rossoneri to reflect on a disappointing opening fixture.\n\nBenfica's clinical performance saw them breach Milan's defense twice, demonstrating efficiency in front of goal. This significant away win places early pressure on the Italian club as they navigate the expanded league format, aiming to progress deeper into Europe's premier club competition.\n\nOther matches on the first day of the league phase also delivered action, with teams like Lyon and Sunderland securing victories, while Borussia Dortmund's Konstantinos Karetsas returned to training following a health scare. However, Benfica's commanding triumph over a European heavyweight like Milan stands out as a key narrative from the initial round of fixtures.",
+      "tags": [
+        "Champions League",
+        "AC Milan",
+        "Benfica",
+        "Matchday 1",
+        "European Football"
+      ],
+      "image": "images/benfica-stuns-milan-with-dominant-away-performance-in-champions-league-opener-64847fd49431.svg",
+      "publishedAt": "2026-09-17T11:05:59.796Z"
+    },
+    {
+      "id": "caf-honors-east-african-leaders-for-pioneering-football-development-e2de5ca6e905",
+      "headline": "CAF Honors East African Leaders for Pioneering Football Development",
+      "league": "Other",
+      "summary": "The Confederation of African Football has acknowledged the presidents of Tanzania, Kenya, and Uganda for their significant impact on football's growth in East Africa. This recognition follows their successful co-hosting of the recent CHAN tournament, setting new standards for continental competitions.",
+      "body": "In a pivotal moment for African football, the Confederation of African Football (CAF) has formally recognized the Presidents of Tanzania, Kenya, and Uganda for their profound contributions to the sport's development across the East African region. This esteemed acknowledgment was made during a CAF Executive Committee meeting held today in Dar Es Salaam, Tanzania.\n\nCAF President Dr. Patrice Motsepe specifically commended the three leaders for their instrumental role in organizing one of the most successful African Nations Championship (CHAN) tournaments to date. The competition notably established new benchmarks for excellence, both through its organizational proficiency and the vibrant stadium atmospheres it generated.\n\nThis high praise emphasizes East Africa's readiness to host even larger football events in the future. The triumph of the CHAN tournament serves as a powerful testament to the region's capability for delivering world-class football spectacles and its passionate sporting culture, signaling a bright future for the game in this part of the continent.",
+      "tags": [
+        "CAF",
+        "East Africa",
+        "Football Development",
+        "CHAN"
+      ],
+      "image": "images/caf-honors-east-african-leaders-for-pioneering-football-development-e2de5ca6e905.svg",
+      "publishedAt": "2026-09-17T11:06:22.405Z"
+    },
+    {
       "id": "messi-s-milestone-goal-secures-campeones-cup-for-inter-miami-48bed183d0f9",
       "headline": "Messi's Milestone Goal Secures Campeones Cup for Inter Miami",
       "league": "MLS",
@@ -846,68 +908,7 @@
       ],
       "image": "images/ghanaian-champions-medeama-exit-caf-champions-league-after-mazembe-masterclass-7bf9ad5dfe61.svg",
       "publishedAt": "2026-09-12T22:52:59.122Z"
-    },
-    {
-      "id": "mbapp-brace-propels-real-madrid-to-dominant-victory-over-rayo-518647697c04",
-      "headline": "Mbappé Brace Propels Real Madrid to Dominant Victory Over Rayo",
-      "league": "La Liga",
-      "summary": "Real Madrid secured a convincing 4-1 triumph against local rivals Rayo Vallecano at the Santiago Bernabéu, with Kylian Mbappé delivering a stellar performance by netting two goals. This crucial victory sees Los Blancos draw level with Barcelona at the top of the La Liga standings.",
-      "body": "Real Madrid bounced back emphatically from their previous league defeat, overcoming Rayo Vallecano with a dominant 4-1 display at home. Star forward Kylian Mbappé was instrumental, finding the back of the net twice to lead his team to a vital three points.\n\nBeyond Mbappé's brace, Jude Bellingham and Alvaro Carreras also contributed to Real Madrid's goal tally, ensuring a comfortable win. The result allows Carlo Ancelotti's side to equal Barcelona's points total at the summit of the La Liga table after five matches.\n\nRayo Vallecano, grappling with a significant injury crisis and several suspensions, faced a formidable challenge at the Bernabéu and currently sit in 14th position. Despite some lingering injury concerns for Real Madrid, including Eder Militão and Rodrygo, the return of Aurélien Tchouaméni provided a boost to their midfield options.",
-      "tags": [
-        "Real Madrid",
-        "Kylian Mbappé",
-        "Rayo Vallecano",
-        "La Liga"
-      ],
-      "image": "images/mbapp-brace-propels-real-madrid-to-dominant-victory-over-rayo-518647697c04.svg",
-      "publishedAt": "2026-09-12T22:53:12.306Z"
-    },
-    {
-      "id": "nashville-aims-to-cement-dominance-clinch-playoff-spot-against-inter-miami-91e00e7789c6",
-      "headline": "Nashville Aims to Cement Dominance, Clinch Playoff Spot Against Inter Miami",
-      "league": "MLS",
-      "summary": "Nashville SC is poised to extend its recent supremacy over reigning MLS Cup champions Inter Miami CF in a crucial Saturday night showdown, with a victory securing a coveted playoff berth. This highly anticipated rivalry match carries significant implications for both the Supporters' Shield and Eastern Conference standings, promising an intense battle.",
-      "body": "The vibrant rivalry between Nashville SC and Inter Miami CF ignites once more tonight as Nashville seeks to affirm its recent control over the defending MLS Cup holders. A win at Nu Stadium would not only continue their impressive run against Miami but also guarantee Nashville a spot in the Audi MLS Cup Playoffs. The Tennessee side currently holds a significant nine-point advantage over Inter Miami in both the Supporters' Shield and Eastern Conference races, a testament to their strong season performance.\n\nEarlier this year, Nashville delivered a decisive 4-1 victory against Miami in regular-season play, a match where Hany Mukhtar netted a brace and Brian Schwake famously denied Lionel Messi from the penalty spot. While Messi previously reached his 900th career goal against Nashville, it was Cristian Espinoza's equalizer that propelled Nashville forward in a Concacaf Champions Cup encounter.\n\nInter Miami, led by the prolific Lionel Messi with 31 goal contributions and Luis Suárez, boasts the league's most potent attack. However, Nashville counters with its own formidable offensive trio of Mukhtar, Sam Surridge, and Espinoza, who collectively have contributed 26 goals and 19 assists in league action. With defensive stalwarts like MLS All-Stars Andy Nájar and goalkeeper Brian Schwake, Nashville appears well-equipped for this pivotal clash.",
-      "tags": [
-        "MLS",
-        "Nashville SC",
-        "Inter Miami CF",
-        "Playoffs"
-      ],
-      "image": "images/nashville-aims-to-cement-dominance-clinch-playoff-spot-against-inter-miami-91e00e7789c6.svg",
-      "publishedAt": "2026-09-12T22:53:27.236Z"
-    },
-    {
-      "id": "sierra-leone-drawn-with-egypt-in-world-cup-2026-qualifiers-a79f26719f4a",
-      "headline": "Sierra Leone Drawn with Egypt in World Cup 2026 Qualifiers",
-      "league": "World Cup Qualifiers",
-      "summary": "Sierra Leone has learned its path to the 2026 FIFA World Cup, being drawn into Group A of the African Qualifiers alongside regional heavyweights Egypt and Guinea Bissau. This development follows the recent approval of the qualification format and schedule by the Confederation of African Football's Executive Committee.",
-      "body": "The Confederation of African Football (CAF) has officially unveiled the groupings for the 2026 FIFA World Cup African Qualifiers, with Sierra Leone finding themselves in a challenging Group A. They will contend for a coveted spot in the global tournament against formidable opponents, including Egypt and Guinea Bissau.\n\nThis crucial announcement comes after the CAF Executive Committee convened on Friday, giving its stamp of approval to the format and dates for the qualification process. The newly adapted structure will see all 54 CAF Member Associations participate, divided into nine distinct groups.\n\nUnder the confirmed format, the winner of each of these nine groups will automatically secure a direct qualification to the 2026 FIFA World Cup. Furthermore, the four best runners-up across all groups will advance to a CAF Play-Off tournament, with the eventual winner of that mini-tournament earning a place in the inter-confederation play-offs.",
-      "tags": [
-        "CAF",
-        "World Cup 2026",
-        "Sierra Leone",
-        "Egypt"
-      ],
-      "image": "images/sierra-leone-drawn-with-egypt-in-world-cup-2026-qualifiers-a79f26719f4a.svg",
-      "publishedAt": "2026-09-12T20:15:53.016Z"
-    },
-    {
-      "id": "injury-hit-rayo-vallecano-face-daunting-trip-to-struggling-real-madrid-d84a861e0084",
-      "headline": "Injury-Hit Rayo Vallecano Face Daunting Trip to Struggling Real Madrid",
-      "league": "La Liga",
-      "summary": "Rayo Vallecano travels to the Santiago Bernabéu today facing a severe squad crisis with numerous key players sidelined, while Real Madrid also grapples with significant injury concerns as they seek to rebound from a recent league defeat. Both Madrid clubs prepare for a challenging La Liga encounter, with the hosts aiming to close the gap on early leaders Barcelona.",
-      "body": "Real Madrid prepares to host city rivals Rayo Vallecano at the Santiago Bernabéu this Saturday, September 12, in a crucial La Liga fixture. Manager José Mourinho's side, currently third in the table with nine points from four matches, is eager to return to winning ways in the league after a surprising 1-0 loss to Real Betis last weekend. Despite that domestic setback, Los Blancos did secure a 2-1 Champions League victory over Inter Milan in midweek, providing a morale boost ahead of today's clash.\n\nRayo Vallecano, positioned 14th with four points, faces an uphill battle, compounded by a significant injury and suspension crisis. The visitors could be without up to ten players, including key figures like Augusto Batalla, Luiz Felipe, Isi Palazon, and Jozhua Vertrouwd due to various injuries. Additionally, Fran Perez and Jorge de Frutos are serving suspensions, further depleting manager Beñat San José's options for this demanding away fixture.\n\nReal Madrid also contend with their own notable absences, with Eder Militao, Rodrygo, and Ferland Mendy all unavailable due to long-term injuries. Goalkeeper Andriy Lunin remains doubtful due to illness, though midfielder Aurélien Tchouaméni is back in contention. The match presents a stern test for both sides, with Real Madrid determined to avoid falling further behind in the title race, while Rayo Vallecano battles to overcome their squad challenges and secure a vital result.",
-      "tags": [
-        "La Liga",
-        "Real Madrid",
-        "Rayo Vallecano",
-        "Match Preview",
-        "Injuries"
-      ],
-      "image": "images/injury-hit-rayo-vallecano-face-daunting-trip-to-struggling-real-madrid-d84a861e0084.svg",
-      "publishedAt": "2026-09-12T20:16:15.313Z"
     }
   ],
-  "lastRun": "2026-09-17T03:42:11.805Z"
+  "lastRun": "2026-09-17T11:06:26.406Z"
 }
