@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T23:33:43.708Z",
+  "updatedAt": "2026-09-17T03:39:42.295Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -591,20 +591,6 @@
         },
         {
           "position": 8,
-          "team": "Athletic Club",
-          "crest": "https://crests.football-data.org/77.png",
-          "played": 6,
-          "won": 2,
-          "draw": 2,
-          "lost": 2,
-          "goalsFor": 7,
-          "goalsAgainst": 6,
-          "goalDifference": 1,
-          "points": 8,
-          "form": []
-        },
-        {
-          "position": 9,
           "team": "RCD Espanyol de Barcelona",
           "crest": "https://crests.football-data.org/80.png",
           "played": 6,
@@ -614,6 +600,20 @@
           "goalsFor": 9,
           "goalsAgainst": 7,
           "goalDifference": 2,
+          "points": 7,
+          "form": []
+        },
+        {
+          "position": 9,
+          "team": "Athletic Club",
+          "crest": "https://crests.football-data.org/77.png",
+          "played": 5,
+          "won": 2,
+          "draw": 1,
+          "lost": 2,
+          "goalsFor": 7,
+          "goalsAgainst": 6,
+          "goalDifference": 1,
           "points": 7,
           "form": []
         },
@@ -677,14 +677,14 @@
           "position": 14,
           "team": "Levante UD",
           "crest": "https://crests.football-data.org/88.png",
-          "played": 6,
+          "played": 5,
           "won": 1,
-          "draw": 3,
+          "draw": 2,
           "lost": 2,
           "goalsFor": 7,
           "goalsAgainst": 9,
           "goalDifference": -2,
-          "points": 6,
+          "points": 5,
           "form": []
         },
         {
