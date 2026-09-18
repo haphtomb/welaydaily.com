@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T20:28:18.069Z",
+  "updatedAt": "2026-09-18T23:02:21.792Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -40,9 +40,9 @@
           "won": 2,
           "draw": 3,
           "lost": 0,
-          "goalsFor": 8,
+          "goalsFor": 10,
           "goalsAgainst": 4,
-          "goalDifference": 4,
+          "goalDifference": 6,
           "points": 9,
           "form": []
         },
@@ -97,8 +97,8 @@
           "draw": 1,
           "lost": 2,
           "goalsFor": 10,
-          "goalsAgainst": 10,
-          "goalDifference": 0,
+          "goalsAgainst": 12,
+          "goalDifference": -2,
           "points": 7,
           "form": []
         },
@@ -611,8 +611,8 @@
           "won": 2,
           "draw": 1,
           "lost": 4,
-          "goalsFor": 9,
-          "goalsAgainst": 9,
+          "goalsFor": 10,
+          "goalsAgainst": 10,
           "goalDifference": 0,
           "points": 7,
           "form": []
@@ -723,8 +723,8 @@
           "won": 1,
           "draw": 2,
           "lost": 4,
-          "goalsFor": 10,
-          "goalsAgainst": 16,
+          "goalsFor": 11,
+          "goalsAgainst": 17,
           "goalDifference": -6,
           "points": 5,
           "form": []
@@ -1557,9 +1557,9 @@
           "won": 2,
           "draw": 1,
           "lost": 2,
-          "goalsFor": 8,
+          "goalsFor": 9,
           "goalsAgainst": 9,
-          "goalDifference": -1,
+          "goalDifference": 0,
           "points": 7,
           "form": []
         },
@@ -1628,8 +1628,8 @@
           "draw": 1,
           "lost": 3,
           "goalsFor": 8,
-          "goalsAgainst": 11,
-          "goalDifference": -3,
+          "goalsAgainst": 12,
+          "goalDifference": -4,
           "points": 4,
           "form": []
         },
@@ -1929,13 +1929,13 @@
           "team": "AS Monaco FC",
           "crest": "https://crests.football-data.org/548.png",
           "played": 5,
-          "won": 3,
-          "draw": 2,
+          "won": 4,
+          "draw": 1,
           "lost": 0,
-          "goalsFor": 7,
+          "goalsFor": 8,
           "goalsAgainst": 3,
-          "goalDifference": 4,
-          "points": 11,
+          "goalDifference": 5,
+          "points": 13,
           "form": []
         },
         {
@@ -2010,20 +2010,6 @@
         },
         {
           "position": 7,
-          "team": "Racing Club de Lens",
-          "crest": "https://crests.football-data.org/546.png",
-          "played": 5,
-          "won": 1,
-          "draw": 2,
-          "lost": 2,
-          "goalsFor": 9,
-          "goalsAgainst": 8,
-          "goalDifference": 1,
-          "points": 5,
-          "form": []
-        },
-        {
-          "position": 8,
           "team": "Paris Saint-Germain FC",
           "crest": "https://crests.football-data.org/524.png",
           "played": 4,
@@ -2037,7 +2023,7 @@
           "form": []
         },
         {
-          "position": 8,
+          "position": 7,
           "team": "Stade Brestois 29",
           "crest": "https://crests.football-data.org/512.png",
           "played": 4,
@@ -2051,7 +2037,7 @@
           "form": []
         },
         {
-          "position": 10,
+          "position": 9,
           "team": "FC Lorient",
           "crest": "https://crests.football-data.org/525.png",
           "played": 4,
@@ -2062,6 +2048,20 @@
           "goalsAgainst": 4,
           "goalDifference": 0,
           "points": 5,
+          "form": []
+        },
+        {
+          "position": 10,
+          "team": "Racing Club de Lens",
+          "crest": "https://crests.football-data.org/546.png",
+          "played": 5,
+          "won": 1,
+          "draw": 1,
+          "lost": 3,
+          "goalsFor": 9,
+          "goalsAgainst": 9,
+          "goalDifference": 0,
+          "points": 4,
           "form": []
         },
         {
