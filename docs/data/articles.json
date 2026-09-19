@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "european-giants-make-first-moves-for-leverkusen-wonderkid-maza-805c31438932",
+      "headline": "European Giants Make First Moves for Leverkusen Wonderkid Maza",
+      "league": "Transfer News",
+      "summary": "Premier League powerhouse Manchester City and Spanish giants Atlético Madrid have reportedly initiated contact with representatives of Bayer Leverkusen's promising playmaker, Ibrahim Maza. Both clubs are actively evaluating the young Algerian international's potential as a future signing.",
+      "body": "Bayer Leverkusen's highly-rated midfielder, Ibrahim Maza, is attracting significant attention from Europe's elite, with Manchester City and Atlético Madrid making initial contact with his agents. The 20-year-old Algerian international has been a standout performer for Leverkusen, featuring in three Bundesliga matches this season and contributing with a goal and an assist.\n\nSources indicate that both City and Atlético are closely monitoring Maza's development, suggesting a potential transfer battle for his services. This early engagement highlights the widespread belief in the playmaker's talent and future impact on the highest stages of European football.\n\nWhile no formal offers have been reported, the proactive approach from two of the continent's leading clubs signals a strong interest in securing Maza, who is seen as a player with immense potential to bolster their respective squads in upcoming transfer windows.",
+      "tags": [
+        "Ibrahim Maza",
+        "Bayer Leverkusen",
+        "Manchester City",
+        "Atlético Madrid"
+      ],
+      "image": "images/european-giants-make-first-moves-for-leverkusen-wonderkid-maza-805c31438932.svg",
+      "publishedAt": "2026-09-19T10:25:49.107Z"
+    },
+    {
       "id": "teen-prodigy-jj-gabriel-demands-shock-manchester-united-exit-0a0ca897f43a",
       "headline": "Teen Prodigy JJ Gabriel Demands Shock Manchester United Exit",
       "league": "Transfer News",
@@ -891,23 +906,7 @@
       ],
       "image": "images/stamatelopoulos-joins-bulls-bolstering-a-league-attack-ea49178baec9.svg",
       "publishedAt": "2026-09-14T11:57:50.997Z"
-    },
-    {
-      "id": "yamal-s-brace-powers-barcelona-to-thrilling-victory-over-levante-b55274d0ad31",
-      "headline": "Yamal's Brace Powers Barcelona to Thrilling Victory Over Levante",
-      "league": "La Liga",
-      "summary": "Barcelona extended their flawless start to the La Liga season with a hard-fought 4-2 triumph over Levante, though defensive vulnerabilities emerged late in the contest. Young sensation Lamine Yamal netted a brace, propelling the Catalan giants to a commanding lead at the top of the table.",
-      "body": "Barcelona continued their impressive run in La Liga on Sunday, securing a 4-2 away win against Levante. The Catalan side, under Hansi Flick, established an early advantage through Xavi Espart before teenage star Lamine Yamal added two more goals, including a penalty, to put his team in a seemingly unassailable position.\n\nDespite a strong offensive display, Barcelona's defense showed signs of weakness in the latter stages of the match. Levante mounted a spirited comeback attempt, with Iván Romero and Roger Brugué finding the net to narrow the deficit and create a tense finish. However, substitute Karim Adeyemi ultimately extinguished Levante's hopes with a decisive late strike in stoppage time, securing all three points for the visitors.\n\nThis victory ensures Barcelona remains at the summit of La Liga, now three points clear of closest rivals Real Madrid. While coach Hansi Flick expressed satisfaction with the result, he acknowledged the team's need to address their second-half performance and defensive lapses as they look to maintain their perfect record and challenge for the league title.",
-      "tags": [
-        "Barcelona",
-        "La Liga",
-        "Lamine Yamal",
-        "Levante",
-        "Football"
-      ],
-      "image": "images/yamal-s-brace-powers-barcelona-to-thrilling-victory-over-levante-b55274d0ad31.svg",
-      "publishedAt": "2026-09-14T11:58:08.268Z"
     }
   ],
-  "lastRun": "2026-09-19T03:24:22.334Z"
+  "lastRun": "2026-09-19T10:26:16.615Z"
 }
