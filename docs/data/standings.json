@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T03:38:54.447Z",
+  "updatedAt": "2026-09-20T10:43:36.539Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -1551,6 +1551,20 @@
         },
         {
           "position": 9,
+          "team": "SSC Napoli",
+          "crest": "https://crests.football-data.org/113.png",
+          "played": 5,
+          "won": 2,
+          "draw": 1,
+          "lost": 2,
+          "goalsFor": 6,
+          "goalsAgainst": 5,
+          "goalDifference": 1,
+          "points": 7,
+          "form": []
+        },
+        {
+          "position": 10,
           "team": "US Sassuolo Calcio",
           "crest": "https://crests.football-data.org/471.png",
           "played": 5,
@@ -1561,20 +1575,6 @@
           "goalsAgainst": 9,
           "goalDifference": 0,
           "points": 7,
-          "form": []
-        },
-        {
-          "position": 10,
-          "team": "SSC Napoli",
-          "crest": "https://crests.football-data.org/113.png",
-          "played": 4,
-          "won": 2,
-          "draw": 0,
-          "lost": 2,
-          "goalsFor": 6,
-          "goalsAgainst": 5,
-          "goalDifference": 1,
-          "points": 6,
           "form": []
         },
         {
@@ -1651,14 +1651,14 @@
           "position": 16,
           "team": "ACF Fiorentina",
           "crest": "https://crests.football-data.org/99.png",
-          "played": 4,
+          "played": 5,
           "won": 1,
-          "draw": 0,
+          "draw": 1,
           "lost": 3,
           "goalsFor": 5,
           "goalsAgainst": 11,
           "goalDifference": -6,
-          "points": 3,
+          "points": 4,
           "form": []
         },
         {
