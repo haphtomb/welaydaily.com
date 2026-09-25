@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "id": "real-madrid-calls-for-new-la-liga-president-amid-refereeing-row-52d314e6c61f",
+      "headline": "Real Madrid Calls for New La Liga President Amid Refereeing Row",
+      "league": "La Liga",
+      "summary": "Real Madrid has publicly demanded the removal of La Liga president Javier Tebas, intensifying a heated debate over refereeing standards following their recent derby loss. The club voiced strong objection to Tebas's dismissal of their claims regarding officiating bias.",
+      "body": "Real Madrid has escalated its confrontation with La Liga by calling for a change in the league's presidency, following Javier Tebas's public rejection of their accusations of a refereeing \"conspiracy.\" This demand emerged after Real Madrid's 2-1 defeat to Atlético Madrid in Sunday's derby, a match where coach José Mourinho notably presented instances he believed demonstrated unfair officiating.\n\nThe club characterized Tebas's comments as \"intolerable,\" arguing that he was misusing his institutional role to undermine Real Madrid. They insisted that Spanish football needs a neutral figure to lead and develop its potential. Tebas, however, had previously suggested that Real Madrid's narrative of a conspiracy was merely a smokescreen to obscure their own early-season shortcomings.\n\nThis ongoing verbal sparring highlights significant friction between the league's most decorated club and its administrative leadership. Real Madrid currently trails reigning champions Barcelona by six points in the La Liga table, experiencing a somewhat inconsistent start to their campaign. The club's firm stance reflects a deepening frustration with both officiating decisions and the league's governance.",
+      "tags": [
+        "Real Madrid",
+        "Javier Tebas",
+        "La Liga",
+        "Referee Controversy"
+      ],
+      "image": "images/real-madrid-calls-for-new-la-liga-president-amid-refereeing-row-52d314e6c61f.svg",
+      "publishedAt": "2026-09-25T21:10:38.650Z"
+    },
+    {
+      "id": "sounders-end-skid-deepen-real-salt-lake-s-historic-woes-efbb54c59ee7",
+      "headline": "Sounders End Skid, Deepen Real Salt Lake's Historic Woes",
+      "league": "MLS",
+      "summary": "Seattle Sounders secured a crucial 2-0 home victory against Real Salt Lake, snapping their own winless run while extending RSL's club-record streak of matches without a win to thirteen. The result further complicates RSL's playoff aspirations as they remain unable to find the back of the net.",
+      "body": "Seattle Sounders FC delivered a much-needed performance at Lumen Field on Wednesday night, defeating Real Salt Lake by two goals to nil. The victory provided a significant boost for the Sounders, who had been struggling for form recently, allowing them to end their own difficult patch.\n\nReal Salt Lake, however, saw their troubles mount significantly. The Utah-based club extended its unenviable winless streak to a club-record thirteen consecutive Major League Soccer matches. Compounding their offensive struggles, RSL has now gone three straight games without scoring, accumulating 284 minutes of scoreless play.\n\nGoals from Danny Musovski and former RSL midfielder Albert Rusnák in the second half sealed the win for Seattle. Musovski opened the scoring, and Rusnák doubled the lead, ensuring that Real Salt Lake's difficult season continued with another defeat on the road.",
+      "tags": [
+        "MLS",
+        "Seattle Sounders",
+        "Real Salt Lake",
+        "Match Report",
+        "Lumen Field"
+      ],
+      "image": "images/sounders-end-skid-deepen-real-salt-lake-s-historic-woes-efbb54c59ee7.svg",
+      "publishedAt": "2026-09-25T21:10:56.634Z"
+    },
+    {
+      "id": "women-s-champions-league-kicks-off-with-stellar-individual-displays-83b24430401a",
+      "headline": "Women's Champions League Kicks Off with Stellar Individual Displays",
+      "league": "Champions League",
+      "summary": "The opening round of the UEFA Women's Champions League saw a multitude of impressive performances, with ten different clubs contributing players to the official Matchday 1 Team of the Week. Standout efforts from a range of positions highlighted an exciting start to the competition across Europe.",
+      "body": "The UEFA Women's Champions League commenced with an engaging first matchday, and the Technical Observer Group has unveiled its selection for the Team of the Week, showcasing exceptional individual talent from across the continent. This initial lineup features players from ten distinct teams, underscoring the broad competitive landscape of the tournament's early stages.\n\nAmong the notable inclusions, Chelsea's Wieke Kaptein earned recognition for her crucial match-winning goal against Austria Wien, coupled with a robust defensive and passing display. Benfica's Marit Bratberg Lund also made the cut, delivering a top-tier performance at left-back, which included a penalty conversion and a free-kick that secured victory against Juventus. Real Madrid's Felicia Schröder impressed with her dynamic movement and early goal against Paris Saint-Germain.\n\nAdditionally, high-scoring OL Lyonnes saw two of their stars, Marie-Antoinette Katoto and Melchie Dumornay, selected for their impactful contributions to the team's dominant eight-goal victory over Servette. These selections collectively paint a picture of a thrilling start to the Women's Champions League season, with several athletes already making a significant mark.",
+      "tags": [
+        "Women's Champions League",
+        "Team of the Week",
+        "Matchday 1",
+        "European Football"
+      ],
+      "image": "images/women-s-champions-league-kicks-off-with-stellar-individual-displays-83b24430401a.svg",
+      "publishedAt": "2026-09-25T21:11:11.742Z"
+    },
+    {
+      "id": "european-giants-stumble-as-bosnia-czechia-sweden-and-t-rkiye-secure-world-cup-be-35fe7359593e",
+      "headline": "European Giants Stumble as Bosnia, Czechia, Sweden, and Türkiye Secure World Cup Berths",
+      "league": "World Cup Qualifiers",
+      "summary": "The final European playoff round for the 2026 FIFA World Cup delivered high drama, as Bosnia and Herzegovina, Czechia, Sweden, and Türkiye all clinched their spots in the tournament. Meanwhile, footballing powerhouse Italy suffered a devastating blow, failing to qualify and leaving their nation in collective anguish.",
+      "body": "European football witnessed a tense conclusion to the 2026 FIFA World Cup qualification playoffs, with several nations battling for the coveted final berths. Bosnia and Herzegovina and Czechia both navigated nail-biting penalty shootouts to secure their places in the global showpiece. Sweden and Türkiye also earned their tickets to the tournament, emerging victorious from their respective playoff encounters with hard-fought, narrow wins.\n\nHowever, the biggest storyline emerging from the qualification clashes was the shock elimination of four-time champions Italy. The Azzurri's failure to advance has sent ripples of disappointment through the football world, marking another painful missed World Cup appearance. Italian goalkeeper Gianluigi Donnarumma has reportedly expressed the deep-seated pain and lingering trauma within the squad following their devastating exit from the qualification process.\n\nBeyond Europe, other nations also celebrated momentous qualifications. The Democratic Republic of Congo dramatically punched their ticket to the World Cup after Axel Tuanzebe netted an extra-time winner against Jamaica. Furthermore, Iraq made history by qualifying for the tournament for the first time in four decades, thanks to crucial goals from Ali Al-Hamadi and Aymen Hussein against Bolivia.",
+      "tags": [
+        "World Cup 2026",
+        "European Qualifiers",
+        "Italy",
+        "Bosnia",
+        "Czechia",
+        "Sweden",
+        "Türkiye"
+      ],
+      "image": "images/european-giants-stumble-as-bosnia-czechia-sweden-and-t-rkiye-secure-world-cup-be-35fe7359593e.svg",
+      "publishedAt": "2026-09-25T21:11:32.627Z"
+    },
+    {
       "id": "bayern-munich-eyes-barcelona-s-dani-olmo-amid-midfield-reinforcement-plans-bbe994021d6e",
       "headline": "Bayern Munich Eyes Barcelona's Dani Olmo Amid Midfield Reinforcement Plans",
       "league": "Transfer News",
@@ -844,69 +908,7 @@
       ],
       "image": "images/celta-vigo-explodes-with-five-goal-thrashing-against-racing-santander-355f5c34b82f.svg",
       "publishedAt": "2026-09-21T03:36:00.641Z"
-    },
-    {
-      "id": "chelsea-lands-united-prodigy-gabriel-amidst-academy-dispute-fbb14bc8f07e",
-      "headline": "Chelsea Lands United Prodigy Gabriel Amidst Academy Dispute",
-      "league": "Transfer News",
-      "summary": "Fifteen-year-old sensation JJ Gabriel has reportedly chosen to depart Manchester United's academy, opting instead for a move to Chelsea. This decision comes as United grapples with an ongoing registration disagreement concerning the highly-rated youth talent.",
-      "body": "Young footballing talent JJ Gabriel, a prominent fixture in Manchester United's academy, has made the significant choice to switch allegiances to Chelsea. The move, reported just hours ago, sees the 15-year-old prodigy heading to West London, a development that will undoubtedly sting the Old Trafford hierarchy.\n\nGabriel's departure is understood to be a direct consequence of a protracted registration dispute at Manchester United, an issue that has reportedly compelled the club to fast-track plans for a replacement within their youth ranks. This situation highlights the intense competition among top clubs for promising young players.\n\nThe highly anticipated transfer signifies a considerable coup for Chelsea, securing a player widely regarded as one of the brightest prospects in English youth football. Gabriel's decision to join the Blues underscores their continued commitment to bolstering their academy with elite talent, potentially shaping their future first-team squad.",
-      "tags": [
-        "Chelsea",
-        "Manchester United",
-        "Academy Transfer",
-        "JJ Gabriel"
-      ],
-      "image": "images/chelsea-lands-united-prodigy-gabriel-amidst-academy-dispute-fbb14bc8f07e.svg",
-      "publishedAt": "2026-09-21T03:36:19.695Z"
-    },
-    {
-      "id": "bissouma-joins-ajax-on-free-transfer-seeks-career-revival-c8ef8cfc7579",
-      "headline": "Bissouma Joins Ajax on Free Transfer, Seeks Career Revival",
-      "league": "Transfer News",
-      "summary": "Former Tottenham Hotspur midfielder Yves Bissouma has officially completed a move to Dutch giants Ajax as a free agent, aiming to revitalize his career. The 30-year-old's switch comes after a challenging period in North London.",
-      "body": "Yves Bissouma, the dynamic midfielder, has finalized his transfer to Ajax, arriving in Amsterdam on a free deal. The move sees the Mali international depart Tottenham Hotspur following what has been described as a turbulent conclusion to his tenure with the Premier League club. Bissouma, now 30, is reportedly keen to reignite his form and impact in the Eredivisie.\n\nHis time at Tottenham saw flashes of his undeniable talent, but consistency proved elusive, leading to speculation about his future. This transfer offers a fresh start for Bissouma, who will be looking to establish himself as a key figure in Ajax's midfield, contributing to their domestic and European ambitions.\n\nThe official announcement confirms the midfielder's new chapter, with fans of the Dutch club anticipating his arrival. Bissouma's decision to join Ajax underscores his desire for regular playing time and a prominent role, hoping to recapture the impressive performances that initially drew attention from top European clubs.",
-      "tags": [
-        "Yves Bissouma",
-        "Ajax",
-        "Tottenham Hotspur",
-        "Eredivisie"
-      ],
-      "image": "images/bissouma-joins-ajax-on-free-transfer-seeks-career-revival-c8ef8cfc7579.svg",
-      "publishedAt": "2026-09-20T23:02:48.363Z"
-    },
-    {
-      "id": "osimhen-sidelined-for-nigeria-s-afcon-qualifiers-with-muscle-strain-c1b8568f6f0d",
-      "headline": "Osimhen Sidelined for Nigeria's AFCON Qualifiers with Muscle Strain",
-      "league": "AFCON Qualifiers",
-      "summary": "Nigeria's Super Eagles will be without star striker Victor Osimhen for their crucial 2027 Africa Cup of Nations qualifying matches against Madagascar and Guinea-Bissau. The prolific forward's recovery from a muscle injury has been slower than anticipated, forcing his withdrawal from the national squad.",
-      "body": "The Nigerian national team faces a significant challenge in their upcoming AFCON qualifiers as Victor Osimhen has been officially ruled out due to a persistent muscle strain. Despite initial hopes from both his club, Galatasaray, and the Super Eagles' technical staff that he would regain fitness in time, the injury has prevented his participation.\n\nConfirmation of Osimhen's unavailability came following his absence from Galatasaray's recent Turkish Super Lig fixture against Trabzonspor. Super Eagles media officer Promise Efoghe relayed the update, clarifying that the 27-year-old striker's recovery timeline simply did not align with the demands of the international break.\n\nOsimhen originally sustained the muscle injury on September 4th during a league match for Galatasaray. His absence marks a considerable setback for Nigeria, who will now need to adjust their attacking strategy for these vital qualifying encounters.",
-      "tags": [
-        "Victor Osimhen",
-        "Nigeria",
-        "AFCON Qualifiers",
-        "Injury News"
-      ],
-      "image": "images/osimhen-sidelined-for-nigeria-s-afcon-qualifiers-with-muscle-strain-c1b8568f6f0d.svg",
-      "publishedAt": "2026-09-20T23:03:02.966Z"
-    },
-    {
-      "id": "motsepe-reaffirms-afcon-2027-timeline-amidst-host-nation-readiness-concerns-3a225aaa17f9",
-      "headline": "Motsepe Reaffirms AFCON 2027 Timeline Amidst Host Nation Readiness Concerns",
-      "league": "AFCON",
-      "summary": "CAF President Patrice Motsepe has confirmed the 2027 Africa Cup of Nations will proceed as scheduled in Kenya, Tanzania, and Uganda, dismissing suggestions of a postponement. His assurance comes despite acknowledging certain delays in the host nations' preparations for the continental showpiece.",
-      "body": "Confederation of African Football President Patrice Motsepe recently concluded a series of visits to the co-host nations of the TotalEnergies CAF Africa Cup of Nations 2027, Kenya and Tanzania. During his engagements with Kenyan Head of State William Ruto and Tanzanian President Samia Suluhu Hassan, discussions primarily focused on the ongoing preparations for the tournament. Motsepe's tour aimed to assess the progress made by the East African trio, which also includes Uganda, in readying their infrastructure for the prestigious competition.\n\nWhile expressing confidence in the overall commitment of the host countries, Motsepe conceded that some aspects of the preparations are currently behind schedule. However, he firmly rejected any notion of delaying the tournament, which is set to take place in June and July of next year. This stance was reiterated even as Kenya's local organizing committee chair, Nicholas Musonye, suggested a postponement to 2028 could benefit Kenya due to upcoming national elections.\n\nMotsepe emphasized CAF's broader mandate to foster football development across Africa, highlighting how hosting major events stimulates investment in sports facilities and national infrastructure. The decision to award the 2027 AFCON to the East African collaboration, known as 'Pamoja', was finalized by the CAF executive committee last week, marking the first time three nations will co-host the event.",
-      "tags": [
-        "CAF",
-        "AFCON 2027",
-        "Patrice Motsepe",
-        "Kenya",
-        "Tanzania",
-        "Uganda"
-      ],
-      "image": "images/motsepe-reaffirms-afcon-2027-timeline-amidst-host-nation-readiness-concerns-3a225aaa17f9.svg",
-      "publishedAt": "2026-09-20T20:25:23.769Z"
     }
   ],
-  "lastRun": "2026-09-25T16:42:32.271Z"
+  "lastRun": "2026-09-25T21:11:36.626Z"
 }
