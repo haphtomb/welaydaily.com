@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "newcastle-secures-atalanta-s-giorgio-scalvini-in-55-million-deal-1baee4eb82ac",
+      "headline": "Newcastle Secures Atalanta's Giorgio Scalvini in €55 Million Deal",
+      "league": "Transfer News",
+      "summary": "Newcastle United has officially finalized the acquisition of highly-rated Italian defender Giorgio Scalvini from Atalanta, completing a significant transfer worth €55 million. This move bolsters the Premier League side's defensive options with a promising young talent.",
+      "body": "In a major statement of intent, Newcastle United has successfully concluded the transfer of Giorgio Scalvini from Serie A club Atalanta. The 25-year-old central defender joins the English Premier League outfit in a deal reportedly valued at €55 million, with the agreement being finalized on September 25, 2026.\n\nScalvini's arrival marks a significant investment for Newcastle, underscoring their ambition to strengthen the squad with top-tier European talent. The Italian international has garnered considerable attention for his mature performances and versatility in the heart of Atalanta's defense.\n\nThis high-profile transfer is expected to provide a substantial boost to Newcastle's defensive line as they navigate the demanding Premier League season and potentially European competitions. The move signals a clear commitment from the Magpies to compete at the highest level.",
+      "tags": [
+        "Newcastle United",
+        "Giorgio Scalvini",
+        "Atalanta",
+        "Premier League"
+      ],
+      "image": "images/newcastle-secures-atalanta-s-giorgio-scalvini-in-55-million-deal-1baee4eb82ac.svg",
+      "publishedAt": "2026-09-26T03:48:18.011Z"
+    },
+    {
+      "id": "manchester-city-found-guilty-of-breaching-premier-league-financial-rules-a3eefb1add69",
+      "headline": "Manchester City Found Guilty of Breaching Premier League Financial Rules",
+      "league": "Premier League",
+      "summary": "Manchester City has reportedly been found guilty on numerous charges of breaching the Premier League's financial regulations, a verdict that could have significant repercussions for the club. The decision, coming after a lengthy investigation, casts a shadow over their past successes, though the club is expected to appeal the ruling.",
+      "body": "Reports emerging on Friday, September 25, indicate that an independent commission has found Manchester City guilty of the vast majority of the more than 100 charges brought against them by the Premier League. These charges, which span from the 2009-10 to the 2022-23 seasons, relate to alleged breaches of financial fair play rules. The news has sent shockwaves through English football, given the severity and breadth of the accusations.\n\nThe implications of this verdict are potentially far-reaching, with speculation already swirling about possible sanctions ranging from substantial fines to significant points deductions. This could dramatically alter the landscape of the Premier League, impacting not only City's current season but also potentially re-evaluating historical title wins. The football community is keenly observing how the league will address these unprecedented findings.\n\nManchester City has not officially confirmed the decision, stating that the process remains ongoing. However, sources suggest the club intends to appeal the guilty verdict, confident in their ability to overturn the ruling. This appeal process is expected to extend over several months, meaning any definitive penalties may not be immediate.",
+      "tags": [
+        "Financial Fair Play",
+        "Manchester City",
+        "Premier League",
+        "Legal"
+      ],
+      "image": "images/manchester-city-found-guilty-of-breaching-premier-league-financial-rules-a3eefb1add69.svg",
+      "publishedAt": "2026-09-26T03:48:29.780Z"
+    },
+    {
+      "id": "morocco-secures-opening-afcon-2027-qualifier-victory-against-gabon-80964857bad3",
+      "headline": "Morocco Secures Opening AFCON 2027 Qualifier Victory Against Gabon",
+      "league": "AFCON",
+      "summary": "The Moroccan national team successfully kicked off their 2027 Africa Cup of Nations qualification campaign, defeating Gabon 2-0 in their initial Group B encounter. Goals from Noussair Mazraoui and Soufiane Rahimi propelled the Atlas Lions to a winning start on home soil.",
+      "body": "Morocco initiated their journey towards the 2027 Africa Cup of Nations with a commanding 2-0 win against Gabon in their opening qualifier on Friday. The Atlas Lions, playing before an enthusiastic home crowd, asserted their dominance throughout the match, laying a strong foundation for their qualification aspirations.\n\nThe deadlock was broken in the 36th minute when Noussair Mazraoui found the back of the net, giving Morocco a crucial advantage before the halftime whistle. Gabon attempted to mount a comeback in the second half, but the Moroccan defense remained resolute, effectively neutralizing any attacking threats.\n\nAs the match progressed into its final stages, Soufiane Rahimi cemented Morocco's victory by scoring in the 84th minute, extending their lead to 2-0. This decisive performance ensures a positive start for Morocco in a competitive qualification group.",
+      "tags": [
+        "AFCON 2027 Qualifiers",
+        "Morocco",
+        "Gabon",
+        "Football"
+      ],
+      "image": "images/morocco-secures-opening-afcon-2027-qualifier-victory-against-gabon-80964857bad3.svg",
+      "publishedAt": "2026-09-26T03:48:46.440Z"
+    },
+    {
+      "id": "inter-miami-reveals-head-coach-cristian-gonz-lez-s-complete-coaching-staff-544d3f98f958",
+      "headline": "Inter Miami Reveals Head Coach Cristian González's Complete Coaching Staff",
+      "league": "MLS",
+      "summary": "Inter Miami has officially unveiled the full coaching team set to work alongside head coach Cristian González, signaling a new chapter for the club's technical direction. This comprehensive announcement outlines the individuals who will support González in guiding the squad through the remainder of the season and beyond.",
+      "body": "Inter Miami confirmed the composition of head coach Cristian González's new technical staff today, solidifying the team's leadership structure. The club's announcement detailed the individuals who will join González in shaping the tactical approach and player development for the first team. This move follows a period of transition and aims to bring stability and a clear vision to the squad.\n\nThe newly appointed staff members are expected to integrate immediately, bringing their expertise to various aspects of the club's operations. Their collective experience will be crucial as Inter Miami navigates the demanding MLS schedule and aims for success in upcoming competitions. This strategic reinforcement of the coaching ranks underscores the club's commitment to achieving its performance objectives.\n\nFans and pundits alike will be watching closely to see the impact of these changes on the team's on-field performance. The cohesion and synergy among the coaching unit will be vital in translating their philosophy into tangible results on the pitch. This comprehensive staff announcement marks a significant step for Inter Miami as they prepare for the challenges ahead.",
+      "tags": [
+        "Inter Miami",
+        "Coaching Staff",
+        "MLS",
+        "Cristian González"
+      ],
+      "image": "images/inter-miami-reveals-head-coach-cristian-gonz-lez-s-complete-coaching-staff-544d3f98f958.svg",
+      "publishedAt": "2026-09-26T03:49:11.682Z"
+    },
+    {
       "id": "real-madrid-calls-for-new-la-liga-president-amid-refereeing-row-52d314e6c61f",
       "headline": "Real Madrid Calls for New La Liga President Amid Refereeing Row",
       "league": "La Liga",
@@ -847,68 +907,7 @@
       ],
       "image": "images/spurs-eye-staggering-125m-move-for-forest-s-gibbs-white-ac8ba154f5c4.svg",
       "publishedAt": "2026-09-21T12:09:16.157Z"
-    },
-    {
-      "id": "united-scrape-point-at-fulham-as-neville-blasts-worst-performance-577130a1d94c",
-      "headline": "United Scrape Point at Fulham as Neville Blasts 'Worst' Performance",
-      "league": "Premier League",
-      "summary": "Manchester United salvaged a late draw against Fulham on Sunday, but the unconvincing performance drew sharp criticism from pundits. Matheus Cunha's late equalizer secured a point for the Red Devils at Craven Cottage.",
-      "body": "Manchester United's struggles continued this weekend as they managed only a 1-1 draw against Fulham at Craven Cottage. The home side took the lead in the 63rd minute through an unfortunate own goal from Alejandro Martinez, putting Erik ten Hag's men under considerable pressure.\n\nUnited appeared destined for another disappointing result until Matheus Cunha found the back of the net in the 89th minute, snatching a point for the visitors. This result adds to a difficult start for the Red Devils, who have secured only one victory in their opening four Premier League fixtures this season.\n\nPost-match reaction was swift and unforgiving, with football analyst Gary Neville delivering a scathing assessment of United's display. He described a segment of their performance as the worst he had witnessed in almost 50 years, particularly noting the team's alarming lack of reaction when losing possession.",
-      "tags": [
-        "Manchester United",
-        "Fulham",
-        "Premier League",
-        "Match Reaction"
-      ],
-      "image": "images/united-scrape-point-at-fulham-as-neville-blasts-worst-performance-577130a1d94c.svg",
-      "publishedAt": "2026-09-21T12:09:34.466Z"
-    },
-    {
-      "id": "galaxy-stage-stunning-comeback-topple-minnesota-united-with-late-heroics-c400de8b2d72",
-      "headline": "Galaxy Stage Stunning Comeback, Topple Minnesota United with Late Heroics",
-      "league": "MLS",
-      "summary": "The LA Galaxy orchestrated a dramatic turnaround on Saturday night, overcoming a halftime deficit to defeat Minnesota United FC 3-2 at Allianz Field. Marco Reus played a pivotal role, contributing a goal and an assist in the final minutes to secure all three points for the visitors.",
-      "body": "In a thrilling Major League Soccer encounter, the LA Galaxy mounted an impressive comeback to snatch a 3-2 victory against Minnesota United FC. The hosts initially seized control after falling behind early, with Marcus Caldeira and Kelvin Yeboah finding the net to give Minnesota a 2-1 advantage heading into the break.\n\nThe Galaxy's resurgence began in the second half, sparked by the introduction of João Klauss and veteran Marco Reus. Klauss leveled the score in the 76th minute, converting a free kick delivered by Reus. Just four minutes later, Reus himself struck the decisive blow, redirecting a cross from Lucas Calegari to complete the dramatic comeback.\n\nPablo Ruiz had initially opened the scoring for the Galaxy in the 12th minute with a superb free kick, but Minnesota quickly responded. This crucial win sees the Galaxy improve their record to 8-10-9, while Minnesota United, now 7-11-8, suffered their fourth consecutive loss.",
-      "tags": [
-        "LA Galaxy",
-        "Minnesota United",
-        "MLS",
-        "Match Recap",
-        "Marco Reus"
-      ],
-      "image": "images/galaxy-stage-stunning-comeback-topple-minnesota-united-with-late-heroics-c400de8b2d72.svg",
-      "publishedAt": "2026-09-21T12:10:36.933Z"
-    },
-    {
-      "id": "messi-reaches-century-mark-as-inter-miami-shares-points-with-san-diego-e8f580856a80",
-      "headline": "Messi Reaches Century Mark as Inter Miami Shares Points with San Diego",
-      "league": "MLS",
-      "summary": "Lionel Messi netted his 101st goal for Inter Miami, but his team ultimately settled for a 2-2 draw against San Diego FC in a captivating Sunday night fixture. The Argentine's milestone strike highlighted a hard-fought contest where both sides battled for supremacy.",
-      "body": "Inter Miami played to a thrilling 2-2 stalemate with San Diego FC on Sunday, September 20, at Nu Stadium in Miami. The match saw superstar Lionel Messi continue his incredible scoring form, reaching a significant personal milestone by registering his 101st goal for the Florida club. His effort provided a crucial moment of brilliance in a game that kept fans on the edge of their seats.\n\nDespite Messi's landmark goal, which was celebrated with teammates Rodrigo De Paul and Luis Suárez, Inter Miami could not secure all three points. San Diego FC proved to be a resilient opponent, matching Miami's intensity throughout the encounter and ensuring the spoils were shared.\n\nThe draw reflects a closely contested battle where both teams demonstrated attacking intent and defensive grit. While Miami supporters celebrated Messi's latest achievement, the team will undoubtedly reflect on the missed opportunity to clinch a victory against a determined San Diego side.",
-      "tags": [
-        "MLS",
-        "Inter Miami",
-        "Lionel Messi",
-        "San Diego FC"
-      ],
-      "image": "images/messi-reaches-century-mark-as-inter-miami-shares-points-with-san-diego-e8f580856a80.svg",
-      "publishedAt": "2026-09-21T03:35:44.178Z"
-    },
-    {
-      "id": "celta-vigo-explodes-with-five-goal-thrashing-against-racing-santander-355f5c34b82f",
-      "headline": "Celta Vigo Explodes with Five-Goal Thrashing Against Racing Santander",
-      "league": "La Liga",
-      "summary": "Celta Vigo finally secured their inaugural victory of the La Liga season, delivering a dominant five-goal performance against Racing Santander. The emphatic win at home provided a much-needed boost for the club and its supporters.",
-      "body": "Celta Vigo ignited their La Liga campaign with a resounding 5-0 triumph over Racing Santander, marking their first victory of the current season. The comprehensive win on Saturday, September 19th, saw the home side assert control from the outset, delighting their fans with a prolific attacking display.\n\nThe dominant performance was crucial for Celta, who had been seeking a breakthrough result to kickstart their league form. This commanding display sends a clear message of intent as they aim to climb the La Liga standings.\n\nDetails of individual goal scorers were not widely reported, but the five-goal margin highlights a collective effort that dismantled Racing Santander's defense, allowing Celta Vigo to celebrate a memorable and much-anticipated win.",
-      "tags": [
-        "Celta Vigo",
-        "Racing Santander",
-        "La Liga",
-        "Match Report"
-      ],
-      "image": "images/celta-vigo-explodes-with-five-goal-thrashing-against-racing-santander-355f5c34b82f.svg",
-      "publishedAt": "2026-09-21T03:36:00.641Z"
     }
   ],
-  "lastRun": "2026-09-25T21:11:36.626Z"
+  "lastRun": "2026-09-26T03:49:15.682Z"
 }
