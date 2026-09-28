@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "lafc-parts-ways-with-head-coach-marc-dos-santos-after-difficult-run-f038ad4a3ac9",
+      "headline": "LAFC Parts Ways with Head Coach Marc Dos Santos After Difficult Run",
+      "league": "MLS",
+      "summary": "Los Angeles FC has announced the departure of head coach Marc Dos Santos, who was in his inaugural season with the club, following a challenging period of results. The decision comes as the team has struggled to find consistent victories, impacting their standing in the Western Conference.",
+      "body": "Los Angeles FC has made a significant coaching change, relieving Marc Dos Santos of his duties as head coach on Sunday, September 27th. The move comes after a difficult stretch where the team managed only two wins in their last thirteen matches across all competitions, leading to a drop to sixth place in the Western Conference standings.\n\nDos Santos, in his first year at the helm, initially guided LAFC to a strong start, including an impressive 5-0-1 record in MLS play without conceding a goal and an unbeaten streak of eleven games across various competitions. However, the team's performance declined significantly after their elimination from the CONCACAF Champions Cup semifinals.\n\nLAFC's president of soccer operations, John Thorrington, expressed gratitude for Dos Santos's dedication and contributions to the club. The team now faces the task of finding a new leader during the current FIFA international break, with their next match scheduled for October 10th against Western Conference leaders Vancouver Whitecaps.",
+      "tags": [
+        "LAFC",
+        "Marc Dos Santos",
+        "MLS",
+        "Coaching Change"
+      ],
+      "image": "images/lafc-parts-ways-with-head-coach-marc-dos-santos-after-difficult-run-f038ad4a3ac9.svg",
+      "publishedAt": "2026-09-28T21:06:41.904Z"
+    },
+    {
+      "id": "salah-sidelined-as-egypt-prepares-for-south-sudan-afcon-qualifier-85e4eece1f5e",
+      "headline": "Salah Sidelined as Egypt Prepares for South Sudan AFCON Qualifier",
+      "league": "AFCON Qualifiers",
+      "summary": "Egypt's national team has arrived in Juba for their upcoming Africa Cup of Nations qualifier against South Sudan, but they will be without their key forward. Mohamed Salah is being rested for the match, a decision made to protect him from playing on the artificial turf at Juba Stadium.",
+      "body": "The Egyptian national squad, known as the Pharaohs, landed in South Sudan's capital, Juba, on Sunday to prepare for their 2027 Africa Cup of Nations qualifying fixture. The Group B encounter, scheduled for Tuesday, will see Egypt aiming for their first victory in the campaign after a goalless draw against Angola in their opening match. South Sudan also seeks to rebound after their initial 2-1 loss to Malawi.\n\nA notable absence for the Egyptian side will be captain Mohamed Salah, who has been strategically rested for the upcoming game. The Egyptian Football Association confirmed this decision was made in agreement with Salah and the technical staff before the Angola match, primarily to safeguard the forward from potential injury on the artificial-turf pitch at Juba Stadium.\n\nDespite Salah's unavailability, former South Sudan international James Joseph believes Egypt possesses ample talent to secure a favorable result. He emphasized that the home team should not be distracted by the media attention surrounding Salah's absence and instead focus on their performance against the seven-time African champions. This match presents an opportunity for South Sudan to demonstrate their capabilities against a formidable opponent.",
+      "tags": [
+        "Egypt",
+        "Mohamed Salah",
+        "AFCON Qualifiers",
+        "South Sudan"
+      ],
+      "image": "images/salah-sidelined-as-egypt-prepares-for-south-sudan-afcon-qualifier-85e4eece1f5e.svg",
+      "publishedAt": "2026-09-28T21:06:58.491Z"
+    },
+    {
+      "id": "liverpool-expresses-concrete-interest-in-boca-juniors-starlet-aranda-0d36e87148c8",
+      "headline": "Liverpool Expresses Concrete Interest in Boca Juniors Starlet Aranda",
+      "league": "Transfer News",
+      "summary": "Liverpool is reportedly showing significant interest in acquiring 19-year-old Boca Juniors sensation Tomas Aranda for a potential move in 2027. This development comes as the Reds navigate an international break marred by an injury to star attacker Cody Gakpo.",
+      "body": "Liverpool has reportedly established a concrete interest in securing the services of promising Boca Juniors midfielder Tomas Aranda. The 19-year-old Argentine talent has caught the eye of the Merseyside club, with a potential transfer being eyed for the 2027 window.\n\nThis pursuit unfolds amidst a challenging period for Liverpool, as they recently saw key forward Cody Gakpo sustain an ankle injury while on international duty with the Netherlands. Gakpo's setback during a UEFA Nations League fixture highlights the ongoing need for squad depth and future planning at Anfield.\n\nThe Reds' purported interest in Aranda signals their intent to bolster their ranks with young, high-potential players, looking ahead to future seasons. While no formal offer has been reported, the 'concrete interest' suggests serious scouting and evaluation of the Boca Juniors star.",
+      "tags": [
+        "Liverpool",
+        "Boca Juniors",
+        "Tomas Aranda",
+        "Transfer Rumours"
+      ],
+      "image": "images/liverpool-expresses-concrete-interest-in-boca-juniors-starlet-aranda-0d36e87148c8.svg",
+      "publishedAt": "2026-09-28T21:07:13.405Z"
+    },
+    {
+      "id": "barcelona-achieves-historic-perfect-start-to-la-liga-season-1d3881978f18",
+      "headline": "Barcelona Achieves Historic Perfect Start to La Liga Season",
+      "league": "La Liga",
+      "summary": "Barcelona has powered through the initial stages of the La Liga campaign, securing a flawless record of seven victories from seven matches played. This impressive run places them comfortably at the top of the league standings heading into the international break.",
+      "body": "FC Barcelona has made an exceptional start to the current La Liga season, maintaining an unblemished record with seven consecutive wins. This perfect streak sees them lead the table with 21 points, establishing a five-point advantage over their closest competitors, Atlético Madrid and Real Betis.\n\nUnder the guidance of Hansi Flick, the Catalan giants are now poised to achieve a significant club milestone. A victory in their upcoming league fixture, following the international break, would see them match the best-ever start to a La Liga season in Barcelona's history, a feat previously accomplished by Tata Martino's squad in the 2013/14 campaign with eight wins from eight games.\n\nThe next challenge for Barcelona will be a home match against Getafe. This encounter presents an opportunity for the team to equal the long-standing record and further solidify their commanding position as they aim for domestic supremacy.",
+      "tags": [
+        "Barcelona",
+        "La Liga",
+        "Undefeated",
+        "Hansi Flick"
+      ],
+      "image": "images/barcelona-achieves-historic-perfect-start-to-la-liga-season-1d3881978f18.svg",
+      "publishedAt": "2026-09-28T21:07:50.103Z"
+    },
+    {
       "id": "galaxy-stage-stunning-second-half-comeback-to-down-rapids-3e1d87855cfa",
       "headline": "Galaxy Stage Stunning Second-Half Comeback to Down Rapids",
       "league": "MLS",
@@ -852,68 +912,7 @@
       ],
       "image": "images/barcelona-begins-champions-league-title-defense-with-dominant-victory-96d1d36871ae.svg",
       "publishedAt": "2026-09-24T03:24:49.348Z"
-    },
-    {
-      "id": "tyrell-malacia-departs-manchester-united-for-fc-cincinnati-switch-4910188da618",
-      "headline": "Tyrell Malacia Departs Manchester United for FC Cincinnati Switch",
-      "league": "MLS",
-      "summary": "Dutch international Tyrell Malacia has officially completed a move from Manchester United to Major League Soccer side FC Cincinnati, seeking a fresh start after a challenging, injury-plagued period in England. The left-back aims to revitalize his career in the United States following his departure from the Premier League giants.",
-      "body": "Tyrell Malacia's tenure at Manchester United has concluded, with the defender making a permanent switch to FC Cincinnati. The Dutch full-back endured a difficult spell at Old Trafford, marked by persistent injury issues that significantly hampered his ability to feature consistently for the Red Devils. His transfer marks a new chapter as he looks to regain fitness and form across the Atlantic.\n\nMalacia's time in the Premier League was characterized by an unfortunate series of setbacks, limiting his appearances and preventing him from establishing himself as a regular starter. This move to the MLS offers the 24-year-old an opportunity for a fresh beginning, away from the intense scrutiny of European football, as he targets a return to his peak performance levels.\n\nFC Cincinnati will be hopeful that Malacia can rediscover the form that initially earned him a move to Manchester United. The Ohio-based club will provide a platform for the talented left-back to rebuild his confidence and contribute significantly to their campaign in the highly competitive Major League Soccer.",
-      "tags": [
-        "Tyrell Malacia",
-        "FC Cincinnati",
-        "Manchester United",
-        "MLS",
-        "Transfer News"
-      ],
-      "image": "images/tyrell-malacia-departs-manchester-united-for-fc-cincinnati-switch-4910188da618.svg",
-      "publishedAt": "2026-09-24T03:25:37.794Z"
-    },
-    {
-      "id": "la-liga-unveils-stellar-nominees-for-september-s-player-of-the-month-643e34ff0a79",
-      "headline": "La Liga Unveils Stellar Nominees for September's Player of the Month",
-      "league": "La Liga",
-      "summary": "La Liga has revealed its shortlist of five exceptional players vying for the September Player of the Month accolade. The nominees represent several top clubs, showcasing their individual brilliance and significant contributions throughout the past month's fixtures.",
-      "body": "Spain's top football division recently announced the five standout contenders for its prestigious Player of the Month award for September. This monthly honor recognizes the footballer who demonstrated the most impressive individual performance and positive impact on their team's results during the designated period.\n\nAmong the distinguished nominees are Barcelona's Raphinha, a key attacking force, and Paris Saint-Germain loanee Kylian Mbappé, whose presence continues to electrify the league. They are joined by Sergio Camello, Jonathan David, and Fer Niño, all of whom delivered compelling performances for their respective clubs, catching the attention of selectors.\n\nThe competition for this month's award appears intense, highlighting the depth of talent currently gracing La Liga pitches. Football enthusiasts eagerly await the announcement of the ultimate winner, celebrating the individual excellence that drives the league's competitive spirit.",
-      "tags": [
-        "La Liga",
-        "Player of the Month",
-        "Raphinha",
-        "Kylian Mbappé"
-      ],
-      "image": "images/la-liga-unveils-stellar-nominees-for-september-s-player-of-the-month-643e34ff0a79.svg",
-      "publishedAt": "2026-09-23T21:10:50.225Z"
-    },
-    {
-      "id": "udinese-poised-to-land-david-alaba-on-free-transfer-22e82f688b99",
-      "headline": "Udinese Poised to Land David Alaba on Free Transfer",
-      "league": "Serie A",
-      "summary": "Former Real Madrid defender David Alaba is reportedly finalizing a move to Serie A side Udinese. The Austrian international, a free agent since his contract expired, is expected to complete a verbal agreement with the Italian club imminently.",
-      "body": "Veteran defender David Alaba is on the brink of a surprising switch to Udinese, with reports indicating a verbal agreement has been reached between the player and the Serie A outfit. The experienced Austrian international became a free agent at the conclusion of last season, departing Real Madrid after a successful stint. His impending arrival is set to bolster Udinese's defensive options significantly.\n\nAlaba brings a wealth of experience and versatility, having played at the highest level for both Bayern Munich and Real Madrid, securing numerous domestic and European titles. His ability to operate at center-back, left-back, and in midfield makes him a valuable asset for any squad. This move marks a new chapter in his illustrious career, taking him to Italy for the first time.\n\nThe transfer, expected to be a free acquisition for Udinese, represents a notable coup for the club. Alaba's decision to join the Italian side underscores their ambition and ability to attract high-caliber talent, even without a transfer fee. Fans will be eager to see the impact the seasoned defender will have in the upcoming Serie A campaign.",
-      "tags": [
-        "David Alaba",
-        "Udinese",
-        "Serie A",
-        "Transfer News"
-      ],
-      "image": "images/udinese-poised-to-land-david-alaba-on-free-transfer-22e82f688b99.svg",
-      "publishedAt": "2026-09-23T21:11:09.209Z"
-    },
-    {
-      "id": "messi-s-milestone-free-kick-can-t-secure-miami-victory-against-san-diego-110cacf6f34e",
-      "headline": "Messi's Milestone Free-Kick Can't Secure Miami Victory Against San Diego",
-      "league": "MLS",
-      "summary": "Lionel Messi continued his remarkable scoring run, netting his 20th goal of the season with a stunning free-kick for Inter Miami. However, the Herons were held to a frustrating 2-2 draw by San Diego FC, leaving them seeking more from their recent performance.",
-      "body": "Inter Miami found themselves in a challenging contest on Matchday 27, ultimately sharing the points in a 2-2 draw against San Diego FC. Despite another moment of brilliance from their talisman Lionel Messi, who curled in a trademark free-kick, the South Florida side couldn't secure a full three points.\n\nMessi's 20th goal of the 2026 season was a significant personal achievement, making him only the second player in MLS history to reach the 20-goal mark in three consecutive seasons. This individual milestone further highlights his consistent impact since joining the league.\n\nHowever, the overall result left Inter Miami with a sense of missed opportunity. While Messi continues to rewrite the record books, the team will be keen to convert such captivating performances into victories as the season progresses.",
-      "tags": [
-        "MLS",
-        "Inter Miami",
-        "Lionel Messi",
-        "San Diego FC"
-      ],
-      "image": "images/messi-s-milestone-free-kick-can-t-secure-miami-victory-against-san-diego-110cacf6f34e.svg",
-      "publishedAt": "2026-09-23T21:11:23.110Z"
     }
   ],
-  "lastRun": "2026-09-28T13:04:26.011Z"
+  "lastRun": "2026-09-28T21:07:54.103Z"
 }
