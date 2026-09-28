@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "galaxy-stage-stunning-second-half-comeback-to-down-rapids-3e1d87855cfa",
+      "headline": "Galaxy Stage Stunning Second-Half Comeback to Down Rapids",
+      "league": "MLS",
+      "summary": "The LA Galaxy delivered a thrilling turnaround at Dignity Health Sports Park, overcoming a two-goal halftime deficit to defeat the Colorado Rapids 3-2. This crucial victory provides a significant boost to the Galaxy's playoff aspirations in the Western Conference.",
+      "body": "The LA Galaxy mounted an impressive comeback on Saturday night, securing a vital 3-2 home victory against the Colorado Rapids after trailing by two goals at halftime. The match, held at Dignity Health Sports Park, saw the Rapids take a commanding lead into the break, including a goal from Paxten Aaronson, leaving the home crowd anxious.\n\nHowever, the Galaxy emerged revitalized in the second half, initiating their fightback with an own goal from Reggie Cannon and a crucial equalizer from João Klauss, who intercepted a pass from the Colorado goalkeeper to finish from close range. The decisive moment arrived when defender Justin Haak headed in his first goal for the club in the 74th minute, completing the remarkable turnaround.\n\nThe win marks a significant result for the Galaxy as they continue their push for a playoff spot. Adding to the positive news, Sergi Roberto made his return to the pitch after an injury layoff, providing a welcome boost to the squad's depth.",
+      "tags": [
+        "LA Galaxy",
+        "Colorado Rapids",
+        "MLS",
+        "Comeback Win"
+      ],
+      "image": "images/galaxy-stage-stunning-second-half-comeback-to-down-rapids-3e1d87855cfa.svg",
+      "publishedAt": "2026-09-28T13:04:09.304Z"
+    },
+    {
       "id": "thiar-s-stoppage-time-heroics-sink-messi-s-inter-miami-35ea260f00c4",
       "headline": "Thiaré's Stoppage-Time Heroics Sink Messi's Inter Miami",
       "league": "MLS",
@@ -898,22 +913,7 @@
       ],
       "image": "images/messi-s-milestone-free-kick-can-t-secure-miami-victory-against-san-diego-110cacf6f34e.svg",
       "publishedAt": "2026-09-23T21:11:23.110Z"
-    },
-    {
-      "id": "lyonnes-dominate-servette-with-eight-goal-champions-league-blitz-2eaa857c5fa9",
-      "headline": "Lyonnes Dominate Servette with Eight-Goal Champions League Blitz",
-      "league": "Champions League",
-      "summary": "Eight-time champions OL Lyonnes began their UEFA Women's Champions League campaign with an emphatic 8-0 away victory over Servette in Geneva today. The French giants showcased their offensive prowess, with several players contributing to the massive scoreline.",
-      "body": "OL Lyonnes delivered a commanding performance in their opening UEFA Women's Champions League fixture, dismantling Servette with an overwhelming 8-0 scoreline on Wednesday. The French club, record holders in the competition, demonstrated their intent for the season, leaving no doubt about their title aspirations from the outset.\n\nAmong the standout individual performances, Marie-Antoinette Katoto netted a hat-trick, while Haitian star Melchie Dumornay contributed significantly, including a delicate chip goal and an assist. American teenager Lily Yohannes also impressed, providing a clever back-heeled assist that set up one of Katoto's goals.\n\nThe comprehensive victory in Geneva sets a high standard for Lyonnes as they look to reclaim the European crown. This dominant display firmly establishes them as early contenders, sending a clear message to rivals across the continent.",
-      "tags": [
-        "Women's Champions League",
-        "OL Lyonnes",
-        "Servette",
-        "Match Report"
-      ],
-      "image": "images/lyonnes-dominate-servette-with-eight-goal-champions-league-blitz-2eaa857c5fa9.svg",
-      "publishedAt": "2026-09-23T21:11:36.213Z"
     }
   ],
-  "lastRun": "2026-09-28T03:58:16.945Z"
+  "lastRun": "2026-09-28T13:04:26.011Z"
 }
