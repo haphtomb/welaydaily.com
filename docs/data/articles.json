@@ -1,6 +1,67 @@
 {
   "articles": [
     {
+      "id": "manchester-united-secures-highly-rated-liverpool-youngster-isaac-konde-584ba639038e",
+      "headline": "Manchester United Secures Highly-Rated Liverpool Youngster Isaac Konde",
+      "league": "Transfer News",
+      "summary": "Manchester United has successfully brought promising winger Isaac Konde to Old Trafford from rivals Liverpool, a significant academy acquisition for the Red Devils. The 16-year-old talent is set to integrate into United's youth setup, with Liverpool reportedly seeking compensation for his development.",
+      "body": "Manchester United has officially announced the signing of teenage sensation Isaac Konde, who makes the switch from Liverpool. The highly-regarded 16-year-old winger will initially join United's academy, with expectations for him to progress through the ranks and eventually challenge for a spot in the senior squad. This move marks a notable capture for the Old Trafford club, securing one of the brightest talents emerging from youth football.\n\nKonde, who gained experience with Liverpool's Under-18 side last season, featuring regularly towards the end of the 2025/26 campaign, is expected to sign professional terms when he turns 17 in October. For now, he has penned a scholar contract, signaling Manchester United's long-term investment in his potential.\n\nWhile the transfer has been confirmed, reports indicate that Liverpool is pursuing compensation for the development of the young attacker. Konde's versatility, capable of playing on either wing or through the middle, makes him a valuable addition as United continues to bolster its youth ranks.",
+      "tags": [
+        "Manchester United",
+        "Liverpool",
+        "Isaac Konde",
+        "Youth Transfer"
+      ],
+      "image": "images/manchester-united-secures-highly-rated-liverpool-youngster-isaac-konde-584ba639038e.svg",
+      "publishedAt": "2026-09-29T12:15:18.075Z"
+    },
+    {
+      "id": "lionesses-announce-squad-for-crucial-world-cup-play-off-against-greece-fe8e066b3933",
+      "headline": "Lionesses Announce Squad for Crucial World Cup Play-off Against Greece",
+      "league": "World Cup Qualifiers",
+      "summary": "England's women's national team manager, Sarina Wiegman, has revealed her 23-player roster for the upcoming FIFA Women's World Cup play-off matches against Greece. The squad features a blend of experienced players and a fresh face, as the Lionesses aim to secure their place at the global tournament.",
+      "body": "The England women's national team is gearing up for a vital two-legged FIFA Women's World Cup play-off series against Greece, with coach Sarina Wiegman confirming her selection on Tuesday. Chelsea midfielder Lexi Potter has earned her inaugural call-up to the senior squad, marking a significant milestone in her career. Additionally, Erica Meg Parkinson, previously uncapped, makes a return to the national team setup after her initial call-up in April.\n\nCaptain Leah Williamson also rejoins the squad, providing a welcome boost after her absence from the June fixtures due to injury. The Lionesses are set to travel to Heraklion, Crete, for the first leg on Friday, October 9th, with the return leg scheduled for Tuesday, October 13th, at Leicester City's home ground.\n\nWiegman expressed confidence in her team's ability to perform, emphasizing their clear objective to win both matches and advance closer to World Cup qualification. She highlighted the excitement within the group to reconvene and prepare for these important encounters, anticipating strong support from their fans at the home fixture.",
+      "tags": [
+        "England Women",
+        "World Cup Qualifiers",
+        "Squad Announcement",
+        "Sarina Wiegman"
+      ],
+      "image": "images/lionesses-announce-squad-for-crucial-world-cup-play-off-against-greece-fe8e066b3933.svg",
+      "publishedAt": "2026-09-29T12:15:35.970Z"
+    },
+    {
+      "id": "colorado-rapids-bolster-attack-with-australian-winger-akol-akon-72c34ff6dd78",
+      "headline": "Colorado Rapids Bolster Attack with Australian Winger Akol Akon",
+      "league": "MLS",
+      "summary": "The Colorado Rapids have officially announced the acquisition of Australian winger Akol Akon, adding a new dimension to their offensive lineup. This move marks a significant reinforcement for the club as they navigate the remainder of the season.",
+      "body": "The Colorado Rapids have finalized a deal to bring Australian winger Akol Akon to the club, confirming the transfer earlier today. This new addition is expected to provide a boost to the Rapids' attacking options, offering fresh talent and depth on the flanks.\n\nAkon's arrival comes at a crucial juncture for the team, as they look to strengthen their squad for upcoming fixtures. Details surrounding the transfer, including contract length and terms, were not immediately disclosed by the club.\n\nFans will be eager to see Akon integrate into the squad and make his debut for the Colorado Rapids, with expectations that his skills and pace will contribute positively to their performance on the pitch.",
+      "tags": [
+        "Colorado Rapids",
+        "Akol Akon",
+        "MLS Transfer News",
+        "Winger"
+      ],
+      "image": "images/colorado-rapids-bolster-attack-with-australian-winger-akol-akon-72c34ff6dd78.svg",
+      "publishedAt": "2026-09-29T12:15:48.964Z"
+    },
+    {
+      "id": "afcon-2027-hosting-in-doubt-amidst-east-african-infrastructure-delays-fd684f4e32d1",
+      "headline": "AFCON 2027 Hosting in Doubt Amidst East African Infrastructure Delays",
+      "league": "AFCON",
+      "summary": "The Confederation of African Football is actively considering alternative hosts for the 2027 Africa Cup of Nations, as significant infrastructure delays plague current co-hosts Kenya and Uganda. This potential shift highlights ongoing concerns about the preparedness of the East African nations to stage the continent's premier football tournament.",
+      "body": "The Confederation of African Football (CAF) has reportedly initiated contingency plans for the 2027 Africa Cup of Nations, driven by growing apprehension over the slow progress of infrastructure development in co-hosting nations Kenya and Uganda. Despite being scheduled to jointly host the event with Tanzania in June 2027, recent inspections have flagged serious issues, including incomplete stadiums and insufficient accommodation.\n\nFrench media outlet Le Monde indicates that CAF has already reached out to several nations, including Morocco, South Africa, and Algeria, as potential standby hosts should the current co-organizers fail to meet critical deadlines. Ivory Coast and Egypt are also under consideration, given their established footballing infrastructure.\n\nWhile CAF President Patrice Motsepe has publicly voiced confidence in the East African trio, he has also acknowledged the substantial work still required. This situation echoes past instances where CAF has relocated tournaments due to unprepared hosts, underscoring the body's commitment to ensuring a successful competition.",
+      "tags": [
+        "AFCON 2027",
+        "CAF",
+        "Kenya",
+        "Uganda",
+        "Hosting Rights"
+      ],
+      "image": "images/afcon-2027-hosting-in-doubt-amidst-east-african-infrastructure-delays-fd684f4e32d1.svg",
+      "publishedAt": "2026-09-29T12:16:04.762Z"
+    },
+    {
       "id": "manchester-city-ceo-warns-of-protracted-legal-battle-amidst-sanctions-fallout-c1689595831a",
       "headline": "Manchester City CEO Warns of Protracted Legal Battle Amidst Sanctions Fallout",
       "league": "Premier League",
@@ -852,67 +913,7 @@
       ],
       "image": "images/valencia-appoints-javier-aguirre-as-new-head-coach-51a289748785.svg",
       "publishedAt": "2026-09-24T21:19:41.813Z"
-    },
-    {
-      "id": "afcon-2027-qualifiers-ignite-across-africa-today-ef15627bc0fa",
-      "headline": "AFCON 2027 Qualifiers Ignite Across Africa Today",
-      "league": "AFCON Qualifiers",
-      "summary": "The journey to the 2027 Africa Cup of Nations officially commences today, with nations across the continent embarking on their qualifying campaigns. Teams will vie for a coveted spot in the prestigious tournament, co-hosted by Kenya, Tanzania, and Uganda.",
-      "body": "The highly anticipated qualification phase for the TotalEnergies Africa Cup of Nations 2027 kicks off this Thursday, September 24, as 48 national teams begin their quests for continental glory. These nations are divided into 12 groups, with the opening two matchdays scheduled to run until early October. Co-hosts Kenya, Tanzania, and Uganda are also participating in the qualifiers, though only one additional team from their respective groups will secure automatic qualification.\n\nToday's action features several compelling matchups, including a heavyweight West African clash between Ivory Coast and Ghana. Elsewhere, Morocco prepares to host Gabon, while Egypt takes on Angola, and Algeria welcomes Zambia in their opening fixtures. These early encounters are crucial for setting the tone in what promises to be a fiercely competitive qualification cycle.\n\nAdding an extra layer of intrigue to the tournament's build-up is the lingering dispute surrounding the previous AFCON final between Senegal and Morocco. Senegal's appeal against the Confederation of African Football's decision to strip them of the title is slated for a hearing at the Court of Arbitration for Sport on October 8, a development that continues to draw significant attention across African football.",
-      "tags": [
-        "AFCON 2027",
-        "CAF",
-        "Qualifiers",
-        "African Football"
-      ],
-      "image": "images/afcon-2027-qualifiers-ignite-across-africa-today-ef15627bc0fa.svg",
-      "publishedAt": "2026-09-24T21:22:19.162Z"
-    },
-    {
-      "id": "chelsea-edge-debutants-austria-wien-in-women-s-champions-league-opener-852da43a24de",
-      "headline": "Chelsea Edge Debutants Austria Wien in Women's Champions League Opener",
-      "league": "Champions League",
-      "summary": "Chelsea commenced their UEFA Women's Champions League campaign with a hard-fought victory yesterday, overcoming debutants Austria Wien by a single goal. A first-half strike proved decisive for the London club, who faced a resilient opponent making their inaugural appearance in the competition's league phase.",
-      "body": "Chelsea kicked off their UEFA Women's Champions League journey on Wednesday with a narrow one-nil triumph over Austria Wien. The London side, who were quarter-finalists last season, faced a determined Austrian outfit making their first appearance in the competition's league phase. The victory provides a solid foundation for Chelsea's European aspirations.\n\nThe decisive moment arrived early in the contest when Wieke Kaptein found the back of the net in the eleventh minute. Despite the early breakthrough, Austria Wien, playing in their debut league phase match, displayed considerable resilience and proved a tough challenge for the more experienced English club.\n\nThis opening win allows Chelsea to build momentum in a challenging European competition. Kaptein's crucial goal highlighted her impact, as the midfielder contributed significantly to both Chelsea's attacking efforts and defensive stability against a spirited new competitor.",
-      "tags": [
-        "Chelsea Women",
-        "UWCL",
-        "Wieke Kaptein",
-        "Austria Wien"
-      ],
-      "image": "images/chelsea-edge-debutants-austria-wien-in-women-s-champions-league-opener-852da43a24de.svg",
-      "publishedAt": "2026-09-24T21:23:26.069Z"
-    },
-    {
-      "id": "tennis-star-alcaraz-expresses-concern-over-real-madrid-s-la-liga-struggles-a64eab274c90",
-      "headline": "Tennis Star Alcaraz Expresses Concern Over Real Madrid's La Liga Struggles",
-      "league": "La Liga",
-      "summary": "Spanish tennis sensation Carlos Alcaraz recently voiced his unease regarding Real Madrid's challenging start to the current La Liga season. A devoted supporter of the club, Alcaraz noted their significant point deficit behind rivals Barcelona after the initial seven league fixtures.",
-      "body": "Carlos Alcaraz, the world-renowned tennis player and ardent Real Madrid fan, has publicly shared his worries about his favorite football club's performance in the early stages of the 2026-27 La Liga campaign. Alcaraz, speaking on Wednesday, admitted that watching the team's struggles on the pitch has been a source of distress for him.\n\nReal Madrid currently finds itself six points adrift of league leaders Barcelona after seven matches played, a gap that has understandably caused concern among their fanbase, including the tennis superstar. Alcaraz's comments highlight the pressure mounting on the squad as they aim to close the distance at the top of the Spanish football table.\n\nWhile Alcaraz is currently focused on his tennis career and overcoming his own injury setbacks, his remarks underscore the widespread attention on Real Madrid's form. The team will be looking to address their early season inconsistencies and improve their standing in the league to appease their passionate supporters.",
-      "tags": [
-        "Real Madrid",
-        "Carlos Alcaraz",
-        "La Liga",
-        "Fan Reaction"
-      ],
-      "image": "images/tennis-star-alcaraz-expresses-concern-over-real-madrid-s-la-liga-struggles-a64eab274c90.svg",
-      "publishedAt": "2026-09-24T16:36:57.943Z"
-    },
-    {
-      "id": "porro-injury-blow-adds-to-tottenham-s-defensive-woes-after-villa-defeat-f3ee61c5d194",
-      "headline": "Porro Injury Blow Adds to Tottenham's Defensive Woes After Villa Defeat",
-      "league": "Premier League",
-      "summary": "Tottenham Hotspur faces a mounting injury crisis after defender Pedro Porro was forced off during their recent 3-2 loss to Aston Villa, with the Spanish international now sidelined for national team duty and potentially longer. This setback exacerbates an already challenging start to the season for Spurs, who are grappling with numerous key absences across their squad.",
-      "body": "Tottenham Hotspur's difficult beginning to the Premier League campaign has been compounded by a significant injury to key right-back Pedro Porro. The Spanish international sustained an issue during Saturday's thrilling 3-2 defeat against Aston Villa, forcing him to leave the pitch after just 18 minutes. This injury has subsequently led to his withdrawal from Spain’s upcoming Nations League fixtures, casting a shadow over his immediate return to action for Spurs.\n\nPorro's absence creates a considerable void in Roberto De Zerbi's defensive lineup, particularly as he stands as the club's only recognized senior right-back. The timing of this injury is particularly frustrating given that Porro had only recently returned to the team, having missed earlier matches including a goalless draw against Everton and an EFL Cup fixture.\n\nThis latest setback adds to a growing list of unavailable players for Tottenham, with the squad already missing important attacking talents such as Dejan Kulusevski, Xavi Simons, and Wilson Odobert, alongside Mykhailo Mudryk. The club will be hoping Porro can target a return for their crucial Premier League clash against Chelsea scheduled for October 24th, as they seek to navigate a challenging period without several integral figures.",
-      "tags": [
-        "Tottenham",
-        "Pedro Porro",
-        "Injury",
-        "Aston Villa"
-      ],
-      "image": "images/porro-injury-blow-adds-to-tottenham-s-defensive-woes-after-villa-defeat-f3ee61c5d194.svg",
-      "publishedAt": "2026-09-24T16:37:19.288Z"
     }
   ],
-  "lastRun": "2026-09-29T04:33:54.160Z"
+  "lastRun": "2026-09-29T12:16:08.762Z"
 }
