@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "manchester-city-launches-appeal-against-premier-league-financial-ruling-ceffaa0df61c",
+      "headline": "Manchester City Launches Appeal Against Premier League Financial Ruling",
+      "league": "Premier League",
+      "summary": "Manchester City has formally appealed the independent commission's verdict that found the club guilty of extensive financial rule breaches. This move follows the Premier League's damning findings and has prompted strong reactions regarding the integrity of English football.",
+      "body": "Manchester City officially lodged a comprehensive appeal against the Premier League's recent ruling, which detailed significant financial rule-breaking by the club over nearly a decade. The club confirmed their appeal on Thursday evening, October 1st, ahead of the Friday deadline, asserting that the initial judgment contained fundamental errors of law, principle, and fact, and was therefore unsound. City maintains its innocence against all accusations, stating that irrefutable evidence supports their position in this prolonged dispute.\n\nThis development comes after an independent commission concluded that City inflated revenues and understated costs by over £900 million through illicit commercial contracts and off-book arrangements between 2009 and 2018. The Football Association, English football's governing body, expressed profound concern on Friday, October 2nd, stating that the commission's decision carried significant implications for the sport's integrity.\n\nThe appeal process is expected to be lengthy, potentially spanning several months, with an appeal board holding broad discretion to either uphold, dismiss, or alter the original verdict. Sanctions, which could range from substantial fines and points deductions to, in the most extreme scenario, expulsion from the Premier League, will be determined in a separate, confidential hearing following the appeal's conclusion.",
+      "tags": [
+        "Manchester City",
+        "Premier League",
+        "Financial Fair Play",
+        "Appeal"
+      ],
+      "image": "images/manchester-city-launches-appeal-against-premier-league-financial-ruling-ceffaa0df61c.svg",
+      "publishedAt": "2026-10-03T04:02:13.340Z"
+    },
+    {
       "id": "cape-verde-makes-history-secures-maiden-world-cup-berth-70f0d53adf31",
       "headline": "Cape Verde Makes History, Secures Maiden World Cup Berth",
       "league": "World Cup Qualifiers",
@@ -895,22 +910,7 @@
       ],
       "image": "images/barcelona-defender-eric-garc-a-sustains-warm-up-injury-with-spain-squad-11d82ee721ab.svg",
       "publishedAt": "2026-09-27T03:58:06.237Z"
-    },
-    {
-      "id": "mukhtar-reaches-century-mark-as-nashville-downs-toronto-01608f5423d0",
-      "headline": "Mukhtar Reaches Century Mark as Nashville Downs Toronto",
-      "league": "MLS",
-      "summary": "Hany Mukhtar etched his name further into Major League Soccer history this weekend, netting a first-half brace to achieve his 100th career MLS goal. His stellar performance propelled Nashville SC to a decisive 2-0 victory over Toronto FC.",
-      "body": "Nashville SC's talismanic midfielder, Hany Mukhtar, delivered a memorable performance on Saturday, September 26, scoring two goals against Toronto FC at GEODIS Park to reach the impressive milestone of 100 career MLS goals. The former league MVP showcased his scoring prowess early, finding the net twice before halftime to secure Nashville's comfortable 2-0 win.\n\nThis historic achievement places Mukhtar among an elite group, as he becomes only the 16th player in Major League Soccer history to reach the century mark in goals. He is also recognized as the first German-born player to accomplish this feat.\n\nBeyond his personal milestone, Mukhtar's brace solidified Nashville SC's strong position, further cementing their grip on the Supporters' Shield race. The victory, secured through his clinical finishing, underlined his continued importance to the club's ambitions this season.",
-      "tags": [
-        "Hany Mukhtar",
-        "Nashville SC",
-        "MLS",
-        "Goal Record"
-      ],
-      "image": "images/mukhtar-reaches-century-mark-as-nashville-downs-toronto-01608f5423d0.svg",
-      "publishedAt": "2026-09-27T03:58:19.430Z"
     }
   ],
-  "lastRun": "2026-10-02T21:54:46.665Z"
+  "lastRun": "2026-10-03T04:02:17.341Z"
 }
