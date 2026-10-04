@@ -1,6 +1,67 @@
 {
   "articles": [
     {
+      "id": "raphinha-claims-second-consecutive-la-liga-player-of-the-month-award-5f27fdb5cce1",
+      "headline": "Raphinha Claims Second Consecutive La Liga Player of the Month Award",
+      "league": "La Liga",
+      "summary": "Barcelona's attacking standout, Raphinha, has been recognized for his exceptional form, earning his second successive La Liga Player of the Month honor for September. The Brazilian forward has been instrumental in Hansi Flick's system, delivering consistent goal contributions.",
+      "body": "Barcelona's Raphinha has once again been named La Liga's Player of the Month, securing the September accolade following his August triumph. This marks a remarkable start to the season for the 29-year-old, who has adapted seamlessly to a more central attacking role under manager Hansi Flick.\n\nDuring September, Raphinha featured in all four league matches for the Catalan giants, directly contributing to an impressive nine goals. His standout performances included back-to-back hat-tricks against Racing Santander and Sevilla, showcasing his prolific scoring ability and impact on the team's offensive output.\n\nThe consistent recognition highlights Raphinha's pivotal role in Barcelona's early season success. His ability to find the back of the net and create opportunities has been crucial for the defending champions as they navigate the demanding La Liga schedule.",
+      "tags": [
+        "Raphinha",
+        "Barcelona",
+        "Player of the Month",
+        "La Liga",
+        "Awards"
+      ],
+      "image": "images/raphinha-claims-second-consecutive-la-liga-player-of-the-month-award-5f27fdb5cce1.svg",
+      "publishedAt": "2026-10-04T23:52:28.120Z"
+    },
+    {
+      "id": "haiti-secures-historic-world-cup-berth-after-decisive-victory-13d8199cc6a1",
+      "headline": "Haiti Secures Historic World Cup Berth After Decisive Victory",
+      "league": "World Cup Qualifiers",
+      "summary": "Haiti's national team has achieved a monumental milestone, qualifying for the 2026 FIFA World Cup for the first time in over 50 years. A crucial 2-0 triumph over Nicaragua sealed their place at the global tournament, sparking widespread jubilation.",
+      "body": "In a stunning display of determination, Haiti officially booked their ticket to the 2026 FIFA World Cup, marking their first appearance since 1974. The historic qualification came after a commanding 2-0 victory against Nicaragua, which saw them finish atop their CONCACAF qualifying group with 11 points, ahead of strong contenders like Honduras and Costa Rica.\n\nThe achievement is particularly remarkable given the unique circumstances surrounding the team's leadership. Head coach Sébastien Migné guided the squad to this unprecedented success entirely remotely, reportedly never having set foot in Haiti since taking the reins in March 2024. His innovative approach, relying on virtual communication and federation support, has defied conventional coaching methods.\n\nThis qualification represents a significant moment for Haitian football, showcasing the nation's growing prowess on the international stage. The expanded World Cup format offers more opportunities for CONCACAF nations, and Haiti has seized this chance to end their long-standing drought, igniting immense pride among supporters.",
+      "tags": [
+        "Haiti",
+        "World Cup 2026",
+        "CONCACAF Qualifiers",
+        "Football History"
+      ],
+      "image": "images/haiti-secures-historic-world-cup-berth-after-decisive-victory-13d8199cc6a1.svg",
+      "publishedAt": "2026-10-04T23:52:48.725Z"
+    },
+    {
+      "id": "senegal-set-to-host-2026-beach-soccer-afcon-3d2c21f79b4b",
+      "headline": "Senegal Set to Host 2026 Beach Soccer AFCON",
+      "league": "Other",
+      "summary": "The Confederation of African Football has confirmed that Senegal will host the upcoming 2026 Beach Soccer Africa Cup of Nations. The reigning champions will defend their title on home sand in late November and early December.",
+      "body": "Dakar, Senegal is poised to welcome the continent's premier beach soccer tournament as the Confederation of African Football (CAF) recently announced the nation as the host for the 2026 Beach Soccer Africa Cup of Nations. The decision, stemming from a virtual meeting of the CAF Executive Committee on October 2nd, will see the tournament unfold from November 28th to December 6th, 2026.\n\nThis marks a significant opportunity for Senegal, who are the current titleholders, to defend their continental crown on familiar territory. The West African nation has a strong pedigree in beach soccer, and the prospect of hosting will undoubtedly fuel their ambition to secure another championship.\n\nThe announcement was part of a broader set of decisions by the CAF Executive Committee, which also included the approval of the 2026-2030 CAF Competitions Calendar and amendments to interclub regulations. The focus on the Beach Soccer AFCON highlights CAF's commitment to developing various forms of football across the continent.",
+      "tags": [
+        "CAF",
+        "Beach Soccer",
+        "Senegal",
+        "AFCON"
+      ],
+      "image": "images/senegal-set-to-host-2026-beach-soccer-afcon-3d2c21f79b4b.svg",
+      "publishedAt": "2026-10-04T23:53:02.285Z"
+    },
+    {
+      "id": "cityzens-secure-home-draw-against-real-madrid-in-women-s-champions-league-f45c2cf358b4",
+      "headline": "Cityzens Secure Home Draw Against Real Madrid in Women's Champions League",
+      "league": "Champions League",
+      "summary": "Manchester City Women battled to a 1-1 draw against Real Madrid in their recent UEFA Women's Champions League encounter, with Bunny Shaw leveling the score after Linda Caicedo had put the visitors ahead. The hard-fought match at The Joie Stadium saw both teams earn a point in the competition's early stages.",
+      "body": "Manchester City Women played out an engaging 1-1 draw with Real Madrid in the UEFA Women's Champions League on Thursday, October 1st, at their home ground, The Joie Stadium. The Spanish side initially took the lead through a well-taken goal by Linda Caicedo in the 30th minute, putting pressure on the hosts before halftime.\n\nHowever, the Cityzens responded swiftly after the break, with star forward Bunny Shaw finding the equalizer in the 51st minute. The goal brought Manchester City back into contention, setting up a tense final period of the match as both teams pushed for a winning goal.\n\nDespite late efforts from Manchester City to secure all three points, including chances for Beth Mead and Khadija Shaw, the game concluded with the score remaining level. This result sees both clubs share the spoils and positions in the early stages of the Women's Champions League league phase.",
+      "tags": [
+        "Women's Champions League",
+        "Manchester City",
+        "Real Madrid",
+        "Football"
+      ],
+      "image": "images/cityzens-secure-home-draw-against-real-madrid-in-women-s-champions-league-f45c2cf358b4.svg",
+      "publishedAt": "2026-10-04T23:53:14.319Z"
+    },
+    {
       "id": "gambia-stuns-ghana-with-remarkable-afcon-qualifier-comeback-feb25ae3d031",
       "headline": "Gambia Stuns Ghana with Remarkable AFCON Qualifier Comeback",
       "league": "AFCON Qualifiers",
@@ -844,67 +905,7 @@
       ],
       "image": "images/afcon-2027-hosting-in-doubt-amidst-east-african-infrastructure-delays-fd684f4e32d1.svg",
       "publishedAt": "2026-09-29T12:16:04.762Z"
-    },
-    {
-      "id": "manchester-city-ceo-warns-of-protracted-legal-battle-amidst-sanctions-fallout-c1689595831a",
-      "headline": "Manchester City CEO Warns of Protracted Legal Battle Amidst Sanctions Fallout",
-      "league": "Premier League",
-      "summary": "Manchester City's chief executive has indicated that the club's ongoing legal dispute with the Premier League, following reports of a guilty verdict on financial charges, could extend for several more years. This declaration comes as rival clubs reportedly prepare to pursue significant compensation claims and speculation intensifies regarding potential sporting penalties.",
-      "body": "Manchester City's chief executive, Ferran Soriano, has reportedly informed fellow European club executives that the club's extensive legal battle with the Premier League is expected to continue for a considerable period. This revelation emerges amid widespread reports that an independent commission found City guilty on 114 of 115 alleged financial breaches, a decision neither the club nor the league has officially confirmed. Soriano's comments suggest a lengthy appeals process, potentially delaying any final resolution for years to come.\n\nThe implications of the reported verdict are far-reaching, with rival Premier League clubs allegedly preparing to launch legal action seeking hundreds of millions of pounds in compensation. Furthermore, debate is swirling over whether some of Manchester City's numerous titles and trophies from the past 15 years could be revoked, sending shockwaves through English football.\n\nAdding to the uncertainty, reports have surfaced suggesting that star striker Erling Haaland might consider his future at the club should Manchester City face relegation from the top flight. The club's chairman, Khaldoon Al Mubarak, has consistently maintained City's confidence in proving their innocence, emphasizing the ongoing nature of the process.",
-      "tags": [
-        "Manchester City",
-        "Premier League",
-        "Financial Fair Play",
-        "Legal Battle"
-      ],
-      "image": "images/manchester-city-ceo-warns-of-protracted-legal-battle-amidst-sanctions-fallout-c1689595831a.svg",
-      "publishedAt": "2026-09-29T04:33:36.004Z"
-    },
-    {
-      "id": "kenya-dominates-tanzania-in-u-23-afcon-qualifiers-mauritania-edges-dr-congo-1b8dbb3d820b",
-      "headline": "Kenya Dominates Tanzania in U-23 AFCON Qualifiers, Mauritania Edges DR Congo",
-      "league": "AFCON",
-      "summary": "Kenya initiated their U-23 Africa Cup of Nations qualification journey with a commanding 4-1 victory over Tanzania, while Mauritania secured a narrow 1-0 win against DR Congo in their opening fixture. These initial first-leg encounters have set a compelling tone for the continental tournament's qualifying stages.",
-      "body": "The TotalEnergies CAF Under-23 Africa Cup of Nations qualifying campaign commenced with a flurry of action on Monday, seeing Kenya deliver a dominant performance against East African rivals Tanzania. Playing at the Nyayo National Stadium in Nairobi, Kenya swiftly took the lead within the first minute through Paul Osama. Lawrence Okoth extended their advantage just before half-time, and Captain Kevin Wangaya made it 3-0 early in the second half. Despite a penalty conversion by Tanzania's Shekhan Khamis, Kelly Madada restored Kenya's three-goal cushion, securing a convincing 4-1 victory.\n\nIn another crucial first-round, first-leg match, Mauritania edged out DR Congo with a slender 1-0 win in Nouakchott. Hamidou Diarra proved to be the difference-maker, finding the back of the net after only ten minutes of play. Mauritania successfully held onto their early lead for the remainder of the contest, giving them a vital advantage heading into the return fixture.\n\nThese results provide both Kenya and Mauritania with significant leads as they look ahead to their respective second-leg matches. The winners of these ties will continue their pursuit of a spot in the TotalEnergies CAF Under-23 Africa Cup of Nations, scheduled to take place in Egypt next year.",
-      "tags": [
-        "CAF",
-        "U-23 AFCON Qualifiers",
-        "Kenya",
-        "Mauritania"
-      ],
-      "image": "images/kenya-dominates-tanzania-in-u-23-afcon-qualifiers-mauritania-edges-dr-congo-1b8dbb3d820b.svg",
-      "publishedAt": "2026-09-29T04:33:50.159Z"
-    },
-    {
-      "id": "lafc-parts-ways-with-head-coach-marc-dos-santos-after-difficult-run-f038ad4a3ac9",
-      "headline": "LAFC Parts Ways with Head Coach Marc Dos Santos After Difficult Run",
-      "league": "MLS",
-      "summary": "Los Angeles FC has announced the departure of head coach Marc Dos Santos, who was in his inaugural season with the club, following a challenging period of results. The decision comes as the team has struggled to find consistent victories, impacting their standing in the Western Conference.",
-      "body": "Los Angeles FC has made a significant coaching change, relieving Marc Dos Santos of his duties as head coach on Sunday, September 27th. The move comes after a difficult stretch where the team managed only two wins in their last thirteen matches across all competitions, leading to a drop to sixth place in the Western Conference standings.\n\nDos Santos, in his first year at the helm, initially guided LAFC to a strong start, including an impressive 5-0-1 record in MLS play without conceding a goal and an unbeaten streak of eleven games across various competitions. However, the team's performance declined significantly after their elimination from the CONCACAF Champions Cup semifinals.\n\nLAFC's president of soccer operations, John Thorrington, expressed gratitude for Dos Santos's dedication and contributions to the club. The team now faces the task of finding a new leader during the current FIFA international break, with their next match scheduled for October 10th against Western Conference leaders Vancouver Whitecaps.",
-      "tags": [
-        "LAFC",
-        "Marc Dos Santos",
-        "MLS",
-        "Coaching Change"
-      ],
-      "image": "images/lafc-parts-ways-with-head-coach-marc-dos-santos-after-difficult-run-f038ad4a3ac9.svg",
-      "publishedAt": "2026-09-28T21:06:41.904Z"
-    },
-    {
-      "id": "salah-sidelined-as-egypt-prepares-for-south-sudan-afcon-qualifier-85e4eece1f5e",
-      "headline": "Salah Sidelined as Egypt Prepares for South Sudan AFCON Qualifier",
-      "league": "AFCON Qualifiers",
-      "summary": "Egypt's national team has arrived in Juba for their upcoming Africa Cup of Nations qualifier against South Sudan, but they will be without their key forward. Mohamed Salah is being rested for the match, a decision made to protect him from playing on the artificial turf at Juba Stadium.",
-      "body": "The Egyptian national squad, known as the Pharaohs, landed in South Sudan's capital, Juba, on Sunday to prepare for their 2027 Africa Cup of Nations qualifying fixture. The Group B encounter, scheduled for Tuesday, will see Egypt aiming for their first victory in the campaign after a goalless draw against Angola in their opening match. South Sudan also seeks to rebound after their initial 2-1 loss to Malawi.\n\nA notable absence for the Egyptian side will be captain Mohamed Salah, who has been strategically rested for the upcoming game. The Egyptian Football Association confirmed this decision was made in agreement with Salah and the technical staff before the Angola match, primarily to safeguard the forward from potential injury on the artificial-turf pitch at Juba Stadium.\n\nDespite Salah's unavailability, former South Sudan international James Joseph believes Egypt possesses ample talent to secure a favorable result. He emphasized that the home team should not be distracted by the media attention surrounding Salah's absence and instead focus on their performance against the seven-time African champions. This match presents an opportunity for South Sudan to demonstrate their capabilities against a formidable opponent.",
-      "tags": [
-        "Egypt",
-        "Mohamed Salah",
-        "AFCON Qualifiers",
-        "South Sudan"
-      ],
-      "image": "images/salah-sidelined-as-egypt-prepares-for-south-sudan-afcon-qualifier-85e4eece1f5e.svg",
-      "publishedAt": "2026-09-28T21:06:58.491Z"
     }
   ],
-  "lastRun": "2026-10-04T20:57:57.231Z"
+  "lastRun": "2026-10-04T23:53:18.320Z"
 }
