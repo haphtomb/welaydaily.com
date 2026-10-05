@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "premier-league-giants-eye-barcelona-defender-jules-kound-amidst-uncertain-future-5beef207676d",
+      "headline": "Premier League Giants Eye Barcelona Defender Jules Koundé Amidst Uncertain Future",
+      "league": "La Liga",
+      "summary": "Barcelona defender Jules Koundé is reportedly a target for several top Premier League clubs as his role at the Catalan side diminishes. The Frenchman's underwhelming start to the season has prompted interest from England, with Barcelona open to a potential sale.",
+      "body": "Jules Koundé, the versatile defender for Barcelona, has reportedly caught the attention of five prominent Premier League teams, including Chelsea, Arsenal, Liverpool, Manchester United, and Manchester City. This intense interest comes as the player experiences a challenging period at the Spanish club, finding himself relegated to a secondary option at right-back behind Eric García.\n\nDespite Barcelona's strong start to the new campaign, securing eight consecutive wins across all competitions, Koundé has seen limited playing time, starting only one of the club's seven La Liga matches. This reduced involvement has fueled speculation about his future, with reports indicating that Barcelona might be willing to consider offers for the French international if the valuation is appropriate.\n\nKoundé's current situation at the Spotify Camp Nou contrasts sharply with his previous standing. The keen pursuit from England's elite clubs suggests his reputation remains high despite his recent struggles, highlighting a potential significant move in the upcoming transfer windows.",
+      "tags": [
+        "Jules Koundé",
+        "Barcelona",
+        "Transfer Rumours",
+        "La Liga"
+      ],
+      "image": "images/premier-league-giants-eye-barcelona-defender-jules-kound-amidst-uncertain-future-5beef207676d.svg",
+      "publishedAt": "2026-10-05T21:58:12.359Z"
+    },
+    {
       "id": "arsenal-intensify-pursuit-of-leipzig-winger-antonio-nusa-with-reported-34m-bid-cd68d9c7b091",
       "headline": "Arsenal Intensify Pursuit of Leipzig Winger Antonio Nusa with Reported £34M Bid",
       "league": "Transfer News",
@@ -889,22 +904,7 @@
       ],
       "image": "images/conmebol-postpones-world-cup-qualifiers-amid-player-welfare-concerns-da3ba0c857dc.svg",
       "publishedAt": "2026-09-30T09:23:59.310Z"
-    },
-    {
-      "id": "lafc-duo-reflect-on-canada-s-world-cup-run-amidst-international-break-81955fa01bba",
-      "headline": "LAFC Duo Reflect on Canada's World Cup Run Amidst International Break",
-      "league": "World Cup Qualifiers",
-      "summary": "As clubs pause for the FIFA international window, several LAFC players have joined their national teams, with two reflecting on Canada's strong performance at the recent 2026 World Cup. Their experiences from the summer's global tournament are now shaping their current international commitments.",
-      "body": "The MLS schedule has taken a break for the extended FIFA international window, allowing Los Angeles FC players to represent their countries. Among them, Canadian internationals Jacob Shaffelburg and Mathieu Choinière are carrying the momentum from their nation's impressive run to the Round of 16 at the FIFA World Cup 2026. This period marks the beginning of the 2030 World Cup cycle for Canada, aiming to build on their recent success.\n\nMeanwhile, Gabon's Denis Bouanga, LAFC's leading goal scorer, is focused on the African Cup of Nations qualifying campaign after his national team narrowly missed out on a spot in the 2026 World Cup. Bouanga, who recently became LAFC's all-time top scorer in MLS regular-season play, featured for Gabon in their recent AFCON qualifier against Morocco, a match they ultimately lost by a two-goal margin.\n\nThese international duties highlight the continued impact of the 2026 World Cup, even months after its conclusion. Players like Shaffelburg, Choinière, and Bouanga are now channeling their World Cup experiences – both triumphs and disappointments – into their current national team endeavors, demonstrating the long-lasting effects of football's biggest tournament.",
-      "tags": [
-        "World Cup 2026",
-        "Canada",
-        "Gabon",
-        "LAFC"
-      ],
-      "image": "images/lafc-duo-reflect-on-canada-s-world-cup-run-amidst-international-break-81955fa01bba.svg",
-      "publishedAt": "2026-09-29T19:49:48.599Z"
     }
   ],
-  "lastRun": "2026-10-05T13:48:02.259Z"
+  "lastRun": "2026-10-05T21:58:16.360Z"
 }
