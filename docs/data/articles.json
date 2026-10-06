@@ -1,6 +1,40 @@
 {
   "articles": [
     {
+      "id": "international-break-leaves-champions-league-clubs-nursing-key-player-injuries-889a077635d5",
+      "headline": "International Break Leaves Champions League Clubs Nursing Key Player Injuries",
+      "league": "Champions League",
+      "summary": "Several top European clubs face significant setbacks ahead of upcoming Champions League fixtures, as a recent international break has sidelined key players with various injuries. Real Madrid, Barcelona, Liverpool, Arsenal, and Newcastle are among those now assessing the damage and planning without their stars.",
+      "body": "The latest international break has delivered a harsh blow to numerous Champions League contenders, with several prominent players returning to their clubs nursing injuries. Real Madrid's preparations have been disrupted by a knee injury to Kylian Mbappe, sustained while playing for France against Turkiye, which is expected to keep him out for approximately two to three weeks. This absence will undoubtedly impact the Spanish giants' attacking prowess in the demanding European competition.\n\nBarcelona also finds itself in a challenging position as Raphinha suffered a thigh edema after featuring for Brazil in their victory over Australia. The Brazilian winger has since returned to Barcelona to begin his recovery, leaving a void in the Catalan side's creative options. Meanwhile, Liverpool's forward line could be without Cody Gakpo, who picked up an ankle injury while representing the Netherlands against Serbia, necessitating further assessment to determine his return timeline.\n\nFurther compounding the injury woes for English clubs, Arsenal's Kai Havertz is undergoing assessment for a muscle injury sustained during Germany's match against the Netherlands. Additionally, Newcastle United will be without Alexander Isak, who withdrew from the Sweden squad due to a minor thigh issue. These injuries highlight the mounting challenges for clubs balancing domestic and European ambitions in the wake of international duty.",
+      "tags": [
+        "Champions League",
+        "Injuries",
+        "International Break",
+        "Real Madrid",
+        "Barcelona",
+        "Liverpool",
+        "Arsenal"
+      ],
+      "image": "images/international-break-leaves-champions-league-clubs-nursing-key-player-injuries-889a077635d5.svg",
+      "publishedAt": "2026-10-06T05:09:14.376Z"
+    },
+    {
+      "id": "caf-apologizes-to-nigeria-set-to-ban-guinea-bissau-stadium-over-dangerous-pitch-5a6c4373c104",
+      "headline": "CAF Apologizes to Nigeria, Set to Ban Guinea-Bissau Stadium Over Dangerous Pitch",
+      "league": "AFCON",
+      "summary": "African football authorities have reportedly issued a formal apology to the Nigeria Football Federation following the Super Eagles' recent 3-0 defeat to Guinea-Bissau on an unplayable pitch. The Confederation of African Football is now expected to impose a ban on the Estádio Nacional 24 de Setembro, prohibiting it from hosting future qualifying matches.",
+      "body": "The Confederation of African Football (CAF) has reportedly extended an official apology to the Nigeria Football Federation (NFF) regarding the abysmal condition of the playing surface during Nigeria's 2027 Africa Cup of Nations qualifier against Guinea-Bissau. The Super Eagles suffered a 3-0 loss in the Group L encounter, with both teams reportedly raising concerns about the dangerous state of the pitch at the Estádio Nacional 24 de Setembro.\n\nReports indicate that CAF is poised to take stringent action, likely banning the Guinea-Bissau stadium from hosting any further qualifying fixtures in the AFCON 2027 series. This significant sanction would necessitate Guinea-Bissau finding an alternative venue for their upcoming home matches, underscoring CAF's acknowledgment of the pitch's severe deterioration.\n\nThe match saw Franculino Dju open the scoring for Guinea-Bissau, followed by goals from Mama Baldé and Álvaro Djaló, securing a decisive victory. This outcome marked coach Eric Chelle's first defeat with the Super Eagles. The incident highlights ongoing challenges with infrastructure standards in some African football venues, prompting CAF's swift response to ensure player safety and fair competition.",
+      "tags": [
+        "CAF",
+        "Nigeria",
+        "Guinea-Bissau",
+        "AFCON Qualifiers",
+        "Stadium Ban"
+      ],
+      "image": "images/caf-apologizes-to-nigeria-set-to-ban-guinea-bissau-stadium-over-dangerous-pitch-5a6c4373c104.svg",
+      "publishedAt": "2026-10-06T05:09:31.411Z"
+    },
+    {
       "id": "premier-league-giants-eye-barcelona-defender-jules-kound-amidst-uncertain-future-5beef207676d",
       "headline": "Premier League Giants Eye Barcelona Defender Jules Koundé Amidst Uncertain Future",
       "league": "La Liga",
@@ -874,37 +908,7 @@
       ],
       "image": "images/usmnt-defender-mark-mckenzie-returns-home-to-philadelphia-union-3a72f4f597dc.svg",
       "publishedAt": "2026-09-30T17:42:37.033Z"
-    },
-    {
-      "id": "ethan-mbapp-handed-three-match-champions-league-ban-following-elbow-incident-a3171e87ae31",
-      "headline": "Ethan Mbappé Handed Three-Match Champions League Ban Following Elbow Incident",
-      "league": "Champions League",
-      "summary": "Lille midfielder Ethan Mbappé has received a three-game suspension from UEFA for an on-field elbowing incident during his club's recent Champions League opener against Real Betis. This disciplinary action sidelines the 19-year-old for crucial upcoming European fixtures.",
-      "body": "UEFA has confirmed a three-match Champions League ban for Lille's young talent, Ethan Mbappé. The disciplinary measure stems from an incident where Mbappé elbowed Real Betis defender Natan during Lille's 3-2 defeat in their opening group stage match approximately three weeks ago. The action was identified through video review, leading to charges of assaulting another player.\n\nAs a result of the ban, Mbappé will miss Lille's upcoming Champions League clashes, including their away fixture against Arsenal on October 13, their home game versus Galatasaray, and the subsequent trip to face Bodø/Glimt. This setback comes early in the tournament for the midfielder, who is the younger brother of Real Madrid star Kylian Mbappé.\n\nThe 19-year-old will be eligible to return to Champions League action on November 25, when Lille is scheduled to host German giants Bayern Munich. This suspension is a significant blow for Lille, as they navigate a challenging European campaign without a key component of their squad for a considerable period.",
-      "tags": [
-        "Ethan Mbappé",
-        "Lille",
-        "Champions League",
-        "Suspension"
-      ],
-      "image": "images/ethan-mbapp-handed-three-match-champions-league-ban-following-elbow-incident-a3171e87ae31.svg",
-      "publishedAt": "2026-09-30T09:23:41.190Z"
-    },
-    {
-      "id": "conmebol-postpones-world-cup-qualifiers-amid-player-welfare-concerns-da3ba0c857dc",
-      "headline": "CONMEBOL Postpones World Cup Qualifiers Amid Player Welfare Concerns",
-      "league": "World Cup Qualifiers",
-      "summary": "South American World Cup qualifying matches slated for later this month have been called off by CONMEBOL. The decision comes as football authorities acknowledge a demanding schedule and ongoing quarantine requirements for players.",
-      "body": "CONMEBOL has announced the postponement of the upcoming World Cup 2026 qualifying fixtures, which were originally scheduled to take place later this month. The South American football confederation cited the need to review new dates with national associations, acknowledging the current challenges faced by players.\n\nThe decision reflects concerns over player welfare, given the intense football calendar and the complexities of mandatory quarantine protocols in various regions. This move aims to provide much-needed respite for players who have endured a particularly strenuous schedule recently.\n\nWhile specific new dates for the CONMEBOL qualifiers remain under discussion, the postponement highlights the growing consideration for athletes' well-being in an increasingly demanding international football landscape. Fans will now await further announcements regarding the resumption of the qualification campaign for the 2026 FIFA World Cup.",
-      "tags": [
-        "CONMEBOL",
-        "World Cup 2026",
-        "Qualifiers",
-        "Postponement"
-      ],
-      "image": "images/conmebol-postpones-world-cup-qualifiers-amid-player-welfare-concerns-da3ba0c857dc.svg",
-      "publishedAt": "2026-09-30T09:23:59.310Z"
     }
   ],
-  "lastRun": "2026-10-05T21:58:16.360Z"
+  "lastRun": "2026-10-06T05:09:35.413Z"
 }
