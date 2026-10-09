@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "milan-eyes-winter-reinforcements-for-champions-league-ambitions-7fd7073ef51e",
+      "headline": "Milan Eyes Winter Reinforcements for Champions League Ambitions",
+      "league": "Champions League",
+      "summary": "AC Milan is reportedly preparing a substantial investment in the upcoming January transfer window, targeting key players to bolster their squad for a strong push in the Champions League campaign. The club's management aims to acquire top talent from Sporting CP and Real Madrid, signaling a clear intent to elevate their European competitiveness.",
+      "body": "AC Milan is reportedly gearing up for an ambitious winter transfer window, with reports suggesting the club plans significant spending to strengthen its squad. The Rossoneri's primary objective is to enhance their prospects in the UEFA Champions League, where they aim to compete at the highest level this season.\n\nAccording to Italian sports daily La Gazzetta dello Sport, Milan's management is already evaluating potential targets ahead of the December 28th transfer window opening. The club is reportedly keen on bringing in two notable players, with names from Sporting CP and Real Madrid being circulated as potential acquisitions.\n\nThis strategic move reflects the club's determination to avoid a repeat of last season's financial constraints in the market. The club's ownership, led by Gerry Cardinale, is reportedly committed to investing further to ensure Milan can challenge for silverware, particularly in Europe's elite competition.",
+      "tags": [
+        "AC Milan",
+        "Transfer News",
+        "Champions League",
+        "Serie A"
+      ],
+      "image": "images/milan-eyes-winter-reinforcements-for-champions-league-ambitions-7fd7073ef51e.svg",
+      "publishedAt": "2026-10-09T18:02:38.596Z"
+    },
+    {
+      "id": "chicago-fire-secure-key-winger-haile-selassie-with-long-term-extension-ecd9d683dde9",
+      "headline": "Chicago Fire Secure Key Winger Haile-Selassie with Long-Term Extension",
+      "league": "MLS",
+      "summary": "The Chicago Fire have locked down influential winger Maren Haile-Selassie with a new contract, ensuring his presence through the 2028-29 season. This commitment underscores his significant role in the club's offensive strategies and future aspirations.",
+      "body": "The Chicago Fire organization announced today the successful negotiation of a new deal for Maren Haile-Selassie, extending his tenure with the club until the conclusion of the 2028-29 season. The 27-year-old Swiss international has become an indispensable asset since initially joining on loan in December 2022, with the Fire making his move permanent after the 2023 campaign.\n\nHaile-Selassie's impact on the field has been substantial, having amassed 137 appearances across all competitions for Chicago. He recently achieved a notable milestone, becoming only the eighth player in club history to contribute to over 50 goals. This season, his offensive prowess is evident as he leads the team with an impressive 18 goal contributions, comprising nine goals and nine assists.\n\nGregg Berhalter, the Fire's director of football and head coach, emphasized Haile-Selassie's dedication and potential for continued growth. The extension highlights the club's confidence in his ability to provide versatility, quality, and leadership, solidifying a crucial piece for their long-term plans as they aim for sustained success.",
+      "tags": [
+        "MLS",
+        "Chicago Fire",
+        "Transfer News",
+        "Maren Haile-Selassie"
+      ],
+      "image": "images/chicago-fire-secure-key-winger-haile-selassie-with-long-term-extension-ecd9d683dde9.svg",
+      "publishedAt": "2026-10-09T18:03:23.361Z"
+    },
+    {
       "id": "infantino-calls-for-enhanced-opportunities-in-african-youth-football-c6e3e4a04c25",
       "headline": "Infantino Calls for Enhanced Opportunities in African Youth Football",
       "league": "CAF News",
@@ -881,37 +911,7 @@
       ],
       "image": "images/truffert-signals-readiness-for-manchester-united-switch-f7793dfcd242.svg",
       "publishedAt": "2026-10-03T23:34:17.411Z"
-    },
-    {
-      "id": "g-ler-returns-early-to-madrid-after-international-suspension-c41c1fdda57b",
-      "headline": "Güler Returns Early to Madrid After International Suspension",
-      "league": "La Liga",
-      "summary": "Real Madrid midfielder Arda Güler is set for an early return to the Spanish capital after receiving a suspension during international duty with Turkey. The young talent will now have additional rest ahead of Real Madrid's upcoming La Liga fixture against Villarreal.",
-      "body": "Real Madrid has received an unexpected boost with the early return of Arda Güler from international commitments. The Turkish midfielder accumulated his second yellow card of the Nations League campaign on Friday during Turkey's 3-0 defeat to Belgium, resulting in a one-match suspension.\n\nThis disciplinary action means Güler will not be available for Turkey's upcoming match against Italy on Monday. Consequently, the 21-year-old will head back to Madrid sooner than anticipated, allowing him a few extra days to recuperate and prepare with his club.\n\nThe early return could prove beneficial for Real Madrid, providing Güler with extended rest before their crucial La Liga encounter against Villarreal scheduled for next weekend. His presence will be a welcome sight for the squad as they continue their domestic campaign.",
-      "tags": [
-        "Real Madrid",
-        "Arda Güler",
-        "International Break",
-        "La Liga"
-      ],
-      "image": "images/g-ler-returns-early-to-madrid-after-international-suspension-c41c1fdda57b.svg",
-      "publishedAt": "2026-10-03T23:34:30.678Z"
-    },
-    {
-      "id": "orlando-city-s-tyrese-spicer-undergoes-successful-foot-surgery-3b94acc31a79",
-      "headline": "Orlando City's Tyrese Spicer Undergoes Successful Foot Surgery",
-      "league": "MLS",
-      "summary": "Orlando City SC forward Tyrese Spicer recently underwent a successful surgical procedure to address a foot injury sustained while representing his national team. The talented attacker now begins his recovery period, with the club providing updates on his progress.",
-      "body": "Orlando City SC has confirmed that forward Tyrese Spicer successfully underwent surgery on Friday, October 2, to repair a Jones fracture in the fifth metatarsal of his right foot. The injury occurred during his international commitments with Trinidad & Tobago, sidelining the promising player.\n\nThe procedure was performed by Dr. Steven Choung at the Orlando Health Jewett Orthopedic Institute in downtown Orlando. This news comes as a setback for the Lions, who have relied on Spicer's contributions throughout the 2026 season.\n\nSpicer has been a notable presence for Orlando City this year, making eleven starts across twenty-seven appearances in all competitions. His recovery timeline is yet to be fully determined, but the club will undoubtedly be eager to see their international talent return to the pitch.",
-      "tags": [
-        "Orlando City SC",
-        "Tyrese Spicer",
-        "Injury Update",
-        "MLS"
-      ],
-      "image": "images/orlando-city-s-tyrese-spicer-undergoes-successful-foot-surgery-3b94acc31a79.svg",
-      "publishedAt": "2026-10-03T23:34:47.289Z"
     }
   ],
-  "lastRun": "2026-10-09T10:10:34.020Z"
+  "lastRun": "2026-10-09T18:03:27.362Z"
 }
