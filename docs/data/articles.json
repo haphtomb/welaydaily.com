@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "ten-man-chelsea-stumble-in-fiery-west-london-derby-c213e0dc7924",
+      "headline": "Ten-Man Chelsea Stumble in Fiery West London Derby",
+      "league": "Premier League",
+      "summary": "Fulham secured a dramatic 2-1 victory over local rivals Chelsea in a heated Premier League encounter, with the Blues finishing the match with ten men. The result marks a significant upset for the Cottagers, who rarely triumph against their wealthier neighbours.",
+      "body": "In a pulsating West London derby, Fulham delivered a surprising blow to Chelsea, claiming a narrow 2-1 win at Craven Cottage. The match took a contentious turn when Chelsea defender Marc Cucurella received a red card, leaving his side to battle with a numerical disadvantage for a significant portion of the game.\n\nHarry Wilson emerged as the hero for Fulham, netting a crucial goal that ultimately sealed the three points for the home side. This victory is particularly sweet for Fulham, as it represents only their third win in 29 attempts against Chelsea in Premier League history, underscoring the rarity of such an outcome.\n\nThe defeat sees Chelsea drop valuable points in what was described as a fiery contest, leaving fans and pundits to reflect on the impact of the red card and the unexpected derby upset. The Blues will now need to regroup quickly after a disappointing performance against their spirited local rivals.",
+      "tags": [
+        "Fulham",
+        "Chelsea",
+        "Premier League",
+        "Derby",
+        "Match Report"
+      ],
+      "image": "images/ten-man-chelsea-stumble-in-fiery-west-london-derby-c213e0dc7924.svg",
+      "publishedAt": "2026-10-09T01:02:12.097Z"
+    },
+    {
       "id": "spirit-sends-attacking-talent-gift-monday-to-boston-legacy-fc-9d603c9b6118",
       "headline": "Spirit Sends Attacking Talent Gift Monday to Boston Legacy FC",
       "league": "Other",
@@ -895,22 +911,7 @@
       ],
       "image": "images/barcelona-faces-january-sales-pressure-despite-significant-financial-turnaround-43f9f12d019a.svg",
       "publishedAt": "2026-10-03T15:50:17.072Z"
-    },
-    {
-      "id": "super-eagles-stunned-guinea-bissau-delivers-crushing-afcon-qualifier-defeat-76381200e538",
-      "headline": "Super Eagles Stunned: Guinea-Bissau Delivers Crushing AFCON Qualifier Defeat",
-      "league": "AFCON Qualifiers",
-      "summary": "Nigeria's hopes for the 2027 Africa Cup of Nations faced a significant setback following a shocking 3-0 loss to Guinea-Bissau in their recent qualifying match. This unexpected defeat has ignited concerns within Nigerian football circles regarding the team's administrative structure and on-field complacency.",
-      "body": "The Super Eagles suffered a stunning 3-0 away defeat to Guinea-Bissau in a 2027 Africa Cup of Nations qualifier, a result that has sent shockwaves through Nigerian football. Goals from Franculino Dju, Mama Baldé, and Álvaro Djaló secured a dominant victory for Guinea-Bissau, marking the first competitive loss for Nigeria's coach Eric Chelle. This outcome leaves the Super Eagles with just three points from two matches, intensifying worries about their qualification prospects, especially after their absence from the 2026 FIFA World Cup.\n\nFormer Super Eagles captain William Troost-Ekong has voiced his concerns, attributing the team's inconsistent performances in the AFCON qualifiers to deeper administrative issues rather than solely focusing on player or coaching deficiencies. He suggested that underlying problems within the football administration are now becoming exposed, hindering the team's ability to perform at the required level.\n\nThis significant loss highlights a growing challenge for African football powerhouses, as smaller nations continue to demonstrate their capability to upset established teams. The result serves as a stark reminder that talent alone is no longer sufficient, and a comprehensive re-evaluation of strategies and preparations is crucial for Nigeria to avoid another major tournament disappointment.",
-      "tags": [
-        "Nigeria",
-        "Guinea-Bissau",
-        "AFCON Qualifiers",
-        "Super Eagles"
-      ],
-      "image": "images/super-eagles-stunned-guinea-bissau-delivers-crushing-afcon-qualifier-defeat-76381200e538.svg",
-      "publishedAt": "2026-10-03T15:50:44.467Z"
     }
   ],
-  "lastRun": "2026-10-08T18:32:05.252Z"
+  "lastRun": "2026-10-09T01:02:16.098Z"
 }
