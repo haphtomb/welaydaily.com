@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "chelsea-dominates-winless-bournemouth-with-early-goal-blitz-at-stamford-bridge-103d4ae5821a",
+      "headline": "Chelsea Dominates Winless Bournemouth with Early Goal Blitz at Stamford Bridge",
+      "league": "Premier League",
+      "summary": "Chelsea delivered a commanding performance at Stamford Bridge today, securing a resounding 5-1 victory over a struggling Bournemouth side. The Blues quickly established control with three goals in the opening minutes, leaving the visitors with a significant challenge.",
+      "body": "Chelsea ignited their Premier League campaign with an emphatic 5-1 triumph against Bournemouth at Stamford Bridge this afternoon. The home side wasted no time asserting their dominance, netting three quick goals to set the tone for the encounter. Jordan Henderson opened the scoring just two minutes into the match, swiftly followed by another strike from Henderson a minute later, and then a goal from Rogers in the third minute, putting Chelsea firmly in control.\n\nBournemouth, who entered the match still seeking their first win of the season, found themselves overwhelmed by Chelsea's early attacking prowess. Despite the early setback, the Cherries struggled to find a foothold in the game against a confident Chelsea outfit that continued to press forward.\n\nThe comprehensive victory provides a significant boost for Chelsea, allowing them to gather crucial points in the league standings. For Bournemouth, the heavy defeat at Stamford Bridge extends their winless run and highlights the challenges they face in the current Premier League season.",
+      "tags": [
+        "Chelsea",
+        "Bournemouth",
+        "Premier League",
+        "Match Report"
+      ],
+      "image": "images/chelsea-dominates-winless-bournemouth-with-early-goal-blitz-at-stamford-bridge-103d4ae5821a.svg",
+      "publishedAt": "2026-10-10T17:02:57.969Z"
+    },
+    {
+      "id": "striker-alleges-super-eagles-deliberately-missed-2026-world-cup-614b77dadba5",
+      "headline": "Striker Alleges Super Eagles Deliberately Missed 2026 World Cup",
+      "league": "World Cup Qualifiers",
+      "summary": "Controversial claims have emerged regarding Nigeria's failure to qualify for the 2026 FIFA World Cup, with a Russian-born Nigerian forward suggesting a deliberate lack of motivation among the Super Eagles. The team's unexpected exit in the African playoff final has sparked significant debate and disappointment among fans.",
+      "body": "The footballing world is abuzz with accusations following Nigeria's absence from the upcoming 2026 FIFA World Cup. German Onugkha, a striker based in Russia with Nigerian heritage, has voiced a strong opinion that the Super Eagles' players intentionally avoided qualifying for the prestigious tournament. This assertion comes after Nigeria's national team failed to secure a spot in the expanded 48-team competition.\n\nOnugkha suggested that the Super Eagles, boasting a roster valued at hundreds of millions, simply lacked the drive to participate, opting instead for extended vacations. Nigeria's World Cup dreams were crushed when they suffered a 4-3 penalty shootout defeat against the Democratic Republic of Congo in the African playoff final.\n\nHad the Super Eagles emerged victorious against the Leopards, they would have advanced to the inter-confederation playoffs, with a potential clash against Jamaica for a place in the tournament. This missed opportunity, coupled with Onugkha's comments, has ignited a fervent discussion among supporters about the commitment and ambition of the national team.",
+      "tags": [
+        "Nigeria",
+        "World Cup 2026",
+        "Qualifiers",
+        "Controversy"
+      ],
+      "image": "images/striker-alleges-super-eagles-deliberately-missed-2026-world-cup-614b77dadba5.svg",
+      "publishedAt": "2026-10-10T17:03:16.287Z"
+    },
+    {
       "id": "liverpool-reportedly-initiate-contact-for-real-madrid-star-kylian-mbappe-28970f07c74d",
       "headline": "Liverpool Reportedly Initiate Contact for Real Madrid Star Kylian Mbappe",
       "league": "Transfer News",
@@ -880,37 +910,7 @@
       ],
       "image": "images/mahrez-makes-surprise-switch-to-qatari-side-al-shamal-sc-dee656a0c584.svg",
       "publishedAt": "2026-10-04T16:33:02.391Z"
-    },
-    {
-      "id": "barcelona-faces-alarming-champions-league-exclusion-threat-amid-negreira-case-556bca7930eb",
-      "headline": "Barcelona Faces Alarming Champions League Exclusion Threat Amid Negreira Case",
-      "league": "Champions League",
-      "summary": "Barcelona could face temporary exclusion from the Champions League as UEFA intensifies its investigation into the Negreira case, with reports suggesting the European governing body may act without awaiting a final Spanish court verdict. The club acknowledges the ongoing proceedings but states UEFA has not made new information requests as of October 1st.",
-      "body": "Reports emerging today indicate a growing concern at Barcelona regarding a potential temporary ban from the UEFA Champions League. This comes as UEFA continues its scrutiny of the controversial Negreira case, which involves alleged payments made by the club to a former refereeing official. Sources suggest that European football's governing body might not necessarily wait for a definitive ruling from Spanish courts before imposing an eligibility measure against the Catalan giants.\n\nThe situation has escalated with UEFA confirming that Real Madrid has submitted substantial documentation related to its ongoing investigation into Barcelona and José María Enríquez Negreira. UEFA's Ethics and Disciplinary Inspectors are currently reviewing these new materials as part of their existing inquiry.\n\nWhile Barcelona maintains that a new case has not been opened and that proceedings initiated in 2023 were never formally closed, the possibility of a temporary Champions League exclusion looms large. The club currently holds a UEFA license and is scheduled to play Galatasaray on October 13th in the 2026/27 Champions League.",
-      "tags": [
-        "Barcelona",
-        "Champions League",
-        "UEFA",
-        "Negreira Case"
-      ],
-      "image": "images/barcelona-faces-alarming-champions-league-exclusion-threat-amid-negreira-case-556bca7930eb.svg",
-      "publishedAt": "2026-10-04T16:33:17.422Z"
-    },
-    {
-      "id": "caf-reforms-interclub-rules-cup-tied-clause-abolished-cb6f37c15018",
-      "headline": "CAF Reforms Interclub Rules: 'Cup-Tied' Clause Abolished",
-      "league": "CAF Champions League",
-      "summary": "African club football is set for a significant shake-up after the Confederation of African Football (CAF) announced the removal of the long-standing 'cup-tied' rule. This progressive amendment will allow players to represent multiple clubs within the same season in both the Champions League and Confederation Cup.",
-      "body": "The Confederation of African Football's Executive Committee has implemented a notable regulatory change, permitting players to compete for more than one club in the CAF Champions League and Confederation Cup during a single season. This decision, approved on October 2, 2026, marks a departure from previous rules that prevented players who had featured for one club in continental competition from playing for another if they transferred mid-season.\n\nBeyond this key amendment, the governing body also confirmed adjustments to squad registration, with clubs now able to list up to 40 players. Furthermore, teams can replace four players during the final registration period, provided those individuals have not yet participated in any CAF interclub matches that campaign.\n\nThese pivotal decisions emerged from a recent virtual meeting of the CAF Executive Committee, which also approved the 2026–2030 competitions calendar and set dates for major events. The CAF Awards 2026 are slated for December 7 in Lagos, Nigeria, while Senegal will host the Beach Soccer Africa Cup of Nations from November 28 to December 6.",
-      "tags": [
-        "CAF",
-        "Club Football",
-        "Player Transfers",
-        "Regulations"
-      ],
-      "image": "images/caf-reforms-interclub-rules-cup-tied-clause-abolished-cb6f37c15018.svg",
-      "publishedAt": "2026-10-04T11:52:29.062Z"
     }
   ],
-  "lastRun": "2026-10-10T09:31:08.475Z"
+  "lastRun": "2026-10-10T17:03:28.435Z"
 }
