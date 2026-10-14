@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "mahrez-makes-qatar-move-joins-al-shamal-on-free-transfer-ebfba787221a",
+      "headline": "Mahrez Makes Qatar Move, Joins Al Shamal on Free Transfer",
+      "league": "Transfer News",
+      "summary": "Former Manchester City and Al Ahli winger Riyad Mahrez has reportedly finalized an agreement to join Qatari club Al Shamal on a free transfer. The Algerian international is expected to undergo a medical early next week, signaling a new chapter in his illustrious career.",
+      "body": "Riyad Mahrez, the celebrated Algerian winger, is set to embark on a new adventure in the Qatar Stars League, having reached an agreement in principle to join Al Shamal. The move comes after his departure from Saudi Pro League side Al Ahli, making him a free agent.\n\nReports indicate that the deal is structured for one year, with an option to extend for a further season. Mahrez reportedly opted for Al Shamal despite attracting interest from clubs in England and Major League Soccer, highlighting his preference for the Qatari challenge. His medical examination is anticipated in the coming days, paving the way for an official announcement.\n\nThe transfer sees the talented attacker link up with fellow Algerian Baghdad Bounedjah, potentially forming a formidable partnership for Al Shamal. This significant acquisition is expected to bolster Al Shamal's squad as they aim to make an impact in the competitive Qatari league.",
+      "tags": [
+        "Riyad Mahrez",
+        "Al Shamal",
+        "Qatar Stars League",
+        "Transfer"
+      ],
+      "image": "images/mahrez-makes-qatar-move-joins-al-shamal-on-free-transfer-ebfba787221a.svg",
+      "publishedAt": "2026-10-14T23:45:08.459Z"
+    },
+    {
+      "id": "el-cl-sico-declared-high-risk-amidst-escalating-club-tensions-211cc7527ea0",
+      "headline": "El Clásico Declared High-Risk Amidst Escalating Club Tensions",
+      "league": "La Liga",
+      "summary": "Spanish authorities have officially designated the upcoming El Clásico between Barcelona and Real Madrid as a high-risk fixture due to mounting off-field animosity between the two footballing giants. This declaration comes as legal disputes and public confrontations heighten the rivalry ahead of their pivotal league encounter.",
+      "body": "The highly anticipated clash between FC Barcelona and Real Madrid, scheduled for October 25 at Spotify Camp Nou, has been formally categorized as a high-risk event by the Permanent Committee of Spain's State Commission against Violence, Racism, Xenophobia and Intolerance in Sport. This decision reflects growing concerns over the increasingly fractious relationship between the two clubs, which extends beyond the pitch.\n\nThe heightened tensions stem largely from the ongoing Negreira case, where Real Madrid has taken an aggressive stance against their Catalan rivals. In retaliation, Barcelona has initiated legal proceedings against Real Madrid president Florentino Perez over comments made during the summer. These legal and public spats have significantly worsened the atmosphere surrounding Spanish football's biggest game.\n\nAs a direct consequence of this high-risk classification, spectators can anticipate a substantially increased police presence both before, during, and after the match at the Spotify Camp Nou. Authorities aim to ensure public safety and mitigate any potential disturbances arising from the heated rivalry.",
+      "tags": [
+        "El Clásico",
+        "Barcelona",
+        "Real Madrid",
+        "Security"
+      ],
+      "image": "images/el-cl-sico-declared-high-risk-amidst-escalating-club-tensions-211cc7527ea0.svg",
+      "publishedAt": "2026-10-14T23:45:23.974Z"
+    },
+    {
+      "id": "ghana-s-black-sharks-edge-nigeria-in-thrilling-beach-soccer-qualifier-0035ef7d5328",
+      "headline": "Ghana's Black Sharks Edge Nigeria in Thrilling Beach Soccer Qualifier",
+      "league": "Other",
+      "summary": "Ghana's Beach Soccer national team, the Black Sharks, secured a vital away victory against rivals Nigeria in a dramatic 2026 CAF Beach Soccer Africa Cup of Nations qualifier. The contest went to penalties after a gripping eight-goal stalemate, with Ghana ultimately prevailing.",
+      "body": "The Black Sharks of Ghana triumphed over Nigeria's Sand Eagles in a hard-fought first leg of their 2026 CAF Beach Soccer Africa Cup of Nations qualifier today. The match concluded with a 4-4 draw after both regular and extra time, leading to a tense penalty shootout where Ghana emerged victorious with a 5-4 scoreline. This crucial win gives Ghana a significant advantage heading into the return fixture.\n\nMawuli Sosu was instrumental for Ghana, netting two goals, while Wise Nyamadi also contributed a crucial strike. An own goal by Nigeria further bolstered Ghana's tally in the fiercely contested encounter. Despite Nigeria's persistent efforts to match Ghana throughout the game, the Black Sharks displayed commendable resilience and determination, ultimately forcing the match into a decisive penalty shootout.\n\nThe result positions Ghana favorably ahead of the second leg, which is scheduled to take place in Keta. The Black Sharks will aim to capitalize on their away success and secure their qualification for the 2026 CAF Beach Soccer AFCON, set to be hosted in Senegal.",
+      "tags": [
+        "Beach Soccer",
+        "AFCON Qualifiers",
+        "Ghana",
+        "Nigeria"
+      ],
+      "image": "images/ghana-s-black-sharks-edge-nigeria-in-thrilling-beach-soccer-qualifier-0035ef7d5328.svg",
+      "publishedAt": "2026-10-14T23:45:44.520Z"
+    },
+    {
+      "id": "messi-s-solo-brilliance-crowned-mls-goal-of-the-matchday-0f079daee5b4",
+      "headline": "Messi's Solo Brilliance Crowned MLS Goal of the Matchday",
+      "league": "MLS",
+      "summary": "Inter Miami's Lionel Messi has once again captivated fans, securing the AT&T Goal of the Matchday award for his exceptional individual effort against D.C. United. This recognition follows his triumphant return to club action after his international retirement from Argentina.",
+      "body": "Lionel Messi's incredible solo goal in Inter Miami's dominant 4-0 victory over D.C. United has been voted the AT&T Goal of the Matchday for MLS Matchday 29. The superstar's dazzling strike garnered a significant 71.5% of the fan vote, highlighting the widespread appreciation for his skill.\n\nThe goal marked a memorable moment for Messi, occurring in his first appearance back with Inter Miami following his recent international retirement from the Argentina national team. His immediate impact underscores his continued influence on the league.\n\nThis latest accolade adds to Messi's growing list of achievements in Major League Soccer, as he continues to deliver highlight-reel performances for the Florida-based club. Fans eagerly anticipate more of his signature magic as the season progresses.",
+      "tags": [
+        "Lionel Messi",
+        "Inter Miami CF",
+        "Goal of the Matchday",
+        "MLS"
+      ],
+      "image": "images/messi-s-solo-brilliance-crowned-mls-goal-of-the-matchday-0f079daee5b4.svg",
+      "publishedAt": "2026-10-14T23:45:59.713Z"
+    },
+    {
       "id": "soucek-commits-long-term-future-to-west-ham-with-new-deal-e049a3370aee",
       "headline": "Soucek Commits Long-Term Future to West Ham with New Deal",
       "league": "Premier League",
@@ -842,68 +902,7 @@
       ],
       "image": "images/ten-man-chelsea-stumble-in-fiery-west-london-derby-c213e0dc7924.svg",
       "publishedAt": "2026-10-09T01:02:12.097Z"
-    },
-    {
-      "id": "spirit-sends-attacking-talent-gift-monday-to-boston-legacy-fc-9d603c9b6118",
-      "headline": "Spirit Sends Attacking Talent Gift Monday to Boston Legacy FC",
-      "league": "Other",
-      "summary": "The Washington Spirit has officially transferred forward Gift Monday to expansion side Boston Legacy FC, securing significant transfer funds and a future sell-on clause. This move sees a vital attacking player embark on a new chapter with the burgeoning Boston club.",
-      "body": "The Washington Spirit confirmed today the transfer of their dynamic forward, Gift Monday, to NWSL expansion team Boston Legacy FC. This strategic deal provides the Spirit with $500,000 in transfer threshold funds and includes a 20 percent sell-on clause, ensuring a future financial benefit should Boston move Monday to another club.\n\nMonday, who arrived at the Spirit in March 2025 from Spain's UD Tenerife, quickly established herself as a key figure in the attacking third. She made 48 appearances across all competitions for Washington, contributing 12 goals and three assists. Her impactful performances notably included two critical goals during last season's NWSL Playoffs, which were instrumental in guiding the Spirit to the NWSL Championship.\n\nSpirit Sporting Director James Hocken acknowledged Monday's valuable contributions during her tenure, wishing her success in this next phase of her career. For Boston Legacy FC, this acquisition represents a significant step in building a competitive squad with proven talent as they prepare for upcoming challenges.",
-      "tags": [
-        "NWSL",
-        "Transfer News",
-        "Gift Monday",
-        "Washington Spirit"
-      ],
-      "image": "images/spirit-sends-attacking-talent-gift-monday-to-boston-legacy-fc-9d603c9b6118.svg",
-      "publishedAt": "2026-10-08T18:31:04.258Z"
-    },
-    {
-      "id": "barnes-late-heroics-seal-seven-goal-thriller-for-newcastle-over-leeds-b384e61e68a6",
-      "headline": "Barnes' Late Heroics Seal Seven-Goal Thriller for Newcastle Over Leeds",
-      "league": "Premier League",
-      "summary": "Harvey Barnes delivered a dramatic stoppage-time winner for Newcastle, securing a thrilling 4-3 victory against Leeds United and bringing an end to the visitors' impressive unbeaten streak. The high-scoring encounter at St. James' Park captivated fans with its relentless attacking play and late twists.",
-      "body": "Newcastle United emerged victorious in a sensational Premier League clash yesterday, defeating Leeds United 4-3 in a match that will be remembered for its relentless drama. The Magpies secured all three points thanks to a last-gasp goal from winger Harvey Barnes, delighting the home crowd at St. James' Park. This pivotal strike not only clinched a crucial win for Eddie Howe's side but also ended Leeds United's commendable run of form without a defeat.\n\nThe game was a true spectacle of attacking football, featuring seven goals and a constant back-and-forth battle for supremacy. Both teams demonstrated their offensive capabilities, but it was Newcastle who ultimately found the decisive moment in the dying seconds of the match. The result provides a significant boost for Newcastle as they navigate the demanding Premier League schedule.\n\nFor Leeds, the defeat marks the end of their unbeaten stretch, a testament to their resilience in recent weeks. Despite the loss, their spirited performance in such a high-scoring affair will offer some consolation, although the manner of the late winner will undoubtedly sting. The reaction from both camps highlights the intensity and unpredictable nature of the Premier League.",
-      "tags": [
-        "Newcastle United",
-        "Leeds United",
-        "Premier League",
-        "Match Results"
-      ],
-      "image": "images/barnes-late-heroics-seal-seven-goal-thriller-for-newcastle-over-leeds-b384e61e68a6.svg",
-      "publishedAt": "2026-10-08T18:31:23.659Z"
-    },
-    {
-      "id": "china-s-world-cup-hopes-dwindle-amidst-dismal-qualifier-form-05f4986f624c",
-      "headline": "China's World Cup Hopes Dwindle Amidst Dismal Qualifier Form",
-      "league": "World Cup Qualifiers",
-      "summary": "China's national football team is facing a severe crisis in its bid for the 2026 World Cup, highlighted by a string of heavy defeats and a plummeting global ranking. Recent performances have ignited widespread public frustration, questioning the team's future in international football.",
-      "body": "The Chinese national football team's aspirations for the 2026 FIFA World Cup are teetering on the brink following a disastrous run of results in recent qualification matches. The squad endured a demoralizing three-game losing streak during the latest international window, failing to score a single goal while conceding nine. This included a 3-0 defeat to New Zealand on September 27, a shocking 5-0 home loss against Palestine on October 2, and a 1-0 setback to Tajikistan on October 6 in the CFA Chongqing International Football Invitation Tournament.\n\nThe team's struggles have seen their FIFA world ranking drop to 96th, placing them 15th within Asia, perilously close to the cut-off for the continent's top division. This precarious position raises concerns about potential relegation to the second tier of Asian football, a development that could fundamentally obstruct future World Cup qualification pathways. Adding to the turmoil, star striker Wei Shao received a red card for an elbow during the Tajikistan match, further exacerbating the team's on-field woes.\n\nPublic outrage in China is reportedly at an all-time high, with fans expressing profound disappointment over the team's lack of quality and discipline. The dire situation also comes as the Asian Football Confederation considers implementing a new Asian Nations League, potentially linking it to World Cup qualification from 2030, which could make the path even more challenging for lower-ranked nations like China.",
-      "tags": [
-        "China Football",
-        "World Cup 2026",
-        "AFC Qualifiers",
-        "Team Performance"
-      ],
-      "image": "images/china-s-world-cup-hopes-dwindle-amidst-dismal-qualifier-form-05f4986f624c.svg",
-      "publishedAt": "2026-10-08T18:31:43.623Z"
-    },
-    {
-      "id": "cas-hears-senegal-s-appeal-over-contentious-2025-afcon-final-ab7e67185b29",
-      "headline": "CAS Hears Senegal's Appeal Over Contentious 2025 AFCON Final",
-      "league": "AFCON",
-      "summary": "The Court of Arbitration for Sport convened today to hear Senegal's appeal against the Confederation of African Football's decision to strip them of the 2025 Africa Cup of Nations title. This pivotal hearing aims to resolve the highly controversial aftermath of the final against Morocco, where CAF overturned Senegal's on-field victory.",
-      "body": "The Court of Arbitration for Sport (CAS) in Lausanne, Switzerland, is currently presiding over a critical appeal from the Senegalese Football Federation, challenging the Confederation of African Football's (CAF) controversial ruling on the 2025 Africa Cup of Nations final. Today's hearing, October 8, 2026, marks a significant step towards resolving a dispute that has lingered since the dramatic conclusion of the tournament in Rabat, Morocco. Senegal is seeking to reinstate their hard-fought 1-0 extra-time victory against Morocco, a result that was later overturned by CAF.\n\nCAF's appeals panel had previously awarded Morocco a 3-0 victory after Senegal's team staged a walk-off during the final, protesting a penalty awarded by Congolese referee Jean-Jacques Ndala. This contentious decision led to a 15-minute stoppage in play and subsequently, the forfeiture ruling that stripped Senegal of the trophy they had lifted on the pitch. The Senegalese government also joined the federation in its quest, calling for an investigation into alleged corruption within African football over the issue.\n\nWith both federations presenting their arguments behind closed doors, the football world eagerly awaits the verdict, which CAS officials anticipate delivering within a few days. The outcome will not only determine the legitimate champion of the 2025 AFCON but also has broader implications for CAF's disciplinary authority and the integrity of continental competitions.",
-      "tags": [
-        "AFCON 2025",
-        "CAF",
-        "Senegal",
-        "Morocco",
-        "CAS Appeal"
-      ],
-      "image": "images/cas-hears-senegal-s-appeal-over-contentious-2025-afcon-final-ab7e67185b29.svg",
-      "publishedAt": "2026-10-08T18:32:01.253Z"
     }
   ],
-  "lastRun": "2026-10-14T19:13:47.371Z"
+  "lastRun": "2026-10-14T23:46:03.713Z"
 }
