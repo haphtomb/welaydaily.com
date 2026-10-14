@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "sounders-alliance-to-decide-gm-waibel-s-future-in-unique-club-vote-7c9b10374df3",
+      "headline": "Sounders Alliance to Decide GM Waibel's Future in Unique Club Vote",
+      "league": "MLS",
+      "summary": "Seattle Sounders FC has initiated its distinctive 2026 Sounders Ballot, empowering Alliance Members to cast their votes on the tenure of General Manager Craig Waibel. This rare democratic exercise allows supporters a direct influence on the club's leadership for the coming seasons.",
+      "body": "Seattle Sounders FC has once again activated its unique 'Democracy in Sports' initiative, commencing the 2026 Sounders Ballot this week. At the forefront of this ballot is a crucial vote on whether to retain General Manager and Chief Soccer Officer Craig Waibel, a decision placed directly in the hands of the club's eligible Alliance Members. The voting period is now open and will continue through November 7th. \n\nThis marks the fourth time in the club's history that such a general manager vote has occurred, and the first instance for Waibel since assuming the role before the 2023 season. Under his leadership, the Sounders have achieved significant success, including a Leagues Cup title in 2025 and consistent playoff appearances, even reaching the 2024 Western Conference Final. \n\nWaibel's tenure has also seen the club participate in two FIFA Club World Cups, making him the only MLS General Manager to oversee such an accomplishment. As the voting continues, the outcome will undeniably shape the strategic direction and future aspirations of the Seattle Sounders franchise.",
+      "tags": [
+        "Seattle Sounders FC",
+        "Craig Waibel",
+        "MLS Governance",
+        "Fan Vote"
+      ],
+      "image": "images/sounders-alliance-to-decide-gm-waibel-s-future-in-unique-club-vote-7c9b10374df3.svg",
+      "publishedAt": "2026-10-14T00:11:44.214Z"
+    },
+    {
       "id": "toronto-fc-secures-promising-homegrown-midfielder-antone-bossenberry-romero-1f4a6fa4774d",
       "headline": "Toronto FC Secures Promising Homegrown Midfielder Antone Bossenberry Romero",
       "league": "MLS",
@@ -888,22 +903,7 @@
       ],
       "image": "images/mourinho-s-emotional-return-to-stadio-olimpico-with-real-madrid-looms-8bdb3b90ea74.svg",
       "publishedAt": "2026-10-07T18:33:59.250Z"
-    },
-    {
-      "id": "veteran-striker-jamie-vardy-makes-surprise-return-to-premier-league-with-burnley-69068ba43123",
-      "headline": "Veteran Striker Jamie Vardy Makes Surprise Return to Premier League with Burnley",
-      "league": "Premier League",
-      "summary": "Former Leicester City icon Jamie Vardy has completed an unexpected move to Burnley, signing a deal that will keep him at the club until the season concludes. This marks a surprising comeback to England's top flight for the prolific forward.",
-      "body": "Burnley has secured the services of seasoned striker Jamie Vardy in a significant transfer coup, confirmed on October 6, 2026. The veteran, widely recognized for his legendary tenure at Leicester City, has penned a deal with the Premier League side for the remainder of the current campaign.\n\nThe unexpected acquisition brings a wealth of experience and a proven goal-scoring record back to the Premier League. Vardy's return is anticipated to provide a considerable boost to Burnley's attacking options as they navigate the demanding top-flight season.\n\nFans and pundits alike are keen to see the impact of this surprise signing, with many hoping Vardy can recapture the form that made him one of the league's most feared forwards. His arrival signals a clear intent from Burnley to strengthen their squad with impactful, experienced talent.",
-      "tags": [
-        "Jamie Vardy",
-        "Burnley",
-        "Premier League",
-        "Transfer News"
-      ],
-      "image": "images/veteran-striker-jamie-vardy-makes-surprise-return-to-premier-league-with-burnley-69068ba43123.svg",
-      "publishedAt": "2026-10-07T09:55:00.993Z"
     }
   ],
-  "lastRun": "2026-10-13T18:58:33.281Z"
+  "lastRun": "2026-10-14T00:11:55.013Z"
 }
