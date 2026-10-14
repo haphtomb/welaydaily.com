@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T00:09:39.993Z",
+  "updatedAt": "2026-10-14T08:25:43.017Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -2888,7 +2888,208 @@
           "form": []
         }
       ],
-      "fixtures": []
+      "fixtures": [
+        {
+          "id": 575312,
+          "utcDate": "2027-01-20T20:00:00Z",
+          "status": "TIMED",
+          "matchday": 7,
+          "home": "Viking FK",
+          "away": "PSV",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 575313,
+          "utcDate": "2027-01-20T20:00:00Z",
+          "status": "TIMED",
+          "matchday": 7,
+          "home": "RB Leipzig",
+          "away": "FK Shakhtar Donetsk",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 575281,
+          "utcDate": "2027-01-27T20:00:00Z",
+          "status": "TIMED",
+          "matchday": 8,
+          "home": "FK Shakhtar Donetsk",
+          "away": "Real Madrid CF",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 575283,
+          "utcDate": "2027-01-27T20:00:00Z",
+          "status": "TIMED",
+          "matchday": 8,
+          "home": "Manchester City FC",
+          "away": "Sporting Clube de Portugal",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 575287,
+          "utcDate": "2027-01-27T20:00:00Z",
+          "status": "TIMED",
+          "matchday": 8,
+          "home": "ŠK Slovan Bratislava",
+          "away": "FC Internazionale Milano",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 575289,
+          "utcDate": "2027-01-27T20:00:00Z",
+          "status": "TIMED",
+          "matchday": 8,
+          "home": "FC Barcelona",
+          "away": "Como 1907",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 575291,
+          "utcDate": "2027-01-27T20:00:00Z",
+          "status": "TIMED",
+          "matchday": 8,
+          "home": "Club Atlético de Madrid",
+          "away": "Fenerbahçe SK",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 575293,
+          "utcDate": "2027-01-27T20:00:00Z",
+          "status": "TIMED",
+          "matchday": 8,
+          "home": "Paris Saint-Germain FC",
+          "away": "Galatasaray SK",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 575296,
+          "utcDate": "2027-01-27T20:00:00Z",
+          "status": "TIMED",
+          "matchday": 8,
+          "home": "Liverpool FC",
+          "away": "Racing Club de Lens",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 575298,
+          "utcDate": "2027-01-27T20:00:00Z",
+          "status": "TIMED",
+          "matchday": 8,
+          "home": "Arsenal FC",
+          "away": "Sabah FK",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 575299,
+          "utcDate": "2027-01-27T20:00:00Z",
+          "status": "TIMED",
+          "matchday": 8,
+          "home": "FC Bayern München",
+          "away": "Real Betis Balompié",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 575301,
+          "utcDate": "2027-01-27T20:00:00Z",
+          "status": "TIMED",
+          "matchday": 8,
+          "home": "Club Brugge KV",
+          "away": "FK Bodø/Glimt",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 575304,
+          "utcDate": "2027-01-27T20:00:00Z",
+          "status": "TIMED",
+          "matchday": 8,
+          "home": "Borussia Dortmund",
+          "away": "PAE AEK",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 575305,
+          "utcDate": "2027-01-27T20:00:00Z",
+          "status": "TIMED",
+          "matchday": 8,
+          "home": "SK Slavia Praha",
+          "away": "Aston Villa FC",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 575306,
+          "utcDate": "2027-01-27T20:00:00Z",
+          "status": "TIMED",
+          "matchday": 8,
+          "home": "AS Roma",
+          "away": "Lille OSC",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 575309,
+          "utcDate": "2027-01-27T20:00:00Z",
+          "status": "TIMED",
+          "matchday": 8,
+          "home": "LASK Linz",
+          "away": "FC Porto",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 575310,
+          "utcDate": "2027-01-27T20:00:00Z",
+          "status": "TIMED",
+          "matchday": 8,
+          "home": "Villarreal CF",
+          "away": "Manchester United FC",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 575311,
+          "utcDate": "2027-01-27T20:00:00Z",
+          "status": "TIMED",
+          "matchday": 8,
+          "home": "PSV",
+          "away": "VfB Stuttgart",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 575316,
+          "utcDate": "2027-01-27T20:00:00Z",
+          "status": "TIMED",
+          "matchday": 8,
+          "home": "Feyenoord Rotterdam",
+          "away": "RB Leipzig",
+          "homeScore": null,
+          "awayScore": null
+        },
+        {
+          "id": 575319,
+          "utcDate": "2027-01-27T20:00:00Z",
+          "status": "TIMED",
+          "matchday": 8,
+          "home": "SSC Napoli",
+          "away": "Viking FK",
+          "homeScore": null,
+          "awayScore": null
+        }
+      ]
     }
   }
 }
