@@ -1,6 +1,67 @@
 {
   "articles": [
     {
+      "id": "soucek-commits-long-term-future-to-west-ham-with-new-deal-e049a3370aee",
+      "headline": "Soucek Commits Long-Term Future to West Ham with New Deal",
+      "league": "Premier League",
+      "summary": "West Ham United has successfully secured midfielder Tomas Soucek, who put pen to paper on a fresh contract extension, committing his future to the London club until the summer of 2028. The agreement solidifies his role at the heart of the Hammers' squad as they aim for continued success.",
+      "body": "Tomas Soucek, the influential 31-year-old midfielder, has officially extended his stay with West Ham United, signing a new deal that will keep him at the club until 2028. This crucial agreement comes as his previous terms were set to conclude at the end of the current season, providing stability to the squad.\n\nSince joining from Slavia Prague in 2020, Soucek has been a linchpin for the Hammers, making an impressive 285 appearances and netting 47 goals across all competitions. His significant contributions were instrumental in West Ham's memorable UEFA Conference League triumph in 2023.\n\nThe decision to commit for another year underscores Soucek's ambition to help West Ham return to the Premier League's upper echelons. Fans will undoubtedly welcome the news, ensuring a key figure remains central to the club's plans for upcoming campaigns.",
+      "tags": [
+        "West Ham",
+        "Tomas Soucek",
+        "Contract Extension",
+        "Premier League"
+      ],
+      "image": "images/soucek-commits-long-term-future-to-west-ham-with-new-deal-e049a3370aee.svg",
+      "publishedAt": "2026-10-14T19:12:57.752Z"
+    },
+    {
+      "id": "caf-boosts-member-association-funding-to-700-000-annually-f9a28dfe25a9",
+      "headline": "CAF Boosts Member Association Funding to $700,000 Annually",
+      "league": "Other",
+      "summary": "The Confederation of African Football has significantly increased its annual financial allocations to all 54 member associations, aiming to bolster football development across the continent. This substantial rise in funding is designed to strengthen national federations and promote self-sustainability.",
+      "body": "In a major announcement, CAF President Dr. Patrice Motsepe confirmed a significant increase in the annual financial support provided to its 54 member associations. Each federation will now receive up to $700,000 per year, marking a notable jump from previous allocations.\n\nThis latest increase is part of a series of adjustments under President Motsepe's leadership, with the annual subvention rising from $200,000 in 2021 to $525,000, and now to $700,000. Furthermore, CAF's zonal unions will also see their funding increase to $900,000 annually, up from $750,000, while the African Clubs Association's allocation rises to $500,000.\n\nThe additional financial backing is intended to empower member associations in strengthening their football development structures, investing in youth and women's football initiatives, and enhancing overall administration and governance. This strategic investment underscores CAF's commitment to fostering world-class, self-sustaining football across Africa.",
+      "tags": [
+        "CAF",
+        "Patrice Motsepe",
+        "Football Development",
+        "Funding",
+        "Africa"
+      ],
+      "image": "images/caf-boosts-member-association-funding-to-700-000-annually-f9a28dfe25a9.svg",
+      "publishedAt": "2026-10-14T19:13:14.558Z"
+    },
+    {
+      "id": "atletico-madrid-deals-another-blow-to-struggling-manchester-united-in-champions--7890e929e5f9",
+      "headline": "Atletico Madrid Deals Another Blow to Struggling Manchester United in Champions League",
+      "league": "Champions League",
+      "summary": "Manchester United's difficult start to the season continued with a 2-0 defeat against Atletico Madrid in a Champions League encounter marred by an early goal and a late red card for the visitors. The result further intensifies the pressure on manager Michael Carrick as his team struggles to find form in European competition.",
+      "body": "Atletico Madrid wasted no time asserting their dominance, finding the back of the net in under a minute through Pablo Barrios, setting a challenging tone for Manchester United. The early strike at the Metropolitano Stadium put the English side on the back foot, forcing them to chase the game against a well-organized Atletico defense. [5, 13]\n\nThe match took a further turn for the worse for Manchester United in the 74th minute when defender Leny Yoro was shown a straight red card following a VAR review. This left the Red Devils with ten men for the final quarter of the game, severely hampering any hopes of a comeback. [5, 13]\n\nCapitalizing on their numerical advantage, Atletico Madrid sealed their victory just five minutes after the sending-off, with Ademola Lookman doubling their lead from close range. The 2-0 defeat leaves Manchester United with much to ponder as they aim to navigate a challenging Champions League campaign amidst their domestic struggles. [5]",
+      "tags": [
+        "Atletico Madrid",
+        "Manchester United",
+        "Champions League",
+        "Match Report"
+      ],
+      "image": "images/atletico-madrid-deals-another-blow-to-struggling-manchester-united-in-champions--7890e929e5f9.svg",
+      "publishedAt": "2026-10-14T19:13:28.230Z"
+    },
+    {
+      "id": "vin-cius-j-nior-hit-with-four-match-ban-misses-crucial-el-cl-sico-f29ea39d76ad",
+      "headline": "Vinícius Júnior Hit with Four-Match Ban, Misses Crucial El Clásico",
+      "league": "La Liga",
+      "summary": "Real Madrid's star forward Vinícius Júnior has received a significant four-match suspension, sidelining him for several key La Liga fixtures, including the highly anticipated El Clásico against Barcelona. The disciplinary action follows an on-field incident during Real Madrid's recent victory over Villarreal.",
+      "body": "Brazilian international Vinícius Júnior will be unavailable for Real Madrid for the next four league matches after the Spanish football federation imposed a ban following his actions in Saturday's 1-0 win against Villarreal. The forward was shown a straight red card in the 73rd minute after being seen pulling the hair of Villarreal's Nathan Saliba.\n\nThe suspension comprises two matches for the hair-pulling offense itself and an additional two matches for his subsequent aggressive protests directed at referee Isidro Díaz de Mera. This means the dynamic attacker will notably miss the upcoming El Clásico clash with fierce rivals Barcelona, a significant blow for Los Blancos.\n\nThe incident occurred just moments before Vinícius Júnior found the back of the net, a goal that was ultimately disallowed by VAR. The decision, announced on October 14, 2026, leaves Real Madrid without one of their key attacking threats as they navigate a crucial period in the La Liga season.",
+      "tags": [
+        "Real Madrid",
+        "Vinícius Júnior",
+        "La Liga",
+        "Suspension"
+      ],
+      "image": "images/vin-cius-j-nior-hit-with-four-match-ban-misses-crucial-el-cl-sico-f29ea39d76ad.svg",
+      "publishedAt": "2026-10-14T19:13:43.371Z"
+    },
+    {
       "id": "levante-snatch-stoppage-time-thriller-in-six-goal-sevilla-stalemate-70e6c889a1a8",
       "headline": "Levante Snatch Stoppage-Time Thriller in Six-Goal Sevilla Stalemate",
       "league": "La Liga",
@@ -842,68 +903,7 @@
       ],
       "image": "images/cas-hears-senegal-s-appeal-over-contentious-2025-afcon-final-ab7e67185b29.svg",
       "publishedAt": "2026-10-08T18:32:01.253Z"
-    },
-    {
-      "id": "nashville-sc-eyes-historic-supporters-shield-and-mls-points-record-60e331733468",
-      "headline": "Nashville SC Eyes Historic Supporters' Shield and MLS Points Record",
-      "league": "MLS",
-      "summary": "Nashville SC is on the verge of claiming their first Supporters' Shield, holding a significant lead in the league standings as they approach the end of the season. The club is also setting its sights on breaking the single-season MLS points record, a feat that would further cement their dominant campaign.",
-      "body": "Nashville SC is currently leading the MLS Eastern Conference and the overall Supporters' Shield race with an impressive 60 points from 27 matches, boasting 18 wins, 3 losses, and 6 draws. This strong performance has already secured them a spot in the Audi 2026 MLS Cup Playoffs, making them the first team to do so. Their substantial 10-point advantage over Vancouver Whitecaps FC atop the league table positions them as clear favorites for their inaugural Supporters' Shield trophy.\n\nThe Music City club is not just content with a Shield, however. They are actively pursuing a new single-season MLS points record, aiming to surpass Inter Miami CF's 2024 benchmark of 74 points. Currently on track for 75 points, Nashville needs to accumulate 15 more points from their remaining seven regular-season fixtures to achieve this historic milestone. This translates to winning five of their final seven matches or a combination of four wins and three draws.\n\nWith a remarkable average of 2.22 points per game thus far, the team, led by coach B.J. Callaghan and star players like Hany Mukhtar and Brian Schwake, is well-positioned to make history. They could potentially clinch the Supporters' Shield as early as their upcoming home game against Sporting Kansas City. Having won the US Open Cup last year, Nashville SC is poised for another silverware-laden season, eyeing a potential Supporters' Shield-MLS Cup double.",
-      "tags": [
-        "Nashville SC",
-        "MLS Supporters' Shield",
-        "MLS Records",
-        "2026 MLS Season"
-      ],
-      "image": "images/nashville-sc-eyes-historic-supporters-shield-and-mls-points-record-60e331733468.svg",
-      "publishedAt": "2026-10-08T10:06:51.628Z"
-    },
-    {
-      "id": "reports-reveal-fifa-s-early-knowledge-of-ineligible-dr-congo-player-in-world-cup-40d862ec81c7",
-      "headline": "Reports Reveal FIFA's Early Knowledge of Ineligible DR Congo Player in World Cup Qualifiers",
-      "league": "World Cup Qualifiers",
-      "summary": "Recent investigations have brought to light that FIFA was reportedly aware of Democratic Republic of Congo's goalkeeper Lionel Mpasi being ineligible during their 2026 World Cup qualifying campaign. This revelation follows DR Congo's decisive victory over Nigeria in a crucial playoff match, with Nigeria now questioning the integrity of the qualification process.",
-      "body": "New reports surfacing from major international news outlets indicate that football's global governing body, FIFA, possessed internal knowledge regarding the ineligibility of Democratic Republic of Congo's goalkeeper, Lionel Mpasi, throughout their 2026 World Cup qualification journey. Mpasi, who also holds French nationality, reportedly did not complete the necessary procedures to formalize his switch of international allegiance after representing France at youth levels.\n\nDespite internal findings by FIFA's legal team confirming Mpasi's ineligibility, no sanctions were imposed on DR Congo. This allowed the goalkeeper to feature prominently, including in the pivotal African playoff final in November 2025, where DR Congo triumphed over Nigeria in a penalty shootout after a 1-1 draw. The Leopards subsequently secured their World Cup berth by defeating Jamaica 1-0 in the intercontinental playoff, with Mpasi in goal.\n\nThe developments have reignited scrutiny over FIFA's handling of player eligibility rules and the fairness of the qualification system. Nigeria, having missed out on consecutive World Cups, had previously lodged a complaint concerning the eligibility of several DR Congo players. Had the Democratic Republic of Congo faced disciplinary action, Nigeria could have potentially advanced to face Jamaica for a spot in the upcoming tournament.",
-      "tags": [
-        "World Cup 2026",
-        "DR Congo",
-        "Nigeria",
-        "FIFA",
-        "Player Eligibility"
-      ],
-      "image": "images/reports-reveal-fifa-s-early-knowledge-of-ineligible-dr-congo-player-in-world-cup-40d862ec81c7.svg",
-      "publishedAt": "2026-10-08T10:07:07.849Z"
-    },
-    {
-      "id": "semenyo-stunner-seals-dramatic-victory-for-cherries-over-tottenham-d08eab0c40f5",
-      "headline": "Semenyo Stunner Seals Dramatic Victory for Cherries Over Tottenham",
-      "league": "Premier League",
-      "summary": "Bournemouth dramatically ended their extensive winless streak with a thrilling 3-2 triumph over Tottenham Hotspur, courtesy of Antoine Semenyo's sensational stoppage-time goal. The late heroics secured a crucial three points for the Cherries in what marked a memorable final appearance for the departing forward.",
-      "body": "Bournemouth secured a vital 3-2 victory against Tottenham Hotspur on Wednesday, bringing an end to their challenging 11-game winless run in the Premier League. The match was a rollercoaster of emotions, culminating in a dramatic late winner that sent the home crowd into raptures.\n\nThe decisive moment arrived deep into stoppage time when Antoine Semenyo, playing his final match for the Cherries, unleashed a powerful strike that found the back of the net. His goal not only clinched the victory but also provided a fitting farewell for the player.\n\nThe result offers a significant boost to Bournemouth's campaign, lifting spirits and providing much-needed momentum. For Tottenham, it's a disappointing outcome, as they failed to capitalize on opportunities and ultimately succumbed to Bournemouth's determined fightback.",
-      "tags": [
-        "Bournemouth",
-        "Tottenham Hotspur",
-        "Premier League",
-        "Antoine Semenyo"
-      ],
-      "image": "images/semenyo-stunner-seals-dramatic-victory-for-cherries-over-tottenham-d08eab0c40f5.svg",
-      "publishedAt": "2026-10-08T10:07:23.109Z"
-    },
-    {
-      "id": "liverpool-launch-record-breaking-37-6m-bid-for-mexican-sensation-gilberto-mora-4c60883b99df",
-      "headline": "Liverpool Launch Record-Breaking £37.6M Bid for Mexican Sensation Gilberto Mora",
-      "league": "Transfer News",
-      "summary": "Liverpool has reportedly submitted a substantial offer for promising Mexican attacking midfielder Gilberto Mora, with the bid potentially setting a new record for a sale from Mexican football. The timing of the move aligns with Mora recently turning 18, making him eligible for a European transfer after months of speculation.",
-      "body": "Reports from Mexico indicate that Liverpool has formally tabled an impressive £37.6 million bid for Tijuana's highly-rated midfielder, Gilberto Mora. This significant offer, which translates to approximately $50 million US, is poised to establish a new benchmark for the most expensive player sale in Mexican football history, underscoring the immense talent the Reds believe Mora possesses.\n\nThe 18-year-old attacking midfielder, who can also operate on the left flank, has been a subject of interest from several top European clubs. However, it appears Liverpool has moved decisively, with sources suggesting the Merseyside club is currently at the forefront of securing his signature.\n\nMora's recent 18th birthday has cleared the path for an international transfer, circumventing post-Brexit regulations that previously prevented his move to England. This development has intensified the scramble for his services, with Liverpool keen to integrate the young talent into their squad for future campaigns.",
-      "tags": [
-        "Liverpool",
-        "Gilberto Mora",
-        "Transfer News",
-        "Mexican Football"
-      ],
-      "image": "images/liverpool-launch-record-breaking-37-6m-bid-for-mexican-sensation-gilberto-mora-4c60883b99df.svg",
-      "publishedAt": "2026-10-08T10:07:39.347Z"
     }
   ],
-  "lastRun": "2026-10-14T14:24:10.933Z"
+  "lastRun": "2026-10-14T19:13:47.371Z"
 }
