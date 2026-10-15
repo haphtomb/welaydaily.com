@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "bayern-munich-makes-key-alphonso-davies-decision-amidst-united-interest-91b86cc516a5",
+      "headline": "Bayern Munich Makes Key Alphonso Davies Decision Amidst United Interest",
+      "league": "Transfer News",
+      "summary": "Bayern Munich has reportedly made a definitive choice regarding the future of star defender Alphonso Davies, a development closely watched by Manchester United. The German giants have decided against sanctioning a sale of the Canadian international to the Premier League club.",
+      "body": "Bayern Munich has reportedly conveyed its firm stance on Alphonso Davies' future, opting to retain the highly-rated left-back despite persistent interest from Manchester United. This decision comes as a significant blow to the Old Trafford club, who were keen on securing the Canadian international's services.\n\nThe English side had been monitoring Davies' situation closely, with reports suggesting they were preparing an approach for the dynamic defender. However, Bayern's clear intention to keep one of their key players puts an end to any immediate transfer speculation involving a move to Manchester.\n\nDavies remains a crucial component of Bayern's squad, known for his blistering pace and attacking contributions from the defensive flank. His continued presence at the Allianz Arena solidifies Bayern's defensive options and signals their commitment to maintaining a strong core for their upcoming campaigns.",
+      "tags": [
+        "Alphonso Davies",
+        "Bayern Munich",
+        "Manchester United",
+        "Transfer News"
+      ],
+      "image": "images/bayern-munich-makes-key-alphonso-davies-decision-amidst-united-interest-91b86cc516a5.svg",
+      "publishedAt": "2026-10-15T21:01:04.249Z"
+    },
+    {
+      "id": "burkina-faso-unveils-new-sovereignty-league-national-championship-57d6bde95b9e",
+      "headline": "Burkina Faso Unveils New 'Sovereignty League' National Championship",
+      "league": "Other",
+      "summary": "Burkina Faso's military leader has inaugurated a new national football championship, aiming to transform the sport into a tool for national development. The \"Sovereignty League\" will feature 20 teams, expanding high-level football across all regions of the country.",
+      "body": "Captain Ibrahim Traoré, Burkina Faso's military head, officially launched the \"Sovereignty League,\" a new national football championship designed to foster nation-building. The initiative seeks to create opportunities for young individuals and professionalize the sport within the country.\n\nThe newly established tournament will include 20 teams, representing diverse regions across Burkina Faso. This expansion aims to extend high-level football competition beyond the traditional major urban centers.\n\nThis move underscores a strategic vision to invest in the nation's future through sports, focusing on grassroots development and providing a broader platform for talent.",
+      "tags": [
+        "Burkina Faso Football",
+        "Sovereignty League",
+        "African Football Development",
+        "National Championship"
+      ],
+      "image": "images/burkina-faso-unveils-new-sovereignty-league-national-championship-57d6bde95b9e.svg",
+      "publishedAt": "2026-10-15T21:01:39.104Z"
+    },
+    {
       "id": "african-giants-kick-off-grueling-champions-league-second-round-battles-8c8171d30415",
       "headline": "African Giants Kick Off Grueling Champions League Second Round Battles",
       "league": "CAF Champions League",
@@ -872,37 +902,7 @@
       ],
       "image": "images/striker-alleges-super-eagles-deliberately-missed-2026-world-cup-614b77dadba5.svg",
       "publishedAt": "2026-10-10T17:03:16.287Z"
-    },
-    {
-      "id": "liverpool-reportedly-initiate-contact-for-real-madrid-star-kylian-mbappe-28970f07c74d",
-      "headline": "Liverpool Reportedly Initiate Contact for Real Madrid Star Kylian Mbappe",
-      "league": "Transfer News",
-      "summary": "Liverpool has reportedly made initial contact with Kylian Mbappe's representatives, as speculation mounts that the French superstar seeks an exit from Real Madrid. The Merseyside club is believed to be a priority destination for Mbappe among interested Premier League sides.",
-      "body": "Reports emerging from Spain indicate that Liverpool has begun discussions with the camp of Kylian Mbappe, signalling a potential blockbuster move in the upcoming transfer window. Spanish journalist Francois Gallardo suggests that the Reds have reached out to Mbappe's mother and agent, Fayza Lamari, regarding a possible transfer.\n\nThis development comes amidst increasing speculation that the prolific forward is looking to depart Real Madrid. While several Premier League clubs are reportedly keen on securing his services, sources indicate that Liverpool is currently Mbappe's preferred choice for his next destination.\n\nThe news, breaking as the winter transfer window approaches, will undoubtedly intensify the transfer rumour mill. Liverpool's reported interest in a player of Mbappe's calibre suggests a bold statement of intent from the club as they look to strengthen their squad.",
-      "tags": [
-        "Kylian Mbappe",
-        "Liverpool FC",
-        "Real Madrid",
-        "Transfer Rumours"
-      ],
-      "image": "images/liverpool-reportedly-initiate-contact-for-real-madrid-star-kylian-mbappe-28970f07c74d.svg",
-      "publishedAt": "2026-10-10T09:30:00.551Z"
-    },
-    {
-      "id": "emery-reflects-on-frustrating-draw-as-aston-villa-share-points-with-burnley-e6983db18733",
-      "headline": "Emery Reflects on Frustrating Draw as Aston Villa Share Points with Burnley",
-      "league": "Premier League",
-      "summary": "Aston Villa's manager, Unai Emery, expressed his disappointment following his team's 2-2 draw against Burnley, despite a resilient performance at Turf Moor. The Villa boss acknowledged his players' effort but lamented their inability to secure a victory after a demanding week of fixtures.",
-      "body": "Aston Villa played out a 2-2 draw with Burnley at Turf Moor yesterday, a result that left manager Unai Emery with mixed feelings. Speaking after the match, Emery praised his squad's dedication, particularly coming off the back of a recent Europa League encounter. However, he also conveyed frustration that his side couldn't convert their chances into a winning outcome.\n\nEmery highlighted Villa's strong league position, currently within the Premier League's top five, and their upcoming Europa League final as indicators of a successful season so far. He emphasized the crucial role of the Villa Park faithful's energy in driving the team forward in future contests.\n\nDespite the draw, the manager remains confident in his team's blend of seasoned professionals and promising young talent. Emery stressed the importance of maintaining high standards and improving their finishing to capitalize on opportunities in upcoming matches.",
-      "tags": [
-        "Aston Villa",
-        "Burnley",
-        "Premier League",
-        "Unai Emery"
-      ],
-      "image": "images/emery-reflects-on-frustrating-draw-as-aston-villa-share-points-with-burnley-e6983db18733.svg",
-      "publishedAt": "2026-10-10T09:30:15.230Z"
     }
   ],
-  "lastRun": "2026-10-15T16:26:41.129Z"
+  "lastRun": "2026-10-15T21:01:43.105Z"
 }
