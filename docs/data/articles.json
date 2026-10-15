@@ -1,6 +1,67 @@
 {
   "articles": [
     {
+      "id": "real-madrid-completes-stunner-overcoming-roma-in-seven-goal-thriller-c0bddc8a37a5",
+      "headline": "Real Madrid Completes Stunner, Overcoming Roma in Seven-Goal Thriller",
+      "league": "Champions League",
+      "summary": "Real Madrid orchestrated a sensational late comeback against Roma on Wednesday, turning a two-goal deficit into a dramatic 4-3 victory in the Champions League league phase. Antonio Rüdiger sealed the stunning win with a decisive strike in the final minute of regulation.",
+      "body": "In a truly captivating Champions League encounter on October 14, 2026, Real Madrid defied the odds to secure an improbable 4-3 triumph over Jose Mourinho's Roma at the Stadio Olimpico. The Spanish giants found themselves trailing 3-1 in the second half, seemingly headed for a disappointing result against the determined Italian side.\n\nThe turning point saw Real Madrid ignite a remarkable resurgence, fueled by crucial contributions from players like Endrick and Carlos Espi, who reportedly received specific instructions from the bench. Their late surge saw them net three unanswered goals, completely shifting the momentum of the high-stakes match.\n\nThe dramatic turnaround culminated in the 90th minute when Antonio Rüdiger found the back of the net, clinching the winner and sending the Real Madrid faithful into raptures. This incredible display of resilience ensures Real Madrid maintains strong momentum in the competition.",
+      "tags": [
+        "Real Madrid",
+        "Roma",
+        "Champions League",
+        "Comeback"
+      ],
+      "image": "images/real-madrid-completes-stunner-overcoming-roma-in-seven-goal-thriller-c0bddc8a37a5.svg",
+      "publishedAt": "2026-10-15T10:57:38.702Z"
+    },
+    {
+      "id": "coventry-celebrates-historic-premier-league-triumph-over-newcastle-079a722484db",
+      "headline": "Coventry Celebrates Historic Premier League Triumph Over Newcastle",
+      "league": "Premier League",
+      "summary": "Coventry City secured a sensational 4-1 victory against Newcastle United, marking their first top-flight home win in a quarter-century. The comprehensive performance ignited jubilant scenes as the Sky Blues decisively outplayed their opponents.",
+      "body": "Coventry City delivered a stunning performance to defeat Newcastle United 4-1 in a memorable Premier League encounter. Goals from Jack Rudoni, Sidiki Cherif, Ellis Simms, and Stephen Mfuni propelled the Sky Blues to a resounding victory, sending the home crowd into raptures.\n\nThe result holds particular significance for Coventry, as it represents their first home win in the top tier of English football since 2001, ending a lengthy wait for their loyal supporters. The team's attacking prowess was on full display, with Cherif and Mfuni contributing particularly impressive strikes.\n\nThe triumph over Newcastle not only provides a crucial three points but also serves as a significant morale boost for Coventry City, demonstrating their capability to compete at the highest level. The electrifying atmosphere at the stadium reflected the sheer joy and relief among the fans after such a long-awaited success.",
+      "tags": [
+        "Coventry City",
+        "Newcastle United",
+        "Premier League",
+        "Historic Win"
+      ],
+      "image": "images/coventry-celebrates-historic-premier-league-triumph-over-newcastle-079a722484db.svg",
+      "publishedAt": "2026-10-15T10:57:52.984Z"
+    },
+    {
+      "id": "st-louis-city-breaks-unbeaten-record-secures-playoff-spot-with-stalemate-420f62c6e967",
+      "headline": "St. Louis City Breaks Unbeaten Record, Secures Playoff Spot with Stalemate",
+      "league": "MLS",
+      "summary": "St. Louis City SC etched their name in MLS history last night, extending their remarkable unbeaten run across all competitions to an unprecedented 21 games. The hard-fought draw against Vancouver Whitecaps FC also officially sealed their place in the upcoming 2026 MLS Cup Playoffs.",
+      "body": "St. Louis City SC achieved a significant milestone on Wednesday evening, battling to a goalless draw against Western Conference leaders Vancouver Whitecaps FC. This result pushed their impressive unbeaten streak to 21 matches across all competitions, setting a new Major League Soccer record.\n\nThe 0-0 stalemate at home not only marked a historic achievement for the club but also confirmed their berth in the Audi 2026 MLS Cup Playoffs. Roman Bürki, St. Louis's goalkeeper, recorded his fourth clean sheet of the season in the effort.\n\nCurrently, St. Louis City holds a 14-6-9 record, placing them second in the Western Conference standings with 52 points, just one point shy of Vancouver. The team's consistent form also sees them tied for an MLS record with 19 consecutive regular-season games without a loss, highlighting their formidable presence as the postseason approaches.",
+      "tags": [
+        "St. Louis City SC",
+        "MLS Playoffs",
+        "Unbeaten Streak",
+        "Vancouver Whitecaps FC"
+      ],
+      "image": "images/st-louis-city-breaks-unbeaten-record-secures-playoff-spot-with-stalemate-420f62c6e967.svg",
+      "publishedAt": "2026-10-15T10:58:06.596Z"
+    },
+    {
+      "id": "saudi-arabia-clinches-world-cup-berth-after-tense-iraq-stalemate-36a200fb4504",
+      "headline": "Saudi Arabia Clinches World Cup Berth After Tense Iraq Stalemate",
+      "league": "World Cup Qualifiers",
+      "summary": "Saudi Arabia has successfully secured its place in the 2026 FIFA World Cup, drawing 0-0 with Iraq in a hard-fought Asian qualifier. The pivotal result in Jeddah ensures the Green Falcons will participate in their seventh global tournament.",
+      "body": "The Saudi Arabian national football team celebrated a significant achievement yesterday, October 14, by officially qualifying for the 2026 FIFA World Cup. Their qualification was sealed following a goalless draw against regional rivals Iraq in a tense encounter held at King Abdullah Sports City Stadium in Jeddah. The crucial point was enough for the Green Falcons to emerge as winners of Group B in the fourth round of the Asian preliminaries, marking their seventh appearance at the prestigious tournament.\n\nThe match, played in front of over 60,000 enthusiastic fans, saw both teams battling intensely for control. While Saudi Arabia created more attacking opportunities throughout the ninety minutes, Iraq's defense held firm, ensuring a tight contest. Ultimately, a late save by goalkeeper Nawaf Al-Aqidi in injury time, thwarting a curling free-kick, proved vital in preserving the draw and the Saudis' qualification hopes.\n\nCoach Herve Renard and his squad, alongside jubilant Saudi officials, celebrated on the pitch after the final whistle, acknowledging a challenging but ultimately successful qualification campaign. The outcome means Saudi Arabia finished level on points with Iraq in their group but advanced due to a superior goal-scoring record.",
+      "tags": [
+        "Saudi Arabia",
+        "World Cup 2026",
+        "AFC Qualifiers",
+        "Football",
+        "Iraq"
+      ],
+      "image": "images/saudi-arabia-clinches-world-cup-berth-after-tense-iraq-stalemate-36a200fb4504.svg",
+      "publishedAt": "2026-10-15T10:58:30.122Z"
+    },
+    {
       "id": "manchester-city-dominates-liverpool-amidst-financial-charges-fallout-94ff1eeca453",
       "headline": "Manchester City Dominates Liverpool Amidst Financial Charges Fallout",
       "league": "Premier League",
@@ -841,67 +902,7 @@
       ],
       "image": "images/arsenal-eyes-93m-alvarez-as-atletico-contract-impasse-deepens-394a82527f84.svg",
       "publishedAt": "2026-10-10T00:31:47.877Z"
-    },
-    {
-      "id": "red-bulls-elevate-talented-midfielder-sekou-kon-to-first-team-roster-10a5f1cd53af",
-      "headline": "Red Bulls Elevate Talented Midfielder Sekou Koné to First Team Roster",
-      "league": "MLS",
-      "summary": "The New York Red Bulls have officially promoted 19-year-old Malian midfielder Sekou Koné from their MLS NEXT Pro affiliate, Red Bull New York II, to the senior squad. This move comes after Koné impressed with his performances and earned two prior first-team appearances this season.",
-      "body": "Red Bull New York announced Friday the signing of Sekou Koné to a full Major League Soccer contract, securing the promising midfielder through the 2027-28 season, with additional club options for subsequent years. The 19-year-old Malian talent has consistently showcased his abilities with Red Bull New York II, making 18 appearances in MLS NEXT Pro this season and registering his initial assist in July.\n\nKoné has already gained experience with the first team, notably debuting against LAFC on September 9th and subsequently earning his first MLS start against St. Louis CITY SC on September 30th. His elevation highlights the club's strategy of nurturing and integrating young prospects from their developmental ranks into the senior setup.\n\nJulian de Guzman, the Red Bulls' Head of Sport, lauded Koné's composure on the ball and his extensive work rate, expressing excitement for his continued development within the top flight. Head Coach Michael Bradley also acknowledged the midfielder's consistent growth and readiness to embrace this significant step in his professional career.",
-      "tags": [
-        "MLS",
-        "New York Red Bulls",
-        "Sekou Koné",
-        "Transfer News"
-      ],
-      "image": "images/red-bulls-elevate-talented-midfielder-sekou-kon-to-first-team-roster-10a5f1cd53af.svg",
-      "publishedAt": "2026-10-10T00:32:06.705Z"
-    },
-    {
-      "id": "milan-eyes-winter-reinforcements-for-champions-league-ambitions-7fd7073ef51e",
-      "headline": "Milan Eyes Winter Reinforcements for Champions League Ambitions",
-      "league": "Champions League",
-      "summary": "AC Milan is reportedly preparing a substantial investment in the upcoming January transfer window, targeting key players to bolster their squad for a strong push in the Champions League campaign. The club's management aims to acquire top talent from Sporting CP and Real Madrid, signaling a clear intent to elevate their European competitiveness.",
-      "body": "AC Milan is reportedly gearing up for an ambitious winter transfer window, with reports suggesting the club plans significant spending to strengthen its squad. The Rossoneri's primary objective is to enhance their prospects in the UEFA Champions League, where they aim to compete at the highest level this season.\n\nAccording to Italian sports daily La Gazzetta dello Sport, Milan's management is already evaluating potential targets ahead of the December 28th transfer window opening. The club is reportedly keen on bringing in two notable players, with names from Sporting CP and Real Madrid being circulated as potential acquisitions.\n\nThis strategic move reflects the club's determination to avoid a repeat of last season's financial constraints in the market. The club's ownership, led by Gerry Cardinale, is reportedly committed to investing further to ensure Milan can challenge for silverware, particularly in Europe's elite competition.",
-      "tags": [
-        "AC Milan",
-        "Transfer News",
-        "Champions League",
-        "Serie A"
-      ],
-      "image": "images/milan-eyes-winter-reinforcements-for-champions-league-ambitions-7fd7073ef51e.svg",
-      "publishedAt": "2026-10-09T18:02:38.596Z"
-    },
-    {
-      "id": "chicago-fire-secure-key-winger-haile-selassie-with-long-term-extension-ecd9d683dde9",
-      "headline": "Chicago Fire Secure Key Winger Haile-Selassie with Long-Term Extension",
-      "league": "MLS",
-      "summary": "The Chicago Fire have locked down influential winger Maren Haile-Selassie with a new contract, ensuring his presence through the 2028-29 season. This commitment underscores his significant role in the club's offensive strategies and future aspirations.",
-      "body": "The Chicago Fire organization announced today the successful negotiation of a new deal for Maren Haile-Selassie, extending his tenure with the club until the conclusion of the 2028-29 season. The 27-year-old Swiss international has become an indispensable asset since initially joining on loan in December 2022, with the Fire making his move permanent after the 2023 campaign.\n\nHaile-Selassie's impact on the field has been substantial, having amassed 137 appearances across all competitions for Chicago. He recently achieved a notable milestone, becoming only the eighth player in club history to contribute to over 50 goals. This season, his offensive prowess is evident as he leads the team with an impressive 18 goal contributions, comprising nine goals and nine assists.\n\nGregg Berhalter, the Fire's director of football and head coach, emphasized Haile-Selassie's dedication and potential for continued growth. The extension highlights the club's confidence in his ability to provide versatility, quality, and leadership, solidifying a crucial piece for their long-term plans as they aim for sustained success.",
-      "tags": [
-        "MLS",
-        "Chicago Fire",
-        "Transfer News",
-        "Maren Haile-Selassie"
-      ],
-      "image": "images/chicago-fire-secure-key-winger-haile-selassie-with-long-term-extension-ecd9d683dde9.svg",
-      "publishedAt": "2026-10-09T18:03:23.361Z"
-    },
-    {
-      "id": "infantino-calls-for-enhanced-opportunities-in-african-youth-football-c6e3e4a04c25",
-      "headline": "Infantino Calls for Enhanced Opportunities in African Youth Football",
-      "league": "CAF News",
-      "summary": "FIFA President Gianni Infantino recently urged African football leaders to prioritize creating more pathways for young talent to flourish on the global stage. Speaking at the CAF Strategy Conference, he highlighted the continent's vast potential and the need for robust development initiatives.",
-      "body": "Addressing delegates at the CAF Strategy Conference in Santa Maria, Sal Island, Cabo Verde, FIFA President Gianni Infantino delivered a compelling message regarding the future trajectory of African football. He underscored the unparalleled talent pool within the continent, stressing the imperative for comprehensive development frameworks. Infantino articulated that young African players must not be constrained by their origins, but instead be empowered to demonstrate their abilities worldwide.\n\nThe FIFA chief further emphasized his organization's dedication, revealing that around one billion US dollars has been channeled into African football over the past decade via the Forward development program. This significant investment aims to bolster the sport's expansion across the continent. He also lauded Cabo Verde's national team, affectionately known as the Blue Sharks, for their passionate and resilient display at the recent World Cup.\n\nCAF President Patrice Motsepe reinforced these sentiments, highlighting the crucial role of cooperation among national football associations, governmental bodies, and sports ministries. The ongoing conference, scheduled from October 7 to 9, provides an essential forum for CAF's 54 member associations to engage in detailed discussions concerning the sport's advancement and identify areas for improvement, offering a more extensive dialogue than typical general assemblies.",
-      "tags": [
-        "African Football",
-        "Youth Development",
-        "CAF Conference",
-        "Gianni Infantino"
-      ],
-      "image": "images/infantino-calls-for-enhanced-opportunities-in-african-youth-football-c6e3e4a04c25.svg",
-      "publishedAt": "2026-10-09T10:09:34.049Z"
     }
   ],
-  "lastRun": "2026-10-15T03:28:03.568Z"
+  "lastRun": "2026-10-15T10:58:34.122Z"
 }
