@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T20:33:56.172Z",
+  "updatedAt": "2026-10-16T23:16:07.989Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -563,20 +563,6 @@
         },
         {
           "position": 6,
-          "team": "RC Deportivo La Coruña",
-          "crest": "https://crests.football-data.org/560.png",
-          "played": 9,
-          "won": 3,
-          "draw": 4,
-          "lost": 2,
-          "goalsFor": 13,
-          "goalsAgainst": 11,
-          "goalDifference": 2,
-          "points": 13,
-          "form": []
-        },
-        {
-          "position": 7,
           "team": "Real Sociedad de Fútbol",
           "crest": "https://crests.football-data.org/92.png",
           "played": 8,
@@ -590,7 +576,7 @@
           "form": []
         },
         {
-          "position": 8,
+          "position": 7,
           "team": "Deportivo Alavés",
           "crest": "https://crests.football-data.org/263.png",
           "played": 8,
@@ -600,6 +586,20 @@
           "goalsFor": 12,
           "goalsAgainst": 8,
           "goalDifference": 4,
+          "points": 11,
+          "form": []
+        },
+        {
+          "position": 8,
+          "team": "RC Deportivo La Coruña",
+          "crest": "https://crests.football-data.org/560.png",
+          "played": 9,
+          "won": 2,
+          "draw": 5,
+          "lost": 2,
+          "goalsFor": 13,
+          "goalsAgainst": 12,
+          "goalDifference": 1,
           "points": 11,
           "form": []
         },
@@ -721,12 +721,12 @@
           "crest": "https://crests.football-data.org/88.png",
           "played": 8,
           "won": 1,
-          "draw": 3,
-          "lost": 4,
-          "goalsFor": 11,
+          "draw": 4,
+          "lost": 3,
+          "goalsFor": 12,
           "goalsAgainst": 16,
-          "goalDifference": -5,
-          "points": 6,
+          "goalDifference": -4,
+          "points": 7,
           "form": []
         },
         {
