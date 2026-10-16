@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "vinicius-junior-handed-four-match-ban-misses-crucial-el-cl-sico-d9a02402769c",
+      "headline": "Vinicius Junior Handed Four-Match Ban, Misses Crucial El Clásico",
+      "league": "La Liga",
+      "summary": "Real Madrid will be without star forward Vinicius Junior for four upcoming La Liga matches, including the highly anticipated El Clásico, following his dismissal against Villarreal. The club is reportedly preparing an appeal against the Spanish Football Federation's disciplinary decision.",
+      "body": "Real Madrid's attacking prowess has taken a significant hit with the announcement of Vinicius Junior's four-game suspension, confirmed by the Spanish Football Federation's Disciplinary Committee. The Brazilian international received a straight red card during Real Madrid's recent 1-0 victory over Villarreal after an incident involving Nathan Saliba, where he was seen pulling the midfielder's hair.\n\nThe suspension breakdown includes two matches for violent conduct and an additional two for his aggressive protests towards the referee, Isidro Diaz de Mera, following the dismissal. This ruling means Vinicius will be unavailable for Real Madrid's critical clashes against Sevilla, Racing Santander, Valencia, and most notably, the first El Clásico of the season against league leaders Barcelona on October 25th.\n\nReports indicate that Real Madrid intends to appeal the decision, hoping to reduce the ban and have their key player available for some of these crucial fixtures. Vinicius himself has voiced frustration, suggesting he feels targeted by referees and advocating for greater protection for creative players in the league.",
+      "tags": [
+        "Real Madrid",
+        "Vinicius Junior",
+        "La Liga",
+        "Suspension",
+        "El Clásico"
+      ],
+      "image": "images/vinicius-junior-handed-four-match-ban-misses-crucial-el-cl-sico-d9a02402769c.svg",
+      "publishedAt": "2026-10-16T10:50:32.532Z"
+    },
+    {
       "id": "new-england-revolution-secure-playoff-berth-in-thrilling-cincinnati-clash-e2cdad5f6c65",
       "headline": "New England Revolution Secure Playoff Berth in Thrilling Cincinnati Clash",
       "league": "MLS",
@@ -888,22 +904,7 @@
       ],
       "image": "images/messi-and-su-rez-lead-inter-miami-to-dominant-4-0-victory-over-d-c-united-4898d0960d76.svg",
       "publishedAt": "2026-10-11T12:13:55.123Z"
-    },
-    {
-      "id": "arsenal-intensifies-pursuit-of-atletico-s-julian-alvarez-amid-150m-valuation-faf74789cf7d",
-      "headline": "Arsenal Intensifies Pursuit of Atletico's Julian Alvarez Amid €150M Valuation",
-      "league": "Transfer News",
-      "summary": "Arsenal is reportedly escalating its interest in Julian Alvarez, the Atletico Madrid striker, with potential movement on a significant transfer in the coming weeks. The Argentine international, valued at an estimated €150 million, appears increasingly open to departing the Spanish capital after a challenging period.",
-      "body": "Reports emerging today indicate Arsenal remains keenly focused on securing Atletico Madrid's prolific forward, Julian Alvarez. The Gunners are preparing for potential developments in the coming weeks regarding a move for the 26-year-old, who has reportedly struggled for consistent playing time and faced fan discontent at his current club.\n\nAlvarez, an Argentina international, has seen his valuation soar to approximately €150 million, reflecting his undoubted talent despite recent difficulties. Crucially, there are suggestions that Alvarez, who previously resisted a departure from Spain, might now be more receptive to a transfer away from La Liga, potentially paving the way for Arsenal to intensify their efforts.\n\nThis renewed pursuit from Arsenal could mark a significant shift in the winter transfer window. The London club is looking to capitalize on Alvarez's desire for a fresh start, especially after a challenging period following a contentious transfer saga this past summer.",
-      "tags": [
-        "Julian Alvarez",
-        "Arsenal",
-        "Atletico Madrid",
-        "Transfer Rumours"
-      ],
-      "image": "images/arsenal-intensifies-pursuit-of-atletico-s-julian-alvarez-amid-150m-valuation-faf74789cf7d.svg",
-      "publishedAt": "2026-10-11T04:19:12.283Z"
     }
   ],
-  "lastRun": "2026-10-16T03:23:28.511Z"
+  "lastRun": "2026-10-16T10:50:36.533Z"
 }
