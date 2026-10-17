@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "manchester-city-faces-staggering-european-ban-over-financial-breaches-0f4abd2a0b8b",
+      "headline": "Manchester City Faces Staggering European Ban Over Financial Breaches",
+      "league": "Champions League",
+      "summary": "Recent reports suggest Manchester City could face an unprecedented seven to ten-year exclusion from European competitions if their appeal against numerous financial violations is unsuccessful. The potential sanctions would shake the club's future in the Champions League and other continental tournaments.",
+      "body": "Manchester City is reportedly confronting a monumental threat to its European aspirations, with claims emerging of a potential seven to ten-year ban from all UEFA competitions. This severe punishment is said to be on the table should the club's ongoing appeal against 114 alleged financial fair play breaches ultimately fail. A Colombian journalist has indicated that the Union of European Football Associations could soon announce these unprecedented sanctions, which would impact City's participation in the Champions League, Europa League, and Conference League.\n\nThe club, however, vehemently denies any wrongdoing and has already initiated a robust appeals process. Representatives for Manchester City maintain their complete innocence and are prepared to contest the allegations through to the highest legal channels, including the High Court of the United Kingdom. This isn't the first time the reigning English champions have faced such scrutiny; they successfully overturned a two-year Champions League ban at the Court of Arbitration for Sport in 2020.\n\nThe lengthy investigation into City's financial reporting has spanned several years, focusing on sponsorship agreements, revenue, and undisclosed employment contracts. While official statements from UEFA are still pending, the prospect of such a lengthy exclusion casts a significant shadow over one of Europe's footballing powerhouses, potentially isolating them from international competition for a decade.",
+      "tags": [
+        "Man City",
+        "UEFA",
+        "Financial Fair Play",
+        "Ban"
+      ],
+      "image": "images/manchester-city-faces-staggering-european-ban-over-financial-breaches-0f4abd2a0b8b.svg",
+      "publishedAt": "2026-10-17T03:13:06.329Z"
+    },
+    {
       "id": "mls-disciplinary-committee-hands-down-fines-after-heated-houston-san-diego-clash-bc81837d0b73",
       "headline": "MLS Disciplinary Committee Hands Down Fines After Heated Houston-San Diego Clash",
       "league": "MLS",
@@ -889,22 +904,7 @@
       ],
       "image": "images/super-eagles-coach-champions-biennial-afcon-return-for-african-progress-c0884d13d903.svg",
       "publishedAt": "2026-10-12T00:16:51.867Z"
-    },
-    {
-      "id": "david-silva-makes-shock-return-to-football-with-hong-kong-club-e4663428ea84",
-      "headline": "David Silva Makes Shock Return to Football with Hong Kong Club",
-      "league": "Other",
-      "summary": "Former Manchester City maestro David Silva has made an unexpected return to professional football, signing a short-term deal with newly promoted Hong Kong Premier League side Supreme Sha Tin. The 40-year-old midfielder's comeback follows a three-year retirement, prompted by a career-ending knee injury.",
-      "body": "The football world has been taken by surprise with the announcement that legendary Spanish midfielder David Silva is set to return to competitive action. After hanging up his boots three years ago due to a significant knee injury, the former Manchester City star has inked a short-term agreement with Supreme Sha Tin, a team recently promoted to the Hong Kong Premier League. His decision marks a remarkable comeback for the veteran playmaker.\n\nSilva, widely celebrated for his illustrious career with Valencia, Manchester City, and Real Sociedad, brings a wealth of experience and exceptional talent to the Asian league. At 40 years old, his arrival is expected to generate considerable excitement and draw significant attention to the burgeoning football scene in Hong Kong. The move signals a unique chapter in the decorated career of the World Cup winner.\n\nThis unexpected transfer comes as Supreme Sha Tin prepares for the challenges of top-flight football, hoping Silva's influence will provide a crucial boost both on and off the pitch. His presence is anticipated to be invaluable for the squad, offering mentorship to younger players and a touch of class to their midfield. The deal highlights the enduring appeal of football legends across the globe.",
-      "tags": [
-        "David Silva",
-        "Transfer News",
-        "Hong Kong Premier League",
-        "Comeback"
-      ],
-      "image": "images/david-silva-makes-shock-return-to-football-with-hong-kong-club-e4663428ea84.svg",
-      "publishedAt": "2026-10-12T00:17:10.195Z"
     }
   ],
-  "lastRun": "2026-10-16T23:18:24.889Z"
+  "lastRun": "2026-10-17T03:13:10.331Z"
 }
