@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T20:10:04.242Z",
+  "updatedAt": "2026-10-18T22:47:59.563Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -527,9 +527,9 @@
           "won": 7,
           "draw": 0,
           "lost": 2,
-          "goalsFor": 21,
-          "goalsAgainst": 8,
-          "goalDifference": 13,
+          "goalsFor": 23,
+          "goalsAgainst": 9,
+          "goalDifference": 14,
           "points": 21,
           "form": []
         },
@@ -569,9 +569,9 @@
           "won": 4,
           "draw": 2,
           "lost": 3,
-          "goalsFor": 13,
-          "goalsAgainst": 14,
-          "goalDifference": -1,
+          "goalsFor": 14,
+          "goalsAgainst": 16,
+          "goalDifference": -2,
           "points": 14,
           "form": []
         },
@@ -1459,9 +1459,9 @@
           "won": 6,
           "draw": 1,
           "lost": 0,
-          "goalsFor": 13,
+          "goalsFor": 14,
           "goalsAgainst": 4,
-          "goalDifference": 9,
+          "goalDifference": 10,
           "points": 19,
           "form": []
         },
@@ -1544,8 +1544,8 @@
           "draw": 2,
           "lost": 2,
           "goalsFor": 9,
-          "goalsAgainst": 7,
-          "goalDifference": 2,
+          "goalsAgainst": 8,
+          "goalDifference": 1,
           "points": 11,
           "form": []
         },
