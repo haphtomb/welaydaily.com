@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T10:29:12.070Z",
+  "updatedAt": "2026-10-18T15:27:04.909Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -20,6 +20,20 @@
         },
         {
           "position": 2,
+          "team": "Brighton & Hove Albion FC",
+          "crest": "https://crests.football-data.org/397.png",
+          "played": 7,
+          "won": 5,
+          "draw": 1,
+          "lost": 1,
+          "goalsFor": 23,
+          "goalsAgainst": 5,
+          "goalDifference": 18,
+          "points": 16,
+          "form": []
+        },
+        {
+          "position": 3,
           "team": "Arsenal FC",
           "crest": "https://crests.football-data.org/57.png",
           "played": 6,
@@ -30,20 +44,6 @@
           "goalsAgainst": 5,
           "goalDifference": 5,
           "points": 15,
-          "form": []
-        },
-        {
-          "position": 3,
-          "team": "Brighton & Hove Albion FC",
-          "crest": "https://crests.football-data.org/397.png",
-          "played": 6,
-          "won": 4,
-          "draw": 1,
-          "lost": 1,
-          "goalsFor": 18,
-          "goalsAgainst": 5,
-          "goalDifference": 13,
-          "points": 13,
           "form": []
         },
         {
@@ -90,6 +90,20 @@
         },
         {
           "position": 7,
+          "team": "Leeds United FC",
+          "crest": "https://crests.football-data.org/341.png",
+          "played": 7,
+          "won": 2,
+          "draw": 4,
+          "lost": 1,
+          "goalsFor": 9,
+          "goalsAgainst": 6,
+          "goalDifference": 3,
+          "points": 10,
+          "form": []
+        },
+        {
+          "position": 8,
           "team": "Everton FC",
           "crest": "https://crests.football-data.org/62.png",
           "played": 7,
@@ -100,20 +114,6 @@
           "goalsAgainst": 7,
           "goalDifference": 1,
           "points": 10,
-          "form": []
-        },
-        {
-          "position": 8,
-          "team": "Leeds United FC",
-          "crest": "https://crests.football-data.org/341.png",
-          "played": 6,
-          "won": 2,
-          "draw": 3,
-          "lost": 1,
-          "goalsFor": 8,
-          "goalsAgainst": 5,
-          "goalDifference": 3,
-          "points": 9,
           "form": []
         },
         {
@@ -174,34 +174,48 @@
         },
         {
           "position": 13,
-          "team": "Crystal Palace FC",
-          "crest": "https://crests.football-data.org/354.png",
-          "played": 6,
-          "won": 2,
-          "draw": 1,
-          "lost": 3,
-          "goalsFor": 9,
-          "goalsAgainst": 12,
-          "goalDifference": -3,
+          "team": "Manchester United FC",
+          "crest": "https://crests.football-data.org/66.png",
+          "played": 7,
+          "won": 1,
+          "draw": 4,
+          "lost": 2,
+          "goalsFor": 10,
+          "goalsAgainst": 10,
+          "goalDifference": 0,
           "points": 7,
           "form": []
         },
         {
           "position": 14,
-          "team": "Manchester United FC",
-          "crest": "https://crests.football-data.org/66.png",
-          "played": 6,
-          "won": 1,
-          "draw": 3,
-          "lost": 2,
+          "team": "Crystal Palace FC",
+          "crest": "https://crests.football-data.org/354.png",
+          "played": 7,
+          "won": 2,
+          "draw": 1,
+          "lost": 4,
           "goalsFor": 9,
-          "goalsAgainst": 9,
-          "goalDifference": 0,
-          "points": 6,
+          "goalsAgainst": 17,
+          "goalDifference": -8,
+          "points": 7,
           "form": []
         },
         {
           "position": 15,
+          "team": "AFC Bournemouth",
+          "crest": "https://crests.football-data.org/bournemouth.png",
+          "played": 7,
+          "won": 1,
+          "draw": 3,
+          "lost": 3,
+          "goalsFor": 9,
+          "goalsAgainst": 13,
+          "goalDifference": -4,
+          "points": 6,
+          "form": []
+        },
+        {
+          "position": 16,
           "team": "Coventry City FC",
           "crest": "https://crests.football-data.org/1076.png",
           "played": 6,
@@ -215,7 +229,7 @@
           "form": []
         },
         {
-          "position": 16,
+          "position": 17,
           "team": "Fulham FC",
           "crest": "https://crests.football-data.org/63.png",
           "played": 7,
@@ -229,7 +243,7 @@
           "form": []
         },
         {
-          "position": 17,
+          "position": 18,
           "team": "Nottingham Forest FC",
           "crest": "https://crests.football-data.org/351.png",
           "played": 6,
@@ -243,31 +257,17 @@
           "form": []
         },
         {
-          "position": 18,
+          "position": 19,
           "team": "Sunderland AFC",
           "crest": "https://crests.football-data.org/71.png",
-          "played": 6,
+          "played": 7,
           "won": 1,
           "draw": 1,
-          "lost": 4,
+          "lost": 5,
           "goalsFor": 6,
-          "goalsAgainst": 12,
-          "goalDifference": -6,
+          "goalsAgainst": 14,
+          "goalDifference": -8,
           "points": 4,
-          "form": []
-        },
-        {
-          "position": 19,
-          "team": "AFC Bournemouth",
-          "crest": "https://crests.football-data.org/bournemouth.png",
-          "played": 6,
-          "won": 0,
-          "draw": 3,
-          "lost": 3,
-          "goalsFor": 7,
-          "goalsAgainst": 13,
-          "goalDifference": -6,
-          "points": 3,
           "form": []
         },
         {
@@ -579,14 +579,14 @@
           "position": 7,
           "team": "Deportivo Alavés",
           "crest": "https://crests.football-data.org/263.png",
-          "played": 8,
+          "played": 9,
           "won": 3,
-          "draw": 2,
+          "draw": 3,
           "lost": 3,
           "goalsFor": 12,
           "goalsAgainst": 8,
           "goalDifference": 4,
-          "points": 11,
+          "points": 12,
           "form": []
         },
         {
@@ -605,6 +605,34 @@
         },
         {
           "position": 9,
+          "team": "CA Osasuna",
+          "crest": "https://crests.football-data.org/79.png",
+          "played": 9,
+          "won": 3,
+          "draw": 2,
+          "lost": 4,
+          "goalsFor": 10,
+          "goalsAgainst": 18,
+          "goalDifference": -8,
+          "points": 11,
+          "form": []
+        },
+        {
+          "position": 10,
+          "team": "RC Celta de Vigo",
+          "crest": "https://crests.football-data.org/558.png",
+          "played": 9,
+          "won": 1,
+          "draw": 6,
+          "lost": 2,
+          "goalsFor": 8,
+          "goalsAgainst": 6,
+          "goalDifference": 2,
+          "points": 9,
+          "form": []
+        },
+        {
+          "position": 11,
           "team": "Athletic Club",
           "crest": "https://crests.football-data.org/77.png",
           "played": 7,
@@ -618,7 +646,7 @@
           "form": []
         },
         {
-          "position": 10,
+          "position": 12,
           "team": "Villarreal CF",
           "crest": "https://crests.football-data.org/94.png",
           "played": 9,
@@ -632,21 +660,7 @@
           "form": []
         },
         {
-          "position": 11,
-          "team": "RC Celta de Vigo",
-          "crest": "https://crests.football-data.org/558.png",
-          "played": 8,
-          "won": 1,
-          "draw": 5,
-          "lost": 2,
-          "goalsFor": 8,
-          "goalsAgainst": 6,
-          "goalDifference": 2,
-          "points": 8,
-          "form": []
-        },
-        {
-          "position": 12,
+          "position": 13,
           "team": "RCD Espanyol de Barcelona",
           "crest": "https://crests.football-data.org/80.png",
           "played": 9,
@@ -660,7 +674,7 @@
           "form": []
         },
         {
-          "position": 13,
+          "position": 14,
           "team": "Rayo Vallecano de Madrid",
           "crest": "https://crests.football-data.org/87.png",
           "played": 7,
@@ -674,7 +688,7 @@
           "form": []
         },
         {
-          "position": 14,
+          "position": 15,
           "team": "Getafe CF",
           "crest": "https://crests.football-data.org/82.png",
           "played": 8,
@@ -688,30 +702,16 @@
           "form": []
         },
         {
-          "position": 15,
+          "position": 16,
           "team": "Real Racing Club de Santander",
           "crest": "https://crests.football-data.org/5335.png",
-          "played": 8,
+          "played": 9,
           "won": 2,
           "draw": 2,
-          "lost": 4,
+          "lost": 5,
           "goalsFor": 13,
-          "goalsAgainst": 23,
-          "goalDifference": -10,
-          "points": 8,
-          "form": []
-        },
-        {
-          "position": 16,
-          "team": "CA Osasuna",
-          "crest": "https://crests.football-data.org/79.png",
-          "played": 8,
-          "won": 2,
-          "draw": 2,
-          "lost": 4,
-          "goalsFor": 8,
-          "goalsAgainst": 18,
-          "goalDifference": -10,
+          "goalsAgainst": 25,
+          "goalDifference": -12,
           "points": 8,
           "form": []
         },
@@ -1010,13 +1010,13 @@
           "position": 3,
           "team": "SC Freiburg",
           "crest": "https://crests.football-data.org/17.png",
-          "played": 5,
+          "played": 6,
           "won": 4,
           "draw": 1,
-          "lost": 0,
-          "goalsFor": 14,
-          "goalsAgainst": 4,
-          "goalDifference": 10,
+          "lost": 1,
+          "goalsFor": 15,
+          "goalsAgainst": 6,
+          "goalDifference": 9,
           "points": 13,
           "form": []
         },
@@ -1024,14 +1024,14 @@
           "position": 4,
           "team": "Bayer 04 Leverkusen",
           "crest": "https://crests.football-data.org/3.png",
-          "played": 5,
-          "won": 3,
+          "played": 6,
+          "won": 4,
           "draw": 1,
           "lost": 1,
-          "goalsFor": 14,
-          "goalsAgainst": 8,
-          "goalDifference": 6,
-          "points": 10,
+          "goalsFor": 16,
+          "goalsAgainst": 9,
+          "goalDifference": 7,
+          "points": 13,
           "form": []
         },
         {
@@ -1481,6 +1481,20 @@
         },
         {
           "position": 4,
+          "team": "Como 1907",
+          "crest": "https://crests.football-data.org/7397.png",
+          "played": 7,
+          "won": 4,
+          "draw": 2,
+          "lost": 1,
+          "goalsFor": 12,
+          "goalsAgainst": 7,
+          "goalDifference": 5,
+          "points": 14,
+          "form": []
+        },
+        {
+          "position": 5,
           "team": "Frosinone Calcio",
           "crest": "https://crests.football-data.org/470.png",
           "played": 7,
@@ -1494,7 +1508,7 @@
           "form": []
         },
         {
-          "position": 5,
+          "position": 6,
           "team": "Cagliari Calcio",
           "crest": "https://crests.football-data.org/104.png",
           "played": 6,
@@ -1508,7 +1522,7 @@
           "form": []
         },
         {
-          "position": 6,
+          "position": 7,
           "team": "AC Milan",
           "crest": "https://crests.football-data.org/98.png",
           "played": 6,
@@ -1522,7 +1536,7 @@
           "form": []
         },
         {
-          "position": 7,
+          "position": 8,
           "team": "Juventus FC",
           "crest": "https://crests.football-data.org/109.png",
           "played": 6,
@@ -1532,20 +1546,6 @@
           "goalsFor": 9,
           "goalsAgainst": 5,
           "goalDifference": 4,
-          "points": 11,
-          "form": []
-        },
-        {
-          "position": 8,
-          "team": "Como 1907",
-          "crest": "https://crests.football-data.org/7397.png",
-          "played": 6,
-          "won": 3,
-          "draw": 2,
-          "lost": 1,
-          "goalsFor": 9,
-          "goalsAgainst": 6,
-          "goalDifference": 3,
           "points": 11,
           "form": []
         },
@@ -1579,6 +1579,20 @@
         },
         {
           "position": 11,
+          "team": "US Lecce",
+          "crest": "https://crests.football-data.org/5890.png",
+          "played": 7,
+          "won": 3,
+          "draw": 0,
+          "lost": 4,
+          "goalsFor": 9,
+          "goalsAgainst": 12,
+          "goalDifference": -3,
+          "points": 9,
+          "form": []
+        },
+        {
+          "position": 12,
           "team": "US Sassuolo Calcio",
           "crest": "https://crests.football-data.org/471.png",
           "played": 7,
@@ -1592,7 +1606,7 @@
           "form": []
         },
         {
-          "position": 12,
+          "position": 13,
           "team": "Torino FC",
           "crest": "https://crests.football-data.org/586.png",
           "played": 6,
@@ -1603,20 +1617,6 @@
           "goalsAgainst": 9,
           "goalDifference": -2,
           "points": 7,
-          "form": []
-        },
-        {
-          "position": 13,
-          "team": "US Lecce",
-          "crest": "https://crests.football-data.org/5890.png",
-          "played": 6,
-          "won": 2,
-          "draw": 0,
-          "lost": 4,
-          "goalsFor": 6,
-          "goalsAgainst": 12,
-          "goalDifference": -6,
-          "points": 6,
           "form": []
         },
         {
@@ -1635,20 +1635,6 @@
         },
         {
           "position": 15,
-          "team": "Udinese Calcio",
-          "crest": "https://crests.football-data.org/115.png",
-          "played": 6,
-          "won": 1,
-          "draw": 1,
-          "lost": 4,
-          "goalsFor": 9,
-          "goalsAgainst": 13,
-          "goalDifference": -4,
-          "points": 4,
-          "form": []
-        },
-        {
-          "position": 16,
           "team": "AC Monza",
           "crest": "https://crests.football-data.org/5911.png",
           "played": 6,
@@ -1662,7 +1648,7 @@
           "form": []
         },
         {
-          "position": 17,
+          "position": 16,
           "team": "Parma Calcio 1913",
           "crest": "https://crests.football-data.org/112.png",
           "played": 6,
@@ -1676,21 +1662,21 @@
           "form": []
         },
         {
-          "position": 18,
-          "team": "ACF Fiorentina",
-          "crest": "https://crests.football-data.org/99.png",
-          "played": 6,
+          "position": 17,
+          "team": "Udinese Calcio",
+          "crest": "https://crests.football-data.org/115.png",
+          "played": 7,
           "won": 1,
           "draw": 1,
-          "lost": 4,
-          "goalsFor": 7,
-          "goalsAgainst": 14,
+          "lost": 5,
+          "goalsFor": 9,
+          "goalsAgainst": 16,
           "goalDifference": -7,
           "points": 4,
           "form": []
         },
         {
-          "position": 19,
+          "position": 18,
           "team": "Genoa CFC",
           "crest": "https://crests.football-data.org/107.png",
           "played": 7,
@@ -1700,6 +1686,20 @@
           "goalsFor": 5,
           "goalsAgainst": 13,
           "goalDifference": -8,
+          "points": 4,
+          "form": []
+        },
+        {
+          "position": 19,
+          "team": "ACF Fiorentina",
+          "crest": "https://crests.football-data.org/99.png",
+          "played": 7,
+          "won": 1,
+          "draw": 1,
+          "lost": 5,
+          "goalsFor": 8,
+          "goalsAgainst": 17,
+          "goalDifference": -9,
           "points": 4,
           "form": []
         },
@@ -1926,6 +1926,20 @@
       "standings": [
         {
           "position": 1,
+          "team": "AS Monaco FC",
+          "crest": "https://crests.football-data.org/548.png",
+          "played": 7,
+          "won": 4,
+          "draw": 3,
+          "lost": 0,
+          "goalsFor": 10,
+          "goalsAgainst": 5,
+          "goalDifference": 5,
+          "points": 15,
+          "form": []
+        },
+        {
+          "position": 2,
           "team": "Paris Saint-Germain FC",
           "crest": "https://crests.football-data.org/524.png",
           "played": 7,
@@ -1939,21 +1953,7 @@
           "form": []
         },
         {
-          "position": 2,
-          "team": "AS Monaco FC",
-          "crest": "https://crests.football-data.org/548.png",
-          "played": 6,
-          "won": 4,
-          "draw": 2,
-          "lost": 0,
-          "goalsFor": 10,
-          "goalsAgainst": 5,
-          "goalDifference": 5,
-          "points": 14,
-          "form": []
-        },
-        {
-          "position": 2,
+          "position": 3,
           "team": "Lille OSC",
           "crest": "https://crests.football-data.org/521.png",
           "played": 7,
@@ -1970,18 +1970,32 @@
           "position": 4,
           "team": "Stade Rennais FC 1901",
           "crest": "https://crests.football-data.org/529.png",
-          "played": 6,
+          "played": 7,
           "won": 4,
-          "draw": 1,
+          "draw": 2,
           "lost": 1,
           "goalsFor": 12,
           "goalsAgainst": 10,
           "goalDifference": 2,
-          "points": 13,
+          "points": 14,
           "form": []
         },
         {
           "position": 5,
+          "team": "Paris FC",
+          "crest": "https://crests.football-data.org/1045.png",
+          "played": 7,
+          "won": 3,
+          "draw": 3,
+          "lost": 1,
+          "goalsFor": 8,
+          "goalsAgainst": 4,
+          "goalDifference": 4,
+          "points": 12,
+          "form": []
+        },
+        {
+          "position": 6,
           "team": "Olympique Lyonnais",
           "crest": "https://crests.football-data.org/523.png",
           "played": 6,
@@ -1991,20 +2005,6 @@
           "goalsFor": 11,
           "goalsAgainst": 4,
           "goalDifference": 7,
-          "points": 11,
-          "form": []
-        },
-        {
-          "position": 6,
-          "team": "Paris FC",
-          "crest": "https://crests.football-data.org/1045.png",
-          "played": 6,
-          "won": 3,
-          "draw": 2,
-          "lost": 1,
-          "goalsFor": 8,
-          "goalsAgainst": 4,
-          "goalDifference": 4,
           "points": 11,
           "form": []
         },
@@ -2024,6 +2024,20 @@
         },
         {
           "position": 8,
+          "team": "Olympique de Marseille",
+          "crest": "https://crests.football-data.org/516.png",
+          "played": 7,
+          "won": 3,
+          "draw": 0,
+          "lost": 4,
+          "goalsFor": 14,
+          "goalsAgainst": 10,
+          "goalDifference": 4,
+          "points": 9,
+          "form": []
+        },
+        {
+          "position": 9,
           "team": "Stade Brestois 29",
           "crest": "https://crests.football-data.org/512.png",
           "played": 7,
@@ -2037,7 +2051,7 @@
           "form": []
         },
         {
-          "position": 9,
+          "position": 10,
           "team": "Toulouse FC",
           "crest": "https://crests.football-data.org/511.png",
           "played": 7,
@@ -2051,21 +2065,21 @@
           "form": []
         },
         {
-          "position": 10,
+          "position": 11,
           "team": "FC Lorient",
           "crest": "https://crests.football-data.org/525.png",
-          "played": 6,
+          "played": 7,
           "won": 2,
-          "draw": 2,
+          "draw": 3,
           "lost": 2,
           "goalsFor": 6,
           "goalsAgainst": 6,
           "goalDifference": 0,
-          "points": 8,
+          "points": 9,
           "form": []
         },
         {
-          "position": 11,
+          "position": 12,
           "team": "OGC Nice",
           "crest": "https://crests.football-data.org/522.png",
           "played": 6,
@@ -2079,7 +2093,7 @@
           "form": []
         },
         {
-          "position": 12,
+          "position": 13,
           "team": "RC Strasbourg Alsace",
           "crest": "https://crests.football-data.org/576.png",
           "played": 7,
@@ -2093,35 +2107,35 @@
           "form": []
         },
         {
-          "position": 13,
+          "position": 14,
           "team": "Angers SCO",
           "crest": "https://crests.football-data.org/532.png",
-          "played": 6,
+          "played": 7,
           "won": 2,
           "draw": 1,
-          "lost": 3,
-          "goalsFor": 7,
-          "goalsAgainst": 10,
-          "goalDifference": -3,
+          "lost": 4,
+          "goalsFor": 9,
+          "goalsAgainst": 15,
+          "goalDifference": -6,
           "points": 7,
           "form": []
         },
         {
-          "position": 14,
-          "team": "Olympique de Marseille",
-          "crest": "https://crests.football-data.org/516.png",
-          "played": 6,
+          "position": 15,
+          "team": "AJ Auxerre",
+          "crest": "https://crests.football-data.org/519.png",
+          "played": 7,
           "won": 2,
-          "draw": 0,
+          "draw": 1,
           "lost": 4,
-          "goalsFor": 9,
-          "goalsAgainst": 8,
-          "goalDifference": 1,
-          "points": 6,
+          "goalsFor": 8,
+          "goalsAgainst": 16,
+          "goalDifference": -8,
+          "points": 7,
           "form": []
         },
         {
-          "position": 15,
+          "position": 16,
           "team": "Le Mans FC",
           "crest": "https://crests.football-data.org/535.png",
           "played": 7,
@@ -2131,20 +2145,6 @@
           "goalsFor": 10,
           "goalsAgainst": 15,
           "goalDifference": -5,
-          "points": 6,
-          "form": []
-        },
-        {
-          "position": 16,
-          "team": "AJ Auxerre",
-          "crest": "https://crests.football-data.org/519.png",
-          "played": 6,
-          "won": 2,
-          "draw": 0,
-          "lost": 4,
-          "goalsFor": 8,
-          "goalsAgainst": 16,
-          "goalDifference": -8,
           "points": 6,
           "form": []
         },
@@ -2166,14 +2166,14 @@
           "position": 18,
           "team": "Le Havre AC",
           "crest": "https://crests.football-data.org/533.png",
-          "played": 6,
+          "played": 7,
           "won": 0,
-          "draw": 2,
+          "draw": 3,
           "lost": 4,
           "goalsFor": 4,
           "goalsAgainst": 8,
           "goalDifference": -4,
-          "points": 2,
+          "points": 3,
           "form": []
         }
       ],
