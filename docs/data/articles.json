@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "bellingham-commits-long-term-future-to-real-madrid-in-new-deal-adf386eea730",
+      "headline": "Bellingham Commits Long-Term Future to Real Madrid in New Deal",
+      "league": "Transfer News",
+      "summary": "Real Madrid midfield maestro Jude Bellingham has reportedly agreed to a significant new five-year contract, extending his stay at the Bernabéu until 2031. This development secures the highly-rated England international's place at the heart of the Spanish giants for years to come.",
+      "body": "Jude Bellingham, the 23-year-old sensation, has reportedly finalized an extended contract with Real Madrid, committing to the club until 2031. This new agreement comes with improved terms, reflecting his pivotal role since joining from Borussia Dortmund in the summer of 2023.\n\nThe England international has been in stellar form this season under new manager Jose Mourinho, netting three goals and providing three assists in eight league appearances. His consistent performances have solidified his status as a key figure in the squad.\n\nBellingham has already enjoyed considerable success in the Spanish capital, securing a Champions League title and a La Liga triumph during his initial two seasons. His decision to extend his stay follows similar recent contract renewals for other integral players, like Vinicius Junior.",
+      "tags": [
+        "Jude Bellingham",
+        "Real Madrid",
+        "Contract Extension",
+        "La Liga"
+      ],
+      "image": "images/bellingham-commits-long-term-future-to-real-madrid-in-new-deal-adf386eea730.svg",
+      "publishedAt": "2026-10-20T14:09:56.335Z"
+    },
+    {
+      "id": "neto-s-brilliant-brace-secures-away-victory-for-chelsea-against-everton-6d2a593aaf38",
+      "headline": "Neto's Brilliant Brace Secures Away Victory for Chelsea Against Everton",
+      "league": "Premier League",
+      "summary": "Chelsea secured a crucial 2-0 away win against Everton on Sunday, with forward Neto delivering both goals for the Blues. His decisive contributions ensured a vital three points for the London club in a challenging fixture.",
+      "body": "Chelsea emerged victorious from their Premier League clash at Everton on Sunday, with a standout performance from their attacking player, Neto. The Portuguese forward broke the deadlock shortly after the halftime interval, putting the visitors ahead in a tightly contested match.\n\nAs the game drew to a close, Neto once again found the back of the net, sealing his brace and cementing Chelsea's 2-0 lead. This late goal extinguished any hopes of an Everton comeback and secured a valuable away win for the Blues.\n\nThe result provides a significant boost for Chelsea as they navigate the demanding Premier League schedule, while Everton will undoubtedly be reflecting on missed opportunities in front of their home crowd.",
+      "tags": [
+        "Chelsea",
+        "Everton",
+        "Neto",
+        "Premier League"
+      ],
+      "image": "images/neto-s-brilliant-brace-secures-away-victory-for-chelsea-against-everton-6d2a593aaf38.svg",
+      "publishedAt": "2026-10-20T14:10:12.678Z"
+    },
+    {
+      "id": "confederation-cup-shocks-red-arrows-down-chiefs-giants-stumble-11614a237c69",
+      "headline": "Confederation Cup Shocks: Red Arrows Down Chiefs, Giants Stumble",
+      "league": "CAF Confederation Cup",
+      "summary": "The TotalEnergies CAF Confederation Cup's second preliminary round first legs delivered significant upsets and tight contests, leaving several established clubs with work to do. Zambian side Red Arrows notably secured a crucial home victory against South African powerhouse Kaizer Chiefs, setting up a tense return leg.",
+      "body": "The opening matches of the TotalEnergies CAF Confederation Cup second preliminary round saw a series of unexpected outcomes, drastically shaping the race for the group stage. Among the most talked-about results was Zambian club Red Arrows' impressive 1-0 triumph over South African giants Kaizer Chiefs. Alassane Diarra sealed the win for the Arrows in the 76th minute, heading in a corner to give his team a valuable advantage heading into the away fixture.\n\nElsewhere, Libya's Al Ahly Tripoli showcased a dominant performance, securing a commanding 4-0 away victory against Ethiopia's Welwalo Adigrat. DR Congo's AS Maniema Union also delivered a strong attacking display, defeating Angola's Kabuscorp 4-1 on the road. These results highlight the fierce competition and the emergence of ambitious challengers across the continent.\n\nMeanwhile, other prominent clubs faced tougher challenges. Egyptian powerhouse Al Ahly mounted a second-half comeback to narrowly defeat Uganda's Kitara 2-1 away from home, while Moroccan club Raja Club Athletic and Tunisian side CS Sfaxien were held to draws. With the decisive second legs scheduled for later this week, many ties remain finely balanced, promising more drama as teams vie for a spot in the 16-team group stage.",
+      "tags": [
+        "CAF Confederation Cup",
+        "Red Arrows",
+        "Kaizer Chiefs",
+        "African Football"
+      ],
+      "image": "images/confederation-cup-shocks-red-arrows-down-chiefs-giants-stumble-11614a237c69.svg",
+      "publishedAt": "2026-10-20T14:10:31.089Z"
+    },
+    {
+      "id": "psg-barcelona-champions-league-clash-proceeds-amidst-french-unrest-41282be52e4b",
+      "headline": "PSG-Barcelona Champions League Clash Proceeds Amidst French Unrest",
+      "league": "Champions League",
+      "summary": "Tonight's highly anticipated Champions League fixture between Paris Saint-Germain and Barcelona is confirmed to proceed as scheduled in Paris, despite recent civil unrest across France. Barcelona manager Hansi Flick has voiced his respect for the reigning champions, anticipating a formidable challenge at Parc des Princes.",
+      "body": "The crucial Champions League encounter featuring Paris Saint-Germain and Barcelona is set to take place this evening, with French authorities confirming the match will go ahead despite a backdrop of recent violent protests across the nation. Concerns had arisen regarding the staging of major events, but the interior minister provided assurances that the showcase match would not be impacted, though heightened security measures are expected around the Parc des Princes.\n\nSpeaking ahead of the fixture, Barcelona coach Hansi Flick expressed considerable admiration for his opponents, labeling PSG as the \"best team in the world.\" He highlighted the upcoming game as a significant opportunity for his squad to gauge their current standing against top-tier European competition.\n\nBoth clubs enter this Matchday 3 clash with perfect records in the competition so far, making this a pivotal fixture in shaping the early group standings. PSG is aiming for a third consecutive Champions League title, while Barcelona seeks to continue their strong start in pursuit of European glory.",
+      "tags": [
+        "Champions League",
+        "PSG",
+        "Barcelona",
+        "Hansi Flick"
+      ],
+      "image": "images/psg-barcelona-champions-league-clash-proceeds-amidst-french-unrest-41282be52e4b.svg",
+      "publishedAt": "2026-10-20T14:10:45.932Z"
+    },
+    {
       "id": "barcelona-eyes-stuttgart-s-jeltsch-as-prime-defensive-reinforcement-4909d1c48cb0",
       "headline": "Barcelona Eyes Stuttgart's Jeltsch as Prime Defensive Reinforcement",
       "league": "Transfer News",
@@ -847,69 +907,7 @@
       ],
       "image": "images/real-madrid-secures-arda-guler-s-future-with-long-term-contract-63aabb25413e.svg",
       "publishedAt": "2026-10-16T03:23:05.949Z"
-    },
-    {
-      "id": "southgate-questions-fifa-over-ronaldo-s-world-cup-suspension-reprieve-946af424b9b9",
-      "headline": "Southgate Questions FIFA Over Ronaldo's World Cup Suspension Reprieve",
-      "league": "World Cup Qualifiers",
-      "summary": "Former England manager Gareth Southgate has recently voiced concerns regarding FIFA's handling of Cristiano Ronaldo's suspension for a 2026 World Cup qualifier, suggesting a potential double standard for high-profile players. The controversy stems from a 2025 incident where Ronaldo received a reduced ban, allowing his participation in the upcoming tournament.",
-      "body": "A debate has reignited surrounding the fairness of disciplinary actions in international football, with Gareth Southgate, the former England head coach, publicly questioning FIFA's decision-making process concerning Cristiano Ronaldo. The Portuguese captain was involved in a contentious incident during a November 2025 World Cup qualifier against the Republic of Ireland, where he was sent off for violent conduct after elbowing defender Dara O'Shea.\n\nInitially facing a three-match ban that could have impacted his 2026 World Cup availability, FIFA's Disciplinary Committee ultimately confirmed a sanction where Ronaldo served one match, with the remaining two suspended for a probationary period of one year. This decision notably cleared the veteran forward to represent Portugal in their initial World Cup fixtures.\n\nSouthgate's recent remarks, made on October 15, 2026, highlighted concerns about the consistency of such disciplinary rulings, particularly when global football stars are involved. His comments suggest a wider discussion is needed on whether the established disciplinary framework operates uniformly for all players, regardless of their stature in the sport.",
-      "tags": [
-        "Cristiano Ronaldo",
-        "FIFA",
-        "Gareth Southgate",
-        "World Cup 2026 Qualifiers"
-      ],
-      "image": "images/southgate-questions-fifa-over-ronaldo-s-world-cup-suspension-reprieve-946af424b9b9.svg",
-      "publishedAt": "2026-10-15T23:40:18.842Z"
-    },
-    {
-      "id": "champions-league-matchday-2-shatters-all-time-goal-scoring-record-ea515084c054",
-      "headline": "Champions League Matchday 2 Shatters All-Time Goal-Scoring Record",
-      "league": "Champions League",
-      "summary": "The second matchday of the 2026/27 UEFA Champions League has set a new benchmark for attacking football, with an unprecedented 78 goals scored across the eighteen fixtures. This thrilling round of matches has solidified the current season as one of the most explosive in the competition's history, highlighting several high-scoring encounters.",
-      "body": "The second matchday of the UEFA Champions League for the 2026/27 season has etched its name into the record books, delivering an astounding 78 goals across the continent. This remarkable tally surpasses the previous record by a significant margin, confirming the league phase's explosive start. Football fans were treated to a spectacle of attacking prowess, with numerous teams finding the back of the net consistently.\n\nAmong the standout results contributing to this historic total were Liverpool's dominant 6-3 victory away at LASK and Aston Villa's comprehensive 6-0 demolition of Fenerbahçe. Additionally, Real Madrid orchestrated a dramatic 4-3 comeback win against Roma, while Club Brugge secured a thrilling 4-3 away success over Inter Milan, featuring a hat-trick from Nicolò Tresoldi.\n\nThe sheer volume of goals has also reshaped the top scorer charts, with Erling Haaland, Ermedin Demirović, and Nicolò Tresoldi currently leading the pack, each with four goals to their name. This record-breaking matchday has set a high bar for the remainder of the competition, promising more exhilarating football as teams continue their quest for European glory.",
-      "tags": [
-        "Champions League",
-        "Goal Record",
-        "Matchday 2",
-        "Football"
-      ],
-      "image": "images/champions-league-matchday-2-shatters-all-time-goal-scoring-record-ea515084c054.svg",
-      "publishedAt": "2026-10-15T23:40:41.367Z"
-    },
-    {
-      "id": "chelsea-s-five-star-performance-ends-winless-streak-sparks-debate-b62240172c32",
-      "headline": "Chelsea's Five-Star Performance Ends Winless Streak, Sparks Debate",
-      "league": "Premier League",
-      "summary": "Chelsea delivered a dominant attacking display, securing a resounding 5-1 victory over Bournemouth that brought an end to their recent winless run. The impressive performance has sparked discussions about the team's exciting, albeit defensively vulnerable, style of play.",
-      "body": "Chelsea roared back to form with a commanding 5-1 triumph against Bournemouth, showcasing their formidable attacking capabilities. The emphatic result on Wednesday saw Jordan Henderson and João Pedro each net a brace, decisively ending the Blues' three-game winless streak in the Premier League. This dominant display has ignited conversation among pundits regarding the sustainability of Chelsea's thrilling, high-risk approach under their current system.\n\nDespite the goalfest, defensive solidity remains a talking point for the London club. While their ruthless finishing against Bournemouth was praised, concerns persist about their defensive record, having conceded a significant number of goals this season and failing to keep a clean sheet in the league for an extended period. The return of Moisés Caicedo, who provided crucial energy and ball-winning in midfield, along with Jordan Henderson's leadership, offered encouraging signs of improved organization in the engine room.\n\nManager Alonso's tactical setup, which prioritizes committing players forward, undoubtedly amplifies their attacking threat but can leave spaces for opponents to exploit. The victory over Bournemouth, however, suggested a potential solution is being found to balance their offensive prowess with greater defensive discipline, hinting that the team might be evolving to thrill supporters without enduring constant stress.",
-      "tags": [
-        "Chelsea",
-        "Premier League",
-        "Match Report",
-        "Jordan Henderson",
-        "João Pedro",
-        "Bournemouth"
-      ],
-      "image": "images/chelsea-s-five-star-performance-ends-winless-streak-sparks-debate-b62240172c32.svg",
-      "publishedAt": "2026-10-15T23:41:01.625Z"
-    },
-    {
-      "id": "psg-launches-ambitious-bid-for-barcelona-defender-eric-garc-a-95e9c378c65d",
-      "headline": "PSG Launches Ambitious Bid for Barcelona Defender Eric García",
-      "league": "Transfer News",
-      "summary": "Paris Saint-Germain has reportedly initiated a significant move to acquire Barcelona's talented defender Eric García, signaling their intent to bolster the squad with a high-profile signing. This aggressive pursuit suggests a potential shake-up in the defensive ranks for the Parisian giants, as they look to secure the Spanish international's services.",
-      "body": "Paris Saint-Germain is reportedly preparing an ambitious approach for Barcelona's Eric García as the French champions look to strengthen their defensive options. The move indicates PSG's ongoing strategy to attract top talent from Europe's elite clubs, with García emerging as a key target. His versatility and experience in La Liga and European competitions make him an attractive prospect for the Ligue 1 powerhouse.\n\nGarcía, who rejoined Barcelona from Manchester City, has been a consistent performer when called upon, showcasing his ability to play both as a central defender and in a wider defensive role. PSG's interest could stem from a desire to add depth and quality to their backline, particularly with the demanding schedule of domestic and Champions League fixtures ahead.\n\nWhile details of the proposed 'swoop' remain under wraps, any potential transfer would undoubtedly involve intricate negotiations between two of Europe's biggest clubs. Barcelona will likely be keen to retain a player of García's calibre, setting the stage for a potentially protracted transfer saga as PSG pushes to make their audacious move a reality.",
-      "tags": [
-        "Eric García",
-        "PSG",
-        "Barcelona",
-        "Transfer Rumours"
-      ],
-      "image": "images/psg-launches-ambitious-bid-for-barcelona-defender-eric-garc-a-95e9c378c65d.svg",
-      "publishedAt": "2026-10-15T23:41:18.632Z"
     }
   ],
-  "lastRun": "2026-10-20T08:15:58.753Z"
+  "lastRun": "2026-10-20T14:10:49.933Z"
 }
