@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T20:23:05.326Z",
+  "updatedAt": "2026-10-20T00:07:12.017Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -222,9 +222,9 @@
           "won": 1,
           "draw": 3,
           "lost": 3,
-          "goalsFor": 5,
+          "goalsFor": 6,
           "goalsAgainst": 10,
-          "goalDifference": -5,
+          "goalDifference": -4,
           "points": 6,
           "form": []
         },
@@ -237,8 +237,8 @@
           "draw": 0,
           "lost": 5,
           "goalsFor": 6,
-          "goalsAgainst": 13,
-          "goalDifference": -7,
+          "goalsAgainst": 14,
+          "goalDifference": -8,
           "points": 6,
           "form": []
         },
