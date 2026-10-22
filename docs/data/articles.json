@@ -1,6 +1,37 @@
 {
   "articles": [
     {
+      "id": "st-louis-city-sc-lifts-historic-first-trophy-captures-u-s-open-cup-fc78ca12085b",
+      "headline": "St. Louis City SC Lifts Historic First Trophy, Captures U.S. Open Cup",
+      "league": "MLS",
+      "summary": "St. Louis City SC secured their inaugural piece of silverware by defeating the Columbus Crew in a dramatic penalty shootout to claim the 2026 U.S. Open Cup. This monumental victory also guarantees St. Louis a coveted spot in the upcoming 2027 Concacaf Champions Cup.",
+      "body": "St. Louis City SC etched their name into club history Wednesday night, clinching their first-ever trophy by overcoming the Columbus Crew in the 2026 U.S. Open Cup final. The intense match, held at ScottsMiracle-Gro Field in Columbus, remained deadlocked at 0-0 through both regular and extra time, pushing the contest to a decisive penalty shootout.\n\nGoalkeeper Ben Lundt emerged as a hero for St. Louis, stepping in for the injured captain Roman Bürki late in the game and promptly saving the Columbus Crew's opening penalty attempt from Santiago Rodríguez. St. Louis then flawlessly converted all five of their spot kicks, with midfielder Daniel Edelman netting the championship-winning penalty to seal a 5-3 victory in the shootout.\n\nThis historic triumph not only marks a significant milestone for the club under first-year coach Yoann Damet but also earns them a berth in the 2027 Concacaf Champions Cup. The win extends St. Louis City SC's remarkable unbeaten streak across all competitions to a league-record 21 matches, showcasing a stunning turnaround for a team that started the season slowly.",
+      "tags": [
+        "MLS",
+        "US Open Cup",
+        "St. Louis City SC",
+        "Columbus Crew",
+        "Trophy"
+      ],
+      "image": "images/st-louis-city-sc-lifts-historic-first-trophy-captures-u-s-open-cup-fc78ca12085b.svg",
+      "publishedAt": "2026-10-22T21:16:01.641Z"
+    },
+    {
+      "id": "african-giants-face-crunch-confederation-cup-deciders-this-weekend-1bb690bd761b",
+      "headline": "African Giants Face Crunch Confederation Cup Deciders This Weekend",
+      "league": "CAF Confederation Cup",
+      "summary": "The TotalEnergies CAF Confederation Cup is set for a thrilling weekend as clubs battle for group stage berths in the second preliminary round's decisive return legs. Several established African teams find themselves under pressure, needing strong performances to continue their continental journeys.",
+      "body": "The TotalEnergies CAF Confederation Cup reaches a critical juncture this weekend with the second preliminary round's crucial return fixtures. African football enthusiasts are eagerly anticipating whether continental giants can overcome first-leg deficits or if ambitious challengers will secure historic qualifications. Among the most watched ties, South Africa's Kaizer Chiefs face a challenging task as they aim to overturn a 1-0 away defeat against Zambia's Red Arrows.\n\nOther prominent clashes see Morocco's Raja Club Athletic and Tunisia's CS Sfaxien also navigating potentially tricky encounters, having been held to draws or narrow results in their initial outings. Conversely, sides like Mozambique's Black Bulls, who secured an impressive 2-0 away victory over Rwanda's Rayon Sports, and Libya's Al Ahly Tripoli, boasting a commanding 4-0 lead, appear well-positioned to advance. Egypt's Al Ahly also holds a slim 2-1 advantage over Uganda's Kitara FC.\n\nAs the competition approaches its 16-team group stage, every goal and defensive stand will prove vital. The upcoming matches, scheduled from October 23-25, represent the final hurdle for these clubs to stake their claim among Africa's elite in this season's Confederation Cup. USM Alger has already secured their spot due to a withdrawal, leaving 15 places up for grabs this weekend.",
+      "tags": [
+        "CAF Confederation Cup",
+        "African Football",
+        "Kaizer Chiefs",
+        "Red Arrows"
+      ],
+      "image": "images/african-giants-face-crunch-confederation-cup-deciders-this-weekend-1bb690bd761b.svg",
+      "publishedAt": "2026-10-22T21:16:28.757Z"
+    },
+    {
       "id": "manchester-city-secures-world-cup-breakout-star-ayyoub-bouaddi-e1f009c82ebd",
       "headline": "Manchester City Secures World Cup Breakout Star Ayyoub Bouaddi",
       "league": "Transfer News",
@@ -875,37 +906,7 @@
       ],
       "image": "images/gyokeres-considers-arsenal-exit-amidst-frustration-over-playing-time-84497089fca7.svg",
       "publishedAt": "2026-10-18T10:31:11.228Z"
-    },
-    {
-      "id": "manzambi-haunts-former-suitors-as-aston-villa-edge-newcastle-aee9692e9abc",
-      "headline": "Manzambi Haunts Former Suitors as Aston Villa Edge Newcastle",
-      "league": "Premier League",
-      "summary": "Aston Villa secured a narrow but deserved away victory against Newcastle United on Saturday, with Johan Manzambi scoring the decisive goal. The result continues Villa's impressive unbeaten run, propelling them up the Premier League table.",
-      "body": "Aston Villa extended their strong run of form with a hard-fought 1-0 win over Newcastle United at St. James' Park on Saturday, thanks to a solitary goal from Johan Manzambi. The forward, who reportedly came close to joining the Magpies previously, proved to be the difference, heading home the winner in a tightly contested Premier League encounter.\n\nThe victory marks Villa's sixth consecutive match without defeat across all competitions, including four wins, highlighting the effectiveness of Unai Emery's rebuilt squad. This consistent performance has seen the Birmingham side climb to twelfth position in the league standings.\n\nNewcastle, despite playing at home, struggled to break down a resilient Aston Villa defense and create significant scoring opportunities. The result leaves the Magpies just above Villa in the table on goal difference, suggesting their own rebuilding phase may require more time to yield consistent results.",
-      "tags": [
-        "Aston Villa",
-        "Newcastle United",
-        "Johan Manzambi",
-        "Premier League"
-      ],
-      "image": "images/manzambi-haunts-former-suitors-as-aston-villa-edge-newcastle-aee9692e9abc.svg",
-      "publishedAt": "2026-10-18T10:31:25.733Z"
-    },
-    {
-      "id": "rayo-vallecano-hit-with-double-blow-behind-closed-doors-match-and-travel-costs-28ec0a892ce9",
-      "headline": "Rayo Vallecano Hit with Double Blow: Behind-Closed-Doors Match and Travel Costs",
-      "league": "La Liga",
-      "summary": "Spanish football authorities have imposed significant penalties on Rayo Vallecano following the abandonment of their recent La Liga fixture against Athletic Club due to severe crowd disturbances. The club now faces the prospect of completing the remaining minutes of the rescheduled match without any spectators, alongside covering their opponents' travel expenditures.",
-      "body": "The Royal Spanish Football Federation has delivered a substantial ruling against Rayo Vallecano, mandating that the conclusion of their previously suspended La Liga encounter with Athletic Club will take place behind closed doors. This decision stems from chaotic scenes during the initial game on October 10, when persistent throwing of objects onto the pitch by home fans led to the match being called off after just 24 minutes.\n\nThe disciplinary judge determined that the stadium closure serves as a preventative security measure to ensure the fixture can be completed without further interference. Beyond the absence of fans, Rayo Vallecano has also been ordered to reimburse Athletic Club for their travel expenses incurred due to the original abandonment.\n\nReports indicate the crowd trouble was primarily a protest by the Bukaneros ultras against club president Raul Martin Presa. The referee was forced to halt play multiple times before ultimately abandoning the game entirely when police could no longer guarantee safety within the stadium.",
-      "tags": [
-        "Rayo Vallecano",
-        "Athletic Club",
-        "La Liga",
-        "Sanctions"
-      ],
-      "image": "images/rayo-vallecano-hit-with-double-blow-behind-closed-doors-match-and-travel-costs-28ec0a892ce9.svg",
-      "publishedAt": "2026-10-18T10:31:44.089Z"
     }
   ],
-  "lastRun": "2026-10-22T16:45:06.860Z"
+  "lastRun": "2026-10-22T21:17:05.084Z"
 }
