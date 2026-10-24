@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T20:18:23.168Z",
+  "updatedAt": "2026-10-24T22:55:10.780Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -1446,8 +1446,8 @@
           "draw": 1,
           "lost": 0,
           "goalsFor": 16,
-          "goalsAgainst": 4,
-          "goalDifference": 12,
+          "goalsAgainst": 5,
+          "goalDifference": 11,
           "points": 22,
           "form": []
         },
@@ -1697,9 +1697,9 @@
           "won": 1,
           "draw": 1,
           "lost": 6,
-          "goalsFor": 4,
+          "goalsFor": 5,
           "goalsAgainst": 15,
-          "goalDifference": -11,
+          "goalDifference": -10,
           "points": 4,
           "form": []
         },
@@ -1926,20 +1926,6 @@
       "standings": [
         {
           "position": 1,
-          "team": "Paris FC",
-          "crest": "https://crests.football-data.org/1045.png",
-          "played": 8,
-          "won": 5,
-          "draw": 2,
-          "lost": 1,
-          "goalsFor": 13,
-          "goalsAgainst": 7,
-          "goalDifference": 6,
-          "points": 17,
-          "form": []
-        },
-        {
-          "position": 2,
           "team": "Olympique Lyonnais",
           "crest": "https://crests.football-data.org/523.png",
           "played": 7,
@@ -1953,7 +1939,7 @@
           "form": []
         },
         {
-          "position": 3,
+          "position": 2,
           "team": "Paris Saint-Germain FC",
           "crest": "https://crests.football-data.org/524.png",
           "played": 7,
@@ -1967,7 +1953,7 @@
           "form": []
         },
         {
-          "position": 4,
+          "position": 3,
           "team": "Lille OSC",
           "crest": "https://crests.football-data.org/521.png",
           "played": 7,
@@ -1977,6 +1963,20 @@
           "goalsFor": 10,
           "goalsAgainst": 5,
           "goalDifference": 5,
+          "points": 14,
+          "form": []
+        },
+        {
+          "position": 4,
+          "team": "Paris FC",
+          "crest": "https://crests.football-data.org/1045.png",
+          "played": 8,
+          "won": 4,
+          "draw": 2,
+          "lost": 2,
+          "goalsFor": 13,
+          "goalsAgainst": 9,
+          "goalDifference": 4,
           "points": 14,
           "form": []
         },
@@ -1996,6 +1996,20 @@
         },
         {
           "position": 6,
+          "team": "Racing Club de Lens",
+          "crest": "https://crests.football-data.org/546.png",
+          "played": 8,
+          "won": 4,
+          "draw": 1,
+          "lost": 3,
+          "goalsFor": 16,
+          "goalsAgainst": 12,
+          "goalDifference": 4,
+          "points": 13,
+          "form": []
+        },
+        {
+          "position": 7,
           "team": "Stade Rennais FC 1901",
           "crest": "https://crests.football-data.org/529.png",
           "played": 7,
@@ -2009,7 +2023,7 @@
           "form": []
         },
         {
-          "position": 7,
+          "position": 8,
           "team": "FC Lorient",
           "crest": "https://crests.football-data.org/525.png",
           "played": 7,
@@ -2023,7 +2037,7 @@
           "form": []
         },
         {
-          "position": 8,
+          "position": 9,
           "team": "OGC Nice",
           "crest": "https://crests.football-data.org/522.png",
           "played": 8,
@@ -2034,20 +2048,6 @@
           "goalsAgainst": 10,
           "goalDifference": -2,
           "points": 11,
-          "form": []
-        },
-        {
-          "position": 9,
-          "team": "Racing Club de Lens",
-          "crest": "https://crests.football-data.org/546.png",
-          "played": 8,
-          "won": 3,
-          "draw": 1,
-          "lost": 4,
-          "goalsFor": 14,
-          "goalsAgainst": 12,
-          "goalDifference": 2,
-          "points": 10,
           "form": []
         },
         {
