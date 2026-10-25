@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "real-madrid-poised-to-secure-manchester-united-wonderkid-jj-gabriel-be8bea91163e",
+      "headline": "Real Madrid Poised to Secure Manchester United Wonderkid JJ Gabriel",
+      "league": "Transfer News",
+      "summary": "Real Madrid is reportedly growing confident in their pursuit of Manchester United's highly-rated 16-year-old talent, JJ Gabriel, who has expressed a desire to leave Old Trafford. The young sensation's request to terminate his registration comes after a lack of recent first-team opportunities with the Red Devils.",
+      "body": "Emerging reports indicate that Spanish giants Real Madrid are nearing a significant coup in the transfer market, as they look to secure the services of Manchester United's prodigious 16-year-old, JJ Gabriel. The young midfielder has reportedly informed the Old Trafford club of his wish to depart, seeking to terminate his registration.\n\nGabriel's decision stems from a perceived lack of senior team exposure, despite being considered one of the most exciting prospects within United's academy. Real Madrid has been closely monitoring the situation and is now increasingly optimistic about bringing the English talent to the Santiago Bernabéu.\n\nShould the move materialize, it would mark a notable transfer for both clubs, with United losing a highly-touted wonderkid and Real Madrid further bolstering their youth ranks with a player widely expected to have a bright future in European football.",
+      "tags": [
+        "JJ Gabriel",
+        "Real Madrid",
+        "Manchester United",
+        "Youth Transfer"
+      ],
+      "image": "images/real-madrid-poised-to-secure-manchester-united-wonderkid-jj-gabriel-be8bea91163e.svg",
+      "publishedAt": "2026-10-25T10:51:17.643Z"
+    },
+    {
+      "id": "tottenham-ends-stamford-bridge-drought-with-dramatic-derby-victory-b0944d30f8c3",
+      "headline": "Tottenham Ends Stamford Bridge Drought with Dramatic Derby Victory",
+      "league": "Premier League",
+      "summary": "Tottenham Hotspur secured a memorable 2-0 triumph over rivals Chelsea at Stamford Bridge, breaking a long-standing winless streak at the venue in a match filled with dramatic twists. The victory, marked by a crucial own goal and a Chelsea red card, propels Spurs up the Premier League table.",
+      "body": "Tottenham Hotspur celebrated a significant 2-0 Premier League victory against Chelsea on Saturday, marking only their second win at Stamford Bridge in decades. The breakthrough arrived unexpectedly when Chelsea's goalkeeper, Mike Penders, inadvertently directed a corner into his own net, giving Spurs the lead.\n\nThe match intensified further with Chelsea's Cole Palmer receiving a red card for two bookable offenses, leaving the Blues with ten men. Tottenham capitalized on their numerical advantage as Mathys Tel sealed the win with a well-taken strike, ensuring a rare and cherished derby success for the North London club.\n\nThe result not only delivered bragging rights for Tottenham but also saw them climb out of the Premier League's relegation zone, reflecting a positive shift in their season's trajectory. The performance and outcome have provided a much-needed boost for Roberto De Zerbi's side, who will look to build on this momentum.",
+      "tags": [
+        "Tottenham",
+        "Chelsea",
+        "Premier League",
+        "London Derby"
+      ],
+      "image": "images/tottenham-ends-stamford-bridge-drought-with-dramatic-derby-victory-b0944d30f8c3.svg",
+      "publishedAt": "2026-10-25T10:51:31.933Z"
+    },
+    {
+      "id": "champions-league-victories-marred-by-major-injury-blows-for-european-giants-edd546081ba5",
+      "headline": "Champions League Victories Marred by Major Injury Blows for European Giants",
+      "league": "Champions League",
+      "summary": "Recent Champions League fixtures brought crucial wins and draws for Europe's elite, but celebrations were overshadowed by a wave of significant injuries to key players. Paris Saint-Germain, Arsenal, and Barcelona are among the top clubs now facing extended periods without integral members of their squads. ",
+      "body": "The latest round of Champions League action has left several European powerhouses counting the cost of their hard-fought encounters. Paris Saint-Germain secured a commanding 4-2 victory over Barcelona, yet the triumph was soured by a devastating anterior cruciate ligament injury to star winger Khvicha Kvaratskhelia, effectively ending his season. The Parisian club also saw Ousmane Dembele and Marquinhos forced off with their own physical complaints, adding to a growing injury list.\n\nMeanwhile, Arsenal's spirited 2-2 draw against Bayern Munich came at a high price as influential forward Bukayo Saka sustained a quadriceps issue, with early reports suggesting he faces several weeks on the sidelines. Arsenal's medical staff are awaiting further scans to determine the full extent of the England international's injury.\n\nBarcelona also confirmed that Dani Olmo is expected to be out of action for approximately a month, further impacting their squad depth. These setbacks across multiple top-tier clubs highlight the intense physical demands of the Champions League, leaving managers grappling with unforeseen challenges as the competition progresses.",
+      "tags": [
+        "Champions League",
+        "Injury Update",
+        "PSG",
+        "Arsenal"
+      ],
+      "image": "images/champions-league-victories-marred-by-major-injury-blows-for-european-giants-edd546081ba5.svg",
+      "publishedAt": "2026-10-25T10:51:51.389Z"
+    },
+    {
+      "id": "alvarez-nets-winner-offers-apology-as-atletico-closes-on-barcelona-b7d81f7a9199",
+      "headline": "Alvarez Nets Winner, Offers Apology as Atletico Closes on Barcelona",
+      "league": "La Liga",
+      "summary": "Julian Alvarez scored the decisive goal for Atletico Madrid in their narrow victory over Deportivo La Coruna on Saturday, subsequently addressing his controversial summer transfer attempts. The crucial 1-0 win helps Diego Simeone's side significantly reduce the points gap to La Liga leaders Barcelona.",
+      "body": "Julian Alvarez found the back of the net for Atletico Madrid on Saturday, securing a vital 1-0 triumph against Deportivo La Coruna at the Metropolitano Stadium. The Argentine forward's second-half strike proved to be the difference, allowing Atletico to shrink the deficit behind table-topping Barcelona to just two points in the intense La Liga title race.\n\nFollowing the match, Alvarez publicly expressed regret for his efforts to depart the club during the summer transfer window. This marks his second consecutive game with a goal, signaling a return to form after earlier fitness challenges and fan scrutiny regarding his loyalty.\n\nDespite Atletico's struggles to generate consistent attacking rhythm, they held on for the win. Deportivo La Coruna, meanwhile, squandered two significant opportunities to equalize in stoppage time, with Jan Oblak making a crucial late save to preserve the clean sheet.",
+      "tags": [
+        "Atletico Madrid",
+        "Julian Alvarez",
+        "La Liga",
+        "Deportivo La Coruna"
+      ],
+      "image": "images/alvarez-nets-winner-offers-apology-as-atletico-closes-on-barcelona-b7d81f7a9199.svg",
+      "publishedAt": "2026-10-25T10:52:05.763Z"
+    },
+    {
       "id": "atlas-lionesses-secure-u-17-world-cup-knockout-berth-despite-argentina-defeat-d6631c9cb2bd",
       "headline": "Atlas Lionesses Secure U-17 World Cup Knockout Berth Despite Argentina Defeat",
       "league": "World Cup Qualifiers",
@@ -845,67 +905,7 @@
       ],
       "image": "images/philadelphia-union-s-cavan-sullivan-makes-history-topping-mls-22-under-22-list-55bc812999fe.svg",
       "publishedAt": "2026-10-20T23:40:13.678Z"
-    },
-    {
-      "id": "sevilla-demands-broadcast-records-threatens-legal-action-against-la-liga-ca2555fec766",
-      "headline": "Sevilla Demands Broadcast Records, Threatens Legal Action Against La Liga",
-      "league": "La Liga",
-      "summary": "Sevilla has escalated its dispute with La Liga, filing an official complaint and demanding unedited broadcast footage from their recent match against Real Madrid. The Andalusian club alleges unfair treatment in the televised coverage of several contentious refereeing decisions during the 4-1 defeat at the Santiago Bernabéu.",
-      "body": "The tension between Sevilla and La Liga reached a new peak today as the club formally lodged a complaint regarding the broadcasting of their recent fixture against Real Madrid. Sevilla's management expressed profound dissatisfaction with what they perceived as biased television production, specifically highlighting how controversial incidents were framed during the crucial La Liga encounter.\n\nThe Andalusian side is now demanding complete, unedited recordings of four specific moments from the match, which they believe were not adequately or fairly presented in the official broadcast. The club's president recently met with refereeing authorities in Madrid to discuss these concerns, but their subsequent statement indicates a lack of resolution.\n\nSevilla has made it clear they are prepared to pursue legal avenues if their demands are not met, vowing to retain all evidence for potential future litigation. This move underscores a growing rift over perceived inequalities in La Liga's television production and refereeing oversight, particularly in high-profile games.",
-      "tags": [
-        "Sevilla FC",
-        "La Liga",
-        "Refereeing Controversy",
-        "Broadcast Dispute"
-      ],
-      "image": "images/sevilla-demands-broadcast-records-threatens-legal-action-against-la-liga-ca2555fec766.svg",
-      "publishedAt": "2026-10-20T23:40:28.784Z"
-    },
-    {
-      "id": "mexican-prodigy-gilberto-mora-agrees-to-sensational-liverpool-switch-5505b1d2ce7a",
-      "headline": "Mexican Prodigy Gilberto Mora Agrees to Sensational Liverpool Switch",
-      "league": "Transfer News",
-      "summary": "Highly-touted Mexican sensation Gilberto Mora has reportedly given his assent to a future move to Premier League giants Liverpool, signaling a major coup for the Reds. The 18-year-old attacking talent is expected to join the Anfield club next year, attracting significant attention from across Europe.",
-      "body": "Liverpool appears to have secured a significant talent for the future with reports indicating that Mexican wonderkid Gilberto Mora has committed to a transfer to the club next year. The young midfielder, who has already amassed thirteen senior international caps for Mexico despite his tender age, has been on the radar of several top European sides for some time. His decision to favor a move to Anfield represents a strategic acquisition for the Premier League contenders.\n\nMora's impressive performances have garnered widespread acclaim, with England manager Thomas Tuchel previously praising the teenager's exceptional quality and composure on the grandest stages. Tuchel noted Mora's ability to remain unfazed under pressure, highlighting his immense potential. While a direct immediate impact at Liverpool might not be expected, the club could consider a loan spell to further his development before integrating him into the first-team squad.\n\nThis prospective transfer underscores Liverpool's ongoing commitment to recruiting promising young players from around the globe. Mora's arrival would add another exciting prospect to their ranks, with fans eager to see how the gifted Mexican international will flourish in the demanding environment of English football.",
-      "tags": [
-        "Liverpool",
-        "Gilberto Mora",
-        "Transfer",
-        "Premier League"
-      ],
-      "image": "images/mexican-prodigy-gilberto-mora-agrees-to-sensational-liverpool-switch-5505b1d2ce7a.svg",
-      "publishedAt": "2026-10-20T18:58:13.335Z"
-    },
-    {
-      "id": "caf-orders-replay-in-disputed-women-s-champions-league-qualifier-16ee25bc8398",
-      "headline": "CAF Orders Replay in Disputed Women's Champions League Qualifier",
-      "league": "CAF Women's Champions League",
-      "summary": "The Confederation of African Football has mandated a replay for the WAFU B Women's Champions League final between Nigeria's Edo Queens and Ghana's Ampen Darkoa Ladies, following a protest regarding the initial tie-breaking procedure. The decision comes after the original match concluded in a 2-2 draw, with the Ghanaian side successfully arguing against the immediate resort to a penalty shootout.",
-      "body": "A contentious regional final in the WAFU B Women's Champions League qualifier will now see a full replay, as CAF ruled in favor of Ampen Darkoa Ladies' protest. The Ghanaian club disputed the method used to determine a winner after their initial clash against Nigeria's Edo Queens ended in a 2-2 stalemate, bypassing extra time for a direct penalty shootout.\n\nCAF has directed that the two teams must now complete their fixture with 30 minutes of additional time, followed by a penalty shootout if the score remains level. This ruling stands despite Edo Queens expressing their disagreement, with the continental body emphasizing adherence to the revised match order.\n\nThe winner of this rescheduled encounter, set for October 24, will secure a coveted spot in the 2026 CAF Women's Champions League, hosted by Egypt. They will join other confirmed participants like two-time champions Mamelodi Sundowns and regional qualifiers from across the continent.",
-      "tags": [
-        "CAF Women's Champions League",
-        "Edo Queens",
-        "Ampen Darkoa Ladies",
-        "WAFU B"
-      ],
-      "image": "images/caf-orders-replay-in-disputed-women-s-champions-league-qualifier-16ee25bc8398.svg",
-      "publishedAt": "2026-10-20T18:58:36.875Z"
-    },
-    {
-      "id": "atl-tico-madrid-arrives-in-stuttgart-lee-kang-in-poised-for-champions-league-act-403d96f45d8e",
-      "headline": "Atlético Madrid Arrives in Stuttgart, Lee Kang-in Poised for Champions League Action",
-      "league": "Champions League",
-      "summary": "Atlético Madrid's squad has landed in Germany for their crucial Champions League clash against Stuttgart, with South Korean international Lee Kang-in among the key players ready for action. The Spanish giants face the German side at the MHP Arena, aiming to continue their strong domestic form onto the European stage.",
-      "body": "Atlético Madrid has finalized its traveling squad for the upcoming UEFA Champions League encounter against Stuttgart, set to take place at the MHP Arena. The team, including midfielder Lee Kang-in, is preparing for a challenging fixture against a Stuttgart side that has enjoyed a perfect start to their European campaign. Atlético, currently second in La Liga, enters the match with an impressive six-game winning streak across all competitions, highlighting their strong momentum.\n\nHowever, Diego Simeone's side will be without key players Koke and Cristian Romero, both sidelined due to leg muscle injuries. Their absences necessitate adjustments in the midfield and defensive lines, with Johnny Cardoso stepping in to bolster the central areas. The expected defensive lineup features Renormal, Hans-Ko, Marc Publi, and Marcos Jorente, while up front, Julián Álvarez and Lee Kang-in are anticipated to form a formidable attacking partnership.\n\nStuttgart, despite a recent Bundesliga defeat to Hamburg, has shown strong form in the Champions League, securing two convincing victories in their opening matches. This encounter marks the first time these two clubs will meet in European competition, adding an extra layer of intrigue to the Group Stage fixture. Atlético will be looking to improve their Champions League record, having secured one win and one loss so far, following a defeat to Liverpool and a victory over Manchester United.",
-      "tags": [
-        "Atlético Madrid",
-        "Stuttgart",
-        "Champions League",
-        "Lee Kang-in"
-      ],
-      "image": "images/atl-tico-madrid-arrives-in-stuttgart-lee-kang-in-poised-for-champions-league-act-403d96f45d8e.svg",
-      "publishedAt": "2026-10-20T18:58:54.201Z"
     }
   ],
-  "lastRun": "2026-10-25T03:27:31.931Z"
+  "lastRun": "2026-10-25T10:52:09.764Z"
 }
