@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T20:26:15.774Z",
+  "updatedAt": "2026-10-25T23:01:50.896Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -497,12 +497,12 @@
           "crest": "https://crests.football-data.org/81.png",
           "played": 10,
           "won": 9,
-          "draw": 1,
-          "lost": 0,
-          "goalsFor": 39,
-          "goalsAgainst": 9,
-          "goalDifference": 30,
-          "points": 28,
+          "draw": 0,
+          "lost": 1,
+          "goalsFor": 40,
+          "goalsAgainst": 11,
+          "goalDifference": 29,
+          "points": 27,
           "form": []
         },
         {
@@ -524,13 +524,13 @@
           "team": "Real Madrid CF",
           "crest": "https://crests.football-data.org/86.png",
           "played": 10,
-          "won": 7,
-          "draw": 1,
+          "won": 8,
+          "draw": 0,
           "lost": 2,
-          "goalsFor": 23,
-          "goalsAgainst": 9,
-          "goalDifference": 14,
-          "points": 22,
+          "goalsFor": 25,
+          "goalsAgainst": 10,
+          "goalDifference": 15,
+          "points": 24,
           "form": []
         },
         {
@@ -1487,9 +1487,9 @@
           "won": 5,
           "draw": 3,
           "lost": 0,
-          "goalsFor": 15,
+          "goalsFor": 16,
           "goalsAgainst": 7,
-          "goalDifference": 8,
+          "goalDifference": 9,
           "points": 18,
           "form": []
         },
@@ -1670,8 +1670,8 @@
           "draw": 1,
           "lost": 6,
           "goalsFor": 9,
-          "goalsAgainst": 17,
-          "goalDifference": -8,
+          "goalsAgainst": 18,
+          "goalDifference": -9,
           "points": 4,
           "form": []
         },
