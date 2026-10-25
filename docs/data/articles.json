@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "real-madrid-grapples-with-key-absences-ahead-of-pivotal-el-cl-sico-showdown-ce82cd3cec54",
+      "headline": "Real Madrid Grapples with Key Absences Ahead of Pivotal El Clásico Showdown",
+      "league": "La Liga",
+      "summary": "Real Madrid has unveiled their squad for today's highly anticipated El Clásico against league leaders Barcelona, confirming the absence of several crucial players. The significant suspensions and injuries could heavily influence the outcome of the fierce contest at Spotify Camp Nou.",
+      "body": "Real Madrid manager José Mourinho has announced his squad set to face Barcelona in today's monumental El Clásico, revealing a challenging lineup for the visitors. Brazilian winger Vinicius Junior will miss the crucial encounter, serving the second match of a four-game La Liga suspension. This ban stems from an incident against Villarreal, where he was penalized for pulling an opponent's hair and subsequently protesting the red card decision.\n\nFurther complicating matters for Los Blancos, key attackers Rodrygo and Raúl Asencio are sidelined due to ongoing injuries, with defender Ferland Mendy also unavailable despite returning to training. These absences place considerable pressure on Real Madrid as they aim to halt Barcelona's perfect start to the season; the Catalan giants currently lead La Liga by six points, boasting a flawless record of nine wins from nine matches.\n\nDespite the challenges, Real Madrid goalkeeper Thibaut Courtois has expressed confidence, maintaining that El Clásico remains an unpredictable affair regardless of current form. The Belgian international stated that the match is always a 50-50 contest, emphasizing the unique intensity of the rivalry. The clash at Spotify Camp Nou is scheduled for today, October 25th, with Barcelona looking to extend their lead at the top of the table.",
+      "tags": [
+        "Real Madrid",
+        "Barcelona",
+        "El Clásico",
+        "La Liga"
+      ],
+      "image": "images/real-madrid-grapples-with-key-absences-ahead-of-pivotal-el-cl-sico-showdown-ce82cd3cec54.svg",
+      "publishedAt": "2026-10-25T15:39:18.734Z"
+    },
+    {
+      "id": "musa-closes-gap-on-messi-in-thrilling-golden-boot-race-a137c7f8fd3f",
+      "headline": "Musa Closes Gap on Messi in Thrilling Golden Boot Race",
+      "league": "MLS",
+      "summary": "FC Dallas forward Petar Musa delivered a stunning late performance, netting two crucial goals to propel his team to victory and significantly narrow the gap on Lionel Messi in the MLS Golden Boot chase. The Croatian international's brace has intensified the competition for the league's top scorer award as the regular season nears its conclusion.",
+      "body": "FC Dallas secured a vital 3-0 victory over the San Jose Earthquakes on Saturday night, largely thanks to a late scoring surge from striker Petar Musa. The Croatian international found the back of the net twice in quick succession, sealing the win for Dallas and injecting new life into the race for the MLS Golden Boot. His performance was a highlight in what head coach Eric Quill described as potentially the team's best showing of the season, praised for its championship-like mentality from start to finish.\n\nMusa's two goals against the Earthquakes bring his season tally to 22, placing him just three goals behind Inter Miami's superstar Lionel Messi, who currently leads the league with 25 goals. With only three matches remaining in the regular season, the competition for the prestigious individual honor is now incredibly tight, setting the stage for a dramatic conclusion.\n\nThe late heroics at Toyota Stadium saw Musa score his first in the 83rd minute with a curled shot into the top corner, followed by a penalty just five minutes later. This remarkable outing marked Musa's sixth multi-goal game of the season, a feat only matched by Messi. The victory also pushed FC Dallas into second place in the Western Conference standings, underscoring the significance of Musa's contributions beyond his individual pursuit.",
+      "tags": [
+        "MLS",
+        "Golden Boot",
+        "Petar Musa",
+        "FC Dallas"
+      ],
+      "image": "images/musa-closes-gap-on-messi-in-thrilling-golden-boot-race-a137c7f8fd3f.svg",
+      "publishedAt": "2026-10-25T15:39:31.656Z"
+    },
+    {
+      "id": "bayern-chief-hoeness-questions-wirtz-s-liverpool-role-hints-at-allianz-arena-mov-55c98d0e888f",
+      "headline": "Bayern Chief Hoeness Questions Wirtz's Liverpool Role, Hints at Allianz Arena Move",
+      "league": "Transfer News",
+      "summary": "Bayern Munich's honorary president, Uli Hoeness, has publicly voiced his concerns regarding Florian Wirtz's integration and performance at Liverpool. Hoeness suggested the talented German midfielder would thrive more effectively if he were playing for the Bavarian giants.",
+      "body": "Uli Hoeness, the influential honorary president of Bayern Munich, has made a notable public statement, casting doubt on Liverpool's utilization of star midfielder Florian Wirtz. Speaking to Welt Am Sonntag, Hoeness indicated that despite the significant investment Liverpool made to acquire Wirtz from Bayer Leverkusen, the club appears to be struggling to properly integrate him into their system.\n\nHoeness emphasized that he closely monitors Wirtz's performances, asserting that the 23-year-old German international received every ball during his time at Leverkusen, a stark contrast to his current situation at Anfield where he is \"just one among many\". This critique from such a high-ranking Bayern official has inevitably sparked discussions about Wirtz's long-term future on Merseyside.\n\nThe comments are seen by many as a potential precursor to Bayern Munich's interest in pursuing Wirtz in upcoming transfer windows, laying groundwork for a possible move to the Allianz Arena. While no official transfer negotiations have been reported, Hoeness's public intervention adds a new dimension to the ongoing speculation surrounding the highly-rated playmaker.",
+      "tags": [
+        "Florian Wirtz",
+        "Bayern Munich",
+        "Liverpool FC",
+        "Transfer Rumours"
+      ],
+      "image": "images/bayern-chief-hoeness-questions-wirtz-s-liverpool-role-hints-at-allianz-arena-mov-55c98d0e888f.svg",
+      "publishedAt": "2026-10-25T15:39:50.049Z"
+    },
+    {
       "id": "real-madrid-poised-to-secure-manchester-united-wonderkid-jj-gabriel-be8bea91163e",
       "headline": "Real Madrid Poised to Secure Manchester United Wonderkid JJ Gabriel",
       "league": "Transfer News",
@@ -860,52 +905,7 @@
       ],
       "image": "images/manzambi-rejects-european-giants-commits-future-to-aston-villa-715438fb7861.svg",
       "publishedAt": "2026-10-21T03:32:32.063Z"
-    },
-    {
-      "id": "spurs-secure-first-league-victory-with-decisive-win-over-coventry-c8e5bf840794",
-      "headline": "Spurs Secure First League Victory with Decisive Win Over Coventry",
-      "league": "Premier League",
-      "summary": "Tottenham Hotspur finally broke their Premier League winless streak, overcoming a resilient Coventry City side with a convincing 3-1 victory. The crucial home win provides a much-needed boost for Spurs after a challenging start to their campaign.",
-      "body": "Tottenham Hotspur celebrated their inaugural Premier League triumph of the season, defeating Coventry City 3-1 in a hard-fought contest at the Tottenham Hotspur Stadium. James Maddison opened the scoring early for Spurs, finding the net with a superb curling effort in the fourteenth minute to give the home side an initial advantage.\n\nCoventry, however, demonstrated significant resolve and managed to equalize shortly after the interval through Jack Rudoni in the 49th minute, who powered into the penalty area to level the score. The parity was short-lived as Omar Marmoush restored Tottenham's lead in the 58th minute with a powerful strike, a goal that sparked some debate from Coventry manager Frank Lampard regarding a potential foul.\n\nDespite Coventry's continued efforts to find another equalizer, Ben Davies sealed the victory for Tottenham deep into stoppage time, scoring in the 96th minute to finalize the 3-1 scoreline. This result marks a significant turning point for Spurs, who also welcomed Dejan Kulusevski back from injury, providing a positive outlook for their upcoming fixtures.",
-      "tags": [
-        "Tottenham Hotspur",
-        "Coventry City",
-        "Premier League",
-        "Match Report"
-      ],
-      "image": "images/spurs-secure-first-league-victory-with-decisive-win-over-coventry-c8e5bf840794.svg",
-      "publishedAt": "2026-10-21T03:32:58.906Z"
-    },
-    {
-      "id": "tottenham-ends-winless-streak-with-resounding-victory-over-coventry-25d783fa3ed7",
-      "headline": "Tottenham Ends Winless Streak with Resounding Victory Over Coventry",
-      "league": "Premier League",
-      "summary": "Tottenham Hotspur finally secured their first Premier League win of the season, overcoming Coventry City 3-1 in a crucial encounter at the Tottenham Hotspur Stadium. The much-needed triumph saw key players return from injury and lift the North London club out of the relegation zone.",
-      "body": "Tottenham Hotspur celebrated a significant 3-1 home victory against Coventry City, marking their inaugural Premier League win of the current campaign. The breakthrough came with a stunning long-range strike from James Maddison in the 14th minute, making a triumphant return to the starting lineup after an extended injury absence.\n\nDespite Maddison's opener, Coventry managed to equalize through Jack Rudoni in the second half, briefly raising concerns for the home side. However, Omar Marmoush restored Tottenham's lead with a powerful effort, and Ben Davies sealed the crucial three points with a late goal, much to the relief of the Spurs faithful.\n\nThe win, which also saw Dejan Kulusevski return from a lengthy knee injury, moves Tottenham to 16th place in the league standings, providing a much-needed boost after a challenging start to the season. The performance offered signs of improvement and renewed hope for manager Roberto De Zerbi's rebuilding project.",
-      "tags": [
-        "Tottenham Hotspur",
-        "Premier League",
-        "James Maddison",
-        "Match Result"
-      ],
-      "image": "images/tottenham-ends-winless-streak-with-resounding-victory-over-coventry-25d783fa3ed7.svg",
-      "publishedAt": "2026-10-20T23:39:51.583Z"
-    },
-    {
-      "id": "philadelphia-union-s-cavan-sullivan-makes-history-topping-mls-22-under-22-list-55bc812999fe",
-      "headline": "Philadelphia Union's Cavan Sullivan Makes History Topping MLS 22 Under 22 List",
-      "league": "MLS",
-      "summary": "Major League Soccer has officially revealed its 2026 22 Under 22 rankings, with Philadelphia Union's rising star Cavan Sullivan claiming the prestigious top spot. At just 17 years and 22 days old, Sullivan has become the youngest player ever to achieve this distinction, signaling a bright future for the midfielder.",
-      "body": "Major League Soccer announced its highly anticipated 2026 22 Under 22 class today, recognizing the league's brightest young talents. Philadelphia Union midfielder Cavan Sullivan has captured the number one ranking, a remarkable feat for the 17-year-old. His ascent to the top makes him the youngest player in MLS history to lead the annual list, surpassing the record previously held by Alphonso Davies, who was nearly a year older when he achieved the honor in 2018.\n\nSullivan's exceptional talent has been evident, earning him significant recognition within the league. He is also the second Philadelphia Union player to secure the top position, following in the footsteps of Brenden Aaronson, who topped the rankings in 2020. This achievement underscores the Union's commitment to developing and nurturing young players through their academy system.\n\nThe 2026 22 Under 22 list was compiled through votes from an expert panel comprising MLS coaches, general managers, sporting directors, and media members. New York Red Bulls forward Julian Hall, at 18, secured the second spot, with Adri Mehmeti, also from Red Bull New York, placing third. Sullivan's historic ranking solidifies his status as one of North American soccer's most promising prospects.",
-      "tags": [
-        "MLS",
-        "Cavan Sullivan",
-        "Philadelphia Union",
-        "22 Under 22"
-      ],
-      "image": "images/philadelphia-union-s-cavan-sullivan-makes-history-topping-mls-22-under-22-list-55bc812999fe.svg",
-      "publishedAt": "2026-10-20T23:40:13.678Z"
     }
   ],
-  "lastRun": "2026-10-25T10:52:09.764Z"
+  "lastRun": "2026-10-25T15:40:06.279Z"
 }
