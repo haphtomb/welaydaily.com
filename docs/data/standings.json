@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T12:20:27.295Z",
+  "updatedAt": "2026-10-26T20:19:05.522Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -565,14 +565,14 @@
           "position": 6,
           "team": "Sevilla FC",
           "crest": "https://crests.football-data.org/559.png",
-          "played": 9,
+          "played": 10,
           "won": 4,
-          "draw": 2,
+          "draw": 3,
           "lost": 3,
           "goalsFor": 14,
           "goalsAgainst": 16,
           "goalDifference": -2,
-          "points": 14,
+          "points": 15,
           "form": []
         },
         {
@@ -633,6 +633,20 @@
         },
         {
           "position": 11,
+          "team": "CA Osasuna",
+          "crest": "https://crests.football-data.org/79.png",
+          "played": 10,
+          "won": 3,
+          "draw": 3,
+          "lost": 4,
+          "goalsFor": 10,
+          "goalsAgainst": 18,
+          "goalDifference": -8,
+          "points": 12,
+          "form": []
+        },
+        {
+          "position": 12,
           "team": "RC Deportivo La Coruña",
           "crest": "https://crests.football-data.org/560.png",
           "played": 10,
@@ -642,20 +656,6 @@
           "goalsFor": 13,
           "goalsAgainst": 13,
           "goalDifference": 0,
-          "points": 11,
-          "form": []
-        },
-        {
-          "position": 12,
-          "team": "CA Osasuna",
-          "crest": "https://crests.football-data.org/79.png",
-          "played": 9,
-          "won": 3,
-          "draw": 2,
-          "lost": 4,
-          "goalsFor": 10,
-          "goalsAgainst": 18,
-          "goalDifference": -8,
           "points": 11,
           "form": []
         },
@@ -1940,6 +1940,34 @@
         },
         {
           "position": 2,
+          "team": "Olympique Lyonnais",
+          "crest": "https://crests.football-data.org/523.png",
+          "played": 8,
+          "won": 4,
+          "draw": 3,
+          "lost": 1,
+          "goalsFor": 13,
+          "goalsAgainst": 5,
+          "goalDifference": 8,
+          "points": 15,
+          "form": []
+        },
+        {
+          "position": 3,
+          "team": "Paris Saint-Germain FC",
+          "crest": "https://crests.football-data.org/524.png",
+          "played": 8,
+          "won": 4,
+          "draw": 3,
+          "lost": 1,
+          "goalsFor": 14,
+          "goalsAgainst": 9,
+          "goalDifference": 5,
+          "points": 15,
+          "form": []
+        },
+        {
+          "position": 4,
           "team": "Lille OSC",
           "crest": "https://crests.football-data.org/521.png",
           "played": 8,
@@ -1953,7 +1981,7 @@
           "form": []
         },
         {
-          "position": 3,
+          "position": 5,
           "team": "AS Monaco FC",
           "crest": "https://crests.football-data.org/548.png",
           "played": 8,
@@ -1964,34 +1992,6 @@
           "goalsAgainst": 7,
           "goalDifference": 4,
           "points": 15,
-          "form": []
-        },
-        {
-          "position": 4,
-          "team": "Olympique Lyonnais",
-          "crest": "https://crests.football-data.org/523.png",
-          "played": 7,
-          "won": 4,
-          "draw": 2,
-          "lost": 1,
-          "goalsFor": 13,
-          "goalsAgainst": 5,
-          "goalDifference": 8,
-          "points": 14,
-          "form": []
-        },
-        {
-          "position": 5,
-          "team": "Paris Saint-Germain FC",
-          "crest": "https://crests.football-data.org/524.png",
-          "played": 7,
-          "won": 4,
-          "draw": 2,
-          "lost": 1,
-          "goalsFor": 14,
-          "goalsAgainst": 9,
-          "goalDifference": 5,
-          "points": 14,
           "form": []
         },
         {
