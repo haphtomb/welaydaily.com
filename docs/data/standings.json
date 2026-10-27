@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T20:19:05.522Z",
+  "updatedAt": "2026-10-27T00:14:56.743Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -566,13 +566,13 @@
           "team": "Sevilla FC",
           "crest": "https://crests.football-data.org/559.png",
           "played": 10,
-          "won": 4,
-          "draw": 3,
+          "won": 5,
+          "draw": 2,
           "lost": 3,
-          "goalsFor": 14,
+          "goalsFor": 16,
           "goalsAgainst": 16,
-          "goalDifference": -2,
-          "points": 15,
+          "goalDifference": 0,
+          "points": 17,
           "form": []
         },
         {
@@ -633,20 +633,6 @@
         },
         {
           "position": 11,
-          "team": "CA Osasuna",
-          "crest": "https://crests.football-data.org/79.png",
-          "played": 10,
-          "won": 3,
-          "draw": 3,
-          "lost": 4,
-          "goalsFor": 10,
-          "goalsAgainst": 18,
-          "goalDifference": -8,
-          "points": 12,
-          "form": []
-        },
-        {
-          "position": 12,
           "team": "RC Deportivo La Coruña",
           "crest": "https://crests.football-data.org/560.png",
           "played": 10,
@@ -656,6 +642,20 @@
           "goalsFor": 13,
           "goalsAgainst": 13,
           "goalDifference": 0,
+          "points": 11,
+          "form": []
+        },
+        {
+          "position": 12,
+          "team": "CA Osasuna",
+          "crest": "https://crests.football-data.org/79.png",
+          "played": 10,
+          "won": 3,
+          "draw": 2,
+          "lost": 5,
+          "goalsFor": 10,
+          "goalsAgainst": 20,
+          "goalDifference": -10,
           "points": 11,
           "form": []
         },
@@ -1926,6 +1926,20 @@
       "standings": [
         {
           "position": 1,
+          "team": "Paris Saint-Germain FC",
+          "crest": "https://crests.football-data.org/524.png",
+          "played": 8,
+          "won": 5,
+          "draw": 2,
+          "lost": 1,
+          "goalsFor": 16,
+          "goalsAgainst": 9,
+          "goalDifference": 7,
+          "points": 17,
+          "form": []
+        },
+        {
+          "position": 2,
           "team": "Stade Rennais FC 1901",
           "crest": "https://crests.football-data.org/529.png",
           "played": 8,
@@ -1939,35 +1953,7 @@
           "form": []
         },
         {
-          "position": 2,
-          "team": "Olympique Lyonnais",
-          "crest": "https://crests.football-data.org/523.png",
-          "played": 8,
-          "won": 4,
-          "draw": 3,
-          "lost": 1,
-          "goalsFor": 13,
-          "goalsAgainst": 5,
-          "goalDifference": 8,
-          "points": 15,
-          "form": []
-        },
-        {
           "position": 3,
-          "team": "Paris Saint-Germain FC",
-          "crest": "https://crests.football-data.org/524.png",
-          "played": 8,
-          "won": 4,
-          "draw": 3,
-          "lost": 1,
-          "goalsFor": 14,
-          "goalsAgainst": 9,
-          "goalDifference": 5,
-          "points": 15,
-          "form": []
-        },
-        {
-          "position": 4,
           "team": "Lille OSC",
           "crest": "https://crests.football-data.org/521.png",
           "played": 8,
@@ -1981,7 +1967,7 @@
           "form": []
         },
         {
-          "position": 5,
+          "position": 4,
           "team": "AS Monaco FC",
           "crest": "https://crests.football-data.org/548.png",
           "played": 8,
@@ -1992,6 +1978,20 @@
           "goalsAgainst": 7,
           "goalDifference": 4,
           "points": 15,
+          "form": []
+        },
+        {
+          "position": 5,
+          "team": "Olympique Lyonnais",
+          "crest": "https://crests.football-data.org/523.png",
+          "played": 8,
+          "won": 4,
+          "draw": 2,
+          "lost": 2,
+          "goalsFor": 13,
+          "goalsAgainst": 7,
+          "goalDifference": 6,
+          "points": 14,
           "form": []
         },
         {
