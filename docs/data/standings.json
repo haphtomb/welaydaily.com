@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T09:25:47.814Z",
+  "updatedAt": "2026-10-29T18:05:16.087Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -1509,6 +1509,20 @@
         },
         {
           "position": 6,
+          "team": "Frosinone Calcio",
+          "crest": "https://crests.football-data.org/470.png",
+          "played": 9,
+          "won": 5,
+          "draw": 2,
+          "lost": 2,
+          "goalsFor": 18,
+          "goalsAgainst": 13,
+          "goalDifference": 5,
+          "points": 17,
+          "form": []
+        },
+        {
+          "position": 7,
           "team": "SSC Napoli",
           "crest": "https://crests.football-data.org/113.png",
           "played": 9,
@@ -1518,20 +1532,6 @@
           "goalsFor": 17,
           "goalsAgainst": 11,
           "goalDifference": 6,
-          "points": 14,
-          "form": []
-        },
-        {
-          "position": 7,
-          "team": "Frosinone Calcio",
-          "crest": "https://crests.football-data.org/470.png",
-          "played": 8,
-          "won": 4,
-          "draw": 2,
-          "lost": 2,
-          "goalsFor": 17,
-          "goalsAgainst": 13,
-          "goalDifference": 4,
           "points": 14,
           "form": []
         },
@@ -1623,13 +1623,13 @@
           "position": 14,
           "team": "US Lecce",
           "crest": "https://crests.football-data.org/5890.png",
-          "played": 8,
+          "played": 9,
           "won": 3,
           "draw": 0,
-          "lost": 5,
+          "lost": 6,
           "goalsFor": 9,
-          "goalsAgainst": 14,
-          "goalDifference": -5,
+          "goalsAgainst": 15,
+          "goalDifference": -6,
           "points": 9,
           "form": []
         },
