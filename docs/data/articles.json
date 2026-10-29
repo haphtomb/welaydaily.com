@@ -1,6 +1,52 @@
 {
   "articles": [
     {
+      "id": "anfield-drama-liverpool-beats-chelsea-on-penalties-in-carabao-cup-5ec194f8641f",
+      "headline": "Anfield Drama: Liverpool Beats Chelsea on Penalties in Carabao Cup",
+      "league": "Other",
+      "summary": "Liverpool navigated a tense Carabao Cup fourth-round clash against Chelsea, ultimately emerging victorious after a dramatic penalty shootout at Anfield. The Reds secured passage to the quarter-finals following a closely contested match that finished level after regulation time.",
+      "body": "Liverpool secured their spot in the Carabao Cup quarter-finals yesterday evening, defeating Premier League rivals Chelsea in a thrilling encounter at Anfield. The match concluded 1-1 after 90 minutes, with both goals coming from the penalty spot. Morgan Rogers put the visitors ahead from twelve yards, before Cody Gakpo equalised for the home side with his own successful penalty before halftime.\n\nThe deadlock persisted through a hard-fought second half, leading to a decisive penalty shootout in front of the Kop. In the dramatic conclusion, Liverpool defender Joe Gomez converted the winning spot-kick, sending the Reds through. Chelsea's Wesley Fofana notably missed his attempt, striking the ball over the bar, which sealed his team's exit from the competition.\n\nFollowing the defeat, Chelsea manager Xabi Alonso reflected on the outcome, acknowledging the unpredictable nature of penalty shootouts. He emphasized that the Premier League remains the club's primary objective for the current season. Liverpool will now advance to face AFC Bournemouth in the next round of the Carabao Cup.",
+      "tags": [
+        "Liverpool",
+        "Chelsea",
+        "Carabao Cup",
+        "Penalty Shootout"
+      ],
+      "image": "images/anfield-drama-liverpool-beats-chelsea-on-penalties-in-carabao-cup-5ec194f8641f.svg",
+      "publishedAt": "2026-10-29T00:39:03.079Z"
+    },
+    {
+      "id": "getafe-president-confirms-active-negotiations-for-jadon-sancho-transfer-50cffe88f5b5",
+      "headline": "Getafe President Confirms Active Negotiations for Jadon Sancho Transfer",
+      "league": "Transfer News",
+      "summary": "Spanish side Getafe has made a surprising move in the transfer market, with club president Angel Torres confirming active discussions to bring former Manchester United winger Jadon Sancho to the club. The unexpected development signals a potential return to top-flight football for the English international, who is currently a free agent.",
+      "body": "Getafe's president, Angel Torres, has publicly acknowledged that the club is engaged in negotiations to secure the services of Jadon Sancho. This revelation has sent ripples through the football world, as the Spanish outfit looks to bolster its attacking options with a high-profile signing. Sancho, who has been without a club since his departure from Manchester United, is reportedly nearing a surprise move to La Liga.\n\nThe 26-year-old winger's potential arrival would mark a significant coup for Getafe, adding considerable flair and experience to their squad. Reports suggest that initial talks are progressing, with Getafe keen to finalize a deal for the talented English forward.\n\nThis unexpected transfer saga could see Sancho revitalise his career in Spain, offering him a fresh start in one of Europe's top leagues. The confirmed negotiations underscore Getafe's ambition to make a statement in the upcoming transfer window.",
+      "tags": [
+        "Jadon Sancho",
+        "Getafe",
+        "La Liga",
+        "Transfer Rumours"
+      ],
+      "image": "images/getafe-president-confirms-active-negotiations-for-jadon-sancho-transfer-50cffe88f5b5.svg",
+      "publishedAt": "2026-10-29T00:39:22.081Z"
+    },
+    {
+      "id": "mbapp-s-dictator-remark-sparks-la-liga-broadcast-blackout-in-china-04b693192e6f",
+      "headline": "Mbappé's 'Dictator' Remark Sparks La Liga Broadcast Blackout in China",
+      "league": "La Liga",
+      "summary": "Real Madrid and La Liga have issued apologies following a resurfaced comment by Kylian Mbappé regarding a Chinese historical figure, which has led to a significant backlash and the suspension of La Liga broadcasts by Chinese state television. The controversy has also seen key Chinese sponsors sever ties with the star forward, highlighting the delicate balance between player expression and global commercial interests for the Spanish league.",
+      "body": "The football world is reeling from the fallout of a controversial comment made by Real Madrid's star striker, Kylian Mbappé, which has ignited a diplomatic and commercial crisis for La Liga in China. An older video clip recently circulated online showed Mbappé joking about an internet meme that superimposed his face onto a historical Chinese political figure, whom he described as \"some guy, think he's a Chinese dictator.\" This remark prompted widespread anger across Chinese social media platforms.\n\nIn response to the escalating situation, Mbappé issued a personal apology on Tuesday, expressing regret for his \"ill-judged\" words and acknowledging the offense caused to many in China and Chinese communities globally. Real Madrid swiftly followed suit on Wednesday, releasing an official statement to the Chinese people to apologize for any discomfort arising from their player's remarks, while emphasizing the club's deep respect for China's history, culture, and its millions of fans.\n\nThe repercussions have been significant for La Liga, with Chinese state television (CMG) suspending the broadcast of all Spanish league matches, a move that remains in effect despite the apologies. Additionally, several major Chinese brands, including Dongpeng and Mengniu, have terminated their sponsorship agreements with Mbappé. This ongoing situation underscores the critical importance of the Chinese market for La Liga's international revenue and visibility.",
+      "tags": [
+        "Kylian Mbappé",
+        "Real Madrid",
+        "China",
+        "La Liga",
+        "Broadcast Suspension"
+      ],
+      "image": "images/mbapp-s-dictator-remark-sparks-la-liga-broadcast-blackout-in-china-04b693192e6f.svg",
+      "publishedAt": "2026-10-29T00:39:38.695Z"
+    },
+    {
       "id": "espanyol-appoints-eder-sarabia-to-lead-club-amidst-challenging-period-20878facbb78",
       "headline": "Espanyol Appoints Eder Sarabia to Lead Club Amidst Challenging Period",
       "league": "La Liga",
@@ -860,52 +906,7 @@
       ],
       "image": "images/morocco-s-u-17-world-cup-hopes-dangle-after-heavy-argentina-defeat-6794bf2c09a8.svg",
       "publishedAt": "2026-10-24T15:29:07.954Z"
-    },
-    {
-      "id": "caf-polls-member-nations-on-future-afcon-tournament-cycle-6f049a4023f6",
-      "headline": "CAF Polls Member Nations on Future AFCON Tournament Cycle",
-      "league": "AFCON",
-      "summary": "African football's governing body, CAF, has formally requested its 54 member associations to cast their vote on whether the Africa Cup of Nations should be held every two or four years, setting a firm deadline for responses. This crucial decision comes after months of intense debate surrounding the tournament's future format.",
-      "body": "The Confederation of African Football (CAF) has initiated a pivotal consultation process, sending official communications to all 54 of its member associations. Each nation is now tasked with declaring its preference for the frequency of the Africa Cup of Nations, choosing between the traditional biennial cycle or a proposed quadrennial schedule. The deadline for these submissions is set for Wednesday, October 28, 2026.\n\nThis move by CAF follows a period of significant discussion and differing opinions regarding the continental showpiece. CAF President Patrice Motsepe had previously indicated a shift to a four-year cycle, commencing from the 2028 edition, but this proposal was met with considerable backlash from various corners of the African football community.\n\nThe Executive Committee had met recently to deliberate on this and other key issues, including preparations for upcoming CAF events. The current poll underscores the importance CAF places on gathering collective input from its member associations, as their votes will ultimately determine the long-term direction and scheduling of Africa's most prestigious football tournament.",
-      "tags": [
-        "CAF",
-        "AFCON",
-        "Tournament Cycle",
-        "African Football"
-      ],
-      "image": "images/caf-polls-member-nations-on-future-afcon-tournament-cycle-6f049a4023f6.svg",
-      "publishedAt": "2026-10-24T15:29:20.941Z"
-    },
-    {
-      "id": "aston-villa-stuns-manchester-city-halting-perfect-premier-league-run-f60144f79ed4",
-      "headline": "Aston Villa Stuns Manchester City, Halting Perfect Premier League Run",
-      "league": "Premier League",
-      "summary": "Aston Villa delivered a shocking blow to Manchester City's flawless Premier League campaign, defeating the reigning champions 2-1 at Villa Park. Nicolas Jackson's impressive double secured a crucial victory for Unai Emery's side, ending City's perfect start to the season.",
-      "body": "Aston Villa pulled off a significant upset today, overcoming a formidable Manchester City side with a 2-1 home victory that brought an end to City's pristine Premier League record. Nicolas Jackson emerged as the hero for Villa, netting both goals against Enzo Maresca's team, who had been targeting an eighth consecutive league win.\n\nJackson opened the scoring early in the first half, finding the net within six minutes at Villa Park. While Erling Haaland managed to equalize for Manchester City in the second half, Jackson once again proved decisive, securing the winning goal with a well-placed finish that eluded goalkeeper Gianluigi Donnarumma.\n\nThis result marks Manchester City's fourth consecutive defeat at Villa Park and extends Aston Villa's impressive recent form to six wins from their last seven matches across all competitions. Unai Emery's tactical prowess was evident as Villa, despite a challenging start to the season, continues its rapid ascent in the league standings.",
-      "tags": [
-        "Aston Villa",
-        "Manchester City",
-        "Nicolas Jackson",
-        "Premier League"
-      ],
-      "image": "images/aston-villa-stuns-manchester-city-halting-perfect-premier-league-run-f60144f79ed4.svg",
-      "publishedAt": "2026-10-24T15:29:34.665Z"
-    },
-    {
-      "id": "pirates-rout-african-stars-to-secure-champions-league-group-stage-spot-2035c3181ccc",
-      "headline": "Pirates Rout African Stars to Secure Champions League Group Stage Spot",
-      "league": "CAF Champions League",
-      "summary": "Orlando Pirates showcased a dominant performance, decisively defeating African Stars to comfortably advance to the CAF Champions League group stage. The South African giants sealed their progression with an emphatic victory at home, delighting their supporters.",
-      "body": "Orlando Pirates have successfully navigated the second preliminary round of the TotalEnergies CAF Champions League, securing their place in the coveted group stage. In a commanding display at the Orlando Amstel Arena on Friday, the Buccaneers overcame African Stars with a convincing 4-0 victory, bringing the aggregate score to 5-0.\n\nThe breakthrough arrived in the 18th minute when Thapelo Mokobodi found the back of the net, rewarding Pirates' early attacking pressure. Evidence Makgopa then doubled the lead just before halftime, setting a comfortable tone for the remainder of the match.\n\nCoach Abdeslam Ouaddou's tactical changes at the start of the second half proved immediately effective, with substitute Mpho Padime swiftly scoring to extend the lead further. This dominant performance ensures Orlando Pirates will join Africa's elite in the Champions League group stage.",
-      "tags": [
-        "Orlando Pirates",
-        "CAF Champions League",
-        "African Stars",
-        "Football"
-      ],
-      "image": "images/pirates-rout-african-stars-to-secure-champions-league-group-stage-spot-2035c3181ccc.svg",
-      "publishedAt": "2026-10-24T10:23:59.625Z"
     }
   ],
-  "lastRun": "2026-10-28T20:07:57.447Z"
+  "lastRun": "2026-10-29T00:39:52.114Z"
 }
