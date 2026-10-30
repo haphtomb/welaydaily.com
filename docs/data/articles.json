@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": "philadelphia-union-secure-playoff-spot-after-resurgent-season-f9a68c6430a6",
+      "headline": "Philadelphia Union Secure Playoff Spot After Resurgent Season",
+      "league": "MLS",
+      "summary": "The Philadelphia Union officially clinched a spot in the 2026 MLS Cup Playoffs on Wednesday night, marking a remarkable turnaround after a challenging start to their campaign. Their postseason berth was secured following a hard-fought draw against Nashville SC and a favorable result in another Eastern Conference match.",
+      "body": "The Philadelphia Union have successfully navigated a difficult season to secure their place in the Audi 2026 MLS Cup Playoffs. The Boys in Blue confirmed their postseason participation on Wednesday evening, following a scoreless draw against the Supporters' Shield winners, Nashville SC.\n\nThis crucial point, combined with the New England Revolution's 3-2 victory over the New York Red Bulls, propelled the Union into the playoff picture. Former Union star Dániel Gazdag notably scored the decisive goal for the Revolution, inadvertently aiding his old club's playoff aspirations. This marks the Union's tenth all-time playoff appearance and their eighth in the last nine seasons.\n\nUnder interim head coach Ryan Richter, Philadelphia has orchestrated a sensational comeback, going unbeaten for 15 consecutive matches, a run that includes twelve wins and three draws. This impressive form has seen them climb to sixth in the Eastern Conference standings with 47 points, a significant achievement given their early-season struggles.",
+      "tags": [
+        "MLS",
+        "Philadelphia Union",
+        "Playoffs",
+        "Soccer"
+      ],
+      "image": "images/philadelphia-union-secure-playoff-spot-after-resurgent-season-f9a68c6430a6.svg",
+      "publishedAt": "2026-10-30T00:39:44.960Z"
+    },
+    {
+      "id": "late-psg-equalizer-stuns-manchester-city-in-women-s-champions-league-thriller-2af4bafb29c2",
+      "headline": "Late PSG Equalizer Stuns Manchester City in Women's Champions League Thriller",
+      "league": "Champions League",
+      "summary": "Paris Saint-Germain snatched a dramatic point against Manchester City in the Women's Champions League group stage, with a late goal cancelling out the hosts' advantage. The English champions appeared poised for victory before a swift response from the French side leveled the score.",
+      "body": "Manchester City's Women's Champions League campaign saw a dramatic twist on Thursday as Paris Saint-Germain secured a 1-1 draw at the Joie Stadium. The home side, dominating large portions of the match, finally broke the deadlock late in the second half through a penalty.\n\nStar striker Bunny Shaw converted from the spot in the 85th minute, putting the Citizens ahead and seemingly on course for their first European win of the season. However, their lead was short-lived, lasting only three minutes.\n\nPSG substitute Tara Elimbi Gilbert delivered a swift equalizer in the 88th minute, dribbling into the penalty area and slotting the ball past goalkeeper Ayaka Yamashita. This late strike ensured the spoils were shared, leaving City still searching for a Champions League victory this season, despite remaining unbeaten.",
+      "tags": [
+        "Women's Champions League",
+        "Manchester City",
+        "Paris Saint-Germain",
+        "Match Report"
+      ],
+      "image": "images/late-psg-equalizer-stuns-manchester-city-in-women-s-champions-league-thriller-2af4bafb29c2.svg",
+      "publishedAt": "2026-10-30T00:39:59.005Z"
+    },
+    {
+      "id": "villa-stun-reigning-champions-city-in-thrilling-home-victory-db5de5312a20",
+      "headline": "Villa Stun Reigning Champions City in Thrilling Home Victory",
+      "league": "Premier League",
+      "summary": "Aston Villa secured a remarkable 2-1 Premier League triumph over Manchester City at Villa Park, ending the champions' perfect start under manager Enzo Maresca. Nicolas Jackson netted both goals for the home side, sparking jubilant celebrations among the Villa faithful.",
+      "body": "Aston Villa delivered a stunning performance at Villa Park, defeating Manchester City 2-1 in a captivating Premier League encounter. This victory marks Villa's first home league win of the current campaign and brought an end to Manchester City's flawless record under new boss Enzo Maresca. The atmosphere was electric as the home supporters, numbering 36,743, made their presence felt, particularly towards the visiting City fans.\n\nNicolas Jackson emerged as the hero for Villa, scoring both crucial goals. His first arrived just six minutes into the match, following a determined interception by John McGinn. City's star striker Erling Haaland managed to equalize early in the second half, but Jackson quickly restored Villa's lead with his second strike, assisted by Ibrahim Mbaye. This result extends Villa's impressive home run against City, making it their fourth consecutive victory against them at Villa Park.\n\nDespite Manchester City dominating possession with 64 percent and registering more shots, Villa's clinical efficiency proved decisive. The hosts matched City's intensity across the pitch, demonstrating immense effort and determination. This significant win underlines Villa's growing ambitions and provides a strong statement of intent in the Premier League title race.",
+      "tags": [
+        "Aston Villa",
+        "Manchester City",
+        "Premier League",
+        "Nicolas Jackson"
+      ],
+      "image": "images/villa-stun-reigning-champions-city-in-thrilling-home-victory-db5de5312a20.svg",
+      "publishedAt": "2026-10-30T00:40:17.885Z"
+    },
+    {
+      "id": "barcelona-closes-stand-after-clasico-chaos-camavinga-incident-c4e89f40a242",
+      "headline": "Barcelona Closes Stand After Clasico Chaos, Camavinga Incident",
+      "league": "La Liga",
+      "summary": "Barcelona has announced the suspension of its 'Gol 1957' fan section for the upcoming Alaves match, following multiple reported incidents during the recent El Clasico. This disciplinary action comes after La Liga's official report detailed 17 disturbances, including an assault on Real Madrid's Eduardo Camavinga.",
+      "body": "FC Barcelona has taken decisive action in the wake of the heated El Clasico, confirming the closure of the 'Gol 1957' stand for their next La Liga fixture against Alaves. This move directly addresses a series of disciplinary proceedings initiated against the club and certain supporters due to behavior deemed contrary to sporting integrity. The decision aims to mitigate potential financial penalties and the risk of further stadium sanctions.\n\nLa Liga's official report highlighted 17 separate incidents from the high-stakes clash, which saw Real Madrid secure a 2-1 victory at Spotify Camp Nou. Among the most serious was the alleged assault on Real Madrid midfielder Eduardo Camavinga by a spectator wielding a flag during Kylian Mbappé's winning goal celebration. Other disturbances included offensive chants and objects, such as bottles and lighters, being thrown onto the pitch.\n\nAuthorities, aided by stadium surveillance, have identified the individual involved in the Camavinga incident, with the supporter facing significant fines and a potential ban from sporting venues. Barcelona's swift response underscores a commitment to addressing fan misconduct and upholding the standards expected in Spanish football.",
+      "tags": [
+        "Barcelona",
+        "Real Madrid",
+        "El Clasico",
+        "Fan Violence"
+      ],
+      "image": "images/barcelona-closes-stand-after-clasico-chaos-camavinga-incident-c4e89f40a242.svg",
+      "publishedAt": "2026-10-30T00:40:39.657Z"
+    },
+    {
       "id": "kenya-u15s-secure-knockout-berth-at-fifa-world-cup-festival-fcd5ff943b0c",
       "headline": "Kenya U15s Secure Knockout Berth at FIFA World Cup Festival",
       "league": "Other",
@@ -846,68 +906,7 @@
       ],
       "image": "images/champions-league-victories-marred-by-major-injury-blows-for-european-giants-edd546081ba5.svg",
       "publishedAt": "2026-10-25T10:51:51.389Z"
-    },
-    {
-      "id": "alvarez-nets-winner-offers-apology-as-atletico-closes-on-barcelona-b7d81f7a9199",
-      "headline": "Alvarez Nets Winner, Offers Apology as Atletico Closes on Barcelona",
-      "league": "La Liga",
-      "summary": "Julian Alvarez scored the decisive goal for Atletico Madrid in their narrow victory over Deportivo La Coruna on Saturday, subsequently addressing his controversial summer transfer attempts. The crucial 1-0 win helps Diego Simeone's side significantly reduce the points gap to La Liga leaders Barcelona.",
-      "body": "Julian Alvarez found the back of the net for Atletico Madrid on Saturday, securing a vital 1-0 triumph against Deportivo La Coruna at the Metropolitano Stadium. The Argentine forward's second-half strike proved to be the difference, allowing Atletico to shrink the deficit behind table-topping Barcelona to just two points in the intense La Liga title race.\n\nFollowing the match, Alvarez publicly expressed regret for his efforts to depart the club during the summer transfer window. This marks his second consecutive game with a goal, signaling a return to form after earlier fitness challenges and fan scrutiny regarding his loyalty.\n\nDespite Atletico's struggles to generate consistent attacking rhythm, they held on for the win. Deportivo La Coruna, meanwhile, squandered two significant opportunities to equalize in stoppage time, with Jan Oblak making a crucial late save to preserve the clean sheet.",
-      "tags": [
-        "Atletico Madrid",
-        "Julian Alvarez",
-        "La Liga",
-        "Deportivo La Coruna"
-      ],
-      "image": "images/alvarez-nets-winner-offers-apology-as-atletico-closes-on-barcelona-b7d81f7a9199.svg",
-      "publishedAt": "2026-10-25T10:52:05.763Z"
-    },
-    {
-      "id": "atlas-lionesses-secure-u-17-world-cup-knockout-berth-despite-argentina-defeat-d6631c9cb2bd",
-      "headline": "Atlas Lionesses Secure U-17 World Cup Knockout Berth Despite Argentina Defeat",
-      "league": "World Cup Qualifiers",
-      "summary": "Morocco's U-17 women's national team has advanced to the Round of 16 of the FIFA U-17 Women's World Cup 2026, cementing their place as one of the best third-placed teams. This qualification comes despite a challenging 5-1 loss to Argentina in their final group stage match held on home soil.",
-      "body": "The Atlas Lionesses officially secured their spot in the knockout phase of the FIFA U-17 Women's World Cup, hosted by Morocco. Their progression was confirmed on October 24, as they finished among the top four third-placed teams in the group stage, edging out Venezuela and Canada based on a superior goal difference of -2.\n\nMorocco's qualification arrived after a tough 5-1 defeat against Argentina on October 23, where Mercedes Diez netted a hat-trick for the South American side. Despite the heavy loss, Nesma Mouradi's lone goal for Morocco offered a moment of cheer for the home crowd at the Mohammed VI Football Complex.\n\nThis marks a significant achievement for the young Moroccan squad, who will now prepare to face their Round of 16 opponents. Poland also secured their place in the next stage through the same route, highlighting the competitive nature of the tournament's group phase.",
-      "tags": [
-        "Morocco U17",
-        "Women's World Cup",
-        "FIFA 2026",
-        "Qualification"
-      ],
-      "image": "images/atlas-lionesses-secure-u-17-world-cup-knockout-berth-despite-argentina-defeat-d6631c9cb2bd.svg",
-      "publishedAt": "2026-10-25T03:26:38.912Z"
-    },
-    {
-      "id": "alvarez-fires-atletico-to-victory-apologizes-to-faithful-01da8de6ef7c",
-      "headline": "Alvarez Fires Atletico to Victory, Apologizes to Faithful",
-      "league": "La Liga",
-      "summary": "Julian Alvarez found the back of the net for Atletico Madrid, securing a crucial 1-0 win against Deportivo La Coruna and narrowing the gap to La Liga leaders Barcelona. The forward also publicly expressed regret for his summer transfer intentions, earning a positive reaction from the home crowd.",
-      "body": "Julian Alvarez continued his recent resurgence for Atletico Madrid on Saturday, scoring the decisive goal in a hard-fought 1-0 victory over Deportivo La Coruna. The Argentina international struck early in the second half, converting a dangerous low cross from Alejandro Grimaldo in the 48th minute to break the deadlock at the Riyadh Air Metropolitano. This win moves Diego Simeone's side into second place in La Liga, just two points behind current leaders Barcelona.\n\nBeyond his goal-scoring contribution, Alvarez made headlines for addressing the lingering tension with Atletico supporters. Having previously expressed a desire to join rivals Barcelona in the summer, the striker offered a public apology to the club's faithful. This gesture appeared to resonate with the home crowd, as Alvarez received a standing ovation following his goal, signaling a potential mending of the relationship.\n\nCoach Diego Simeone expressed his satisfaction with Alvarez's apology, highlighting its significance for the team's cohesion. The goal against Deportivo marked Alvarez's second consecutive strike, following his first of the season in a Champions League draw midweek. This renewed form and his conciliatory words suggest a positive turn for the forward as Atletico Madrid pushes for the top spot in the league.",
-      "tags": [
-        "Atletico Madrid",
-        "Julian Alvarez",
-        "La Liga",
-        "Match Report"
-      ],
-      "image": "images/alvarez-fires-atletico-to-victory-apologizes-to-faithful-01da8de6ef7c.svg",
-      "publishedAt": "2026-10-25T03:27:09.476Z"
-    },
-    {
-      "id": "mc-alger-stages-stunner-eliminates-rangers-with-late-blitz-d7481b7b61e6",
-      "headline": "MC Alger Stages Stunner, Eliminates Rangers with Late Blitz",
-      "league": "CAF Champions League",
-      "summary": "MC Alger dramatically secured their place in the CAF Champions League group stage after overturning a two-goal deficit against Nigerian champions Enugu Rangers. A late surge saw the Algerian side net three unanswered goals at home, sealing a memorable aggregate victory.",
-      "body": "MC Alger engineered a remarkable comeback at the Ali La Pointe Stadium to knock Enugu Rangers out of the CAF Champions League, progressing to the group stage with a 3-2 aggregate triumph. Trailing by two goals from the first leg in Nigeria, the Algerian hosts ignited their challenge in the 58th minute when Chahreddine Boukholda found the net, injecting belief into the home crowd.\n\nThe tension mounted significantly as the clock wound down, with the tie appearing to head towards a penalty shootout. However, Mohamed Bangoura struck for MC Alger in the 84th minute, leveling the aggregate score and setting up a thrilling finale.\n\nThe decisive moment arrived deep into stoppage time, three minutes after regulation, when Soufiane Bayazid delivered the dramatic winner, completing the stunning 3-0 victory on the night. This late heroics sent the Algerian faithful into raptures and ended Enugu Rangers' continental aspirations in heartbreaking fashion.",
-      "tags": [
-        "CAF Champions League",
-        "MC Alger",
-        "Enugu Rangers",
-        "Comeback",
-        "African Football"
-      ],
-      "image": "images/mc-alger-stages-stunner-eliminates-rangers-with-late-blitz-d7481b7b61e6.svg",
-      "publishedAt": "2026-10-25T03:27:27.931Z"
     }
   ],
-  "lastRun": "2026-10-29T18:07:49.841Z"
+  "lastRun": "2026-10-30T00:40:43.657Z"
 }
