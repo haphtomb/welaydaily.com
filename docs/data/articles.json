@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "pulisic-commits-long-term-future-to-ac-milan-with-new-deal-9ff72312b233",
+      "headline": "Pulisic Commits Long-Term Future to AC Milan with New Deal",
+      "league": "Serie A",
+      "summary": "American star Christian Pulisic has officially extended his contract with AC Milan, securing his presence at the San Siro through 2031. This agreement signals a crucial move for the Rossoneri as they aim to solidify their squad for a new era under fresh leadership.",
+      "body": "AC Milan has announced a significant development in their squad planning, confirming that Christian Pulisic has put pen to paper on a new long-term contract. The United States international will remain with the Italian giants until 2031, a clear statement of intent from both the player and the club.\n\nThis extension resolves a key personnel concern for Milan, especially with Pulisic's previous deal set to expire in 2027. His strong desire to stay at the club, coupled with the backing of new head coach Ruben Amorim, proved instrumental in finalizing the agreement.\n\nThe 28-year-old winger expressed his deep connection to Milan, stating the club feels like home. This commitment is vital as the Rossoneri look to challenge for silverware and reassert their dominance in Serie A, aiming to build on recent progress and achieve new milestones.",
+      "tags": [
+        "Christian Pulisic",
+        "AC Milan",
+        "Serie A",
+        "Contract Extension"
+      ],
+      "image": "images/pulisic-commits-long-term-future-to-ac-milan-with-new-deal-9ff72312b233.svg",
+      "publishedAt": "2026-10-31T11:47:35.034Z"
+    },
+    {
       "id": "manchester-united-initiates-ambitious-double-la-liga-transfer-pursuit-bc209200c2d9",
       "headline": "Manchester United Initiates Ambitious Double La Liga Transfer Pursuit",
       "league": "Transfer News",
@@ -890,22 +905,7 @@
       ],
       "image": "images/junior-starlets-make-history-dominate-samoa-to-reach-world-cup-knockouts-0e979b88d3d9.svg",
       "publishedAt": "2026-10-25T23:03:44.861Z"
-    },
-    {
-      "id": "mbappe-s-double-dents-barcelona-s-perfect-start-in-dramatic-el-cl-sico-e3b8a1cdac56",
-      "headline": "Mbappe's Double Dents Barcelona's Perfect Start in Dramatic El Clásico",
-      "league": "La Liga",
-      "summary": "Kylian Mbappe netted a decisive brace, including a late winner, as Real Madrid inflicted Barcelona's first La Liga defeat of the season at Spotify Camp Nou. The thrilling 2-1 victory has reignited the Spanish title race, bringing Real Madrid significantly closer to the summit.",
-      "body": "Real Madrid delivered a major statement in the La Liga title race today, overcoming league leaders Barcelona with a compelling 2-1 victory in El Clásico at Spotify Camp Nou. French superstar Kylian Mbappe was the hero for Los Blancos, scoring both goals in a performance that ended Barcelona's previously perfect league record this campaign. His first strike, a fortunate deflection off Gerard Martin, broke the deadlock in the 41st minute, giving Real Madrid a crucial lead heading into halftime.\n\nBarcelona fought back in the second half, with Raphinha leveling the score in the 61st minute after a clever pass from Pedri, igniting hopes of a comeback for the home side. However, as the clock wound down, Real Madrid launched a swift counter-attack. With just three minutes remaining in regular time, Eduardo Camavinga surged forward, expertly laying the ball off for Mbappe, who calmly slotted home his second goal into an open net, sealing a dramatic win for the visitors.\n\nThis pivotal result sees Barcelona remain at the top of the La Liga standings with 27 points, but their lead has been significantly reduced. Real Madrid now sits just three points behind them with 24 points, while Atletico Madrid occupies second place with 25 points, making the battle for the championship wide open as the season progresses.",
-      "tags": [
-        "El Clásico",
-        "Real Madrid",
-        "Barcelona",
-        "Kylian Mbappe"
-      ],
-      "image": "images/mbappe-s-double-dents-barcelona-s-perfect-start-in-dramatic-el-cl-sico-e3b8a1cdac56.svg",
-      "publishedAt": "2026-10-25T23:04:02.992Z"
     }
   ],
-  "lastRun": "2026-10-31T04:20:58.744Z"
+  "lastRun": "2026-10-31T11:47:46.361Z"
 }
