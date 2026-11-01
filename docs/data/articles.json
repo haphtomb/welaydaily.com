@@ -1,6 +1,67 @@
 {
   "articles": [
     {
+      "id": "brighton-stuns-league-leaders-manchester-city-with-resilient-away-performance-bce5615fcd3d",
+      "headline": "Brighton Stuns League Leaders Manchester City with Resilient Away Performance",
+      "league": "Premier League",
+      "summary": "Brighton & Hove Albion delivered a stunning upset at the Etihad Stadium yesterday, defeating Premier League leaders Manchester City by a single goal. The loss marks City's second consecutive league defeat, raising questions after their flawless start to the season.",
+      "body": "Manchester City's dominant start to the Premier League season hit another snag on Saturday as Brighton & Hove Albion secured a hard-fought 1-0 victory at the Etihad. Yasin Ayari's early strike proved to be the decisive moment, with the Seagulls holding firm against the reigning champions to claim all three points.\n\nThis result is particularly noteworthy as it represents City's second successive league loss, following an impressive opening run of seven consecutive victories. Brighton's disciplined performance also offered a measure of revenge, having been knocked out of the League Cup by City earlier in the week.\n\nThe unexpected defeat will undoubtedly prompt reflection from Pep Guardiola's side, while Fabian Hurzeler's Brighton squad will be celebrating a significant triumph that bolsters their aspirations and shows their ability to compete with the league's elite.",
+      "tags": [
+        "Premier League",
+        "Manchester City",
+        "Brighton",
+        "Upset"
+      ],
+      "image": "images/brighton-stuns-league-leaders-manchester-city-with-resilient-away-performance-bce5615fcd3d.svg",
+      "publishedAt": "2026-11-01T04:40:29.625Z"
+    },
+    {
+      "id": "martinez-reportedly-agrees-personal-terms-with-atletico-madrid-01d8c512c43e",
+      "headline": "Martinez Reportedly Agrees Personal Terms with Atletico Madrid",
+      "league": "Transfer News",
+      "summary": "Manchester United defender Lisandro Martinez has reportedly reached a personal agreement with Atletico Madrid for a potential move during the upcoming January transfer window. This development suggests a significant shift for the Argentine international, who appears keen on a switch to the Spanish capital.",
+      "body": "Reports emerging from Spain indicate that Lisandro Martinez, the Manchester United center-back, has agreed to personal terms with La Liga giants Atletico Madrid. The agreement paves the way for a potential transfer when the winter window opens, with the player seemingly eager to embark on a new chapter in his career.\n\nWhile personal terms are reportedly settled, formal contact between the two clubs for a transfer fee is yet to be established. However, it is understood that both Martinez's representatives and Atletico Madrid officials held discussions during Manchester United's recent Champions League visit to the city.\n\nMartinez's tenure at Old Trafford has recently faced scrutiny, particularly following a red card incident against Chelsea. A January departure would suit all parties involved, though a summer move remains an option if a deal cannot be finalized sooner.",
+      "tags": [
+        "Lisandro Martinez",
+        "Atletico Madrid",
+        "Manchester United",
+        "La Liga"
+      ],
+      "image": "images/martinez-reportedly-agrees-personal-terms-with-atletico-madrid-01d8c512c43e.svg",
+      "publishedAt": "2026-11-01T04:40:45.569Z"
+    },
+    {
+      "id": "bayern-munich-stages-dramatic-comeback-to-snatch-draw-against-real-madrid-in-wom-2666b99becb1",
+      "headline": "Bayern Munich Stages Dramatic Comeback to Snatch Draw Against Real Madrid in Women's Champions League",
+      "league": "Champions League",
+      "summary": "Bayern Munich dramatically recovered from a two-goal deficit to secure a crucial 2-2 draw against Real Madrid in a thrilling UEFA Women's Champions League encounter. The German side showcased remarkable resilience to claw their way back into the match after a challenging start.",
+      "body": "In a captivating UEFA Women's Champions League fixture, Bayern Munich battled back to earn a hard-fought 2-2 draw against Real Madrid. The Spanish visitors, playing in their black kits, asserted their dominance early, with Athenea opening the scoring in the seventh minute. Lineth Beerensteyn then doubled their advantage just fifteen minutes later, leaving Bayern with a significant challenge to overcome.\n\nHowever, the German giants, wearing their distinctive red, refused to yield. Edna Imade ignited their comeback hopes with a goal just after the half-hour mark, narrowing the deficit before halftime. The momentum shifted definitively in the second half when Momoko Tanikawa netted the equalizer in the 52nd minute with a superb curling effort from the edge of the penalty area, bringing the score level.\n\nThe result sees both teams share the points after a fiercely contested match, highlighting the competitive nature of this season's Women's Champions League. Bayern's spirited fightback will undoubtedly boost their confidence as they continue their European campaign, while Real Madrid will rue letting a commanding lead slip away.",
+      "tags": [
+        "Women's Champions League",
+        "Bayern Munich",
+        "Real Madrid",
+        "Comeback"
+      ],
+      "image": "images/bayern-munich-stages-dramatic-comeback-to-snatch-draw-against-real-madrid-in-wom-2666b99becb1.svg",
+      "publishedAt": "2026-11-01T04:41:01.365Z"
+    },
+    {
+      "id": "barcelona-explodes-for-six-goals-reclaiming-top-spot-in-la-liga-f597db8e881f",
+      "headline": "Barcelona Explodes for Six Goals, Reclaiming Top Spot in La Liga",
+      "league": "La Liga",
+      "summary": "Barcelona delivered a stunning performance, securing a dominant 6-1 victory over Alavés at Spotify Camp Nou, with young star Lamine Yamal and Raphinha each scoring twice. This emphatic win propelled Hansi Flick's side back to the top of the La Liga standings, marking a strong response after recent setbacks.",
+      "body": "Barcelona made a resounding statement in La Liga on Saturday, dismantling Alavés with a commanding 6-1 victory at their home ground. The Catalan giants showcased their attacking prowess, with standout performances from Lamine Yamal and Raphinha, both of whom found the back of the net twice. Fermín López and substitute Anthony Gordon also contributed to the impressive goal tally, ensuring a comfortable win for the home side.\n\nThe comprehensive triumph was a crucial one for Hansi Flick's squad, who had experienced a challenging period with back-to-back defeats in the Champions League and El Clásico. This dominant display not only restored confidence but also saw Barcelona reclaim the top position in the league table, moving two points clear of Atletico Madrid.\n\nBeyond the crucial three points, the match was also significant for coach Hansi Flick, as it marked his 100th victory at the helm of Barcelona in just 131 games across all competitions. His impressive win percentage now stands as a new club record, surpassing previous managerial legends.",
+      "tags": [
+        "Barcelona",
+        "La Liga",
+        "Lamine Yamal",
+        "Raphinha",
+        "Hansi Flick"
+      ],
+      "image": "images/barcelona-explodes-for-six-goals-reclaiming-top-spot-in-la-liga-f597db8e881f.svg",
+      "publishedAt": "2026-11-01T04:41:13.233Z"
+    },
+    {
       "id": "leipzig-secure-crucial-domestic-win-boost-champions-league-standing-89b4d9218886",
       "headline": "Leipzig Secure Crucial Domestic Win, Boost Champions League Standing",
       "league": "Champions League",
@@ -846,67 +907,7 @@
       ],
       "image": "images/villa-halts-manchester-city-s-perfect-start-in-thrilling-home-victory-45f79e96e1ce.svg",
       "publishedAt": "2026-10-27T00:17:29.381Z"
-    },
-    {
-      "id": "barcelona-faces-scrutiny-after-consecutive-defeats-in-europe-and-la-liga-0830d0ac9ca3",
-      "headline": "Barcelona Faces Scrutiny After Consecutive Defeats in Europe and La Liga",
-      "league": "Champions League",
-      "summary": "Barcelona is grappling with a challenging period, having recently suffered back-to-back losses in both the Champions League and El Clásico, prompting a critical re-evaluation of their early season form. The Catalan giants, under manager Hansi Flick, are now focused on regrouping to salvage their campaign after a previously dominant start.",
-      "body": "FC Barcelona finds itself at a crossroads, reeling from consecutive significant defeats that have cast a shadow over their once-pristine start to the season. The Catalans were first dealt a blow in the Champions League, falling 4-2 to reigning European champions Paris Saint-Germain last Tuesday. This was swiftly followed by a painful 2-1 home loss to fierce rivals Real Madrid in La Liga on Sunday, leaving the club to confront its recent struggles.\n\nDespite an impressive opening to the campaign where they secured eleven victories and maintained a strong position in both domestic and European competitions, Barcelona's performances against top-tier opposition have raised concerns. Key players such as Lamine Yamal struggled to make an impact in the recent El Clásico, while injuries are further depleting the squad, with defender Xavi Espart adding to a growing list of absentees including Andreas Christensen, Jules Koundé, and Eric García.\n\nManager Hansi Flick emphasized the need for analysis and improvement, acknowledging that details are crucial in high-stakes matches. With Barcelona currently sitting eighth in the Champions League league phase, the team must quickly refocus as they prepare for upcoming fixtures against Alaves in the league and Aston Villa in Europe.",
-      "tags": [
-        "Barcelona",
-        "Champions League",
-        "La Liga",
-        "Hansi Flick"
-      ],
-      "image": "images/barcelona-faces-scrutiny-after-consecutive-defeats-in-europe-and-la-liga-0830d0ac9ca3.svg",
-      "publishedAt": "2026-10-26T20:20:58.015Z"
-    },
-    {
-      "id": "nashville-sc-claims-historic-first-supporters-shield-title-1a2b4ebee038",
-      "headline": "Nashville SC Claims Historic First Supporters' Shield Title",
-      "league": "MLS",
-      "summary": "Nashville SC clinched their inaugural Supporters' Shield over the weekend, securing the top spot in the MLS regular season standings. Their dominant performance culminated in a crucial victory against CF Montréal, sealing the club's first major trophy.",
-      "body": "Nashville SC has made history, lifting their first-ever Supporters' Shield after a commanding 2-0 victory over CF Montréal on Saturday. The decisive win ensured the Tennessee-based club finished atop the overall MLS standings, a testament to their consistent form throughout the campaign. This significant achievement marks a landmark moment for the franchise, signaling their emergence as a dominant force in the league.\n\nThe match against Montréal saw Nashville control proceedings, denying their opponents any chance of spoiling the celebration. The result not only secured the Supporters' Shield for the Coyotes but also officially eliminated CF Montréal from playoff contention in the Eastern Conference.\n\nWith the Supporters' Shield now in hand, Nashville SC's focus shifts to the upcoming MLS Cup Playoffs. The team still has an opportunity to set a new league record for most points in a regular season, needing just five additional points from their final three fixtures to surpass Inter Miami's previous benchmark.",
-      "tags": [
-        "Nashville SC",
-        "Supporters' Shield",
-        "MLS",
-        "CF Montréal"
-      ],
-      "image": "images/nashville-sc-claims-historic-first-supporters-shield-title-1a2b4ebee038.svg",
-      "publishedAt": "2026-10-26T20:21:23.667Z"
-    },
-    {
-      "id": "rice-rescues-point-for-arsenal-in-thrilling-allianz-arena-draw-c7e982e349fb",
-      "headline": "Rice Rescues Point for Arsenal in Thrilling Allianz Arena Draw",
-      "league": "Champions League",
-      "summary": "Declan Rice netted a crucial late equalizer for Arsenal, securing a dramatic 2-2 draw against Bayern Munich at the Allianz Arena in a captivating Champions League encounter. The Gunners' resilience shone through after falling behind, maintaining their strong start to the European campaign.",
-      "body": "Arsenal battled to a hard-fought 2-2 draw against Bayern Munich on Tuesday, with Declan Rice's late strike ensuring the spoils were shared in a compelling Champions League group stage match. The visitors, despite an early injury setback to key winger Bukayo Saka, initially took the lead through substitute Eberechi Eze in the 25th minute, breaking the deadlock against a formidable opponent.\n\nBayern Munich, playing on their home turf, demonstrated their attacking prowess, with former Tottenham striker Harry Kane orchestrating their comeback. Kane provided an assist and then converted a penalty to put the German giants ahead, showcasing his continued impact in crucial European fixtures.\n\nHowever, Arsenal refused to be defeated, and Rice's timely intervention salvaged a valuable point, preventing Bayern from extending their impressive 40-match unbeaten home record in the Champions League group stage with a victory. The result marks the first time Arsenal's defense has been breached in the competition this season, ending their 14-game winning streak in the league phase.",
-      "tags": [
-        "Arsenal",
-        "Bayern Munich",
-        "Champions League",
-        "Declan Rice"
-      ],
-      "image": "images/rice-rescues-point-for-arsenal-in-thrilling-allianz-arena-draw-c7e982e349fb.svg",
-      "publishedAt": "2026-10-26T12:22:06.332Z"
-    },
-    {
-      "id": "getafe-president-confirms-shock-talks-with-free-agent-jadon-sancho-ba7a82804502",
-      "headline": "Getafe President Confirms Shock Talks with Free Agent Jadon Sancho",
-      "league": "Transfer News",
-      "summary": "Getafe's president, Angel Torres, has publicly acknowledged that the Spanish club is in active discussions to sign former Manchester United winger Jadon Sancho, who is currently a free agent. This surprising development suggests the La Liga side is making a bold move to secure the highly-rated attacker.",
-      "body": "In a significant revelation from the Spanish capital, Getafe president Angel Torres has confirmed that the club is engaged in negotiations to bring free agent Jadon Sancho to the Coliseum Alfonso Pérez. The announcement sends ripples through the transfer market, as the former Manchester United star finds himself without a club. Sancho's availability has made him a sought-after prospect for numerous teams across Europe.\n\nTorres's public statement indicates a serious intent from the La Liga outfit to secure the services of the English winger. Sancho, known for his electrifying pace and technical ability, could offer a considerable boost to Getafe's attacking options should a deal materialize. His potential arrival would undoubtedly be one of the most unexpected transfers of the upcoming window.\n\nThe specifics of the negotiations remain under wraps, but the confirmation from Getafe's highest office suggests that talks are progressing. Football fans will be keenly watching to see if the Spanish club can successfully complete this ambitious signing and provide Sancho with a new chapter in his career after his departure from Old Trafford.",
-      "tags": [
-        "Jadon Sancho",
-        "Getafe",
-        "Transfer News",
-        "La Liga"
-      ],
-      "image": "images/getafe-president-confirms-shock-talks-with-free-agent-jadon-sancho-ba7a82804502.svg",
-      "publishedAt": "2026-10-26T12:22:24.778Z"
     }
   ],
-  "lastRun": "2026-10-31T21:05:03.666Z"
+  "lastRun": "2026-11-01T04:41:17.234Z"
 }
