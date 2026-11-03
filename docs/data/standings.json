@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T21:27:06.122Z",
+  "updatedAt": "2026-11-03T05:31:55.298Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -591,15 +591,15 @@
         },
         {
           "position": 8,
-          "team": "CA Osasuna",
-          "crest": "https://crests.football-data.org/79.png",
+          "team": "RC Deportivo La Coruña",
+          "crest": "https://crests.football-data.org/560.png",
           "played": 11,
-          "won": 4,
-          "draw": 2,
-          "lost": 5,
-          "goalsFor": 11,
-          "goalsAgainst": 20,
-          "goalDifference": -9,
+          "won": 3,
+          "draw": 5,
+          "lost": 3,
+          "goalsFor": 15,
+          "goalsAgainst": 14,
+          "goalDifference": 1,
           "points": 14,
           "form": []
         },
@@ -675,20 +675,6 @@
         },
         {
           "position": 14,
-          "team": "RC Deportivo La Coruña",
-          "crest": "https://crests.football-data.org/560.png",
-          "played": 11,
-          "won": 2,
-          "draw": 5,
-          "lost": 4,
-          "goalsFor": 13,
-          "goalsAgainst": 14,
-          "goalDifference": -1,
-          "points": 11,
-          "form": []
-        },
-        {
-          "position": 14,
           "team": "RCD Espanyol de Barcelona",
           "crest": "https://crests.football-data.org/80.png",
           "played": 11,
@@ -698,6 +684,20 @@
           "goalsFor": 13,
           "goalsAgainst": 14,
           "goalDifference": -1,
+          "points": 11,
+          "form": []
+        },
+        {
+          "position": 15,
+          "team": "CA Osasuna",
+          "crest": "https://crests.football-data.org/79.png",
+          "played": 11,
+          "won": 3,
+          "draw": 2,
+          "lost": 6,
+          "goalsFor": 11,
+          "goalsAgainst": 22,
+          "goalDifference": -11,
           "points": 11,
           "form": []
         },
@@ -2058,9 +2058,9 @@
           "won": 3,
           "draw": 3,
           "lost": 3,
-          "goalsFor": 15,
+          "goalsFor": 16,
           "goalsAgainst": 12,
-          "goalDifference": 3,
+          "goalDifference": 4,
           "points": 12,
           "form": []
         },
@@ -2073,8 +2073,8 @@
           "draw": 3,
           "lost": 3,
           "goalsFor": 7,
-          "goalsAgainst": 7,
-          "goalDifference": 0,
+          "goalsAgainst": 8,
+          "goalDifference": -1,
           "points": 12,
           "form": []
         },
