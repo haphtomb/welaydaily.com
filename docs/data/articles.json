@@ -1,6 +1,53 @@
 {
   "articles": [
     {
+      "id": "china-in-dialogue-with-la-liga-and-real-madrid-over-mbapp-controversy-4ee301cd52fa",
+      "headline": "China in Dialogue with La Liga and Real Madrid Over Mbappé Controversy",
+      "league": "La Liga",
+      "summary": "Chinese authorities are engaging with both La Liga and Real Madrid following controversial remarks made by star player Kylian Mbappé, an incident that has reportedly upset many in China and led to commercial repercussions. The dispute stems from an online video featuring Mbappé, resulting in suspended broadcasts and withdrawn sponsorships in China.",
+      "body": "Chinese officials are currently holding discussions with both the Spanish top flight and Real Madrid regarding the significant fallout from Kylian Mbappé's recent comments. The renowned forward's remarks about Mao Zedong in an online video have caused considerable offense among the Chinese populace, triggering a swift and substantial reaction within the country's media and commercial sectors.\n\nState broadcaster CCTV has halted its coverage of La Liga matches, and several Chinese companies have severed their marketing ties with Mbappé. Additionally, the streaming platform Migu notably excluded Real Madrid's recent match from its broadcast schedule. These actions underscore the gravity of the situation and its impact on the league's presence in a crucial market.\n\nLa Liga president Javier Tebas has already met with China's ambassador to Spain, Yao Jing, to address the escalating issue. Tebas emphasized the league's commitment to resolving the matter, maintaining that La Liga continues to value its strong relationships with Chinese broadcasters CCTV and Migu, despite the current broadcasting contracts being significantly reduced from their previous peak values.",
+      "tags": [
+        "Kylian Mbappé",
+        "Real Madrid",
+        "La Liga",
+        "China",
+        "Controversy"
+      ],
+      "image": "images/china-in-dialogue-with-la-liga-and-real-madrid-over-mbapp-controversy-4ee301cd52fa.svg",
+      "publishedAt": "2026-11-06T18:58:00.626Z"
+    },
+    {
+      "id": "nashville-sc-celebrates-historic-season-with-club-awards-7b41d6cd6f27",
+      "headline": "Nashville SC Celebrates Historic Season with Club Awards",
+      "league": "MLS",
+      "summary": "Nashville SC recently honored its top performers at a gala event, recognizing key players for their contributions to a landmark season that saw the club secure its first Supporters' Shield. The ceremony highlighted individual brilliance amidst a record-breaking team campaign.",
+      "body": "Nashville SC hosted its End of Year Awards Dinner on November 5 at GEODIS Park, celebrating a truly historic 2026 season where the club clinched its inaugural Supporters' Shield. Midfielder Hany Mukhtar was named the Most Valuable Player, a fitting tribute to his remarkable consistency. Mukhtar recorded 25 goal contributions, consisting of 17 goals and eight assists, making him the first player in MLS history to achieve at least 25 goal contributions in five different seasons.\n\nForward Sam Surridge earned the Offensive Player of the Year award, having led the Boys in Gold with 19 regular season goals, placing him fourth in the entire league. His seven match-winning goals were also an MLS best, and he notably scored the goals that secured the Supporters' Shield and matched the league's single-season points record. Maxwell Woledzi was recognized as the Defensive Player of the Year, while Cristian Espinoza received the Newcomer of the Year honor.\n\nFurther accolades included Andy Najar for Goal of the Year and Josh Bauer for Humanitarian of the Year. The team's collective achievements this season are unprecedented for the club, setting new single-season records for points (74), MLS wins (22), goals scored (69), and shutouts (16). Nashville also established MLS single-season records for home wins (15) and home points (47), marking their second unbeaten home campaign in league history.",
+      "tags": [
+        "Nashville SC",
+        "MLS",
+        "Club Awards",
+        "Hany Mukhtar",
+        "Sam Surridge"
+      ],
+      "image": "images/nashville-sc-celebrates-historic-season-with-club-awards-7b41d6cd6f27.svg",
+      "publishedAt": "2026-11-06T18:58:18.436Z"
+    },
+    {
+      "id": "barcelona-eyes-cut-price-january-move-for-manchester-united-s-lisandro-martinez-6504c1260f9b",
+      "headline": "Barcelona Eyes Cut-Price January Move for Manchester United's Lisandro Martinez",
+      "league": "Transfer News",
+      "summary": "Spanish giants Barcelona are reportedly exploring a January transfer for Manchester United defender Lisandro Martinez, hoping his expiring contract will facilitate an affordable deal. The Catalan club faces financial constraints, making a cut-price acquisition for a crucial defensive reinforcement highly appealing.",
+      "body": "Barcelona is actively monitoring Manchester United's Lisandro Martinez as a prime target for the upcoming January transfer window. The Argentine international's contractual situation at Old Trafford is believed to be a significant factor, potentially allowing the Catalan club to secure his services for a reduced fee. Despite improved financial health, Barcelona remains under strict La Liga regulations, limiting their ability to make substantial investments without player sales.\n\nThe pursuit of Martinez comes as Barcelona seeks to bolster its defensive line with an experienced centre-back who can make an immediate impact. Given their budgetary limitations, a loan with a mandatory purchase option or a direct transfer at a lower cost for a player nearing the end of his deal presents an attractive solution. Martinez, at 28, fits the profile of the seasoned defender the club desires.\n\nNegotiations between Barcelona and Manchester United could focus on a modest transfer fee, with Martinez potentially agreeing to a lower initial salary to facilitate his move to Spain in January. This strategic approach would allow Barcelona to address their defensive needs without breaching financial fair play rules, offering Martinez a new challenge in La Liga.",
+      "tags": [
+        "Lisandro Martinez",
+        "Barcelona",
+        "Manchester United",
+        "Transfer Rumours"
+      ],
+      "image": "images/barcelona-eyes-cut-price-january-move-for-manchester-united-s-lisandro-martinez-6504c1260f9b.svg",
+      "publishedAt": "2026-11-06T18:58:37.918Z"
+    },
+    {
       "id": "fernandes-future-at-old-trafford-in-doubt-amidst-transfer-blunder-claims-e592f65d0041",
       "headline": "Fernandes' Future at Old Trafford in Doubt Amidst Transfer Blunder Claims",
       "league": "Transfer News",
@@ -859,53 +906,7 @@
       ],
       "image": "images/airdrieonians-fortify-defense-with-immediate-signing-of-robert-duffy-782af49aecf2.svg",
       "publishedAt": "2026-10-31T16:54:50.983Z"
-    },
-    {
-      "id": "osorio-makes-history-as-toronto-fc-secures-dramatic-home-victory-aa4e2504b023",
-      "headline": "Osorio Makes History as Toronto FC Secures Dramatic Home Victory",
-      "league": "MLS",
-      "summary": "Jonathan Osorio etched his name into Major League Soccer's record books as Toronto FC staged a late comeback to defeat D.C. United 2-1 at BMO Field on Wednesday. The crucial win keeps Toronto's postseason aspirations alive, while simultaneously ending D.C. United's playoff hopes.",
-      "body": "Toronto FC clinched a vital 2-1 victory over D.C. United on Wednesday night, fueled by a historic goal from veteran midfielder Jonathan Osorio. The match, held at BMO Field, saw Andre Dozzell put D.C. United ahead in the 29th minute, leaving the home side trailing at halftime. However, Toronto rallied in the second half, demonstrating resilience in their final home fixture of the regular season.\n\nOsorio found the equalizer for Toronto FC in the 64th minute, redirecting a header from Josh Sargent into the net. This significant strike marked Osorio's first goal of the season and, more notably, made him the first player in MLS history to score in 14 consecutive seasons with a single club. The milestone highlights his enduring impact and loyalty to Toronto FC.\n\nThe dramatic turnaround was completed in the 86th minute when Josh Sargent capitalized on a rebound, slotting home the winning goal to secure all three points for Toronto. This hard-fought win was essential for Toronto FC's push for a playoff berth, while the defeat eliminated D.C. United from postseason contention, concluding their campaign in disappointment.",
-      "tags": [
-        "Toronto FC",
-        "Jonathan Osorio",
-        "MLS History",
-        "D.C. United",
-        "Playoff Race"
-      ],
-      "image": "images/osorio-makes-history-as-toronto-fc-secures-dramatic-home-victory-aa4e2504b023.svg",
-      "publishedAt": "2026-10-31T16:55:22.348Z"
-    },
-    {
-      "id": "aston-villa-annihilate-fenerbah-e-in-dominant-champions-league-display-b26f1cd80bfa",
-      "headline": "Aston Villa Annihilate Fenerbahçe in Dominant Champions League Display",
-      "league": "Champions League",
-      "summary": "Aston Villa delivered a sensational performance at Villa Park, dismantling Turkish side Fenerbahçe with a resounding six-goal victory in their Champions League clash. The emphatic result showcased Unai Emery's squad's growing confidence and attacking prowess on the European stage.",
-      "body": "Aston Villa demonstrated their formidable strength in the Champions League on Friday, securing a commanding 6-0 win against Fenerbahçe. The English club exhibited a ruthless attacking display, leaving the Turkish visitors unable to respond at Villa Park.\n\nThis impressive victory highlights Villa's exceptional form and growing stature in European competition. The team's clinical finishing and cohesive play underscored their potential to be a significant force this season, pleasing the home crowd with a memorable night of football.\n\nThe comprehensive nature of the win underscores the strategic success of Unai Emery's leadership, as his side continues to build momentum and prove their capabilities against international opponents. This result firmly places them among the early pacesetters in the Champions League league phase.",
-      "tags": [
-        "Aston Villa",
-        "Champions League",
-        "Fenerbahçe",
-        "Match Report"
-      ],
-      "image": "images/aston-villa-annihilate-fenerbah-e-in-dominant-champions-league-display-b26f1cd80bfa.svg",
-      "publishedAt": "2026-10-31T16:55:42.319Z"
-    },
-    {
-      "id": "pulisic-commits-long-term-future-to-ac-milan-with-new-deal-9ff72312b233",
-      "headline": "Pulisic Commits Long-Term Future to AC Milan with New Deal",
-      "league": "Serie A",
-      "summary": "American star Christian Pulisic has officially extended his contract with AC Milan, securing his presence at the San Siro through 2031. This agreement signals a crucial move for the Rossoneri as they aim to solidify their squad for a new era under fresh leadership.",
-      "body": "AC Milan has announced a significant development in their squad planning, confirming that Christian Pulisic has put pen to paper on a new long-term contract. The United States international will remain with the Italian giants until 2031, a clear statement of intent from both the player and the club.\n\nThis extension resolves a key personnel concern for Milan, especially with Pulisic's previous deal set to expire in 2027. His strong desire to stay at the club, coupled with the backing of new head coach Ruben Amorim, proved instrumental in finalizing the agreement.\n\nThe 28-year-old winger expressed his deep connection to Milan, stating the club feels like home. This commitment is vital as the Rossoneri look to challenge for silverware and reassert their dominance in Serie A, aiming to build on recent progress and achieve new milestones.",
-      "tags": [
-        "Christian Pulisic",
-        "AC Milan",
-        "Serie A",
-        "Contract Extension"
-      ],
-      "image": "images/pulisic-commits-long-term-future-to-ac-milan-with-new-deal-9ff72312b233.svg",
-      "publishedAt": "2026-10-31T11:47:35.034Z"
     }
   ],
-  "lastRun": "2026-11-06T10:28:31.157Z"
+  "lastRun": "2026-11-06T18:58:52.262Z"
 }
