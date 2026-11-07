@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "orlando-city-captain-robin-jansson-announces-retirement-after-eight-seasons-e53a5c1bd9fd",
+      "headline": "Orlando City Captain Robin Jansson Announces Retirement After Eight Seasons",
+      "league": "MLS",
+      "summary": "Orlando City SC's long-serving defender and captain, Robin Jansson, has confirmed his decision to retire from professional soccer following the conclusion of the 2026 MLS season. The Swedish center-back will leave an indelible mark on the Lions, having been a defensive cornerstone for eight remarkable years.",
+      "body": "Robin Jansson, a commanding presence at the heart of Orlando City SC's defense, is set to conclude his illustrious playing career after the current MLS campaign. The 34-year-old Swedish international publicly announced his retirement on Friday, bringing an end to an impressive eight-year tenure with the Florida-based club. His departure signifies the closing of a significant chapter for the Lions, where he became synonymous with leadership and defensive stability.\n\nJansson joined Orlando in March 2019 from AIK Fotboll and swiftly established himself as an indispensable component of the squad. He was instrumental in securing the club's inaugural major trophy in the MLS era, the 2022 US Open Cup, and guided them to the 2024 Eastern Conference Final. Appointed captain prior to the 2024 season, Jansson set new club records for appearances, starts, and minutes played across all competitions, cementing his legacy as Orlando City's longest-tenured player.\n\nOrlando City plans to honor Jansson following Saturday's pivotal Decision Day match against the New England Revolution at Inter&Co Stadium, a fitting tribute to his profound contributions. His consistent presence was vital to Orlando's impressive run of seven consecutive playoff berths, a streak that currently leads the league. Jansson's retirement creates a considerable void for Orlando City to address as they look towards a future without their esteemed captain.",
+      "tags": [
+        "MLS",
+        "Orlando City SC",
+        "Robin Jansson",
+        "Retirement"
+      ],
+      "image": "images/orlando-city-captain-robin-jansson-announces-retirement-after-eight-seasons-e53a5c1bd9fd.svg",
+      "publishedAt": "2026-11-07T17:30:25.025Z"
+    },
+    {
+      "id": "tennis-legend-nadal-joins-real-madrid-s-esteemed-board-a370206b9ee4",
+      "headline": "Tennis Legend Nadal Joins Real Madrid's Esteemed Board",
+      "league": "La Liga",
+      "summary": "Real Madrid has announced the appointment of Spanish tennis icon Rafael Nadal to its board of directors, a move that surprised many but delighted supporters of the club. The 22-time Grand Slam champion, a lifelong Real Madrid fan, will now contribute to the club's future in an executive capacity.",
+      "body": "In a noteworthy development for Spanish football, Real Madrid officially welcomed tennis superstar Rafael Nadal to its board of directors on Wednesday. The announcement, confirmed by the club, sees the revered athlete taking on an executive role, much to the excitement of the Madrid faithful. Nadal, a well-known supporter of Los Blancos throughout his illustrious career, expressed his enthusiasm for the new challenge, thanking President Florentino Perez for the opportunity.\n\nNadal, who concluded his professional tennis career in 2024, shared a childhood photo of himself in a Real Madrid kit on social media, underscoring his deep connection to the club. He conveyed his eagerness to learn and contribute to the team's present and future endeavors. The club highlighted Nadal's exceptional sporting and human stature, noting his values align perfectly with Real Madrid's ethos.\n\nThis appointment follows earlier speculation in 2026 that linked Nadal to a potential presidential candidacy, which he had previously dismissed as untrue. His new role on the board solidifies a formal connection between one of Spain's greatest athletes and one of its most iconic football clubs, promising a unique perspective and valuable input to the club's leadership.",
+      "tags": [
+        "Real Madrid",
+        "Rafael Nadal",
+        "Club Board",
+        "La Liga"
+      ],
+      "image": "images/tennis-legend-nadal-joins-real-madrid-s-esteemed-board-a370206b9ee4.svg",
+      "publishedAt": "2026-11-07T17:30:44.814Z"
+    },
+    {
+      "id": "sundowns-and-usm-alger-set-for-high-stakes-caf-super-cup-showdown-c7c4adbd6031",
+      "headline": "Sundowns and USM Alger Set for High-Stakes CAF Super Cup Showdown",
+      "league": "CAF Super Cup",
+      "summary": "Mamelodi Sundowns are preparing to host USM Alger in a highly anticipated CAF Super Cup final, with both clubs eager to add another continental trophy to their cabinet. The clash promises an exciting encounter as both sides enter the fixture in strong form.",
+      "body": "African football enthusiasts are looking forward to Sunday's CAF Super Cup final, where South African champions Mamelodi Sundowns will face Algerian powerhouse USM Alger. The prestigious match, scheduled to kick off at 15:00 CAT, will take place at Loftus Versfeld Stadium in Pretoria, South Africa. This fixture pits the reigning CAF Champions League winners, Sundowns, against the CAF Confederation Cup holders, USM Alger, in a battle for continental supremacy.\n\nBoth teams arrive with impressive recent records. Mamelodi Sundowns are enjoying a formidable 14-match unbeaten streak across all competitions, most recently securing a 1-0 victory against Golden Arrows on November 3. USM Alger also boasts strong momentum, having not lost in their last five outings, with their latest result being a 2-0 win over CS Constantine on October 31.\n\nThe stakes are high, with the winning club set to receive a substantial $500,000 prize. Should the match end in a draw after 90 minutes, the trophy will be decided directly by a penalty shootout, bypassing extra time. Sundowns are aiming for their second Super Cup title, while USM Alger is also seeking to lift the coveted trophy for a second time.",
+      "tags": [
+        "CAF Super Cup",
+        "Mamelodi Sundowns",
+        "USM Alger",
+        "African Football"
+      ],
+      "image": "images/sundowns-and-usm-alger-set-for-high-stakes-caf-super-cup-showdown-c7c4adbd6031.svg",
+      "publishedAt": "2026-11-07T17:31:00.811Z"
+    },
+    {
       "id": "como-records-historic-9-1-victory-in-champions-league-thrashing-of-lens-793ca38876e7",
       "headline": "Como Records Historic 9-1 Victory in Champions League Thrashing of Lens",
       "league": "Champions League",
@@ -861,53 +906,7 @@
       ],
       "image": "images/brighton-stuns-league-leaders-manchester-city-with-resilient-away-performance-bce5615fcd3d.svg",
       "publishedAt": "2026-11-01T04:40:29.625Z"
-    },
-    {
-      "id": "martinez-reportedly-agrees-personal-terms-with-atletico-madrid-01d8c512c43e",
-      "headline": "Martinez Reportedly Agrees Personal Terms with Atletico Madrid",
-      "league": "Transfer News",
-      "summary": "Manchester United defender Lisandro Martinez has reportedly reached a personal agreement with Atletico Madrid for a potential move during the upcoming January transfer window. This development suggests a significant shift for the Argentine international, who appears keen on a switch to the Spanish capital.",
-      "body": "Reports emerging from Spain indicate that Lisandro Martinez, the Manchester United center-back, has agreed to personal terms with La Liga giants Atletico Madrid. The agreement paves the way for a potential transfer when the winter window opens, with the player seemingly eager to embark on a new chapter in his career.\n\nWhile personal terms are reportedly settled, formal contact between the two clubs for a transfer fee is yet to be established. However, it is understood that both Martinez's representatives and Atletico Madrid officials held discussions during Manchester United's recent Champions League visit to the city.\n\nMartinez's tenure at Old Trafford has recently faced scrutiny, particularly following a red card incident against Chelsea. A January departure would suit all parties involved, though a summer move remains an option if a deal cannot be finalized sooner.",
-      "tags": [
-        "Lisandro Martinez",
-        "Atletico Madrid",
-        "Manchester United",
-        "La Liga"
-      ],
-      "image": "images/martinez-reportedly-agrees-personal-terms-with-atletico-madrid-01d8c512c43e.svg",
-      "publishedAt": "2026-11-01T04:40:45.569Z"
-    },
-    {
-      "id": "bayern-munich-stages-dramatic-comeback-to-snatch-draw-against-real-madrid-in-wom-2666b99becb1",
-      "headline": "Bayern Munich Stages Dramatic Comeback to Snatch Draw Against Real Madrid in Women's Champions League",
-      "league": "Champions League",
-      "summary": "Bayern Munich dramatically recovered from a two-goal deficit to secure a crucial 2-2 draw against Real Madrid in a thrilling UEFA Women's Champions League encounter. The German side showcased remarkable resilience to claw their way back into the match after a challenging start.",
-      "body": "In a captivating UEFA Women's Champions League fixture, Bayern Munich battled back to earn a hard-fought 2-2 draw against Real Madrid. The Spanish visitors, playing in their black kits, asserted their dominance early, with Athenea opening the scoring in the seventh minute. Lineth Beerensteyn then doubled their advantage just fifteen minutes later, leaving Bayern with a significant challenge to overcome.\n\nHowever, the German giants, wearing their distinctive red, refused to yield. Edna Imade ignited their comeback hopes with a goal just after the half-hour mark, narrowing the deficit before halftime. The momentum shifted definitively in the second half when Momoko Tanikawa netted the equalizer in the 52nd minute with a superb curling effort from the edge of the penalty area, bringing the score level.\n\nThe result sees both teams share the points after a fiercely contested match, highlighting the competitive nature of this season's Women's Champions League. Bayern's spirited fightback will undoubtedly boost their confidence as they continue their European campaign, while Real Madrid will rue letting a commanding lead slip away.",
-      "tags": [
-        "Women's Champions League",
-        "Bayern Munich",
-        "Real Madrid",
-        "Comeback"
-      ],
-      "image": "images/bayern-munich-stages-dramatic-comeback-to-snatch-draw-against-real-madrid-in-wom-2666b99becb1.svg",
-      "publishedAt": "2026-11-01T04:41:01.365Z"
-    },
-    {
-      "id": "barcelona-explodes-for-six-goals-reclaiming-top-spot-in-la-liga-f597db8e881f",
-      "headline": "Barcelona Explodes for Six Goals, Reclaiming Top Spot in La Liga",
-      "league": "La Liga",
-      "summary": "Barcelona delivered a stunning performance, securing a dominant 6-1 victory over Alavés at Spotify Camp Nou, with young star Lamine Yamal and Raphinha each scoring twice. This emphatic win propelled Hansi Flick's side back to the top of the La Liga standings, marking a strong response after recent setbacks.",
-      "body": "Barcelona made a resounding statement in La Liga on Saturday, dismantling Alavés with a commanding 6-1 victory at their home ground. The Catalan giants showcased their attacking prowess, with standout performances from Lamine Yamal and Raphinha, both of whom found the back of the net twice. Fermín López and substitute Anthony Gordon also contributed to the impressive goal tally, ensuring a comfortable win for the home side.\n\nThe comprehensive triumph was a crucial one for Hansi Flick's squad, who had experienced a challenging period with back-to-back defeats in the Champions League and El Clásico. This dominant display not only restored confidence but also saw Barcelona reclaim the top position in the league table, moving two points clear of Atletico Madrid.\n\nBeyond the crucial three points, the match was also significant for coach Hansi Flick, as it marked his 100th victory at the helm of Barcelona in just 131 games across all competitions. His impressive win percentage now stands as a new club record, surpassing previous managerial legends.",
-      "tags": [
-        "Barcelona",
-        "La Liga",
-        "Lamine Yamal",
-        "Raphinha",
-        "Hansi Flick"
-      ],
-      "image": "images/barcelona-explodes-for-six-goals-reclaiming-top-spot-in-la-liga-f597db8e881f.svg",
-      "publishedAt": "2026-11-01T04:41:13.233Z"
     }
   ],
-  "lastRun": "2026-11-07T09:41:57.417Z"
+  "lastRun": "2026-11-07T17:31:04.813Z"
 }
