@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T04:41:56.875Z",
+  "updatedAt": "2026-11-08T12:50:21.840Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -1441,14 +1441,14 @@
           "position": 1,
           "team": "SS Lazio",
           "crest": "https://crests.football-data.org/110.png",
-          "played": 10,
+          "played": 11,
           "won": 9,
-          "draw": 1,
+          "draw": 2,
           "lost": 0,
-          "goalsFor": 24,
-          "goalsAgainst": 8,
+          "goalsFor": 25,
+          "goalsAgainst": 9,
           "goalDifference": 16,
-          "points": 28,
+          "points": 29,
           "form": []
         },
         {
@@ -1567,14 +1567,14 @@
           "position": 10,
           "team": "SSC Napoli",
           "crest": "https://crests.football-data.org/113.png",
-          "played": 10,
+          "played": 11,
           "won": 4,
-          "draw": 2,
+          "draw": 3,
           "lost": 4,
-          "goalsFor": 17,
-          "goalsAgainst": 13,
+          "goalsFor": 18,
+          "goalsAgainst": 14,
           "goalDifference": 4,
-          "points": 14,
+          "points": 15,
           "form": []
         },
         {
