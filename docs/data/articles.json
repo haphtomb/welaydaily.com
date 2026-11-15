@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "scar-pareja-takes-helm-as-d-c-united-s-new-head-coach-bc4a8450736e",
+      "headline": "Óscar Pareja Takes Helm as D.C. United's New Head Coach",
+      "league": "MLS",
+      "summary": "D.C. United has officially appointed Óscar Pareja as their new head coach, signaling a fresh direction for the club following a disappointing season. This move comes swiftly after the team parted ways with former coach René Weiler.",
+      "body": "D.C. United has announced Óscar Pareja as the club's new head coach, effective for the upcoming 2027 Major League Soccer Sprint Season. Pareja, a respected figure in MLS with a proven track record, has signed a multiyear deal to lead the Black-and-Red. This appointment aims to revitalize a team that finished 14th in the Eastern Conference during the 2026 season.\n\nThe decision to bring in Pareja follows D.C. United's recent separation from René Weiler, who had been at the helm since July 2025. Weiler's tenure concluded after the club's 2026 campaign, which saw them finish 28th overall in the league standings.\n\nPareja brings a wealth of experience, including a 2016 MLS Coach of the Year award and two U.S. Open Cup titles. His previous coaching stints include successful runs with the Colorado Rapids, FC Dallas, and Orlando City SC, where he consistently guided teams to the playoffs.",
+      "tags": [
+        "D.C. United",
+        "Óscar Pareja",
+        "MLS Coaching",
+        "Soccer News"
+      ],
+      "image": "images/scar-pareja-takes-helm-as-d-c-united-s-new-head-coach-bc4a8450736e.svg",
+      "publishedAt": "2026-11-15T00:50:33.147Z"
+    },
+    {
       "id": "manchester-united-eye-como-star-nico-paz-for-summer-transfer-ad4d76fe7dd0",
       "headline": "Manchester United Eye Como Star Nico Paz for Summer Transfer",
       "league": "Transfer News",
@@ -894,22 +909,7 @@
       ],
       "image": "images/real-madrid-closes-in-on-manchester-united-starlet-jj-gabriel-5745a468e907.svg",
       "publishedAt": "2026-11-08T19:22:53.339Z"
-    },
-    {
-      "id": "liverpool-secures-victory-over-crystal-palace-at-selhurst-park-a9b21a52472a",
-      "headline": "Liverpool Secures Victory Over Crystal Palace at Selhurst Park",
-      "league": "Premier League",
-      "summary": "Liverpool claimed three crucial points on the road, overcoming Crystal Palace with a 3-1 scoreline. The Reds showcased their attacking prowess, securing a comfortable win despite a late penalty for the Eagles.",
-      "body": "Liverpool demonstrated their title aspirations with a convincing 3-1 triumph against Crystal Palace at Selhurst Park today. Alexis Mac Allister opened the scoring for the visitors in the 40th minute, setting the tone for their dominance.\n\nThe second half saw Liverpool extend their lead, with Florian Wirtz finding the back of the net in the 54th minute, followed by Alexander Isak adding a third goal in the 89th minute. Crystal Palace managed a consolation goal in stoppage time through an Eddie Nketiah penalty, but it was too little, too late to impact the outcome.\n\nThis result reinforces Liverpool's strong position in the league standings, while Crystal Palace will be looking to bounce back from this home defeat as they continue their Premier League campaign.",
-      "tags": [
-        "Liverpool",
-        "Crystal Palace",
-        "Premier League",
-        "Match Results"
-      ],
-      "image": "images/liverpool-secures-victory-over-crystal-palace-at-selhurst-park-a9b21a52472a.svg",
-      "publishedAt": "2026-11-08T19:23:06.310Z"
     }
   ],
-  "lastRun": "2026-11-14T19:46:48.770Z"
+  "lastRun": "2026-11-15T00:50:37.149Z"
 }
