@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "de-jong-injury-scare-rocks-barcelona-ahead-of-la-liga-return-a9bb54d74aec",
+      "headline": "De Jong Injury Scare Rocks Barcelona Ahead of La Liga Return",
+      "league": "La Liga",
+      "summary": "Barcelona faces renewed midfield concerns as Frenkie de Jong sustained a pubic injury while representing the Netherlands on international duty. The setback raises questions about his availability for upcoming crucial La Liga fixtures as the club awaits further medical assessment.",
+      "body": "Barcelona's preparations for the resumption of the La Liga season have been dealt a significant blow with news of Frenkie de Jong's injury. The influential Dutch midfielder experienced discomfort in his pubic area during the Netherlands' international match against Greece, leading to his withdrawal from the national squad's upcoming fixture against Germany.\n\nInitially, Netherlands coach Xavi Hernandez sought to downplay the issue, suggesting the substitution was merely a precautionary measure. However, subsequent developments saw the Dutch national team confirm De Jong's exclusion from the squad, indicating a more serious concern than first thought.\n\nThe 26-year-old is now set to undergo comprehensive examinations by Barcelona's medical staff on Monday to ascertain the full extent and nature of the injury. This news comes as a particular disappointment for manager Hansi Flick, who had only recently welcomed De Jong back into the fold as a key component of his tactical plans. His potential absence could significantly impact Barcelona's midfield depth as they navigate a challenging period in the league.",
+      "tags": [
+        "Frenkie de Jong",
+        "Barcelona",
+        "Injury Update",
+        "La Liga"
+      ],
+      "image": "images/de-jong-injury-scare-rocks-barcelona-ahead-of-la-liga-return-a9bb54d74aec.svg",
+      "publishedAt": "2026-11-15T18:33:26.042Z"
+    },
+    {
       "id": "spanish-federation-imposes-significant-ban-on-goalkeeper-owono-878327bbe6ed",
       "headline": "Spanish Federation Imposes Significant Ban on Goalkeeper Owono",
       "league": "La Liga",
@@ -893,22 +908,7 @@
       ],
       "image": "images/malo-gusto-s-chelsea-future-in-doubt-amidst-alonso-s-squad-shake-up-315916fe6b78.svg",
       "publishedAt": "2026-11-09T10:59:25.713Z"
-    },
-    {
-      "id": "european-giants-france-and-england-push-for-early-world-cup-berth-e562f91b42b0",
-      "headline": "European Giants France and England Push for Early World Cup Berth",
-      "league": "World Cup Qualifiers",
-      "summary": "This week presents crucial opportunities for European football powerhouses France and England to secure their spots in the 2026 FIFA World Cup. Both nations are competing in the UEFA Nations League, with strong performances positioning them for early qualification.",
-      "body": "France, the reigning World Cup runners-up, are in a commanding position in Group A1 of the Nations League. With 10 points already accumulated, a victory against Italy in their upcoming match in Milan on November 12 could see them definitively book their ticket to the 2026 tournament. Their campaign continues with another fixture against Turkey on November 15.\n\nMeanwhile, England, led by captain Harry Kane, also harbor aspirations of clinching early qualification. The Three Lions currently sit second in Group A3 with nine points, trailing group leaders Spain by three points. Their remaining group stage matches include a home fixture against Croatia and an away encounter with Spain, both pivotal in their quest for a direct qualification spot.\n\nThe UEFA Nations League serves as a critical pathway for European teams to the World Cup, with top performances translating into direct berths or advantageous play-off positions. The upcoming international break promises high-stakes football as these nations vie for their place on the global stage.",
-      "tags": [
-        "France",
-        "England",
-        "World Cup 2026",
-        "UEFA Nations League"
-      ],
-      "image": "images/european-giants-france-and-england-push-for-early-world-cup-berth-e562f91b42b0.svg",
-      "publishedAt": "2026-11-09T00:36:10.255Z"
     }
   ],
-  "lastRun": "2026-11-15T10:28:44.170Z"
+  "lastRun": "2026-11-15T18:33:30.043Z"
 }
