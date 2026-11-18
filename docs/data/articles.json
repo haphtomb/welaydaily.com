@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "teenage-talent-jj-gabriel-departs-manchester-united-for-real-madrid-ef173a53ab7f",
+      "headline": "Teenage Talent JJ Gabriel Departs Manchester United for Real Madrid",
+      "league": "Transfer News",
+      "summary": "Highly-rated young winger JJ Gabriel has officially confirmed his departure from Manchester United, with a move to Spanish giants Real Madrid now appearing imminent. The 16-year-old expressed frustration over limited first-team chances at Old Trafford, leading to his decision to seek new opportunities.",
+      "body": "Manchester United's academy has lost a promising talent as JJ Gabriel, the 16-year-old winger, announced his exit from the club. Gabriel, who joined United in 2020 and was on the cusp of breaking into the senior squad this season, had reportedly grown dissatisfied with his lack of opportunities in the first team.\n\nThe young Englishman lodged a transfer request in September, a clear signal of his desire for a fresh start. Despite efforts from the Old Trafford hierarchy to retain him with a new contract offer, Gabriel has not participated in club training recently, indicating his resolve to move on.\n\nAll signs now point towards a switch to Real Madrid, who are widely expected to secure the services of the sought-after winger. The Spanish powerhouse appears poised to capitalize on Gabriel's availability, adding another exciting prospect to their ranks.",
+      "tags": [
+        "JJ Gabriel",
+        "Manchester United",
+        "Real Madrid",
+        "Transfer News"
+      ],
+      "image": "images/teenage-talent-jj-gabriel-departs-manchester-united-for-real-madrid-ef173a53ab7f.svg",
+      "publishedAt": "2026-11-18T02:46:12.299Z"
+    },
+    {
       "id": "caf-reveals-final-nominees-for-prestigious-women-s-awards-b7a378e78366",
       "headline": "CAF Reveals Final Nominees for Prestigious Women's Awards",
       "league": "Other",
@@ -895,22 +910,7 @@
       ],
       "image": "images/manchester-united-initiates-talks-for-espanyol-defender-omar-el-hilali-f63df1281302.svg",
       "publishedAt": "2026-11-10T16:50:33.616Z"
-    },
-    {
-      "id": "degaard-secures-vital-win-for-arsenal-extending-premier-league-lead-ea31ac31ef67",
-      "headline": "Ødegaard Secures Vital Win for Arsenal, Extending Premier League Lead",
-      "league": "Premier League",
-      "summary": "Arsenal cemented their position at the top of the Premier League table, overcoming a resilient Hull City with a crucial second-half goal from their captain. The narrow victory propelled the Gunners six points clear, intensifying their title challenge as rivals Manchester City stumbled.",
-      "body": "Martin Ødegaard proved to be the decisive factor for Arsenal in their recent Premier League clash, netting the lone goal in the 72nd minute against a determined Hull City side. The Gunners faced a challenging afternoon, struggling to break down their opponents until Noni Madueke's attacking play led to a rebound, which Ødegaard expertly converted.\n\nThe win was particularly significant as it pushed Arsenal six points ahead at the summit of the league standings, capitalizing on Manchester City's surprising 3-1 defeat to Nottingham Forest. This result provides Mikel Arteta's squad with a valuable cushion heading into the international break.\n\nDespite the positive outcome, the match wasn't without its talking points, including a controversial VAR decision that saw a potential penalty for Kai Havertz overturned. Questions also arose regarding Declan Rice's workload and overall influence in the midfield, suggesting areas for further tactical consideration.",
-      "tags": [
-        "Arsenal",
-        "Premier League",
-        "Matchday 10",
-        "Martin Ødegaard"
-      ],
-      "image": "images/degaard-secures-vital-win-for-arsenal-extending-premier-league-lead-ea31ac31ef67.svg",
-      "publishedAt": "2026-11-10T16:50:57.887Z"
     }
   ],
-  "lastRun": "2026-11-17T18:13:40.658Z"
+  "lastRun": "2026-11-18T02:46:46.141Z"
 }
