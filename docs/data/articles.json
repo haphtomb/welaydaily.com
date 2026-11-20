@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "barcelona-and-lyon-dominate-remain-neck-and-neck-in-champions-league-race-efc76d138037",
+      "headline": "Barcelona and Lyon Dominate, Remain Neck-and-Neck in Champions League Race",
+      "league": "Champions League",
+      "summary": "European powerhouses Barcelona and OL Lyonnes each secured commanding victories on Thursday, maintaining their joint lead at the pinnacle of the Women's Champions League standings. Both teams delivered impressive performances, showcasing their formidable attacking prowess and defensive solidity as the league phase progresses.",
+      "body": "Barcelona put on a spectacular display, overwhelming Swiss side Servette with a resounding 6-0 triumph at home. Forward Clàudia Pina was the star of the show, netting a sensational hat-trick, while Aitana Bonmatí, Esmee Brugts, and Caroline Graham Hansen also contributed to the goalfest. This dominant performance saw Barcelona net 26 goals in five games, establishing a superior goal difference at the top of the table.\n\nMeanwhile, perennial contenders OL Lyonnes continued their impressive run, securing a solid 2-0 away victory against 2025 winners Arsenal. Jule Brand opened the scoring for the French side, with Melchie Dumornay adding a second to seal the win. Lyon's defense remained impenetrable, as they have yet to concede a single goal in the current league phase, boasting 22 goals scored themselves.\n\nWith these pivotal wins, both Barcelona and OL Lyonnes remain level on points, setting the stage for an exciting conclusion to the Women's Champions League group stage. Clàudia Pina's hat-trick also propelled her to jointly lead the competition's top scorer charts with Lyon's Marie-Antoinette Katoto, both on seven goals.",
+      "tags": [
+        "Women's Champions League",
+        "Barcelona",
+        "OL Lyonnes",
+        "Clàudia Pina"
+      ],
+      "image": "images/barcelona-and-lyon-dominate-remain-neck-and-neck-in-champions-league-race-efc76d138037.svg",
+      "publishedAt": "2026-11-20T02:03:42.157Z"
+    },
+    {
+      "id": "madrid-prepares-for-celta-clash-amidst-injury-concerns-and-mbappe-s-hot-streak-3ee824a2ec16",
+      "headline": "Madrid Prepares for Celta Clash Amidst Injury Concerns and Mbappe's Hot Streak",
+      "league": "La Liga",
+      "summary": "Real Madrid is gearing up to host Celta Vigo in a crucial La Liga fixture, with key players sidelined due to injury despite their impressive winning run. The upcoming match at the Estadio Santiago Bernabéu will see the league's second-placed team aim to continue their strong defensive form.",
+      "body": "Real Madrid is set to face Celta Vigo in their Matchweek 13 La Liga encounter at the Estadio Santiago Bernabéu, looking to extend an impressive eight-match winning streak. The capital club recently secured a comfortable 3-0 victory over Valencia in their last league outing and has maintained clean sheets in their previous two top-flight fixtures.\n\nManager José Mourinho will navigate this match with several notable absences, as Aurélien Tchouaméni, Rodrygo, and Bernardo Silva are all unavailable due to injuries. However, there's positive news on the injury front with Ferland Mendy and Raul Asencio returning to training, potentially offering more options.\n\nAll eyes will undoubtedly be on Kylian Mbappe, who has been in sensational form for Los Blancos, finding the back of the net in his last seven appearances. The French forward has amassed 13 goals and provided two assists in just 12 La Liga appearances this season. Celta Vigo, currently sitting eleventh in the table and winless in their last three league games, including a goalless draw against Levante, will be hoping Pablo Duran can make an impact.",
+      "tags": [
+        "Real Madrid",
+        "Celta Vigo",
+        "La Liga",
+        "Match Preview"
+      ],
+      "image": "images/madrid-prepares-for-celta-clash-amidst-injury-concerns-and-mbappe-s-hot-streak-3ee824a2ec16.svg",
+      "publishedAt": "2026-11-20T02:03:57.995Z"
+    },
+    {
       "id": "morocco-achieves-historic-fifa-top-5-ranking-super-eagles-climb-ac13af6a9ad7",
       "headline": "Morocco Achieves Historic FIFA Top 5 Ranking, Super Eagles Climb",
       "league": "Other",
@@ -879,37 +909,7 @@
       ],
       "image": "images/sundowns-and-as-far-set-for-historic-caf-women-s-champions-league-final-56a2d8217a7b.svg",
       "publishedAt": "2026-11-12T05:58:24.115Z"
-    },
-    {
-      "id": "late-wolves-surge-stuns-tottenham-in-molineux-thriller-eca27f9f7958",
-      "headline": "Late Wolves Surge Stuns Tottenham in Molineux Thriller",
-      "league": "Premier League",
-      "summary": "Wolverhampton Wanderers delivered a dramatic comeback at Molineux, netting two late goals to snatch a stunning victory against Tottenham Hotspur. The result sees Spurs relinquish a crucial lead in the dying moments of the match, leaving their traveling support in disbelief.",
-      "body": "Wolverhampton Wanderers orchestrated a remarkable turnaround at home yesterday, securing a sensational 2-1 victory over Tottenham Hotspur. After falling behind to a first-half strike from Brennan Johnson, Wolves appeared destined for defeat as the clock wound down in the second half. However, a late surge ignited the Molineux crowd, completely altering the match's complexion.\n\nThe decisive moments arrived in stoppage time, with Pablo Sarabia leveling the score with a clever finish. Just moments later, Mario Lemina completed the astonishing comeback, heading home to send the home fans into raptures and secure all three points for Gary O'Neil's side.\n\nThis dramatic defeat will undoubtedly sting for Tottenham, who had held a narrow lead for much of the contest. The late collapse marks a significant blow to their aspirations, while Wolves celebrate a hard-fought win that demonstrates their resilience and fighting spirit.",
-      "tags": [
-        "Wolves",
-        "Tottenham",
-        "Premier League",
-        "Late Goals"
-      ],
-      "image": "images/late-wolves-surge-stuns-tottenham-in-molineux-thriller-eca27f9f7958.svg",
-      "publishedAt": "2026-11-12T05:58:40.284Z"
-    },
-    {
-      "id": "colorado-rapids-trio-answers-call-for-international-duty-cd199ff820f9",
-      "headline": "Colorado Rapids Trio Answers Call for International Duty",
-      "league": "MLS",
-      "summary": "Three Colorado Rapids players are heading off to represent their respective nations during the current FIFA international window, a testament to their strong performances in the recent MLS season. Midfielder Wayne Frederick, winger Georgi Minoungou, and forward Donavan Phillip will join their national teams for upcoming competitions.",
-      "body": "The Colorado Rapids announced that three of their players have received call-ups for the November international window, highlighting their growing international recognition. Wayne Frederick, a midfielder, will join Trinidad & Tobago for their Concacaf Nations League qualifiers. Frederick recently concluded a career-best MLS season with the Rapids, setting new personal highs in starts, appearances, minutes, goals, and assists.\n\nGeorgi Minoungou, a winger, is set to link up with Burkina Faso for a pair of Africa Cup of Nations qualifying matches. Minoungou has become a regular for his national team since his first call-up in September 2025 and is coming off his most extensive playing time in his young career with the Rapids, notably providing four assists in his final three regular-season appearances.\n\nRounding out the trio, forward Donavan Phillip will represent St. Lucia in their Concacaf Nations League qualifying fixtures. Phillip, an MLS SuperDraft selection, became a consistent contributor for the Rapids by the end of his debut season, recording three goals, including his first in MLS against the Seattle Sounders.",
-      "tags": [
-        "Colorado Rapids",
-        "International Call-ups",
-        "Concacaf Nations League",
-        "AFCON Qualifiers"
-      ],
-      "image": "images/colorado-rapids-trio-answers-call-for-international-duty-cd199ff820f9.svg",
-      "publishedAt": "2026-11-11T21:46:43.296Z"
     }
   ],
-  "lastRun": "2026-11-19T20:04:20.191Z"
+  "lastRun": "2026-11-20T02:04:01.996Z"
 }
