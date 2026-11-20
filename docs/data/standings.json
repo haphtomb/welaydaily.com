@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T10:57:26.224Z",
+  "updatedAt": "2026-11-20T19:39:10.087Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -982,14 +982,14 @@
           "position": 1,
           "team": "FC Bayern München",
           "crest": "https://crests.football-data.org/5.png",
-          "played": 9,
+          "played": 10,
           "won": 6,
-          "draw": 3,
+          "draw": 4,
           "lost": 0,
           "goalsFor": 29,
           "goalsAgainst": 9,
           "goalDifference": 20,
-          "points": 21,
+          "points": 22,
           "form": []
         },
         {
@@ -1162,6 +1162,20 @@
         },
         {
           "position": 14,
+          "team": "1. FC Köln",
+          "crest": "https://crests.football-data.org/1.png",
+          "played": 10,
+          "won": 2,
+          "draw": 4,
+          "lost": 4,
+          "goalsFor": 10,
+          "goalsAgainst": 14,
+          "goalDifference": -4,
+          "points": 10,
+          "form": []
+        },
+        {
+          "position": 15,
           "team": "FC Augsburg",
           "crest": "https://crests.football-data.org/16.png",
           "played": 9,
@@ -1171,20 +1185,6 @@
           "goalsFor": 20,
           "goalsAgainst": 20,
           "goalDifference": 0,
-          "points": 9,
-          "form": []
-        },
-        {
-          "position": 15,
-          "team": "1. FC Köln",
-          "crest": "https://crests.football-data.org/1.png",
-          "played": 9,
-          "won": 2,
-          "draw": 3,
-          "lost": 4,
-          "goalsFor": 10,
-          "goalsAgainst": 14,
-          "goalDifference": -4,
           "points": 9,
           "form": []
         },
