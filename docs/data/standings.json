@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T00:58:29.018Z",
+  "updatedAt": "2026-11-22T10:45:58.518Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -2137,7 +2137,7 @@
         {
           "position": 16,
           "team": "Le Mans FC",
-          "crest": "https://crests.football-data.org/535.png",
+          "crest": "https://upload.wikimedia.org/wikipedia/en/5/57/Le_Mans_FC_logo.svg",
           "played": 10,
           "won": 1,
           "draw": 5,
