@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T11:52:01.984Z",
+  "updatedAt": "2026-11-23T23:26:23.020Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -76,6 +76,20 @@
         },
         {
           "position": 6,
+          "team": "Brentford FC",
+          "crest": "https://crests.football-data.org/402.png",
+          "played": 11,
+          "won": 4,
+          "draw": 5,
+          "lost": 2,
+          "goalsFor": 20,
+          "goalsAgainst": 11,
+          "goalDifference": 9,
+          "points": 17,
+          "form": []
+        },
+        {
+          "position": 7,
           "team": "Leeds United FC",
           "crest": "https://crests.football-data.org/341.png",
           "played": 11,
@@ -86,20 +100,6 @@
           "goalsAgainst": 9,
           "goalDifference": 5,
           "points": 17,
-          "form": []
-        },
-        {
-          "position": 7,
-          "team": "Everton FC",
-          "crest": "https://crests.football-data.org/62.png",
-          "played": 10,
-          "won": 4,
-          "draw": 4,
-          "lost": 2,
-          "goalsFor": 12,
-          "goalsAgainst": 10,
-          "goalDifference": 2,
-          "points": 16,
           "form": []
         },
         {
@@ -118,6 +118,20 @@
         },
         {
           "position": 9,
+          "team": "Everton FC",
+          "crest": "https://crests.football-data.org/62.png",
+          "played": 11,
+          "won": 4,
+          "draw": 4,
+          "lost": 3,
+          "goalsFor": 12,
+          "goalsAgainst": 14,
+          "goalDifference": -2,
+          "points": 16,
+          "form": []
+        },
+        {
+          "position": 10,
           "team": "Tottenham Hotspur FC",
           "crest": "https://crests.football-data.org/73.png",
           "played": 11,
@@ -128,20 +142,6 @@
           "goalsAgainst": 11,
           "goalDifference": 1,
           "points": 15,
-          "form": []
-        },
-        {
-          "position": 10,
-          "team": "Brentford FC",
-          "crest": "https://crests.football-data.org/402.png",
-          "played": 10,
-          "won": 3,
-          "draw": 5,
-          "lost": 2,
-          "goalsFor": 16,
-          "goalsAgainst": 11,
-          "goalDifference": 5,
-          "points": 14,
           "form": []
         },
         {
@@ -689,6 +689,20 @@
         },
         {
           "position": 15,
+          "team": "Levante UD",
+          "crest": "https://crests.football-data.org/88.png",
+          "played": 13,
+          "won": 2,
+          "draw": 6,
+          "lost": 5,
+          "goalsFor": 17,
+          "goalsAgainst": 22,
+          "goalDifference": -5,
+          "points": 12,
+          "form": []
+        },
+        {
+          "position": 16,
           "team": "Rayo Vallecano de Madrid",
           "crest": "https://crests.football-data.org/87.png",
           "played": 12,
@@ -702,7 +716,7 @@
           "form": []
         },
         {
-          "position": 16,
+          "position": 17,
           "team": "Valencia CF",
           "crest": "https://crests.football-data.org/95.png",
           "played": 13,
@@ -716,7 +730,7 @@
           "form": []
         },
         {
-          "position": 17,
+          "position": 18,
           "team": "Getafe CF",
           "crest": "https://crests.football-data.org/82.png",
           "played": 13,
@@ -730,31 +744,17 @@
           "form": []
         },
         {
-          "position": 18,
-          "team": "Levante UD",
-          "crest": "https://crests.football-data.org/88.png",
-          "played": 12,
-          "won": 2,
-          "draw": 5,
-          "lost": 5,
-          "goalsFor": 16,
-          "goalsAgainst": 21,
-          "goalDifference": -5,
-          "points": 11,
-          "form": []
-        },
-        {
           "position": 19,
           "team": "Elche CF",
           "crest": "https://crests.football-data.org/285.png",
-          "played": 12,
+          "played": 13,
           "won": 2,
-          "draw": 4,
+          "draw": 5,
           "lost": 6,
-          "goalsFor": 14,
-          "goalsAgainst": 20,
+          "goalsFor": 15,
+          "goalsAgainst": 21,
           "goalDifference": -6,
-          "points": 10,
+          "points": 11,
           "form": []
         },
         {
@@ -1621,6 +1621,20 @@
         },
         {
           "position": 14,
+          "team": "AC Monza",
+          "crest": "https://crests.football-data.org/5911.png",
+          "played": 12,
+          "won": 3,
+          "draw": 1,
+          "lost": 8,
+          "goalsFor": 20,
+          "goalsAgainst": 25,
+          "goalDifference": -5,
+          "points": 10,
+          "form": []
+        },
+        {
+          "position": 15,
           "team": "US Lecce",
           "crest": "https://crests.football-data.org/5890.png",
           "played": 12,
@@ -1634,21 +1648,21 @@
           "form": []
         },
         {
-          "position": 15,
+          "position": 16,
           "team": "ACF Fiorentina",
           "crest": "https://crests.football-data.org/99.png",
-          "played": 11,
+          "played": 12,
           "won": 2,
           "draw": 3,
-          "lost": 6,
+          "lost": 7,
           "goalsFor": 17,
-          "goalsAgainst": 25,
-          "goalDifference": -8,
+          "goalsAgainst": 28,
+          "goalDifference": -11,
           "points": 9,
           "form": []
         },
         {
-          "position": 16,
+          "position": 17,
           "team": "Parma Calcio 1913",
           "crest": "https://crests.football-data.org/112.png",
           "played": 12,
@@ -1662,7 +1676,7 @@
           "form": []
         },
         {
-          "position": 17,
+          "position": 18,
           "team": "US Sassuolo Calcio",
           "crest": "https://crests.football-data.org/471.png",
           "played": 12,
@@ -1673,20 +1687,6 @@
           "goalsAgainst": 31,
           "goalDifference": -15,
           "points": 8,
-          "form": []
-        },
-        {
-          "position": 18,
-          "team": "AC Monza",
-          "crest": "https://crests.football-data.org/5911.png",
-          "played": 11,
-          "won": 2,
-          "draw": 1,
-          "lost": 8,
-          "goalsFor": 17,
-          "goalsAgainst": 25,
-          "goalDifference": -8,
-          "points": 7,
           "form": []
         },
         {
