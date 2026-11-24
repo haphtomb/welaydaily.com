@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T08:38:05.850Z",
+  "updatedAt": "2026-11-24T19:57:44.040Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -2095,7 +2095,7 @@
         {
           "position": 13,
           "team": "Le Mans FC",
-          "crest": "https://crests.football-data.org/535.png",
+          "crest": "https://upload.wikimedia.org/wikipedia/en/5/57/Le_Mans_FC_logo.svg",
           "played": 11,
           "won": 2,
           "draw": 5,
@@ -2455,26 +2455,26 @@
         },
         {
           "position": 6,
-          "team": "Aston Villa FC",
-          "crest": "https://crests.football-data.org/58.png",
-          "played": 4,
-          "won": 3,
-          "draw": 0,
-          "lost": 1,
-          "goalsFor": 12,
-          "goalsAgainst": 6,
-          "goalDifference": 6,
-          "points": 9,
-          "form": []
-        },
-        {
-          "position": 7,
           "team": "Manchester City FC",
           "crest": "https://crests.football-data.org/65.png",
           "played": 4,
           "won": 3,
           "draw": 0,
           "lost": 1,
+          "goalsFor": 12,
+          "goalsAgainst": 7,
+          "goalDifference": 5,
+          "points": 9,
+          "form": []
+        },
+        {
+          "position": 7,
+          "team": "Aston Villa FC",
+          "crest": "https://crests.football-data.org/58.png",
+          "played": 5,
+          "won": 3,
+          "draw": 0,
+          "lost": 2,
           "goalsFor": 12,
           "goalsAgainst": 7,
           "goalDifference": 5,
@@ -2553,6 +2553,20 @@
         },
         {
           "position": 13,
+          "team": "Galatasaray SK",
+          "crest": "https://crests.football-data.org/610.png",
+          "played": 5,
+          "won": 3,
+          "draw": 0,
+          "lost": 2,
+          "goalsFor": 9,
+          "goalsAgainst": 9,
+          "goalDifference": 0,
+          "points": 9,
+          "form": []
+        },
+        {
+          "position": 14,
           "team": "FC Bayern München",
           "crest": "https://crests.football-data.org/5.png",
           "played": 4,
@@ -2566,7 +2580,7 @@
           "form": []
         },
         {
-          "position": 14,
+          "position": 15,
           "team": "VfB Stuttgart",
           "crest": "https://crests.football-data.org/10.png",
           "played": 4,
@@ -2580,7 +2594,21 @@
           "form": []
         },
         {
-          "position": 15,
+          "position": 16,
+          "team": "FK Bodø/Glimt",
+          "crest": "https://crests.football-data.org/5721.png",
+          "played": 5,
+          "won": 2,
+          "draw": 1,
+          "lost": 2,
+          "goalsFor": 5,
+          "goalsAgainst": 9,
+          "goalDifference": -4,
+          "points": 7,
+          "form": []
+        },
+        {
+          "position": 17,
           "team": "FC Internazionale Milano",
           "crest": "https://crests.football-data.org/108.png",
           "played": 4,
@@ -2594,21 +2622,21 @@
           "form": []
         },
         {
-          "position": 16,
+          "position": 18,
           "team": "LASK Linz",
           "crest": "https://crests.football-data.org/2016.png",
-          "played": 4,
+          "played": 5,
           "won": 2,
           "draw": 0,
-          "lost": 2,
+          "lost": 3,
           "goalsFor": 10,
-          "goalsAgainst": 9,
-          "goalDifference": 1,
+          "goalsAgainst": 10,
+          "goalDifference": 0,
           "points": 6,
           "form": []
         },
         {
-          "position": 17,
+          "position": 19,
           "team": "Manchester United FC",
           "crest": "https://crests.football-data.org/66.png",
           "played": 4,
@@ -2622,21 +2650,7 @@
           "form": []
         },
         {
-          "position": 18,
-          "team": "Galatasaray SK",
-          "crest": "https://crests.football-data.org/610.png",
-          "played": 4,
-          "won": 2,
-          "draw": 0,
-          "lost": 2,
-          "goalsFor": 8,
-          "goalsAgainst": 9,
-          "goalDifference": -1,
-          "points": 6,
-          "form": []
-        },
-        {
-          "position": 19,
+          "position": 20,
           "team": "Fenerbahçe SK",
           "crest": "https://crests.football-data.org/613.png",
           "played": 4,
@@ -2650,7 +2664,7 @@
           "form": []
         },
         {
-          "position": 20,
+          "position": 21,
           "team": "AS Roma",
           "crest": "https://crests.football-data.org/100.png",
           "played": 4,
@@ -2664,7 +2678,7 @@
           "form": []
         },
         {
-          "position": 21,
+          "position": 22,
           "team": "FK Shakhtar Donetsk",
           "crest": "https://crests.football-data.org/1887.png",
           "played": 4,
@@ -2678,7 +2692,7 @@
           "form": []
         },
         {
-          "position": 22,
+          "position": 23,
           "team": "Viking FK",
           "crest": "https://crests.football-data.org/5720.png",
           "played": 4,
@@ -2692,7 +2706,7 @@
           "form": []
         },
         {
-          "position": 23,
+          "position": 24,
           "team": "Club Atlético de Madrid",
           "crest": "https://crests.football-data.org/78.png",
           "played": 4,
@@ -2706,7 +2720,7 @@
           "form": []
         },
         {
-          "position": 24,
+          "position": 25,
           "team": "PSV",
           "crest": "https://crests.football-data.org/674.png",
           "played": 4,
@@ -2716,20 +2730,6 @@
           "goalsFor": 3,
           "goalsAgainst": 4,
           "goalDifference": -1,
-          "points": 4,
-          "form": []
-        },
-        {
-          "position": 25,
-          "team": "FK Bodø/Glimt",
-          "crest": "https://crests.football-data.org/5721.png",
-          "played": 4,
-          "won": 1,
-          "draw": 1,
-          "lost": 2,
-          "goalsFor": 4,
-          "goalsAgainst": 9,
-          "goalDifference": -5,
           "points": 4,
           "form": []
         },
