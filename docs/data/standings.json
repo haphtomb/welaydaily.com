@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T18:42:06.927Z",
+  "updatedAt": "2026-11-28T03:05:55.030Z",
   "competitions": {
     "PL": {
       "name": "Premier League",
@@ -106,13 +106,13 @@
           "position": 8,
           "team": "Chelsea FC",
           "crest": "https://crests.football-data.org/61.png",
-          "played": 11,
+          "played": 12,
           "won": 5,
           "draw": 1,
-          "lost": 5,
-          "goalsFor": 20,
-          "goalsAgainst": 20,
-          "goalDifference": 0,
+          "lost": 6,
+          "goalsFor": 22,
+          "goalsAgainst": 23,
+          "goalDifference": -1,
           "points": 16,
           "form": []
         },
@@ -188,6 +188,20 @@
         },
         {
           "position": 14,
+          "team": "Nottingham Forest FC",
+          "crest": "https://crests.football-data.org/351.png",
+          "played": 12,
+          "won": 3,
+          "draw": 3,
+          "lost": 6,
+          "goalsFor": 12,
+          "goalsAgainst": 17,
+          "goalDifference": -5,
+          "points": 12,
+          "form": []
+        },
+        {
+          "position": 15,
           "team": "Coventry City FC",
           "crest": "https://crests.football-data.org/1076.png",
           "played": 11,
@@ -201,7 +215,7 @@
           "form": []
         },
         {
-          "position": 15,
+          "position": 16,
           "team": "Fulham FC",
           "crest": "https://crests.football-data.org/63.png",
           "played": 11,
@@ -215,7 +229,7 @@
           "form": []
         },
         {
-          "position": 16,
+          "position": 17,
           "team": "Ipswich Town FC",
           "crest": "https://crests.football-data.org/349.png",
           "played": 11,
@@ -226,20 +240,6 @@
           "goalsAgainst": 22,
           "goalDifference": -7,
           "points": 11,
-          "form": []
-        },
-        {
-          "position": 17,
-          "team": "Nottingham Forest FC",
-          "crest": "https://crests.football-data.org/351.png",
-          "played": 11,
-          "won": 2,
-          "draw": 3,
-          "lost": 6,
-          "goalsFor": 9,
-          "goalsAgainst": 15,
-          "goalDifference": -6,
-          "points": 9,
           "form": []
         },
         {
@@ -563,6 +563,20 @@
         },
         {
           "position": 6,
+          "team": "Real Racing Club de Santander",
+          "crest": "https://crests.football-data.org/5335.png",
+          "played": 14,
+          "won": 6,
+          "draw": 2,
+          "lost": 6,
+          "goalsFor": 23,
+          "goalsAgainst": 33,
+          "goalDifference": -10,
+          "points": 20,
+          "form": []
+        },
+        {
+          "position": 7,
           "team": "Sevilla FC",
           "crest": "https://crests.football-data.org/559.png",
           "played": 13,
@@ -573,20 +587,6 @@
           "goalsAgainst": 20,
           "goalDifference": -2,
           "points": 19,
-          "form": []
-        },
-        {
-          "position": 7,
-          "team": "Real Racing Club de Santander",
-          "crest": "https://crests.football-data.org/5335.png",
-          "played": 13,
-          "won": 5,
-          "draw": 2,
-          "lost": 6,
-          "goalsFor": 20,
-          "goalsAgainst": 32,
-          "goalDifference": -12,
-          "points": 17,
           "form": []
         },
         {
@@ -691,13 +691,13 @@
           "position": 15,
           "team": "Levante UD",
           "crest": "https://crests.football-data.org/88.png",
-          "played": 13,
+          "played": 14,
           "won": 2,
           "draw": 6,
-          "lost": 5,
-          "goalsFor": 17,
-          "goalsAgainst": 22,
-          "goalDifference": -5,
+          "lost": 6,
+          "goalsFor": 18,
+          "goalsAgainst": 25,
+          "goalDifference": -7,
           "points": 12,
           "form": []
         },
@@ -1052,14 +1052,14 @@
           "position": 6,
           "team": "SV Werder Bremen",
           "crest": "https://crests.football-data.org/12.png",
-          "played": 10,
+          "played": 11,
           "won": 5,
-          "draw": 3,
+          "draw": 4,
           "lost": 2,
-          "goalsFor": 21,
-          "goalsAgainst": 15,
+          "goalsFor": 24,
+          "goalsAgainst": 18,
           "goalDifference": 6,
-          "points": 18,
+          "points": 19,
           "form": []
         },
         {
@@ -1220,14 +1220,14 @@
           "position": 18,
           "team": "Borussia Mönchengladbach",
           "crest": "https://crests.football-data.org/18.png",
-          "played": 10,
+          "played": 11,
           "won": 1,
-          "draw": 1,
+          "draw": 2,
           "lost": 8,
-          "goalsFor": 12,
-          "goalsAgainst": 26,
+          "goalsFor": 15,
+          "goalsAgainst": 29,
           "goalDifference": -14,
-          "points": 4,
+          "points": 5,
           "form": []
         }
       ],
@@ -1537,6 +1537,20 @@
         },
         {
           "position": 8,
+          "team": "Bologna FC 1909",
+          "crest": "https://crests.football-data.org/103.png",
+          "played": 13,
+          "won": 5,
+          "draw": 4,
+          "lost": 4,
+          "goalsFor": 17,
+          "goalsAgainst": 15,
+          "goalDifference": 2,
+          "points": 19,
+          "form": []
+        },
+        {
+          "position": 9,
           "team": "SSC Napoli",
           "crest": "https://crests.football-data.org/113.png",
           "played": 12,
@@ -1546,20 +1560,6 @@
           "goalsFor": 19,
           "goalsAgainst": 14,
           "goalDifference": 5,
-          "points": 18,
-          "form": []
-        },
-        {
-          "position": 9,
-          "team": "Bologna FC 1909",
-          "crest": "https://crests.football-data.org/103.png",
-          "played": 12,
-          "won": 5,
-          "draw": 3,
-          "lost": 4,
-          "goalsFor": 17,
-          "goalsAgainst": 15,
-          "goalDifference": 2,
           "points": 18,
           "form": []
         },
@@ -1691,6 +1691,20 @@
         },
         {
           "position": 19,
+          "team": "Venezia FC",
+          "crest": "https://crests.football-data.org/454.png",
+          "played": 13,
+          "won": 2,
+          "draw": 1,
+          "lost": 10,
+          "goalsFor": 8,
+          "goalsAgainst": 25,
+          "goalDifference": -17,
+          "points": 7,
+          "form": []
+        },
+        {
+          "position": 20,
           "team": "Udinese Calcio",
           "crest": "https://crests.football-data.org/115.png",
           "played": 12,
@@ -1700,20 +1714,6 @@
           "goalsFor": 13,
           "goalsAgainst": 26,
           "goalDifference": -13,
-          "points": 6,
-          "form": []
-        },
-        {
-          "position": 20,
-          "team": "Venezia FC",
-          "crest": "https://crests.football-data.org/454.png",
-          "played": 12,
-          "won": 2,
-          "draw": 0,
-          "lost": 10,
-          "goalsFor": 8,
-          "goalsAgainst": 25,
-          "goalDifference": -17,
           "points": 6,
           "form": []
         }
@@ -1942,18 +1942,32 @@
           "position": 2,
           "team": "Paris FC",
           "crest": "https://crests.football-data.org/1045.png",
-          "played": 11,
+          "played": 12,
           "won": 7,
           "draw": 2,
-          "lost": 2,
+          "lost": 3,
           "goalsFor": 21,
-          "goalsAgainst": 10,
-          "goalDifference": 11,
+          "goalsAgainst": 11,
+          "goalDifference": 10,
           "points": 23,
           "form": []
         },
         {
           "position": 3,
+          "team": "Stade Brestois 29",
+          "crest": "https://crests.football-data.org/512.png",
+          "played": 12,
+          "won": 6,
+          "draw": 3,
+          "lost": 3,
+          "goalsFor": 20,
+          "goalsAgainst": 12,
+          "goalDifference": 8,
+          "points": 21,
+          "form": []
+        },
+        {
+          "position": 4,
           "team": "Lille OSC",
           "crest": "https://crests.football-data.org/521.png",
           "played": 11,
@@ -1967,7 +1981,7 @@
           "form": []
         },
         {
-          "position": 4,
+          "position": 5,
           "team": "Olympique Lyonnais",
           "crest": "https://crests.football-data.org/523.png",
           "played": 11,
@@ -1981,7 +1995,7 @@
           "form": []
         },
         {
-          "position": 5,
+          "position": 6,
           "team": "Olympique de Marseille",
           "crest": "https://crests.football-data.org/516.png",
           "played": 11,
@@ -1990,20 +2004,6 @@
           "lost": 5,
           "goalsFor": 24,
           "goalsAgainst": 17,
-          "goalDifference": 7,
-          "points": 18,
-          "form": []
-        },
-        {
-          "position": 6,
-          "team": "Stade Brestois 29",
-          "crest": "https://crests.football-data.org/512.png",
-          "played": 11,
-          "won": 5,
-          "draw": 3,
-          "lost": 3,
-          "goalsFor": 19,
-          "goalsAgainst": 12,
           "goalDifference": 7,
           "points": 18,
           "form": []
